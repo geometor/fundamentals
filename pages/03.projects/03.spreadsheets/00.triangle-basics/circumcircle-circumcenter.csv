@@ -1,0 +1,92 @@
+Circumcircle / Circumcenter,,,,,,,,,,
+The circumcenter is the intersection of the perpendicular bisectors of the sides,,,,,,,,,,
+It is the intersection of the perpendicular bisectors of the sides,,,,,,,,,,
+This can be used to fit a circle to any three points,,,,,,,,,,
+Fred Seelig,,,,,,,,,,
+"May 24, 2007",,,,,,,,,,
+"Updated Nov. 7, 2011",,,,,,,,,,
+"Consistent with equations found in ""circumcenter,"" Everything2 writeup",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Triangle - Vertices,,,,x,y,x^2+y^2,,,Triangle,
+,Vertex,,A,-3,-2,13,,,-3,-2
+,Vertex,,B,6,0,36,,,6,0
+,Vertex,,C,2,7,53,,,2,7
+,Vertex,(hide),A,-3,-2,13,,,-3,-2
+,Vertex,(hide),B,6,0,36,,,,
+,Vertex,(hide),C,2,7,53,,,Circumcenter,
+"Side Lengths, Semiperimeter, Area",,,,d,d2,,,,0.894366197183099,1.72535211267606
+,length of side BC,,a,8.1,65,,,,,
+,length of side AC,,b,10.3,106,,,,Radial Lines,
+,length of side AB,,c,9.2,85,,,,0.894366197183099,1.72535211267606
+,semiperimeter,,s,13.8,,,,,-3,-2
+,Area of triangle,,K,35.5,,,,,,
+Circumcircle,,,,,,,,,0.894366197183099,1.72535211267606
+,,2*(Ax*(Cy-By)+Bx*(Ay-Cy)+ Cx*(By-Ay)),D,-142.0,,,,,6,0
+,Circumcenter,Ox = (dA*(Cy-By) + dB*(Ay-Cy) + dC*(By-Ay))/D,O,0.9,1.7,,,,,
+,,Oy = -(dA*(Cx-Bx) + dB*(Ax-Cx) + dC*(Bx-Ax))/D,,,,,,,0.894366197183099,1.72535211267606
+,radius of circumcircle,a*b*c /(4K),R,5.4,,,3,,2,7
+,Area of circumcircle,p*R2,A_circum,91.2,,,,,,
+Interior Angles,,,,deg,rad,,,,Perpendicular bisectors,
+,,acos((b2+c2-a2)/(2bc)),a,48.4,0.85,,,,0.894366197183099,1.72535211267606
+,,acos((c2+a2-b2)/(2bc)),b,72.8,1.27,,,,1.5,-1
+,,acos((a2+b2-c2)/(2bc)),g,58.8,1.03,,,,,
+,,,,180,,,,,0.894366197183099,1.72535211267606
+Radial Angles,,,,,,,,,4,3.5
+,,2a,fA,96.8,1.69,,,,,
+,,2b,fB,145.6,2.54,,,,0.894366197183099,1.72535211267606
+,,2g,fC,117.6,2.05,,,,-0.5,2.5
+,,,,360,6.3,,,,,
+Projection of O onto Sides,,,,,,,,,,
+,Footers of altitudes from O' onto sides,,,1.5,-1,,,,,
+,,,,4,3.5,,,,,
+,,,,-0.5,2.5,,,,,
+,Point on line P1,,A,-3,-2,,,,,
+,Point on line P2,,B,6,0,,,,,
+,Point not on line Q,,O,0.9,1.7,,,0,6.28364596735483,1.72535211267606
+,Footer on line  F=P1+k0(P2-P1),"(Algorithm found on ""Altitudes"" worksheet)","F, Q0",1.5,-1,,,1,6.20177069800007,2.66119072370363
+,Distance between point Q and line,,d,2.8,,,,2,5.95863262856425,3.56859435209232
+,Point on line,,B,6,0,,,3,5.56161938625338,4.41999199776192
+,Point on line,,C,2,7,,,4,5.02279401753668,5.18951437407677
+,Point not on line,,O,0.9,1.72535211267606,,,5,4.35852845858381,5.85377993302964
+,Footer on line  F=P1+k0(P2-P1),"(Algorithm found on ""Altitudes"" worksheet)","F, Q0",4,3.5,,,6,3.58900608226897,6.39260530174634
+,Distance between point Q and line,,d,3.6,,,,7,2.73760843659936,6.78961854405721
+,Point on line,,C,2,7,,,8,1.83020480821067,7.03275661349303
+,Point on line,,A,-3,-2,,,9,0.894366197183099,7.11463188284779
+,Point not on line,,O,0.9,1.72535211267606,,,10,-0.041472413844476,7.03275661349303
+,Footer on line  F=P1+k0(P2-P1),"(Algorithm found on ""Altitudes"" worksheet)","F, Q0",-0.5,2.5,,,11,-0.948876042233164,6.78961854405721
+,Distance between point Q and line,,d,1.6,,,,12,-1.80027368790277,6.39260530174634
+,,,,,,,,13,-2.56979606421761,5.85377993302964
+This is transportable code - easy to cut and paste into other worksheets,,,,,,,,14,-3.23406162317048,5.18951437407677
+Triangle - Vertices,,,,x,y,,,15,-3.77288699188718,4.41999199776193
+,Vertex,,A,-2,-2,,,16,-4.16990023419806,3.56859435209232
+,Vertex,,B,5,3,,,17,-4.41303830363388,2.66119072370363
+,Vertex,,C,1,4,,,18,-4.49491357298864,1.72535211267606
+"Side Lengths, Semiperimeter, Area",,,,d,d2,,,19,-4.41303830363388,0.789513501648483
+,length of side BC,,a,4.1,17,,,20,-4.16990023419806,-0.117890126740207
+,length of side AC,,b,6.7,45,,,21,-3.77288699188718,-0.969287772409811
+,length of side AB,,c,8.6,74,,,22,-3.23406162317048,-1.73881014872465
+,semiperimeter,,s,9.7,,,,23,-2.56979606421761,-2.40307570767752
+,Area of triangle,,K,13.5,,,,24,-1.80027368790277,-2.94190107639423
+Incenter and Circumcircle,,,,,,,,25,-0.948876042233164,-3.3389143187051
+,Incenter,,O',1.7,2.4,,,26,-0.041472413844476,-3.58205238814092
+,radius of incircle,K/s = 2K / (a+b+c)),r,1.4,,,,27,0.894366197183098,-3.66392765749568
+,Circumcenter,[1],O,2.1,-0.3,,,28,1.83020480821067,-3.58205238814092
+,radius of circumcircle,a*b*c /(4K),R,4.4,,,,29,2.73760843659936,-3.3389143187051
+Interior Angles,,,,deg,rad,,,30,3.58900608226896,-2.94190107639423
+,,acos((b2+c2-a2)/(2bc)),a,27.9,0.486899231811269,,,31,4.35852845858381,-2.40307570767752
+,,acos((c2+a2-b2)/(2bc)),b,49.6,0.865228149109686,,,32,5.02279401753668,-1.73881014872466
+,,acos((a2+b2-c2)/(2bc)),g,102.5,1.78946527266884,,,33,5.56161938625338,-0.969287772409809
+,,,,180.0,,,,34,5.95863262856425,-0.117890126740207
+,,,,,,,,35,6.20177069800007,0.789513501648481
+,,,,,,,,36,6.28364596735483,1.72535211267606
+NOTES,,,,,,,,,,
+1,Incenter,O'x = (a*Ax + b*Bx + c*Cz)/(a*b*c),,,,,,,,
+,,O'y = (a*Ay + b*By + c*Cy)/(a*b*c),,,,,,,,
+2,Circumcenter,Ox = ((Ax2+Ay2)*(Cy-By) + (Bx2+By2)*(Ay-Cy) + (Cx2+Cy2)*(By-Ay))/(2*(Ax*(Cy-By)+Bx*(Ay-Cy)+ Cx*(By-Ay))),,,,,,,,
+,,Oy = -((Ax2+Ay2)*(Cx-Bx) + (Bx2+By2)*(Ax-Cx) + (Cx2+Cy2)*(Bx-Ax))/2*(Ax*(Cy-By)+Bx*(Ay-Cy)+ Cx*(By-Ay)),,,,,,,,
+3,"Transportable code is HIGHLY CONDENSED, and should not be changed",,,,,,,,,
+,,,,,,,,,,
+Sources,,,,,,,,,,
+,Circumcircle,http://en.wikipedia.org/wiki/Circumscribed_circle,,,,,,,,
+,Circumcenter,Rourke has a sign error in two terms for Ox,,,,,,,,
