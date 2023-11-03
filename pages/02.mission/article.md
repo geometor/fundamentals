@@ -18,7 +18,7 @@ taxonomy:
 
 
 ## Statement
- he GEOMETOR Fundamentals project is to build an archive of references and formal models for the construction and analysis of geometric figures.
+The GEOMETOR Fundamentals project is to build an archive of references and formal models for the construction and analysis of geometric figures.
 
 ## Motivation
 This project currently has scans of over 350 pages from the notebooks of Fred Seelig
