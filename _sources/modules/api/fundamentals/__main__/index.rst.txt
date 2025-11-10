@@ -1,0 +1,11 @@
+fundamentals.__main__
+=====================
+
+.. py:module:: fundamentals.__main__
+
+.. autoapi-nested-parse::
+
+   The package entry point into the application.
+
+
+

@@ -1,0 +1,63 @@
+fundamentals
+============
+
+.. py:module:: fundamentals
+
+.. autoapi-nested-parse::
+
+   fundamentals
+   ============
+
+   PHOTON platform
+   ---------------
+
+
+
+
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   /modules/api/fundamentals/__main__/index
+   /modules/api/fundamentals/app/index
+   /modules/api/fundamentals/fundamentals/index
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   fundamentals.__author__
+   fundamentals.__maintainer__
+   fundamentals.__email__
+   fundamentals.__version__
+   fundamentals.__licence__
+
+
+Package Contents
+----------------
+
+.. py:data:: __author__
+   :value: 'PHOTON platform'
+
+
+.. py:data:: __maintainer__
+   :value: 'PHOTON platform'
+
+
+.. py:data:: __email__
+   :value: 'github@phiarchitect.com'
+
+
+.. py:data:: __version__
+   :value: '0.0.1'
+
+
+.. py:data:: __licence__
+   :value: 'MIT'
+
+

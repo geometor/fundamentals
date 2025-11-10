@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://.github.io/</id>
-  <title> • </title>
-  <updated>2025-10-23T22:35:56.764502+00:00</updated>
-  <link href="https://.github.io/"/>
-  <link href="https://.github.io/log/atom.xml" rel="self"/>
-  <generator uri="https://ablog.readthedocs.org/" version="unknown.dev">ABlog</generator>
-</feed>
