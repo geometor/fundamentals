@@ -1,0 +1,11 @@
+geometor.fundamentals.fundamentals
+==================================
+
+.. py:module:: geometor.fundamentals.fundamentals
+
+.. autoapi-nested-parse::
+
+   fundamentals
+
+
+
