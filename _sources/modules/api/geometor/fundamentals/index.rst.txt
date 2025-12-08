@@ -31,33 +31,13 @@ Attributes
 
 .. autoapisummary::
 
-   geometor.fundamentals.__author__
-   geometor.fundamentals.__maintainer__
-   geometor.fundamentals.__email__
    geometor.fundamentals.__version__
-   geometor.fundamentals.__licence__
 
 
 Package Contents
 ----------------
 
-.. py:data:: __author__
-   :value: 'PHOTON platform'
-
-
-.. py:data:: __maintainer__
-   :value: 'PHOTON platform'
-
-
-.. py:data:: __email__
-   :value: 'github@phiarchitect.com'
-
-
 .. py:data:: __version__
    :value: '0.0.1'
-
-
-.. py:data:: __licence__
-   :value: 'MIT'
 
 
