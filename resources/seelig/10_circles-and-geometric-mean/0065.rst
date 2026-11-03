@@ -1,0 +1,12 @@
+.. folio:: 0065
+   :topic: F.10
+   :title: Quadratic Maximization Exercise
+   :source: 0065.jpg
+
+**Diplomatic Transcription — Folio 0065** (``0065.jpg``, Sheet 4 of 4):
+
+Differentiates :math:`f(t) = -16t^2 + 64t + 80` to find its maximum :math:`f(2) = 144`.
+
+.. math::
+
+   G = |CH| = \sqrt{m n}, \qquad A_{\text{mean}} = |OC| = \frac{m + n}{2}, \qquad H_{\text{mean}} = |CK| = \frac{2 m n}{m + n}

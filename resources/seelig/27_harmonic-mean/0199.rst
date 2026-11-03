@@ -1,0 +1,12 @@
+.. folio:: 0199
+   :topic: F.27
+   :title: Bilinear Transform Through the Lens of Harmonic Conjugates (Page 1, Oct. 25, 2013)
+   :source: 0199.jpg
+
+**Diplomatic Transcription — Folio 0199** (``0199.jpg``, Sheet 17 of 19):
+
+Explains why :math:`\kappa = x/r` is algebraically primary compared to Apollonius's ratio :math:`k`.
+
+.. math::
+
+   |CD| = \operatorname{HM}(|BD|,\, |AD|) = \frac{2 |BD| \cdot |AD|}{|BD| + |AD|} = r\left(\gamma + \frac{1}{\gamma}\right), \qquad x^2 = \frac{(r / t)^2}{\frac{1}{r^2} + \frac{1}{t^2}} = \left(\frac{r}{\gamma}\right)^2

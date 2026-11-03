@@ -1,0 +1,12 @@
+.. folio:: 0037
+   :topic: F.7
+   :title: Exact Cartesian Coordinates of Traces D, E, F
+   :source: 0037.jpg
+
+**Diplomatic Transcription — Folio 0037** (``0037.jpg``, Sheet 14 of 26):
+
+Solves the :math:`2\times 2` linear intersections for :math:`D = L_D \cap L_A`, :math:`E = L_E \cap L_B`, and :math:`F = L_F \cap L_C`.
+
+.. math::
+
+   D_x = \frac{M J P}{J P + (M - I) Q}, \qquad E_x = \frac{M I Q}{I Q + (M - P) J}, \qquad F_x = \frac{I Q - J P}{Q - J}

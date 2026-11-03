@@ -1,0 +1,12 @@
+.. folio:: 0056
+   :topic: F.9
+   :title: Pairwise Subtraction of Circle Equations (Part 3)
+   :source: 0056.jpg
+
+**Diplomatic Transcription — Folio 0056** (``0056.jpg``, Sheet 3 of 8):
+
+Subtracts the circle equations for :math:`PA=3, PB=5, PD=7` to obtain :math:`2Z(Q-P) = 24`.
+
+.. math::
+
+   x^2 + y^2 = 9, \quad x^2 + (y - Z)^2 = 25, \quad (x - Z)^2 + y^2 = 49 \implies 2 Z (Q - P) = 24

@@ -1,0 +1,12 @@
+.. folio:: 0159
+   :topic: F.25
+   :title: Projection q = MQ = 2*kappa*r/(1 + kappa^2)
+   :source: 0159.jpg
+
+**Diplomatic Transcription — Folio 0159** (``0159.jpg``, Sheet 20 of 28):
+
+Proves the formula for :math:`q = MQ` and verifies :math:`q = 882/29 \approx 30.4` for :math:`(m,n)=(3,7)`.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

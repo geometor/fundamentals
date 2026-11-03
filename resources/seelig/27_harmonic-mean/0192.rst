@@ -1,0 +1,12 @@
+.. folio:: 0192
+   :topic: F.27
+   :title: Harmonic Progression Examples 1 & 2 (Cropped Scan)
+   :source: 0192.jpg
+
+**Diplomatic Transcription — Folio 0192** (``0192.jpg``, Sheet 10 of 19):
+
+Works :math:`AC=4, CB=2, BD=6 \implies CD = \operatorname{HM}(6,12) = 8`.
+
+.. math::
+
+   Y^2 + (X + Z) Y - X Z = 0 \implies Y = \frac{-(X + Z) + \sqrt{(X + Z)^2 + 4 X Z}}{2}

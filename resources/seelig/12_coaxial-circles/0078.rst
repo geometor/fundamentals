@@ -1,0 +1,12 @@
+.. folio:: 0078
+   :topic: F.12
+   :title: Exact Coordinates for k = 2 (P_1, P_2, M', R, P_3, P_4)
+   :source: 0078.jpg
+
+**Diplomatic Transcription — Folio 0078** (``0078.jpg``, Sheet 7 of 12):
+
+Derives :math:`P_1 = (\frac{1}{3}r, 0), P_2 = (3r, 0), R = \frac{4}{3}r, M' = \frac{5}{3}r`, and :math:`P_3, P_4 = (r, \pm \frac{2}{\sqrt{3}}r)`.
+
+.. math::
+
+   P_1 = \left(\frac{k - 1}{k + 1}r,\, 0\right), \qquad P_2 = \left(\frac{k + 1}{k - 1}r,\, 0\right), \qquad M' = \frac{k^2 + 1}{k^2 - 1}r, \qquad R = \frac{2 k}{k^2 - 1}r

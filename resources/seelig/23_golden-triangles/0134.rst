@@ -1,0 +1,12 @@
+.. folio:: 0134
+   :topic: F.23
+   :title: Normalized Stewart's Theorem Proof (FWS 11/18/2013)
+   :source: 0134.jpg
+
+**Diplomatic Transcription — Folio 0134** (``0134.jpg``, Sheet 3 of 3):
+
+Proves :math:`f^2 = k a^2 + k' b^2 - k k' c^2` by reducing :math:`X = k(1-k)^2 + k^2(1-k) = k(1-k) = kk'`.
+
+.. math::
+
+   \phi = \frac{1 + \sqrt{5}}{2}, \qquad \cos 36^\circ = \frac{\phi}{2}, \qquad \cos 72^\circ = \frac{\phi - 1}{2} = \frac{1}{2\phi}, \qquad 2\sin 36^\circ = \sqrt{3 - \phi}

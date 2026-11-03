@@ -1,0 +1,12 @@
+.. folio:: 0339
+   :topic: F.52
+   :title: Verification of Form II on the (3, 4, 5) Right Triangle (co003)
+   :source: 0339.jpg
+
+**Diplomatic Transcription — Folio 0339** (``0339.jpg``, Sheet 9 of 15):
+
+Evaluates Form II at :math:`(a,b,c) = (3,4,5)` to obtain :math:`(\lambda_A, \lambda_B, \lambda_C) = (1/4, 1/4, 1/2)`.
+
+.. math::
+
+   P = \lambda_A A + \lambda_B B + \lambda_C C \qquad (\lambda_A + \lambda_B + \lambda_C = 1), \qquad \lambda_A = \frac{u}{u + v + w} = \frac{[PBC]}{[ABC]}

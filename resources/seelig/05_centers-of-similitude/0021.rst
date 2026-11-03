@@ -1,0 +1,12 @@
+.. folio:: 0021
+   :topic: F.5
+   :title: Centers of Similitude (Vol. I, p. 207)
+   :source: 0021.jpg
+
+**Diplomatic Transcription — Folio 0021** (``0021.jpg``, Sheet 1 of 1):
+
+Dimensioned construction of circles :math:`(O_1, r_1)` and :math:`(O_2, r_2)` with common internal tangents meeting at :math:`S_{IN}` and common external tangents meeting at :math:`S_{EX}`, deriving the four exact distance formulas in terms of :math:`d, r_1, r_2`.
+
+.. math::
+
+   |O_1 S_{IN}| = d \frac{r_1}{r_2 + r_1}, \qquad |S_{IN} O_2| = d \frac{r_2}{r_2 + r_1}

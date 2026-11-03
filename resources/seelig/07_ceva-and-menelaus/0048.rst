@@ -1,0 +1,12 @@
+.. folio:: 0048
+   :topic: F.7
+   :title: Circumcircles of Subtriangles APB, BPC, CPA
+   :source: 0048.jpg
+
+**Diplomatic Transcription — Folio 0048** (``0048.jpg``, Sheet 25 of 26):
+
+Notes properties of the three circles passing through :math:`P` and pairs of triangle vertices.
+
+.. math::
+
+   \frac{AF}{FB} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = +1 \quad (\text{Ceva}), \qquad \frac{AF'}{F'B} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = -1 \quad (\text{Menelaus})

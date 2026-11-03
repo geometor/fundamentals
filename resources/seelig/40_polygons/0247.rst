@@ -1,0 +1,12 @@
+.. folio:: 0247
+   :topic: F.40
+   :title: 30-gon & 60-gon Doubling Steps (2-009)
+   :source: 0247.jpg
+
+**Diplomatic Transcription — Folio 0247** (``0247.jpg``, Sheet 9 of 18):
+
+Applies the edge-doubling recursion to :math:`E_{15}` to obtain :math:`E_{30}` and :math:`E_{60}`.
+
+.. math::
+
+   E_N = 2\sin\frac{\pi}{N} = \sqrt{2 - \sqrt{4 - E_{N/2}^2}}, \qquad r_N = \cos\frac{\pi}{N} = \frac{1}{2}\sqrt{4 - E_N^2}

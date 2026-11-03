@@ -1,0 +1,12 @@
+.. folio:: 0241
+   :topic: F.40
+   :title: Hexagon & Dodecagon Doubling Family (2-003)
+   :source: 0241.jpg
+
+**Diplomatic Transcription — Folio 0241** (``0241.jpg``, Sheet 3 of 18):
+
+Evaluates nested radicals for :math:`N = 3, 6, 12, 24, 48` starting from :math:`E_3 = \sqrt{3}` and :math:`E_6 = 1`.
+
+.. math::
+
+   E_N = 2\sin\frac{\pi}{N} = \sqrt{2 - \sqrt{4 - E_{N/2}^2}}, \qquad r_N = \cos\frac{\pi}{N} = \frac{1}{2}\sqrt{4 - E_N^2}

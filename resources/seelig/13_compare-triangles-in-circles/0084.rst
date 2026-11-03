@@ -1,0 +1,12 @@
+.. folio:: 0084
+   :topic: F.13
+   :title: Area K/R^2 vs. Sidelength a Curves
+   :source: 0084.jpg
+
+**Diplomatic Transcription — Folio 0084** (``0084.jpg``, Sheet 1 of 8):
+
+Sketches qualitative plots of normalized area :math:`K/R^2` vs. :math:`a` (peaking when :math:`a` is a diameter) and :math:`b` vs. :math:`a`.
+
+.. math::
+
+   \sin\phi = \frac{c}{2 R}, \qquad h_c = \sqrt{R^2 - \left(\frac{c}{2}\right)^2}, \qquad (ABC) = \frac{1}{2} c h_c + \frac{1}{2} a h_a - \frac{1}{2} b h_b

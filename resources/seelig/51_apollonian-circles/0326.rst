@@ -1,0 +1,12 @@
+.. folio:: 0326
+   :topic: F.51
+   :title: Orthogonal Circle of Inversion Centered at A or B (apollonian-005)
+   :source: 0326.jpg
+
+**Diplomatic Transcription — Folio 0326** (``0326.jpg``, Sheet 5 of 9):
+
+Shows that the circle centered at :math:`A` of radius :math:`|AT'| = dk/\sqrt{k^2-1}` is orthogonal to the Apollonian circle.
+
+.. math::
+
+   \frac{|PA|}{|PB|} = k \implies M' = \frac{d}{k^2 - 1}, \qquad R = \frac{d k}{k^2 - 1}, \qquad R^2 - {M'}^2 = \frac{d^2}{k^2 - 1}

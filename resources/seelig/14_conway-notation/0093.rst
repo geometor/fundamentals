@@ -1,0 +1,12 @@
+.. folio:: 0093
+   :topic: F.14
+   :title: Worked Evaluation on the 5-6-7 Reference Triangle (Part 1)
+   :source: 0093.jpg
+
+**Diplomatic Transcription — Folio 0093** (``0093.jpg``, Sheet 2 of 6):
+
+Computes :math:`K = 6\sqrt{6}, S = 12\sqrt{6}, S_\omega = 55, S_A = 30, S_B = 19, S_C = 6`, and vertex coordinates :math:`(I, J) = (30/7, 12\sqrt{6}/7)`.
+
+.. math::
+
+   S^2 = b^2 c^2 - S_A^2 = S_A S_B + S_B S_C + S_C S_A, \qquad S_A S_B S_C = S^2 (S_\omega - 4 R^2)

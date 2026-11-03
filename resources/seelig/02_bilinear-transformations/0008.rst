@@ -1,0 +1,12 @@
+.. folio:: 0008
+   :topic: F.2
+   :title: Bilinear Transformation — Scaling Properties
+   :source: 0008.jpg
+
+**Diplomatic Transcription — Folio 0008** (``0008.jpg``, Sheet 6 of 8):
+
+Sets up the scaling relation :math:`\mathbb{B}(R, \eta x) = \mathbb{B}(1, x)`.
+
+.. math::
+
+   k = \frac{|AC|}{|BC|} = \frac{1 + \kappa}{1 - \kappa} \iff \kappa = \frac{k - 1}{k + 1}, \qquad M' = \frac{d}{k^2 - 1}, \qquad R = \frac{d k}{k^2 - 1}

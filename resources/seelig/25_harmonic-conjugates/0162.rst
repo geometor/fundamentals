@@ -1,0 +1,12 @@
+.. folio:: 0162
+   :topic: F.25
+   :title: Invariants Pi_plus and Pi_minus (Pi_plus^2 - Pi_minus^2 = 4)
+   :source: 0162.jpg
+
+**Diplomatic Transcription — Folio 0162** (``0162.jpg``, Sheet 23 of 28):
+
+Defines :math:`\Pi_\pm = \frac{1}{\kappa} \pm \kappa` and expresses :math:`R, d, p, q, q', \delta` in terms of :math:`\Pi_\pm`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

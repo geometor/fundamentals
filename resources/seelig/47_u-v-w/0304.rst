@@ -1,0 +1,12 @@
+.. folio:: 0304
+   :topic: F.47
+   :title: Inverse Mapping from (a, b, c) to (U, V, W) (010)
+   :source: 0304.jpg
+
+**Diplomatic Transcription — Folio 0304** (``0304.jpg``, Sheet 10 of 11):
+
+Uses Euclid II.12/II.13 to recover :math:`U = (b^2+c^2-a^2)/(2c), W = (a^2+c^2-b^2)/(2c)`, and :math:`V = 2K/c`.
+
+.. math::
+
+   F_x = \frac{p V}{V - q}, \qquad D = \left(\frac{W V (U + p)}{V(U + W) + q W},\; \frac{V q (U + W)}{V(U + W) + q W}\right)

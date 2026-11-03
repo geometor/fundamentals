@@ -1,0 +1,12 @@
+.. folio:: 0273
+   :topic: F.43
+   :title: Radical Axis of Gamma_A and Gamma_B (003)
+   :source: 0273.jpg
+
+**Diplomatic Transcription — Folio 0273** (``0273.jpg``, Sheet 3 of 11):
+
+Computes the radical foot along side :math:`c = AB` and writes the perpendicular line equation.
+
+.. math::
+
+   x = |O_1 P| = \frac{d}{2} + \frac{r_1^2 - r_2^2}{2 d}, \qquad x' = |O_2 P| = \frac{d}{2} - \frac{r_1^2 - r_2^2}{2 d}, \qquad t^2 = x^2 - r_1^2 = {x'}^2 - r_2^2

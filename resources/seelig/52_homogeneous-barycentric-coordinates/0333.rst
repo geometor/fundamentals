@@ -1,0 +1,12 @@
+.. folio:: 0333
+   :topic: F.52
+   :title: Master Barycentric Catalog: X(5), X(6), X(7), X(8) (bari-centers-003)
+   :source: 0333.jpg
+
+**Diplomatic Transcription — Folio 0333** (``0333.jpg``, Sheet 3 of 15):
+
+Tabulates barycentric weights for the nine-point center :math:`N`, symmedian point :math:`K`, Gergonne point :math:`G_e`, and Nagel point :math:`N_a`.
+
+.. math::
+
+   P = \lambda_A A + \lambda_B B + \lambda_C C \qquad (\lambda_A + \lambda_B + \lambda_C = 1), \qquad \lambda_A = \frac{u}{u + v + w} = \frac{[PBC]}{[ABC]}

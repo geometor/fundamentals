@@ -1,0 +1,12 @@
+.. folio:: 0234
+   :topic: F.37
+   :title: Factored Form & Power of the Incenter
+   :source: 0234.jpg
+
+**Diplomatic Transcription — Folio 0234** (``0234.jpg``, Sheet 2 of 3):
+
+Rewrites :math:`2rR = (R-d)(R+d)` as the chord-segment product of the incenter inside the circumcircle of radius :math:`R`.
+
+.. math::
+
+   r_{\max} = r(0) = \frac{R}{2}, \qquad (R - d)(R + d) = 2 r R

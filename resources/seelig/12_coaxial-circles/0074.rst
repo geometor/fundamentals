@@ -1,0 +1,12 @@
+.. folio:: 0074
+   :topic: F.12
+   :title: Plan of Attack (Friday April 24, 2015)
+   :source: 0074.jpg
+
+**Diplomatic Transcription — Folio 0074** (``0074.jpg``, Sheet 3 of 12):
+
+Outlines the HP-35s `COAXAL CIRCLES` program, Excel verification, Kraus EMag comparison, and synthesis with harmonic conjugates, radical axes, and pole-polar duality (for Vol. II, p. 280).
+
+.. math::
+
+   P_1 = \left(\frac{k - 1}{k + 1}r,\, 0\right), \qquad P_2 = \left(\frac{k + 1}{k - 1}r,\, 0\right), \qquad M' = \frac{k^2 + 1}{k^2 - 1}r, \qquad R = \frac{2 k}{k^2 - 1}r

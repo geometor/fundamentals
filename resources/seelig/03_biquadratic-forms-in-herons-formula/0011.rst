@@ -1,0 +1,12 @@
+.. folio:: 0011
+   :topic: F.3
+   :title: Biquadratic Forms in Heron's Formula
+   :source: 0011.jpg
+
+**Diplomatic Transcription — Folio 0011** (``0011.jpg``, Sheet 1 of 9):
+
+Introduces :math:`K = \sqrt{s(s-a)(s-b)(s-c)}` for a triangle inscribed in a circle of radius :math:`R` with constant :math:`c` and varying :math:`a`.
+
+.. math::
+
+   X = \frac{a}{2}, \quad W = \frac{b + c}{2}, \quad Y = \frac{c - b}{2} \implies K = \sqrt{(W^2 - X^2)(X^2 - Y^2)}

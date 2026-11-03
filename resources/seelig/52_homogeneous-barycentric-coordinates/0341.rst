@@ -1,0 +1,12 @@
+.. folio:: 0341
+   :topic: F.52
+   :title: Nine-Point Circle of the (7, 8, 9) Triangle — Calculations (co005)
+   :source: 0341.jpg
+
+**Diplomatic Transcription — Folio 0341** (``0341.jpg``, Sheet 11 of 15):
+
+Computes :math:`N, R = \frac{21\sqrt{5}}{10}`, and :math:`R_N = \frac{21\sqrt{5}}{20}` for the :math:`(7,8,9)` acute triangle.
+
+.. math::
+
+   P = \lambda_A A + \lambda_B B + \lambda_C C \qquad (\lambda_A + \lambda_B + \lambda_C = 1), \qquad \lambda_A = \frac{u}{u + v + w} = \frac{[PBC]}{[ABC]}

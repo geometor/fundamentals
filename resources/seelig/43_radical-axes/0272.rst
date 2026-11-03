@@ -1,0 +1,12 @@
+.. folio:: 0272
+   :topic: F.43
+   :title: Radical Center of Vertex-Altitude Circles — Setup (002, FWS Dec. 8/2014)
+   :source: 0272.jpg
+
+**Diplomatic Transcription — Folio 0272** (``0272.jpg``, Sheet 2 of 11):
+
+Defines circles :math:`\Gamma_A(h_A), \Gamma_B(h_B), \Gamma_C(h_C)` centered at :math:`A, B, C` with radii equal to the three altitudes.
+
+.. math::
+
+   \Gamma_A(A, h_A),\; \Gamma_B(B, h_B),\; \Gamma_C(C, h_C) \implies \frac{x}{x_0} + \frac{y}{y_0} = 1

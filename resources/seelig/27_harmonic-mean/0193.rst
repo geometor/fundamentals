@@ -1,0 +1,12 @@
+.. folio:: 0193
+   :topic: F.27
+   :title: Harmonic Progression with Euclid VI.3 Footnote (Partial Scan)
+   :source: 0193.jpg
+
+**Diplomatic Transcription — Folio 0193** (``0193.jpg``, Sheet 11 of 19):
+
+Shows the first two lines of Footnote 1 on angle bisectors of :math:`\triangle ABP`.
+
+.. math::
+
+   |CD| = \operatorname{HM}(|BD|,\, |AD|) = \frac{2 |BD| \cdot |AD|}{|BD| + |AD|} = r\left(\gamma + \frac{1}{\gamma}\right), \qquad x^2 = \frac{(r / t)^2}{\frac{1}{r^2} + \frac{1}{t^2}} = \left(\frac{r}{\gamma}\right)^2

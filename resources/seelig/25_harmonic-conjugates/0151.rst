@@ -1,0 +1,12 @@
+.. folio:: 0151
+   :topic: F.25
+   :title: Summary Coordinate Box for C, D, r, R, O, O', E, d
+   :source: 0151.jpg
+
+**Diplomatic Transcription — Folio 0151** (``0151.jpg``, Sheet 12 of 28):
+
+Compact coordinate reference for plotting orthogonal harmonic circles.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

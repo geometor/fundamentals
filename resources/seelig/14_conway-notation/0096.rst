@@ -1,0 +1,12 @@
+.. folio:: 0096
+   :topic: F.14
+   :title: Alternative Sum-of-Squares Notation (S = a^2 + b^2 + c^2)
+   :source: 0096.jpg
+
+**Diplomatic Transcription — Folio 0096** (``0096.jpg``, Sheet 5 of 6):
+
+Rewrites the cosine law and altitude quadratic using :math:`S \triangleq a^2+b^2+c^2` and :math:`P \triangleq abc`.
+
+.. math::
+
+   S = 2 K, \qquad S_\omega = \frac{a^2 + b^2 + c^2}{2} = S \cot\omega, \qquad S_A = \frac{b^2 + c^2 - a^2}{2} = b c \cos\alpha

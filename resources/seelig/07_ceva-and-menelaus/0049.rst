@@ -1,0 +1,12 @@
+.. folio:: 0049
+   :topic: F.7
+   :title: Master Summary Sheet (Vol. 1, p. 128 & cevian analysis.xls)
+   :source: 0049.jpg
+
+**Diplomatic Transcription — Folio 0049** (``0049.jpg``, Sheet 26 of 26):
+
+Compiles Ceva, Menelaus, Van Aubel, and mass-point identities linked to `cevian analysis.xls`.
+
+.. math::
+
+   D_x = \frac{M J P}{J P + (M - I) Q}, \qquad E_x = \frac{M I Q}{I Q + (M - P) J}, \qquad F_x = \frac{I Q - J P}{Q - J}

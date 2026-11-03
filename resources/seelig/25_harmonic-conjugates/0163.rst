@@ -1,0 +1,12 @@
+.. folio:: 0163
+   :topic: F.25
+   :title: Simplification of Midpoint Offset delta = (q' - q)/2
+   :source: 0163.jpg
+
+**Diplomatic Transcription — Folio 0163** (``0163.jpg``, Sheet 24 of 28):
+
+Reduces :math:`\delta = \frac{r}{2}\frac{\Pi_-^2 - 4}{\Pi_+}`.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

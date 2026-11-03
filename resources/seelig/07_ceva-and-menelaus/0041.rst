@@ -1,0 +1,12 @@
+.. folio:: 0041
+   :topic: F.7
+   :title: Cevian HP-35s Program Specification (1/, FWS 8/25/2014)
+   :source: 0041.jpg
+
+**Diplomatic Transcription — Folio 0041** (``0041.jpg``, Sheet 18 of 26):
+
+Defines inputs, outputs, and equations for the HP-35s calculator program solving general cevians.
+
+.. math::
+
+   \frac{PD}{AD} + \frac{PE}{BE} + \frac{PF}{CF} = 1, \qquad \frac{AP}{AD} + \frac{BP}{BE} + \frac{CP}{CF} = 2

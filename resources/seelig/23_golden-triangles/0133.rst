@@ -1,0 +1,12 @@
+.. folio:: 0133
+   :topic: F.23
+   :title: Golden Identity Triangles & 5th Roots of Unity (FWS 12/21/2014)
+   :source: 0133.jpg
+
+**Diplomatic Transcription — Folio 0133** (``0133.jpg``, Sheet 2 of 3):
+
+Draws nested right triangles of angles :math:`72^\circ, 54^\circ, 36^\circ, 18^\circ` with altitude :math:`1` and tabulates :math:`\operatorname{Re}` and :math:`\operatorname{Im}` of :math:`e^{i 2\pi n/5}`.
+
+.. math::
+
+   f^2 = k a^2 + k' b^2 - k k' c^2 \qquad (k + k' = 1)

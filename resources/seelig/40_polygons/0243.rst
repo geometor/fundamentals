@@ -1,0 +1,12 @@
+.. folio:: 0243
+   :topic: F.40
+   :title: Master Polygon Reference Table (2-005)
+   :source: 0243.jpg
+
+**Diplomatic Transcription — Folio 0243** (``0243.jpg``, Sheet 5 of 18):
+
+Compiles :math:`N, \theta_N, E_N, r_N`, and perimeter :math:`N E_N \to 2\pi` across all constructible families.
+
+.. math::
+
+   E_N = 2\sin\frac{\pi}{N} = \sqrt{2 - \sqrt{4 - E_{N/2}^2}}, \qquad r_N = \cos\frac{\pi}{N} = \frac{1}{2}\sqrt{4 - E_N^2}

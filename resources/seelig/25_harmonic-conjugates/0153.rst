@@ -1,0 +1,12 @@
+.. folio:: 0153
+   :topic: F.25
+   :title: Reverse Scrap Sheet (Markov Channel Notes)
+   :source: 0153.jpg
+
+**Diplomatic Transcription — Folio 0153** (``0153.jpg``, Sheet 14 of 28):
+
+Reverse side of scrap paper containing unrelated binary Markov channel equations.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

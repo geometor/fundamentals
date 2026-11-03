@@ -1,0 +1,12 @@
+.. folio:: 0141
+   :topic: F.25
+   :title: Internal & External Division Ratios (Page 2)
+   :source: 0141.jpg
+
+**Diplomatic Transcription — Folio 0141** (``0141.jpg``, Sheet 2 of 28):
+
+Expresses the division ratios in terms of :math:`k/(1-k)` on circle :math:`\Gamma(m, r)` with :math:`r' = |mX|, d = |mY|`.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

@@ -1,0 +1,12 @@
+.. folio:: 0140
+   :topic: F.25
+   :title: Orthogonal Circles on Line AXBY (Page 1)
+   :source: 0140.jpg
+
+**Diplomatic Transcription — Folio 0140** (``0140.jpg``, Sheet 1 of 28):
+
+Defines harmonic conjugates :math:`|AX|/|XB| = |AY|/|YB|` with :math:`c = |AB|` and :math:`k = |AX|/|AB|`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

@@ -1,0 +1,12 @@
+.. folio:: 0219
+   :topic: F.31
+   :title: Spreadsheet Implementation — Part 1 (Page 5/)
+   :source: 0219.jpg
+
+**Diplomatic Transcription — Folio 0219** (``0219.jpg``, Sheet 5 of 6):
+
+Writes Excel/OpenFormula ``IF``/``AND`` cell expressions testing whether :math:`C` lies inside :math:`AB` or externally on either side.
+
+.. math::
+
+   T_1 = (\|CA\| < \|AB\|), \qquad T_2 = (\|CB\| < \|AB\|), \qquad T_3 = (\|CA\| < \|CB\|)

@@ -1,0 +1,12 @@
+.. folio:: 0281
+   :topic: F.43
+   :title: Circular Lens Area Formula (011)
+   :source: 0281.jpg
+
+**Diplomatic Transcription — Folio 0281** (``0281.jpg``, Sheet 11 of 11):
+
+Integrates/sums the two circular sector-minus-triangle segments to obtain the asymmetric lens area.
+
+.. math::
+
+   x = |O_1 P| = \frac{d}{2} + \frac{r_1^2 - r_2^2}{2 d}, \qquad x' = |O_2 P| = \frac{d}{2} - \frac{r_1^2 - r_2^2}{2 d}, \qquad t^2 = x^2 - r_1^2 = {x'}^2 - r_2^2

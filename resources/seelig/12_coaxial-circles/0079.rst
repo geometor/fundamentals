@@ -1,0 +1,12 @@
+.. folio:: 0079
+   :topic: F.12
+   :title: Right-Triangle Locus for P_5, P_6
+   :source: 0079.jpg
+
+**Diplomatic Transcription — Folio 0079** (``0079.jpg``, Sheet 8 of 12):
+
+Proves that right triangles :math:`\triangle Q_1 P_5 Q_2` satisfy :math:`d_1^2 + d_2^2 = (2r)^2`, lying on the circle :math:`x^2 + y^2 = 2r^2` of radius :math:`\sqrt{2}r`.
+
+.. math::
+
+   x^2 + y^2 - 2 c_x x + r^2 = 0, \qquad E_{\text{TOT}} = k Q_1 \frac{x - x_1}{|x - x_1|^3} + k Q_2 \frac{x - x_2}{|x - x_2|^3} = 0

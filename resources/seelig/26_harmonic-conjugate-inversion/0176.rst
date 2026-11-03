@@ -1,0 +1,12 @@
+.. folio:: 0176
+   :topic: F.26
+   :title: Tangent-Chord Proof of TD^2 = DE*DF
+   :source: 0176.jpg
+
+**Diplomatic Transcription — Folio 0176** (``0176.jpg``, Sheet 9 of 15):
+
+Detailed geometric proof using inscribed angles that :math:`\triangle DTF \sim \triangle DET`.
+
+.. math::
+
+   x y = |MC| \cdot |MD| = r^2, \qquad T^2 = y^2 - r^2 = |AD| \cdot |BD|, \qquad z^2 + T^2 = 2(r^2 + y^2) \implies z^2 = y^2 + 3 r^2

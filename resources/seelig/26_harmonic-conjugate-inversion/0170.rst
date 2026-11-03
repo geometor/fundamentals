@@ -1,0 +1,12 @@
+.. folio:: 0170
+   :topic: F.26
+   :title: Similarity Proof of TD^2 = PD*QD & Example r=5, x=3 (FWS 11/19/2013)
+   :source: 0170.jpg
+
+**Diplomatic Transcription — Folio 0170** (``0170.jpg``, Sheet 3 of 15):
+
+Proves :math:`\triangle DTQ \sim \triangle DPT` and computes :math:`y = 25/3, AD = 40/3, BD = 10/3, T = 20/3`.
+
+.. math::
+
+   x y = |MC| \cdot |MD| = r^2, \qquad T^2 = y^2 - r^2 = |AD| \cdot |BD|, \qquad z^2 + T^2 = 2(r^2 + y^2) \implies z^2 = y^2 + 3 r^2

@@ -1,0 +1,12 @@
+.. folio:: 0347
+   :topic: F.54
+   :title: HP-35s [T] [Triangle] Program Specification (FWS Sept. 10, 2014 / May 7, 2015)
+   :source: 0347.jpg
+
+**Diplomatic Transcription — Folio 0347** (``0347.jpg``, Sheet 1 of 2):
+
+Defines the ``BARY 2 CAR`` (:math:`P = MU+IV, Q = JV`) and ``CAR 2 BARY`` (:math:`V = Q/J, U = (P-IV)/M, T = 1-(U+V)`) routines for :math:`A=(0,0), B=(M,0), C=(I,J)`.
+
+.. math::
+
+   \text{BARY 2 CAR:}\quad \begin{bmatrix} P \\ Q \end{bmatrix} = \begin{bmatrix} M & I \\ 0 & J \end{bmatrix} \begin{bmatrix} U \\ V \end{bmatrix}, \qquad T + U + V = 1

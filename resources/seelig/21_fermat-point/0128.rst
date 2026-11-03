@@ -1,0 +1,12 @@
+.. folio:: 0128
+   :topic: F.21
+   :title: Torricelli's Construction of the Fermat Point X(13) (FWS July 6, 2011)
+   :source: 0128.jpg
+
+**Diplomatic Transcription — Folio 0128** (``0128.jpg``, Sheet 1 of 2):
+
+Step-by-step ruler-and-compass algorithm constructing external equilateral triangle :math:`\triangle ABX` and its circumcircle to locate :math:`F = X(13)`.
+
+.. math::
+
+   \angle AFB = \angle BFC = \angle CFA = 120^\circ, \qquad \min_{P} (|PA| + |PB| + |PC|) = |CC'| = \sqrt{\frac{a^2 + b^2 + c^2}{2} + 2\sqrt{3} K}

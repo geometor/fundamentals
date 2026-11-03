@@ -1,0 +1,12 @@
+.. folio:: 0210
+   :topic: F.30
+   :title: Scanner Separator Sheet
+   :source: 0210.jpg
+
+**Diplomatic Transcription — Folio 0210** (``0210.jpg``, Sheet 1 of 5):
+
+Blank dark separator scan preceding the four-page isosceles cubic manuscript.
+
+.. math::
+
+   a = b = s - x, \qquad x = \frac{c}{2}, \qquad K = x\sqrt{s(s - 2x)} \implies 2 s x^3 - s^2 x^2 + K^2 = 0

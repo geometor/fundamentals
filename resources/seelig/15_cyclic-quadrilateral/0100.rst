@@ -1,0 +1,12 @@
+.. folio:: 0100
+   :topic: F.15
+   :title: Base Angle Equalities M = K, N = L & Butterfly Similarity (Page 2)
+   :source: 0100.jpg
+
+**Diplomatic Transcription — Folio 0100** (``0100.jpg``, Sheet 3 of 16):
+
+Deduces :math:`M = K` and :math:`N = L` and applies :math:`\triangle ZPW \simeq \triangle YPX`.
+
+.. math::
+
+   \theta + 2\theta + 3\theta + 4\theta = 360^\circ \implies \theta = 36^\circ, \qquad f = |XZ| = 2\sin 36^\circ = \sqrt{3 - \phi}, \qquad e = |YW| = 2\sin 72^\circ = \phi\sqrt{3 - \phi}

@@ -1,0 +1,12 @@
+.. folio:: 0143
+   :topic: F.25
+   :title: Worked Example r = 1, k = 0.7 (Page 4)
+   :source: 0143.jpg
+
+**Diplomatic Transcription — Folio 0143** (``0143.jpg``, Sheet 4 of 28):
+
+Computes :math:`\gamma = 7/3` and :math:`|mX| = 0.4r`.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

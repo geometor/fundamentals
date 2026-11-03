@@ -1,0 +1,12 @@
+.. folio:: 0130
+   :topic: F.22
+   :title: Gaussian CDF Phi(x), Q(x), erf(x) & Abramowitz–Stegun Eq. 7.1.26
+   :source: 0130.jpg
+
+**Diplomatic Transcription — Folio 0130** (``0130.jpg``, Sheet 1 of 2):
+
+Defines :math:`\Phi(x), Q(x), \operatorname{erf}(x), \operatorname{erfc}(x)` and lists the 6 numerical constants :math:`p, a_1..a_5` from AMS-55, p. 299.
+
+.. math::
+
+   \Phi(x) = \frac{1}{2} + \frac{1}{2}\operatorname{erf}\left(\frac{x}{\sqrt{2}}\right), \qquad \operatorname{erf}(x) \approx 1 - \left(\sum_{k=1}^5 a_k t^k\right) e^{-x^2}, \quad t = \frac{1}{1 + 0.3275911 x}

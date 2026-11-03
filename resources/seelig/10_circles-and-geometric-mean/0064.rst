@@ -1,0 +1,12 @@
+.. folio:: 0064
+   :topic: F.10
+   :title: Homogeneous Barycentric Coordinates Table for I, O, H, Ge, Na, K, N
+   :source: 0064.jpg
+
+**Diplomatic Transcription — Folio 0064** (``0064.jpg``, Sheet 3 of 4):
+
+Lists normalized HBC formulas in terms of :math:`S = a^2+b^2+c^2` and :math:`x, y, z`, noting `* This expression not found in ETC` for :math:`H = (S-2b^2)(S-2c^2)/D`.
+
+.. math::
+
+   G = |CH| = \sqrt{m n}, \qquad A_{\text{mean}} = |OC| = \frac{m + n}{2}, \qquad H_{\text{mean}} = |CK| = \frac{2 m n}{m + n}

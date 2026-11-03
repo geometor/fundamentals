@@ -1,0 +1,12 @@
+.. folio:: 0061
+   :topic: F.9
+   :title: Equating r^2 at Tangent Points F and I
+   :source: 0061.jpg
+
+**Diplomatic Transcription — Folio 0061** (``0061.jpg``, Sheet 8 of 8):
+
+Solves for the Sangaku circle center ordinate :math:`P_y = \frac{r_F^2 - r_I^2}{2(F_y - I_y)}`.
+
+.. math::
+
+   l_{AE}:\; y = \sqrt{3}x - \frac{\sqrt{2}}{2}R, \qquad P_y = \frac{r_F^2 - r_I^2}{2(F_y - I_y)}

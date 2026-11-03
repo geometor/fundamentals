@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0321**
+
+Archival scan ``0321.jpg`` from Fred W. Seelig's notebook dossier on **F.50 Altitudes, Mitchell's Reciprocal Heron Formula, and the Symphonic Theorem** (Page 4 of 4). Companion OpenDocument worksheet(s): ``Altitudes``, ``Orthocenter``, ``Right Triangle``. Classical Euclidean foundations: :ref:`I.12`, :ref:`I.47`, :ref:`VI.8`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(1)`, :ref:`X(3)`, :ref:`X(4)`.

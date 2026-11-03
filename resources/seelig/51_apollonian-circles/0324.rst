@@ -1,0 +1,12 @@
+.. folio:: 0324
+   :topic: F.51
+   :title: Angle Bisector Proof via Euclid VI.3 (apollonian-003)
+   :source: 0324.jpg
+
+**Diplomatic Transcription — Folio 0324** (``0324.jpg``, Sheet 3 of 9):
+
+Shows that the internal and external bisectors of :math:`\angle APB` meet :math:`AB` at fixed harmonic points :math:`C, D` with :math:`\angle CPD = 90^\circ`.
+
+.. math::
+
+   \frac{|PA|}{|PB|} = k \implies M' = \frac{d}{k^2 - 1}, \qquad R = \frac{d k}{k^2 - 1}, \qquad R^2 - {M'}^2 = \frac{d^2}{k^2 - 1}

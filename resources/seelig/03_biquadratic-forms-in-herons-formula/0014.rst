@@ -1,0 +1,12 @@
+.. folio:: 0014
+   :topic: F.3
+   :title: Circumcircle Trigonometry & Law of Sines
+   :source: 0014.jpg
+
+**Diplomatic Transcription — Folio 0014** (``0014.jpg``, Sheet 4 of 9):
+
+Records :math:`a/2 = R\sin\alpha, b/2 = R\sin\beta, c/2 = R\sin\gamma` and :math:`R^2 = h_C^2 + (c/2)^2`.
+
+.. math::
+
+   16 K^2 = 2 a^2 b^2 + 2 b^2 c^2 + 2 c^2 a^2 - a^4 - b^4 - c^4, \qquad {z_i^*}^2 = w_i^2 + w_i w_i' + {w_i'}^2

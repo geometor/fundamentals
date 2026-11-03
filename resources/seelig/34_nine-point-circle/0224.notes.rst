@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0224**
+
+Archival scan ``0224.jpg`` from Fred W. Seelig's notebook dossier on **F.34 Nine-Point Circle** (Page 1 of 1). Companion OpenDocument worksheet(s): ``9-Point Circle``, ``Euler Line``, ``Orthocenter``. Classical Euclidean foundations: :ref:`IV.5`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(2)`, :ref:`X(3)`, :ref:`X(4)`, :ref:`X(5)`.

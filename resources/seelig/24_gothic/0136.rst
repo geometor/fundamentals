@@ -1,0 +1,12 @@
+.. folio:: 0136
+   :topic: F.24
+   :title: Three-Circle Symmetry Analysis at Intersections H and G
+   :source: 0136.jpg
+
+**Diplomatic Transcription — Folio 0136** (``0136.jpg``, Sheet 2 of 5):
+
+Exploits horizontal symmetry :math:`H_y = G_y` and :math:`G_x + H_x = s` across the centerline :math:`x = s/2`.
+
+.. math::
+
+   r^2 = \left(x - \frac{s}{2}\right)^2 + (y - Q)^2, \qquad p s = P_x H_x + P_y H_y \quad (r = s - p), \qquad g^2 = G_x^2 + G_y^2 = 2 s G_x

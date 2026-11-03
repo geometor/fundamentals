@@ -1,0 +1,12 @@
+.. folio:: 0103
+   :topic: F.15
+   :title: Power of Diagonal Intersection P (Page 3, citing Vol. I, pp. 265–270)
+   :source: 0103.jpg
+
+**Diplomatic Transcription — Folio 0103** (``0103.jpg``, Sheet 6 of 16):
+
+Relates :math:`d = |OP|` to diagonal segments :math:`m = |PX|, n = |PZ|` via :math:`r^2 = d^2 + mn`.
+
+.. math::
+
+   a c + b d = e f \quad (\text{Ptolemy}), \qquad (k^3 - k^2 + k - 1) = (k - 1)(k^2 + 1) = 0

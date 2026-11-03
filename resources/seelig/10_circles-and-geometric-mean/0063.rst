@@ -1,0 +1,12 @@
+.. folio:: 0063
+   :topic: F.10
+   :title: Area Partition of Square ABCD into Four Rectangles
+   :source: 0063.jpg
+
+**Diplomatic Transcription — Folio 0063** (``0063.jpg``, Sheet 2 of 4):
+
+Partitions the square of area :math:`Z^2` around :math:`P(P, Q)` into four rectangles ①–④ and relates their dimensions to the circle equations.
+
+.. math::
+
+   G = |CH| = \sqrt{m n}, \qquad A_{\text{mean}} = |OC| = \frac{m + n}{2}, \qquad H_{\text{mean}} = |CK| = \frac{2 m n}{m + n}

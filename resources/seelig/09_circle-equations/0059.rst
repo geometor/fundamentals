@@ -1,0 +1,12 @@
+.. folio:: 0059
+   :topic: F.9
+   :title: Line Equation for Side AE of Equilateral Triangle ACE
+   :source: 0059.jpg
+
+**Diplomatic Transcription — Folio 0059** (``0059.jpg``, Sheet 6 of 8):
+
+Derives :math:`y = \sqrt{3}x - \frac{\sqrt{2}}{2}R` for side :math:`AE`.
+
+.. math::
+
+   l_{AE}:\; y = \sqrt{3}x - \frac{\sqrt{2}}{2}R, \qquad P_y = \frac{r_F^2 - r_I^2}{2(F_y - I_y)}

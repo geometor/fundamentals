@@ -1,0 +1,12 @@
+.. folio:: 0166
+   :topic: F.25
+   :title: Geometric Mean Proof that \|BC\| = r(1 - kappa)
+   :source: 0166.jpg
+
+**Diplomatic Transcription — Folio 0166** (``0166.jpg``, Sheet 27 of 28):
+
+Proves :math:`|BC|^2 = 2|MC|\cdot|M'B| = r^2(1-\kappa)^2`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

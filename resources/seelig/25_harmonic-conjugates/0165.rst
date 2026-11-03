@@ -1,0 +1,12 @@
+.. folio:: 0165
+   :topic: F.25
+   :title: Grid Summary Sheet of All 10 Symmetric Segment Formulas
+   :source: 0165.jpg
+
+**Diplomatic Transcription — Folio 0165** (``0165.jpg``, Sheet 26 of 28):
+
+Consolidates :math:`p, q, d, q', \delta, \rho, t, t', T, T'` (*'remarkable symmetry'*).
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

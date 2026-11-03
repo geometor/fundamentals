@@ -1,0 +1,12 @@
+.. folio:: 0295
+   :topic: F.47
+   :title: The UVW Triangle — Coordinate & Intercept Setup (001)
+   :source: 0295.jpg
+
+**Diplomatic Transcription — Folio 0295** (``0295.jpg``, Sheet 1 of 11):
+
+Places :math:`A=(-U,0), B=(W,0), C=(0,V)` around the altitude foot :math:`(0,0)` and writes the intercept equations of sides :math:`AC` and :math:`BC`.
+
+.. math::
+
+   A = (-U, 0), \qquad B = (W, 0), \qquad C = (0, V), \qquad a^2 = V^2 + W^2,\; b^2 = U^2 + V^2,\; c = U + W

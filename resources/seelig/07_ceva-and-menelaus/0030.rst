@@ -1,0 +1,12 @@
+.. folio:: 0030
+   :topic: F.7
+   :title: Stewart's Theorem for Cevians d, e, f
+   :source: 0030.jpg
+
+**Diplomatic Transcription — Folio 0030** (``0030.jpg``, Sheet 7 of 26):
+
+Derives :math:`d^2 = \frac{x b^2 + y c^2}{a} - xy` for all three cevians in terms of side splits.
+
+.. math::
+
+   \frac{AF}{FB} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = +1 \quad (\text{Ceva}), \qquad \frac{AF'}{F'B} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = -1 \quad (\text{Menelaus})

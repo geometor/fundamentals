@@ -1,0 +1,12 @@
+.. folio:: 0319
+   :topic: F.50
+   :title: Mitchell's Reciprocal Heron Formula for Altitudes (altitudes-001)
+   :source: 0319.jpg
+
+**Diplomatic Transcription — Folio 0319** (``0319.jpg``, Sheet 2 of 4):
+
+Cites Douglas W. Mitchell (2005) to express :math:`K^{-1} = 4\sqrt{H(H-h_A^{-1})(H-h_B^{-1})(H-h_C^{-1})}` and reconstructs :math:`(a,b,c) = (2K/h_A, 2K/h_B, 2K/h_C)`.
+
+.. math::
+
+   \frac{1}{h_A^2} + \frac{1}{h_B^2} = \frac{1}{h_C^2} \quad (\gamma = 90^\circ), \qquad |AH| + |BH| + |CH| = 2(r + R)

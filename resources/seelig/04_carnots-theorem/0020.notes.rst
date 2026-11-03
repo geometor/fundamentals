@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0020**
+
+Archival scan ``0020.jpg`` from Fred W. Seelig's notebook dossier on **F.4 Carnot's Theorem** (Page 1 of 1). Companion OpenDocument worksheet(s): ``General Reference``, ``Circumcircle-Circumcenter``, ``Incircle-Incenter``. Classical Euclidean foundations: :ref:`III.20`, :ref:`IV.4`, :ref:`IV.5`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(1)`, :ref:`X(3)`.

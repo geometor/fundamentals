@@ -1,0 +1,12 @@
+.. folio:: 0147
+   :topic: F.25
+   :title: Harmonic Conjugates Master Summary (citing Euclid VI.3, Heath p. 198)
+   :source: 0147.jpg
+
+**Diplomatic Transcription — Folio 0147** (``0147.jpg``, Sheet 8 of 28):
+
+Summarizes :math:`k, x, y, \gamma, d, R`, the Apollonian circle :math:`\Gamma_{O'}`, and the harmonic progression :math:`|AD|, |DC|, |DB|`.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

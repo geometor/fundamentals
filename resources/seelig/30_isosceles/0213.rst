@@ -1,0 +1,12 @@
+.. folio:: 0213
+   :topic: F.30
+   :title: Reduction to Depressed Cubic (Page 3)
+   :source: 0213.jpg
+
+**Diplomatic Transcription — Folio 0213** (``0213.jpg``, Sheet 4 of 5):
+
+Substitutes :math:`x = y - a/3 = y + s/6` into :math:`x^3 + ax^2 + bx + c = 0` to eliminate the quadratic term, obtaining :math:`p = -s^2/12` and :math:`q = -s^3/54 + K^2/(2s)`.
+
+.. math::
+
+   x = y + \frac{s}{6} \implies y^3 - \frac{s^2}{12} y + \left(\frac{K^2}{2s} - \frac{s^3}{54}\right) = 0, \qquad c_{\text{right}} = s - \frac{K}{s}

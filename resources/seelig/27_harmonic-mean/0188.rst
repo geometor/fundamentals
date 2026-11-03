@@ -1,0 +1,12 @@
+.. folio:: 0188
+   :topic: F.27
+   :title: Harmonic Progression Proof via Euclid VI.3 (Heath p. 198)
+   :source: 0188.jpg
+
+**Diplomatic Transcription — Folio 0188** (``0188.jpg``, Sheet 6 of 19):
+
+Shows that :math:`|AD| = r(\gamma+1), |DC| = r(\gamma+1/\gamma), |DB| = r(\gamma-1)` are in harmonic progression.
+
+.. math::
+
+   Y^2 + (X + Z) Y - X Z = 0 \implies Y = \frac{-(X + Z) + \sqrt{(X + Z)^2 + 4 X Z}}{2}

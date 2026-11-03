@@ -1,0 +1,12 @@
+.. folio:: 0068
+   :topic: F.11
+   :title: Sign Correction of O'Rourke's Formula (FWS 5/25/2011)
+   :source: 0068.jpg
+
+**Diplomatic Transcription — Folio 0068** (``0068.jpg``, Sheet 3 of 6):
+
+Derives :math:`(O_x, O_y)` from perpendicular bisector intersections and corrects the sign error in Joseph O'Rourke's formula.
+
+.. math::
+
+   R = \frac{a b c}{4 K}, \qquad O = \left(a^2 S_A : b^2 S_B : c^2 S_C\right) = \left(\sin 2\alpha : \sin 2\beta : \sin 2\gamma\right)

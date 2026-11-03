@@ -1,0 +1,12 @@
+.. folio:: 0154
+   :topic: F.25
+   :title: 12-Row Numerical Table for A = 0, B = 1
+   :source: 0154.jpg
+
+**Diplomatic Transcription — Folio 0154** (``0154.jpg``, Sheet 15 of 28):
+
+Tabulates :math:`k, k_2, k_3` and radical axis coordinates across 12 parameter values.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

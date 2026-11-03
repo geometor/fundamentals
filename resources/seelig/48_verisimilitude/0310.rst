@@ -1,0 +1,12 @@
+.. folio:: 0310
+   :topic: F.48
+   :title: Centers of Similitude: Excircles — Part 1 (005, FWS 2014/9/7)
+   :source: 0310.jpg
+
+**Diplomatic Transcription — Folio 0310** (``0310.jpg``, Sheet 5 of 9):
+
+Models vertex :math:`A` and the internal/external touchpoint harmonic conjugates along line :math:`AI I_A` for the incircle and :math:`A`-excircle.
+
+.. math::
+
+   s_A = x = s - a, \qquad r_A = r\frac{x}{s}, \qquad K_A = K\left(\frac{x}{s}\right)^2, \qquad r_A + r_B + r_C = r\frac{x + y + z}{s} = r

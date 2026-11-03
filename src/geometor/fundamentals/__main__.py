@@ -1,6 +1,10 @@
-"""The package entry point into the application."""
+"""The package entry point into the GEOMETOR Fundamentals application."""
 
-from .app import run
+from __future__ import annotations
+
+from .app import main, run
+
+__all__ = ["main", "run"]
 
 if __name__ == "__main__":
-    run()
+    raise SystemExit(main())

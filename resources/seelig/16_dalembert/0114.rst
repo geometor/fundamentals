@@ -1,0 +1,12 @@
+.. folio:: 0114
+   :topic: F.16
+   :title: D'Alembert's Theorem Multi-Color Constructions
+   :source: 0114.jpg
+
+**Diplomatic Transcription — Folio 0114** (``0114.jpg``, Sheet 1 of 4):
+
+Two constructions with red external tangent cones and green internal tangent cones whose apexes lie on thick black collinearity lines.
+
+.. math::
+
+   L_{+++}:\; \{S_{\text{EX}\,AB},\, S_{\text{EX}\,BC},\, S_{\text{EX}\,CA}\}, \qquad L_{+--}:\; \{S_{\text{EX}\,AB},\, S_{\text{IN}\,BC},\, S_{\text{IN}\,CA}\}

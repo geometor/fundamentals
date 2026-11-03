@@ -1,0 +1,12 @@
+.. folio:: 0022
+   :topic: F.6
+   :title: Centroid Definition & Vector Average
+   :source: 0022.jpg
+
+**Diplomatic Transcription — Folio 0022** (``0022.jpg``, Sheet 1 of 2):
+
+Draws :math:`\triangle ABC` with congruent-tick-marked midpoints and medians concurring at :math:`G`, defining the centroid as the concurrency of median cevians.
+
+.. math::
+
+   \vec{G} = \frac{\vec{A} + \vec{B} + \vec{C}}{3}, \qquad G = (1 : 1 : 1) \text{ in homogeneous barycentrics}

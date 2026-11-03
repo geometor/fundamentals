@@ -1,0 +1,12 @@
+.. folio:: 0111
+   :topic: F.15
+   :title: Product-to-Sum Reduction for \|XZ\| (Part 2)
+   :source: 0111.jpg
+
+**Diplomatic Transcription — Folio 0111** (``0111.jpg``, Sheet 14 of 16):
+
+Expresses :math:`|XZ|` in terms of :math:`\cos(2\mu - 72^\circ)` and :math:`\cos(252^\circ - 2\mu)`.
+
+.. math::
+
+   a c + b d = e f \quad (\text{Ptolemy}), \qquad (k^3 - k^2 + k - 1) = (k - 1)(k^2 + 1) = 0

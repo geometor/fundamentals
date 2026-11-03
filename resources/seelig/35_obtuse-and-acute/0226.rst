@@ -1,0 +1,12 @@
+.. folio:: 0226
+   :topic: F.35
+   :title: Obtuse (3, 5, 7) Triangle — Base 5 Projection
+   :source: 0226.jpg
+
+**Diplomatic Transcription — Folio 0226** (``0226.jpg``, Sheet 2 of 7):
+
+Evaluates :math:`a=7, b=3, c=5` to find exterior projection :math:`x = 1.5`, altitude :math:`h_B = \frac{3\sqrt{3}}{2}`, and :math:`120^\circ` obtuse angle.
+
+.. math::
+
+   |M_C H_C| = \left|\frac{c}{2} - x\right| = \frac{|a^2 - b^2|}{2 c}, \qquad m_c^2 = \frac{a^2 + b^2}{2} - \left(\frac{c}{2}\right)^2

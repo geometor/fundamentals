@@ -1,0 +1,12 @@
+.. folio:: 0020
+   :topic: F.4
+   :title: Carnot's Theorem & The Japanese Theorem
+   :source: 0020.jpg
+
+**Diplomatic Transcription — Folio 0020** (``0020.jpg``, Sheet 1 of 1):
+
+States Lazare Carnot's signed-distance relation :math:`\sum d_m = R + r` with an obtuse-triangle circumcircle diagram (:math:`-OH_A + OH_B + OH_C = R + r`) and two triangulated cyclic polygon diagrams illustrating the invariance of the sum of inradii.
+
+.. math::
+
+   \sum_{m \in \{A, B, C\}} d_m = d_a + d_b + d_c = R(\cos\alpha + \cos\beta + \cos\gamma) = R + r

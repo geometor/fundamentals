@@ -1,0 +1,12 @@
+.. folio:: 0012
+   :topic: F.3
+   :title: Symmetric Substitutions W, X, Y, Z
+   :source: 0012.jpg
+
+**Diplomatic Transcription — Folio 0012** (``0012.jpg``, Sheet 2 of 9):
+
+Defines :math:`X = a/2, W = (b+c)/2, Y = (-b+c)/2, Z = (b-c)/2` to reduce Heron's formula to :math:`K = \sqrt{(W^2 - X^2)(X^2 - Y^2)}`.
+
+.. math::
+
+   16 K^2 = 2 a^2 b^2 + 2 b^2 c^2 + 2 c^2 a^2 - a^4 - b^4 - c^4, \qquad {z_i^*}^2 = w_i^2 + w_i w_i' + {w_i'}^2

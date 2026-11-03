@@ -1,0 +1,12 @@
+.. folio:: 0086
+   :topic: F.13
+   :title: Nested Radical Table for c/R from 1/4 to 7/4
+   :source: 0086.jpg
+
+**Diplomatic Transcription — Folio 0086** (``0086.jpg``, Sheet 3 of 8):
+
+Tabulates :math:`c/R, m/n = c/(2R), \sqrt{n^2-m^2}/n`, and exact nested radicals for :math:`|BC|`.
+
+.. math::
+
+   \sin\phi = \frac{c}{2 R}, \qquad h_c = \sqrt{R^2 - \left(\frac{c}{2}\right)^2}, \qquad (ABC) = \frac{1}{2} c h_c + \frac{1}{2} a h_a - \frac{1}{2} b h_b

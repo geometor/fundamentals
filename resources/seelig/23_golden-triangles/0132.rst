@@ -1,0 +1,12 @@
+.. folio:: 0132
+   :topic: F.23
+   :title: Golden Triangle 72-72-36 & Segment AD
+   :source: 0132.jpg
+
+**Diplomatic Transcription — Folio 0132** (``0132.jpg``, Sheet 1 of 3):
+
+Analyzes the :math:`72^\circ\text{–}72^\circ\text{–}36^\circ` triangle with legs :math:`\phi`, base :math:`1`, and point :math:`D` dividing :math:`BC` into :math:`\phi-1` and :math:`1`, proving :math:`AD = 2\sin 36^\circ \approx 1.1756`.
+
+.. math::
+
+   \phi = \frac{1 + \sqrt{5}}{2}, \qquad \cos 36^\circ = \frac{\phi}{2}, \qquad \cos 72^\circ = \frac{\phi - 1}{2} = \frac{1}{2\phi}, \qquad 2\sin 36^\circ = \sqrt{3 - \phi}

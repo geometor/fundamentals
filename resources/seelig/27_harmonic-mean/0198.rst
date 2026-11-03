@@ -1,0 +1,12 @@
+.. folio:: 0198
+   :topic: F.27
+   :title: Problem 10: Quadratic for Middle Segment Y Given X and Z
+   :source: 0198.jpg
+
+**Diplomatic Transcription — Folio 0198** (``0198.jpg``, Sheet 16 of 19):
+
+Solves :math:`Y^2 + (X+Z)Y - XZ = 0` for the internal segment :math:`Y = CB`.
+
+.. math::
+
+   Y^2 + (X + Z) Y - X Z = 0 \implies Y = \frac{-(X + Z) + \sqrt{(X + Z)^2 + 4 X Z}}{2}

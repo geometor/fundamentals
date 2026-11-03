@@ -1,0 +1,12 @@
+.. folio:: 0242
+   :topic: F.40
+   :title: Pentagon & Decagon Golden Ratio Radicals (2-004)
+   :source: 0242.jpg
+
+**Diplomatic Transcription — Folio 0242** (``0242.jpg``, Sheet 4 of 18):
+
+Expresses :math:`E_{10} = \phi^{-1} = \sqrt{2-\phi}`, :math:`E_5 = \sqrt{3-\phi}`, and :math:`E_{20} = \sqrt{2-\sqrt{2+\phi}}` in terms of :math:`\phi = \frac{1+\sqrt{5}}{2}`.
+
+.. math::
+
+   E_{10} = \phi - 1 = \sqrt{2 - \phi}, \qquad E_5 = \sqrt{3 - \phi}, \qquad E_{15} = 2\sin 12^\circ = \frac{1}{4}\left(\sqrt{10 + 2\sqrt{5}} + \sqrt{3} - \sqrt{15}\right)

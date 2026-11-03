@@ -1,0 +1,12 @@
+.. folio:: 0104
+   :topic: F.15
+   :title: Diagonal \|YW\| = 2 sin 72 = phi*sqrt(3 - phi) (Page 4)
+   :source: 0104.jpg
+
+**Diplomatic Transcription — Folio 0104** (``0104.jpg``, Sheet 7 of 16):
+
+Computes :math:`|OM_2| = \cos 72^\circ \approx 0.3090` and :math:`|YW| = \phi\sqrt{3-\phi} \approx 1.9021`.
+
+.. math::
+
+   \theta + 2\theta + 3\theta + 4\theta = 360^\circ \implies \theta = 36^\circ, \qquad f = |XZ| = 2\sin 36^\circ = \sqrt{3 - \phi}, \qquad e = |YW| = 2\sin 72^\circ = \phi\sqrt{3 - \phi}

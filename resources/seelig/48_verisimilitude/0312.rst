@@ -1,0 +1,12 @@
+.. folio:: 0312
+   :topic: F.48
+   :title: Inverse Stewart Problem: Finding k for Given Cevian Length d (007)
+   :source: 0312.jpg
+
+**Diplomatic Transcription — Folio 0312** (``0312.jpg``, Sheet 7 of 9):
+
+Rearranges Stewart's theorem into the quadratic :math:`c^2 k^2 - (c^2+a^2-b^2)k + (a^2-d^2) = 0`.
+
+.. math::
+
+   s_A = x = s - a, \qquad r_A = r\frac{x}{s}, \qquad K_A = K\left(\frac{x}{s}\right)^2, \qquad r_A + r_B + r_C = r\frac{x + y + z}{s} = r

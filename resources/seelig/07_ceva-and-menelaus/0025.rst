@@ -1,0 +1,12 @@
+.. folio:: 0025
+   :topic: F.7
+   :title: Ceva's & Menelaus' Theorem — Integer Segments
+   :source: 0025.jpg
+
+**Diplomatic Transcription — Folio 0025** (``0025.jpg``, Sheet 2 of 26):
+
+Side-by-side comparison of Ceva (:math:`+1`) and Menelaus (:math:`-1`) showing that :math:`(A, B; F, F')` form a harmonic range.
+
+.. math::
+
+   D_x = \frac{M J P}{J P + (M - I) Q}, \qquad E_x = \frac{M I Q}{I Q + (M - P) J}, \qquad F_x = \frac{I Q - J P}{Q - J}

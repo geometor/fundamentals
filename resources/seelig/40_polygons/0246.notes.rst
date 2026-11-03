@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0246**
+
+Archival scan ``0246.jpg`` from Fred W. Seelig's notebook dossier on **F.40 Regular Polygons and Nested Radicals** (Page 8 of 18). Companion OpenDocument worksheet(s): ``Polygon Table``, ``Golden Triangle``. Classical Euclidean foundations: :ref:`IV.11`, :ref:`IV.15`, :ref:`IV.16`, :ref:`XIII.9`, :ref:`XIII.10`.

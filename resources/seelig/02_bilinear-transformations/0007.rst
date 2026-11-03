@@ -1,0 +1,12 @@
+.. folio:: 0007
+   :topic: F.2
+   :title: Table 2 for B^{-1}(y) & Conic Fit
+   :source: 0007.jpg
+
+**Diplomatic Transcription — Folio 0007** (``0007.jpg``, Sheet 5 of 8):
+
+Tabulates :math:`y, A, B, \mathbb{B}^{-1}, {\mathbb{B}^{-1}}'` for :math:`y \in \{0, 1, 2, 3, 4\}` and records the C.a.R. conic equation :math:`-x/4 + y/4 - xy/4 = 1/4`.
+
+.. math::
+
+   \mathbb{B}(x) = \frac{1 + x}{1 - x}, \qquad \mathbb{B}^{-1}(y) = \frac{y - 1}{y + 1}, \qquad \mathbb{B}'(x) = \frac{2}{(1 - x)^2} = 2 B^2

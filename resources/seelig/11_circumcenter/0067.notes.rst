@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0067**
+
+Archival scan ``0067.jpg`` from Fred W. Seelig's notebook dossier on **F.11 Circumcenter** (Page 2 of 6). Companion OpenDocument worksheet(s): ``Circumcircle-Circumcenter``, ``Circumcircle Solver``, ``General Reference``. Classical Euclidean foundations: :ref:`III.1`, :ref:`IV.5`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(3)`, :ref:`X(26)`.

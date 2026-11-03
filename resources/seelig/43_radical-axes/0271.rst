@@ -1,0 +1,12 @@
+.. folio:: 0271
+   :topic: F.43
+   :title: Two-Circle Radical Axis & Equal Tangents (001)
+   :source: 0271.jpg
+
+**Diplomatic Transcription — Folio 0271** (``0271.jpg``, Sheet 1 of 11):
+
+Derives :math:`x = \frac{d}{2} + \frac{r_1^2-r_2^2}{2d}` and tests :math:`r_1=1, r_2=2, d=5 \implies x=2.2, x'=2.8, t = \frac{4\sqrt{6}}{5}`.
+
+.. math::
+
+   x = |O_1 P| = \frac{d}{2} + \frac{r_1^2 - r_2^2}{2 d}, \qquad x' = |O_2 P| = \frac{d}{2} - \frac{r_1^2 - r_2^2}{2 d}, \qquad t^2 = x^2 - r_1^2 = {x'}^2 - r_2^2

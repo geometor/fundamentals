@@ -1,0 +1,12 @@
+.. folio:: 0252
+   :topic: F.40
+   :title: Polygon Perimeter & Area Convergence to pi (005)
+   :source: 0252.jpg
+
+**Diplomatic Transcription — Folio 0252** (``0252.jpg``, Sheet 14 of 18):
+
+Tabulates :math:`\pi_N = \frac{N}{2}E_N` and :math:`A_N = \frac{N}{2}E_N r_N` for increasing :math:`N`.
+
+.. math::
+
+   E_{10} = \phi - 1 = \sqrt{2 - \phi}, \qquad E_5 = \sqrt{3 - \phi}, \qquad E_{15} = 2\sin 12^\circ = \frac{1}{4}\left(\sqrt{10 + 2\sqrt{5}} + \sqrt{3} - \sqrt{15}\right)

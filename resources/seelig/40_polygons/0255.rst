@@ -1,0 +1,12 @@
+.. folio:: 0255
+   :topic: F.40
+   :title: Cartesian Cevian Length Sheet — Part 1 (009)
+   :source: 0255.jpg
+
+**Diplomatic Transcription — Folio 0255** (``0255.jpg``, Sheet 17 of 18):
+
+Derives cevian segment lengths in a Cartesian triangle frame.
+
+.. math::
+
+   E_N = 2\sin\frac{\pi}{N} = \sqrt{2 - \sqrt{4 - E_{N/2}^2}}, \qquad r_N = \cos\frac{\pi}{N} = \frac{1}{2}\sqrt{4 - E_N^2}

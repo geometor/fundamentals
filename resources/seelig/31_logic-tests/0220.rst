@@ -1,0 +1,12 @@
+.. folio:: 0220
+   :topic: F.31
+   :title: Spreadsheet Implementation — Part 2 (Page 6/)
+   :source: 0220.jpg
+
+**Diplomatic Transcription — Folio 0220** (``0220.jpg``, Sheet 6 of 6):
+
+Verifies the Boolean logic cells against numeric test coordinates for :math:`A, B, C` and their harmonic conjugate :math:`D`.
+
+.. math::
+
+   \text{Region } A:\; \overline{T}_2 T_3\; (-1 < k < 0), \qquad \text{Region } AB:\; T_1 T_2\; (0 < k < \infty), \qquad \text{Region } B:\; \overline{T}_1\overline{T}_3\; (-\infty < k < -1)

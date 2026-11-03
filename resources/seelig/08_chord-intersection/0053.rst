@@ -1,0 +1,12 @@
+.. folio:: 0053
+   :topic: F.8
+   :title: Concentric Circles & Ptolemy's Formula (CRC, p. 10)
+   :source: 0053.jpg
+
+**Diplomatic Transcription — Folio 0053** (``0053.jpg``, Sheet 4 of 4):
+
+Shows that :math:`R^2 - |OX|^2 = 16` with :math:`2R \ge 10` leaves one degree of freedom (the angle between chords) and applies Ptolemy's theorem :math:`AC\cdot BD + AD\cdot BC = 80`.
+
+.. math::
+
+   |AX| \cdot |BX| = |CX| \cdot |DX| = R^2 - |OX|^2, \qquad x_{\text{sagitta}} = R - \sqrt{R^2 - \left(\frac{c}{2}\right)^2}

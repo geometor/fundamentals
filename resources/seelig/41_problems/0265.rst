@@ -1,0 +1,12 @@
+.. folio:: 0265
+   :topic: F.41
+   :title: Master Geometry Problem Set — Problems 20–23 (2-007)
+   :source: 0265.jpg
+
+**Diplomatic Transcription — Folio 0265** (``0265.jpg``, Sheet 9 of 10):
+
+Poses problems on regular polygons, golden triangles, and biquadratic Heron forms.
+
+.. math::
+
+   A_{\text{acute}} = \int_0^{\sqrt{3}} \left(\sqrt{4 - x^2} - 1\right) dx - \frac{\pi}{4} = \frac{5\pi - 6\sqrt{3}}{12} \approx 0.44297

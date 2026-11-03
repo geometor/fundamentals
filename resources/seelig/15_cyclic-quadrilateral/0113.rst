@@ -1,0 +1,12 @@
+.. folio:: 0113
+   :topic: F.15
+   :title: Impossibility Proof via Cubic Factorization
+   :source: 0113.jpg
+
+**Diplomatic Transcription — Folio 0113** (``0113.jpg``, Sheet 16 of 16):
+
+Proves that :math:`k^3 - k^2 - k + 1 = 0`, :math:`k^3 - k^2 + k - 1 = 0`, and :math:`k^3 + k^2 - k - 1 = 0` have only roots :math:`\pm 1, \pm i`, ruling out any non-trivial geometric progression.
+
+.. math::
+
+   a c + b d = e f \quad (\text{Ptolemy}), \qquad (k^3 - k^2 + k - 1) = (k - 1)(k^2 + 1) = 0

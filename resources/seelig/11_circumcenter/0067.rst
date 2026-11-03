@@ -1,0 +1,12 @@
+.. folio:: 0067
+   :topic: F.11
+   :title: Poem by Christopher Morley (1890–1957)
+   :source: 0067.jpg
+
+**Diplomatic Transcription — Folio 0067** (``0067.jpg``, Sheet 2 of 6):
+
+Handwritten transcription of Morley's 6-line geometric poem *'A circle is a happy thing to be'*.
+
+.. math::
+
+   D = 2\left[x_A(y_C - y_B) + x_B(y_A - y_C) + x_C(y_B - y_A)\right], \qquad x_0 = \frac{\sum (x_A^2 + y_A^2)(y_C - y_B)}{D}

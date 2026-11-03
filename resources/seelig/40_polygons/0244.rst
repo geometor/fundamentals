@@ -1,0 +1,12 @@
+.. folio:: 0244
+   :topic: F.40
+   :title: Regular Pentadecagon E_15 Derivation (2-006, FWS 4/20/2015)
+   :source: 0244.jpg
+
+**Diplomatic Transcription — Folio 0244** (``0244.jpg``, Sheet 6 of 18):
+
+Computes :math:`E_{15} = 2\sin 12^\circ \approx 0.415823` using :math:`12^\circ = 30^\circ - 18^\circ` and Euclid IV.16.
+
+.. math::
+
+   E_{10} = \phi - 1 = \sqrt{2 - \phi}, \qquad E_5 = \sqrt{3 - \phi}, \qquad E_{15} = 2\sin 12^\circ = \frac{1}{4}\left(\sqrt{10 + 2\sqrt{5}} + \sqrt{3} - \sqrt{15}\right)

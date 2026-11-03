@@ -1,0 +1,12 @@
+.. folio:: 0172
+   :topic: F.26
+   :title: Reverse Formula Verification on Example 1 (FWS 11/19/2013)
+   :source: 0172.jpg
+
+**Diplomatic Transcription — Folio 0172** (``0172.jpg``, Sheet 5 of 15):
+
+Rewrites :math:`z^2 = J + K + R^4(1/J + 1/K)` and confirms :math:`z^2 = 1300/9` from both forward and reverse equations.
+
+.. math::
+
+   x y = |MC| \cdot |MD| = r^2, \qquad T^2 = y^2 - r^2 = |AD| \cdot |BD|, \qquad z^2 + T^2 = 2(r^2 + y^2) \implies z^2 = y^2 + 3 r^2

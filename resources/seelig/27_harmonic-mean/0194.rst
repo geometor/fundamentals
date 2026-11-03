@@ -1,0 +1,12 @@
+.. folio:: 0194
+   :topic: F.27
+   :title: Harmonic Progression with Full Euclid VI.3 Footnote
+   :source: 0194.jpg
+
+**Diplomatic Transcription — Folio 0194** (``0194.jpg``, Sheet 12 of 19):
+
+Uncropped scan showing all three lines of Footnote 1 citing *Elements* VI.3.
+
+.. math::
+
+   Y^2 + (X + Z) Y - X Z = 0 \implies Y = \frac{-(X + Z) + \sqrt{(X + Z)^2 + 4 X Z}}{2}

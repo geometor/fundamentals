@@ -1,0 +1,12 @@
+.. folio:: 0314
+   :topic: F.48
+   :title: Discriminant & Minimum Cevian Length d_min = h_c (009)
+   :source: 0314.jpg
+
+**Diplomatic Transcription — Folio 0314** (``0314.jpg``, Sheet 9 of 9):
+
+Shows that the quadratic discriminant vanishes precisely when :math:`d = d_{\min} = h_c \approx 3.25` (the perpendicular altitude).
+
+.. math::
+
+   s_A = x = s - a, \qquad r_A = r\frac{x}{s}, \qquad K_A = K\left(\frac{x}{s}\right)^2, \qquad r_A + r_B + r_C = r\frac{x + y + z}{s} = r

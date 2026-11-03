@@ -1,0 +1,12 @@
+.. folio:: 0110
+   :topic: F.15
+   :title: Ptolemy's Theorem & Parameterization by Angle mu (Part 1)
+   :source: 0110.jpg
+
+**Diplomatic Transcription — Folio 0110** (``0110.jpg``, Sheet 13 of 16):
+
+Normalizes diagonal :math:`WY = 1` and applies the Law of Sines and Ptolemy's theorem :math:`ac + bd = |XZ|`.
+
+.. math::
+
+   \theta + 2\theta + 3\theta + 4\theta = 360^\circ \implies \theta = 36^\circ, \qquad f = |XZ| = 2\sin 36^\circ = \sqrt{3 - \phi}, \qquad e = |YW| = 2\sin 72^\circ = \phi\sqrt{3 - \phi}

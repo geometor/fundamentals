@@ -1,0 +1,12 @@
+.. folio:: 0135
+   :topic: F.24
+   :title: Gothic Arch & Oculus Circle System in Square of Side s
+   :source: 0135.jpg
+
+**Diplomatic Transcription — Folio 0135** (``0135.jpg``, Sheet 1 of 5):
+
+Sets up circle :math:`r^2 = (x-s/2)^2 + (y-Q)^2`, arch :math:`s^2 = x^2+y^2`, and line :math:`l_{CF}: y = \sqrt{3}x + s(1-\sqrt{3})`.
+
+.. math::
+
+   r^2 = \left(x - \frac{s}{2}\right)^2 + (y - Q)^2, \qquad p s = P_x H_x + P_y H_y \quad (r = s - p), \qquad g^2 = G_x^2 + G_y^2 = 2 s G_x

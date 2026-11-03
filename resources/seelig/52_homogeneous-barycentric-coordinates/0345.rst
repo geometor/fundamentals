@@ -1,0 +1,12 @@
+.. folio:: 0345
+   :topic: F.52
+   :title: HP-35s & Spreadsheet Verification Case (co009)
+   :source: 0345.jpg
+
+**Diplomatic Transcription — Folio 0345** (``0345.jpg``, Sheet 15 of 15):
+
+Cross-checks the barycentric coordinates and Cartesian outputs against the HP-35s triangle program.
+
+.. math::
+
+   P = \lambda_A A + \lambda_B B + \lambda_C C \qquad (\lambda_A + \lambda_B + \lambda_C = 1), \qquad \lambda_A = \frac{u}{u + v + w} = \frac{[PBC]}{[ABC]}

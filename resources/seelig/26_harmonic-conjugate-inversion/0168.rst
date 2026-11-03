@@ -1,0 +1,12 @@
+.. folio:: 0168
+   :topic: F.26
+   :title: Harmonic Conjugation, Inversion & The Important Parallelogram (FWS 11/19/2013)
+   :source: 0168.jpg
+
+**Diplomatic Transcription — Folio 0168** (``0168.jpg``, Sheet 1 of 15):
+
+Introduces Fig. 1 showing circle :math:`\Gamma(M, r)`, inverse points :math:`C, D` (:math:`xy = r^2`), tangent :math:`DT = T`, and parallelogram :math:`M D M_T T` with diagonal :math:`z`.
+
+.. math::
+
+   x y = |MC| \cdot |MD| = r^2, \qquad T^2 = y^2 - r^2 = |AD| \cdot |BD|, \qquad z^2 + T^2 = 2(r^2 + y^2) \implies z^2 = y^2 + 3 r^2

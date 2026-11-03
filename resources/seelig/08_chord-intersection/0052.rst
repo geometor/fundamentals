@@ -1,0 +1,12 @@
+.. folio:: 0052
+   :topic: F.8
+   :title: Proof via Similar Triangles & Power of Point X
+   :source: 0052.jpg
+
+**Diplomatic Transcription — Folio 0052** (``0052.jpg``, Sheet 3 of 4):
+
+Proves :math:`AX\cdot BX = CX\cdot DX` from :math:`\triangle AXC \simeq \triangle DXB` and equates it to :math:`R^2 - |OX|^2`.
+
+.. math::
+
+   |AX| \cdot |BX| = |CX| \cdot |DX| = R^2 - |OX|^2, \qquad x_{\text{sagitta}} = R - \sqrt{R^2 - \left(\frac{c}{2}\right)^2}

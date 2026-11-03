@@ -1,0 +1,12 @@
+.. folio:: 0348
+   :topic: F.54
+   :title: HP-35s Register Map A–Z & (5, 6, 7) Test Case
+   :source: 0348.jpg
+
+**Diplomatic Transcription — Folio 0348** (``0348.jpg``, Sheet 2 of 2):
+
+Documents the allocation of calculator registers ``A`` through ``Z`` and verifies the forward and inverse routines on the :math:`(5,6,7)` triangle.
+
+.. math::
+
+   \text{CAR 2 BARY:}\quad V = \frac{Q}{J}, \qquad U = \frac{P - I V}{M}, \qquad T = 1 - (U + V)

@@ -1,0 +1,12 @@
+.. folio:: 0202
+   :topic: F.28
+   :title: Incenter of a Triangle Summary Sheet (FWS 6/1/2011)
+   :source: 0202.jpg
+
+**Diplomatic Transcription — Folio 0202** (``0202.jpg``, Sheet 1 of 5):
+
+Gives formulas for :math:`a, b, c, s, (X_O, Y_O), r = K/s`, and tangent segments :math:`s-a, s-b, s-c`.
+
+.. math::
+
+   \vec{I} = \frac{a \vec{A} + b \vec{B} + c \vec{C}}{a + b + c}, \qquad r = \frac{K}{s} = \sqrt{\frac{(s - a)(s - b)(s - c)}{s}}, \qquad \frac{1}{r} = \frac{1}{h_a} + \frac{1}{h_b} + \frac{1}{h_c}

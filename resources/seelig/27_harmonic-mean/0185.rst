@@ -1,0 +1,12 @@
+.. folio:: 0185
+   :topic: F.27
+   :title: An Interesting Construction Involving the Harmonic Mean (Page 4)
+   :source: 0185.jpg
+
+**Diplomatic Transcription — Folio 0185** (``0185.jpg``, Sheet 3 of 19):
+
+Constructs circle :math:`\Gamma_0` of diameter :math:`AB = m-n` and auxiliary circle :math:`\Gamma_Q` of diameter :math:`m+n`.
+
+.. math::
+
+   |CD| = \operatorname{HM}(|BD|,\, |AD|) = \frac{2 |BD| \cdot |AD|}{|BD| + |AD|} = r\left(\gamma + \frac{1}{\gamma}\right), \qquad x^2 = \frac{(r / t)^2}{\frac{1}{r^2} + \frac{1}{t^2}} = \left(\frac{r}{\gamma}\right)^2

@@ -1,0 +1,12 @@
+.. folio:: 0124
+   :topic: F.18
+   :title: Incenter-Bisector Equilateral Triangle Proof via Roots of Unity (Page 2)
+   :source: 0124.jpg
+
+**Diplomatic Transcription — Folio 0124** (``0124.jpg``, Sheet 3 of 3):
+
+Substitutes :math:`u = \alpha/2 + \pi/6, v = \beta/2 + \pi/6, w = \gamma/2 + \pi/6` (:math:`u+v+w=\pi`) and complex cube root of unity :math:`\epsilon = e^{i 2\pi/3}`.
+
+.. math::
+
+   h_A = \frac{\sqrt{3}}{2} a = 3 r, \qquad R = \frac{a}{\sqrt{3}} = 2 r, \qquad K = \frac{\sqrt{3}}{4} a^2

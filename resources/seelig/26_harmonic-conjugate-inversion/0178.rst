@@ -1,0 +1,12 @@
+.. folio:: 0178
+   :topic: F.26
+   :title: Master Landscape Table for kappa = 3/5 (FWS 11/20/2013)
+   :source: 0178.jpg
+
+**Diplomatic Transcription — Folio 0178** (``0178.jpg``, Sheet 11 of 15):
+
+Complete table of graphical and exact integer coordinates (:math:`x=9, t=12, r=15, y=25, T=20, R=8, k=4`) with scale diagram.
+
+.. math::
+
+   x y = |MC| \cdot |MD| = r^2, \qquad T^2 = y^2 - r^2 = |AD| \cdot |BD|, \qquad z^2 + T^2 = 2(r^2 + y^2) \implies z^2 = y^2 + 3 r^2

@@ -1,0 +1,12 @@
+.. folio:: 0058
+   :topic: F.9
+   :title: Tony Garcia / Sangaku Problem Setup (Posted Sept. 28, 2014)
+   :source: 0058.jpg
+
+**Diplomatic Transcription — Folio 0058** (``0058.jpg``, Sheet 5 of 8):
+
+Draws circle :math:`\Gamma_O(R)`, inscribed square :math:`ACBD` of side :math:`\sqrt{2}R`, equilateral triangle :math:`\triangle ACE`, and inscribed tangent circle :math:`\Gamma_P(r)`.
+
+.. math::
+
+   x^2 + y^2 = 9, \quad x^2 + (y - Z)^2 = 25, \quad (x - Z)^2 + y^2 = 49 \implies 2 Z (Q - P) = 24

@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0222**
+
+Archival scan ``0222.jpg`` from Fred W. Seelig's notebook dossier on **F.32 Markowski's Theorem** (Page 2 of 2). Companion OpenDocument worksheet(s): ``Circumcircle-Circumcenter``, ``Incircle-Incenter``. Classical Euclidean foundations: :ref:`III.35`, :ref:`IV.5`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(1)`, :ref:`X(3)`.

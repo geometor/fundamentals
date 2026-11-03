@@ -1,46 +1,23 @@
-fundamentals
-============
+.. include:: docsrc/intro.rst
 
-A library of fundamental geometric constructions and principles.
+Installation & CLI Usage
+------------------------
 
-Features
---------
-
-.. todo:: TODO: insert features
-
-Installation
-------------
-
-You can install **fundamentals** using pip:
+Within the ``geometor`` ``uv`` workspace:
 
 .. code-block:: bash
 
-   pip install geometor-fundamentals
+   # Ingest Fred Seelig's 55 topics (353 folios) and spreadsheets, and compile the Book Codex
+   uv run --offline fundamentals build
 
-Usage
------
+   # Display summary table of all 55 topics and 353 folios
+   uv run --offline fundamentals status
 
-After installation, you can use the ``fundamentals`` command to create a new project:
+   # Inspect a specific 4-digit folio transcription
+   uv run --offline fundamentals-review --folio 0001
 
-.. code-block:: bash
+   # Run test suite
+   uv run --offline pytest
 
-   fundamentals 
-
-.. todo:: TODO: list arguments
-
-Dependencies
-------------
-
-**fundamentals** depends on the following Python packages:
-
-.. todo:: TODO: read from pyproject.toml 
-
-Contributing
-------------
-
-Contributions are welcome! Please see our [GitHub issues](https://github.com/geometor/fundamentals/issues) for ways to contribute.
-
-License
--------
-
-**fundamentals** is licensed under the MIT License. See the `LICENSE` file for more details.
+   # Build HTML documentation
+   sphinx-build -b html docsrc docs

@@ -1,0 +1,12 @@
+.. folio:: 0196
+   :topic: F.27
+   :title: Duplicate Scan of Harmonic Progression Page 2
+   :source: 0196.jpg
+
+**Diplomatic Transcription — Folio 0196** (``0196.jpg``, Sheet 14 of 19):
+
+Second scan of the `FWS 11/13/2013` worksheet.
+
+.. math::
+
+   Y^2 + (X + Z) Y - X Z = 0 \implies Y = \frac{-(X + Z) + \sqrt{(X + Z)^2 + 4 X Z}}{2}

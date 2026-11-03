@@ -1,0 +1,12 @@
+.. folio:: 0344
+   :topic: F.52
+   :title: Barycentric Distance & Cevian Trace Formulas (co008)
+   :source: 0344.jpg
+
+**Diplomatic Transcription — Folio 0344** (``0344.jpg``, Sheet 14 of 15):
+
+Records the cevian trace ratios :math:`|BD|/|DC| = \lambda_C/\lambda_B` and the barycentric distance metric.
+
+.. math::
+
+   X(1) = (a : b : c),\quad X(2) = (1 : 1 : 1),\quad X(3) = (a^2 S_A : b^2 S_B : c^2 S_C),\quad X(4) = (S_B S_C : S_C S_A : S_A S_B),\quad X(6) = (a^2 : b^2 : c^2)

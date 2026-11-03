@@ -1,0 +1,12 @@
+.. folio:: 0097
+   :topic: F.14
+   :title: Clean Reference Card for Conway Symbols
+   :source: 0097.jpg
+
+**Diplomatic Transcription — Folio 0097** (``0097.jpg``, Sheet 6 of 6):
+
+Summarizes :math:`S_A, S_B, S_C` as offsets from :math:`(a^2+b^2+c^2)/2`.
+
+.. math::
+
+   S^2 = b^2 c^2 - S_A^2 = S_A S_B + S_B S_C + S_C S_A, \qquad S_A S_B S_C = S^2 (S_\omega - 4 R^2)

@@ -1,0 +1,12 @@
+.. folio:: 0208
+   :topic: F.29
+   :title: Conway Intouch Segments & Gergonne Point (Page 1)
+   :source: 0208.jpg
+
+**Diplomatic Transcription — Folio 0208** (``0208.jpg``, Sheet 2 of 3):
+
+Relates :math:`x = s-a, y = s-b, z = s-c` to the incircle contact points :math:`T_A, T_B, T_C` and the Gergonne point :math:`G_e = AT_A \cap BT_B \cap CT_C`, deriving :math:`r^2 = xyz/s`.
+
+.. math::
+
+   r = 4 R \sin\frac{\alpha}{2}\sin\frac{\beta}{2}\sin\frac{\gamma}{2}, \qquad x = s - a,\; y = s - b,\; z = s - c

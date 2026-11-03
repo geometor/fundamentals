@@ -1,0 +1,12 @@
+.. folio:: 0207
+   :topic: F.29
+   :title: Inradius & Special Inradius Values
+   :source: 0207.jpg
+
+**Diplomatic Transcription — Folio 0207** (``0207.jpg``, Sheet 1 of 3):
+
+Records algebraic and trigonometric formulas for :math:`r` alongside a special-value table for Pythagorean triples :math:`(3,4,5), (5,12,13), (8,15,17), (7,24,25)`, the :math:`30^\circ\text{--}60^\circ\text{--}90^\circ` triangle, and the golden triangle :math:`(\phi b, \phi b, b)` with :math:`r = \frac{b}{2}\sqrt{5-2\sqrt{5}}`.
+
+.. math::
+
+   r = \frac{K}{s} = \frac{1}{2}\sqrt{\frac{(b+c-a)(c+a-b)(a+b-c)}{a+b+c}} = \sqrt{\frac{x y z}{x + y + z}}

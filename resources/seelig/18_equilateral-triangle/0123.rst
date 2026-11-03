@@ -1,0 +1,12 @@
+.. folio:: 0123
+   :topic: F.18
+   :title: Incenter-Bisector Equilateral Triangle Proof (Page 1)
+   :source: 0123.jpg
+
+**Diplomatic Transcription — Folio 0123** (``0123.jpg``, Sheet 2 of 3):
+
+Simplifies :math:`A'I = r\csc(\alpha/2) - r\cot(\alpha/2) + \frac{r}{\sqrt{3}}\cos(\alpha/2) = \frac{2r}{\sqrt{3}}\sin(\frac{\alpha}{2} + \frac{\pi}{6})`.
+
+.. math::
+
+   A'I = \frac{2 r}{\sqrt{3}}\sin\left(\frac{\alpha}{2} + \frac{\pi}{6}\right), \qquad P(\epsilon) = m + n\epsilon + p\epsilon^2 = 0 \quad (\epsilon = e^{i 2\pi/3})

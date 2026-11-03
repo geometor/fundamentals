@@ -1,0 +1,12 @@
+.. folio:: 0309
+   :topic: F.48
+   :title: Numerical Evaluation on the (5, 6, 7) Triangle (004)
+   :source: 0309.jpg
+
+**Diplomatic Transcription — Folio 0309** (``0309.jpg``, Sheet 4 of 9):
+
+Evaluates :math:`x/s = 4/9, y/s = 3/9, z/s = 2/9` and checks :math:`r_A + r_B + r_C = r` and :math:`K_A + K_B + K_C = \frac{29}{81}K`.
+
+.. math::
+
+   |AI| = |II_A|\frac{r}{r_a - r}, \qquad |AI_A| = |II_A|\frac{r_a}{r_a - r}, \qquad c^2 k^2 - (c^2 + a^2 - b^2) k + (a^2 - d^2) = 0

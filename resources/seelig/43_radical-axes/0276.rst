@@ -1,0 +1,12 @@
+.. folio:: 0276
+   :topic: F.43
+   :title: 2x2 Linear System for the Radical Center W (006)
+   :source: 0276.jpg
+
+**Diplomatic Transcription — Folio 0276** (``0276.jpg``, Sheet 6 of 11):
+
+Intersects two radical axes in intercept form to solve for the radical center :math:`W = (W_x, W_y)`.
+
+.. math::
+
+   \Gamma_A(A, h_A),\; \Gamma_B(B, h_B),\; \Gamma_C(C, h_C) \implies \frac{x}{x_0} + \frac{y}{y_0} = 1

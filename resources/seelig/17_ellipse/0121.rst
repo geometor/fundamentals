@@ -1,0 +1,12 @@
+.. folio:: 0121
+   :topic: F.17
+   :title: Focus, Directrix, Eccentricity & Latus Rectum Identities
+   :source: 0121.jpg
+
+**Diplomatic Transcription — Folio 0121** (``0121.jpg``, Sheet 4 of 4):
+
+Derives :math:`F = ae, d = a/e, e^2 = F/d, V = a = \sqrt{dF}`, and latus rectum :math:`L = 2b^2/a`.
+
+.. math::
+
+   \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1, \qquad r_1 + r_2 = 2 a, \qquad V = a = \sqrt{d \cdot F}, \qquad L = \frac{2 b^2}{a}

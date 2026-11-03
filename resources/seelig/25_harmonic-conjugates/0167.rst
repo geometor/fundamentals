@@ -1,0 +1,12 @@
+.. folio:: 0167
+   :topic: F.25
+   :title: External Tangent T' = R*sqrt(k^2 - 1)
+   :source: 0167.jpg
+
+**Diplomatic Transcription — Folio 0167** (``0167.jpg``, Sheet 28 of 28):
+
+Completes the derivation of :math:`T' = r\frac{2(1+\kappa)}{\sqrt{\kappa}}`.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

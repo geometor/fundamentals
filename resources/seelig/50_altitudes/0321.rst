@@ -1,0 +1,12 @@
+.. folio:: 0321
+   :topic: F.50
+   :title: Six Orthocenter Segment Identities in Conway Notation (altitudes-003)
+   :source: 0321.jpg
+
+**Diplomatic Transcription — Folio 0321** (``0321.jpg``, Sheet 4 of 4):
+
+Records :math:`t_A + t_B + t_C = 2(r+R)` and five companion identities for the upper and lower orthocenter segments.
+
+.. math::
+
+   \frac{1}{h_A^2} + \frac{1}{h_B^2} = \frac{1}{h_C^2} \quad (\gamma = 90^\circ), \qquad |AH| + |BH| + |CH| = 2(r + R)

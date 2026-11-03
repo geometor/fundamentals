@@ -1,0 +1,12 @@
+.. folio:: 0331
+   :topic: F.52
+   :title: Homogeneous Barycentric Coordinates — Area & Mass Interpretation (bari-centers-001)
+   :source: 0331.jpg
+
+**Diplomatic Transcription — Folio 0331** (``0331.jpg``, Sheet 1 of 15):
+
+Defines :math:`\lambda_A = [PBC]/[ABC], \lambda_B = [PCA]/[ABC], \lambda_C = [PAB]/[ABC]` with :math:`\lambda_A + \lambda_B + \lambda_C = 1`.
+
+.. math::
+
+   P = \lambda_A A + \lambda_B B + \lambda_C C \qquad (\lambda_A + \lambda_B + \lambda_C = 1), \qquad \lambda_A = \frac{u}{u + v + w} = \frac{[PBC]}{[ABC]}

@@ -1,0 +1,12 @@
+.. folio:: 0287
+   :topic: F.45
+   :title: Compass Construction of Inscribed Square & Equilateral Triangle (001)
+   :source: 0287.jpg
+
+**Diplomatic Transcription — Folio 0287** (``0287.jpg``, Sheet 1 of 6):
+
+Inscribes a square of side :math:`\sqrt{2}R` and an equilateral triangle of side :math:`\sqrt{3}R` inside a circle of radius :math:`R`.
+
+.. math::
+
+   s_{\square} = \sqrt{2}\,R, \qquad s_{\triangle} = \sqrt{3}\,R, \qquad OM_A + OM_B + OM_C = R + r

@@ -1,0 +1,12 @@
+.. folio:: 0036
+   :topic: F.7
+   :title: MNIJ Line Equations L_A, L_B, L_C, L_D, L_E, L_F
+   :source: 0036.jpg
+
+**Diplomatic Transcription — Folio 0036** (``0036.jpg``, Sheet 13 of 26):
+
+Derives intercept equations for the three sidelines and three cevians through :math:`P(P, Q)`.
+
+.. math::
+
+   \frac{AF}{FB} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = +1 \quad (\text{Ceva}), \qquad \frac{AF'}{F'B} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = -1 \quad (\text{Menelaus})

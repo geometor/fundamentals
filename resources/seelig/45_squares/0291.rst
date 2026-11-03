@@ -1,0 +1,12 @@
+.. folio:: 0291
+   :topic: F.45
+   :title: Subdivided Equilateral Triangles of Sides 6 and 1 (005)
+   :source: 0291.jpg
+
+**Diplomatic Transcription — Folio 0291** (``0291.jpg``, Sheet 5 of 6):
+
+Partitions an equilateral triangle of side 6 into 36 unit equilateral triangles and computes sub-triangle altitudes and centroids.
+
+.. math::
+
+   s_{\square} = \sqrt{2}\,R, \qquad s_{\triangle} = \sqrt{3}\,R, \qquad OM_A + OM_B + OM_C = R + r

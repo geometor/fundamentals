@@ -1,0 +1,12 @@
+.. folio:: 0126
+   :topic: F.19
+   :title: Similarity Proof & Hyperbolic Identity ('interesting!!!')
+   :source: 0126.jpg
+
+**Diplomatic Transcription — Folio 0126** (``0126.jpg``, Sheet 2 of 2):
+
+Uses :math:`\triangle OWX \sim \triangle PQX` to derive :math:`(h-r)(\tan\gamma_{n+1}-\tan\gamma_n) = r(\sec\gamma_n+\sec\gamma_{n+1})` and reduces it to :math:`\frac{r}{h-r} = \tanh(b/2)`.
+
+.. math::
+
+   \tan\gamma_n = \sinh(a + n b), \qquad \sec\gamma_n = \cosh(a + n b), \qquad \frac{r}{h - r} = \tanh\frac{b}{2}

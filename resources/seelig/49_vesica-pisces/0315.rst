@@ -1,0 +1,12 @@
+.. folio:: 0315
+   :topic: F.49
+   :title: Locus of Longest-Side Triangles in the Vesica Piscis (001)
+   :source: 0315.jpg
+
+**Diplomatic Transcription — Folio 0315** (``0315.jpg``, Sheet 1 of 3):
+
+Identifies the region where :math:`|AC| \le c` and :math:`|BC| \le c` with the vesica piscis on :math:`AB` and computes the quarter-vesica area :math:`c^2\frac{4\pi-3\sqrt{3}}{24}`.
+
+.. math::
+
+   (O) + (A) = c^2\left(\frac{\pi}{6} - \frac{\sqrt{3}}{8}\right) = c^2\frac{4\pi - 3\sqrt{3}}{24}, \qquad (O) = \frac{1}{4}\pi\left(\frac{c}{2}\right)^2 = c^2\frac{\pi}{16}

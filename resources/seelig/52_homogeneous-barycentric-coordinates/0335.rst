@@ -1,0 +1,12 @@
+.. folio:: 0335
+   :topic: F.52
+   :title: Canonical (5, 6, 7) Barycentric Evaluation Table — Part 2 (bari-centers-005)
+   :source: 0335.jpg
+
+**Diplomatic Transcription — Folio 0335** (``0335.jpg``, Sheet 5 of 15):
+
+Evaluates normalized barycentric and Cartesian coordinates of :math:`N, K, G_e, N_a` on the :math:`(5,6,7)` triangle.
+
+.. math::
+
+   P = \lambda_A A + \lambda_B B + \lambda_C C \qquad (\lambda_A + \lambda_B + \lambda_C = 1), \qquad \lambda_A = \frac{u}{u + v + w} = \frac{[PBC]}{[ABC]}

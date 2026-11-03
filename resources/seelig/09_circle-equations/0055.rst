@@ -1,0 +1,12 @@
+.. folio:: 0055
+   :topic: F.9
+   :title: Semicircle Geometric Mean Representation (Part 2)
+   :source: 0055.jpg
+
+**Diplomatic Transcription — Folio 0055** (``0055.jpg``, Sheet 2 of 8):
+
+Represents :math:`P^2` and :math:`Q^2` as geometric mean altitudes in semicircles of radii 3, 5, and 7.
+
+.. math::
+
+   l_{AE}:\; y = \sqrt{3}x - \frac{\sqrt{2}}{2}R, \qquad P_y = \frac{r_F^2 - r_I^2}{2(F_y - I_y)}

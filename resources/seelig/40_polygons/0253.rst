@@ -1,0 +1,12 @@
+.. folio:: 0253
+   :topic: F.40
+   :title: Regular Enneagon (N = 9) Angle-Chasing Attempt — Page 1 (006)
+   :source: 0253.jpg
+
+**Diplomatic Transcription — Folio 0253** (``0253.jpg``, Sheet 15 of 18):
+
+Investigates chord relationships in the regular 9-gon (:math:`20^\circ` central half-angle).
+
+.. math::
+
+   E_N = 2\sin\frac{\pi}{N} = \sqrt{2 - \sqrt{4 - E_{N/2}^2}}, \qquad r_N = \cos\frac{\pi}{N} = \frac{1}{2}\sqrt{4 - E_N^2}

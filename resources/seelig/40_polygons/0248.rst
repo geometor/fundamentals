@@ -1,0 +1,12 @@
+.. folio:: 0248
+   :topic: F.40
+   :title: Inscribed Triangle & Square Constructions (001)
+   :source: 0248.jpg
+
+**Diplomatic Transcription — Folio 0248** (``0248.jpg``, Sheet 10 of 18):
+
+Compass diagrams of the inscribed equilateral triangle (:math:`E_3 = \sqrt{3}R`) and square (:math:`E_4 = \sqrt{2}R`).
+
+.. math::
+
+   E_{10} = \phi - 1 = \sqrt{2 - \phi}, \qquad E_5 = \sqrt{3 - \phi}, \qquad E_{15} = 2\sin 12^\circ = \frac{1}{4}\left(\sqrt{10 + 2\sqrt{5}} + \sqrt{3} - \sqrt{15}\right)

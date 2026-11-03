@@ -1,0 +1,12 @@
+.. folio:: 0275
+   :topic: F.43
+   :title: Radical Axis of Gamma_B and Gamma_C (005)
+   :source: 0275.jpg
+
+**Diplomatic Transcription — Folio 0275** (``0275.jpg``, Sheet 5 of 11):
+
+Derives the double-intercept equation for the third radical axis opposite side :math:`a = BC`.
+
+.. math::
+
+   x = |O_1 P| = \frac{d}{2} + \frac{r_1^2 - r_2^2}{2 d}, \qquad x' = |O_2 P| = \frac{d}{2} - \frac{r_1^2 - r_2^2}{2 d}, \qquad t^2 = x^2 - r_1^2 = {x'}^2 - r_2^2

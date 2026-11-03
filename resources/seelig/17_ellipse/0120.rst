@@ -1,0 +1,12 @@
+.. folio:: 0120
+   :topic: F.17
+   :title: Full-Page Compass Execution of the Five-Circle Oval
+   :source: 0120.jpg
+
+**Diplomatic Transcription — Folio 0120** (``0120.jpg``, Sheet 3 of 4):
+
+Precision compass-and-straightedge construction showing centers :math:`C_1..C_5` and smooth tangent circular arcs.
+
+.. math::
+
+   \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1, \qquad r_1 + r_2 = 2 a, \qquad V = a = \sqrt{d \cdot F}, \qquad L = \frac{2 b^2}{a}

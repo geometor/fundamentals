@@ -1,0 +1,12 @@
+.. folio:: 0316
+   :topic: F.49
+   :title: Thales Semicircle Partition into Obtuse (O) & Acute (A) Regions (002)
+   :source: 0316.jpg
+
+**Diplomatic Transcription — Folio 0316** (``0316.jpg``, Sheet 2 of 3):
+
+Uses the semicircle of radius :math:`c/2` on diameter :math:`AB` to separate obtuse triangles :math:`(O) = c^2\pi/16` from acute triangles :math:`(A) = c^2\frac{5\pi-6\sqrt{3}}{48}`.
+
+.. math::
+
+   (A) = c^2\frac{5\pi - 6\sqrt{3}}{48}, \qquad \frac{(O)}{(A)} = \frac{3\pi}{5\pi - 6\sqrt{3}} \approx 1.7731

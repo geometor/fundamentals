@@ -1,0 +1,12 @@
+.. folio:: 0288
+   :topic: F.45
+   :title: Line Intersection N Inside a Square — Setup (002)
+   :source: 0288.jpg
+
+**Diplomatic Transcription — Folio 0288** (``0288.jpg``, Sheet 2 of 6):
+
+Sets up a square of side :math:`s` on Cartesian axes and writes the two-intercept equations of intersecting cevians meeting at :math:`N = (X_N, Y_N)`.
+
+.. math::
+
+   X_N = \frac{s \cdot u v}{u + v - u v}, \qquad Y_N = \frac{s \cdot u (1 - v)}{u + v - u v}

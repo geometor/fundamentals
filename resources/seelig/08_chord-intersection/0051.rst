@@ -1,0 +1,12 @@
+.. folio:: 0051
+   :topic: F.8
+   :title: Intersecting Chords Problem (m = 8, n = 10)
+   :source: 0051.jpg
+
+**Diplomatic Transcription — Folio 0051** (``0051.jpg``, Sheet 2 of 4):
+
+Solves :math:`4\cdot 4 = x(10-x) \implies x = 2, 8` and sets up isosceles triangles :math:`\triangle OAB` and :math:`\triangle OCD` to find :math:`|OX| = r`.
+
+.. math::
+
+   |AX| \cdot |BX| = |CX| \cdot |DX| = R^2 - |OX|^2, \qquad x_{\text{sagitta}} = R - \sqrt{R^2 - \left(\frac{c}{2}\right)^2}

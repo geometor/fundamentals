@@ -1,0 +1,12 @@
+.. folio:: 0117
+   :topic: F.16
+   :title: Compass Construction of Mutually Tangent Soddy Circles
+   :source: 0117.jpg
+
+**Diplomatic Transcription — Folio 0117** (``0117.jpg``, Sheet 4 of 4):
+
+Precision compass drawing of three mutually tangent circles enclosed by an outer tangent circle and surrounding a small inner tangent circle.
+
+.. math::
+
+   L_{+++}:\; \{S_{\text{EX}\,AB},\, S_{\text{EX}\,BC},\, S_{\text{EX}\,CA}\}, \qquad L_{+--}:\; \{S_{\text{EX}\,AB},\, S_{\text{IN}\,BC},\, S_{\text{IN}\,CA}\}

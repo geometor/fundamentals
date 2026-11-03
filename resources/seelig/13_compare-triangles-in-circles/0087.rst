@@ -1,0 +1,12 @@
+.. folio:: 0087
+   :topic: F.13
+   :title: Equations for a(theta; R) and b(theta; R) via Median f
+   :source: 0087.jpg
+
+**Diplomatic Transcription — Folio 0087** (``0087.jpg``, Sheet 4 of 8):
+
+Uses median :math:`f = |MC|` at angle :math:`\theta` to :math:`AB` to express :math:`a^2` and :math:`b^2`.
+
+.. math::
+
+   a^2 = f^2 + \frac{c^2}{4} + f c \cos\theta, \qquad b^2 = f^2 + \frac{c^2}{4} - f c \cos\theta

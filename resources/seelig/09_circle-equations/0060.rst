@@ -1,0 +1,12 @@
+.. folio:: 0060
+   :topic: F.9
+   :title: Circle Equation for Arc CD Centered at B
+   :source: 0060.jpg
+
+**Diplomatic Transcription — Folio 0060** (``0060.jpg``, Sheet 7 of 8):
+
+Writes :math:`(x - \frac{\sqrt{2}}{2}R)^2 + (y - \frac{\sqrt{2}}{2}R)^2 = 2R^2` for arc :math:`\widehat{CD}`.
+
+.. math::
+
+   x^2 + y^2 = 9, \quad x^2 + (y - Z)^2 = 25, \quad (x - Z)^2 + y^2 = 49 \implies 2 Z (Q - P) = 24

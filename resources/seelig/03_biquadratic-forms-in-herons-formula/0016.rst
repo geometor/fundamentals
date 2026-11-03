@@ -1,0 +1,12 @@
+.. folio:: 0016
+   :topic: F.3
+   :title: Heron's Formula Grouped Around b/2
+   :source: 0016.jpg
+
+**Diplomatic Transcription — Folio 0016** (``0016.jpg``, Sheet 6 of 9):
+
+Factors :math:`K = \sqrt{[(b/2)^2 - ((a-c)/2)^2][((a+c)/2)^2 - (b/2)^2]}`.
+
+.. math::
+
+   16 K^2 = 2 a^2 b^2 + 2 b^2 c^2 + 2 c^2 a^2 - a^4 - b^4 - c^4, \qquad {z_i^*}^2 = w_i^2 + w_i w_i' + {w_i'}^2

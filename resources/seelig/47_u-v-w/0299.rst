@@ -1,0 +1,12 @@
+.. folio:: 0299
+   :topic: F.47
+   :title: 2x2 Matrix System for Cevian Trace E (005)
+   :source: 0299.jpg
+
+**Diplomatic Transcription — Folio 0299** (``0299.jpg``, Sheet 5 of 11):
+
+Intersects line :math:`BP` with side :math:`AC` to derive the closed-form coordinates of :math:`E = (E_x, E_y)`.
+
+.. math::
+
+   A = (-U, 0), \qquad B = (W, 0), \qquad C = (0, V), \qquad a^2 = V^2 + W^2,\; b^2 = U^2 + V^2,\; c = U + W

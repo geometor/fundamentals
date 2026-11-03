@@ -1,0 +1,12 @@
+.. folio:: 0342
+   :topic: F.52
+   :title: Nine-Point Circle of the (7, 8, 9) Triangle — Compass Drawing (co006)
+   :source: 0342.jpg
+
+**Diplomatic Transcription — Folio 0342** (``0342.jpg``, Sheet 12 of 15):
+
+Full-page geometric construction of :math:`\triangle ABC` with sides :math:`(7,8,9)` and its nine-point circle :math:`\Gamma_N` passing through all nine classical points.
+
+.. math::
+
+   X(1) = (a : b : c),\quad X(2) = (1 : 1 : 1),\quad X(3) = (a^2 S_A : b^2 S_B : c^2 S_C),\quad X(4) = (S_B S_C : S_C S_A : S_A S_B),\quad X(6) = (a^2 : b^2 : c^2)

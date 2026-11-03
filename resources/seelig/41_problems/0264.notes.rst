@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0264**
+
+Archival scan ``0264.jpg`` from Fred W. Seelig's notebook dossier on **F.41 Geometric Problems and Extremal Loci** (Page 8 of 10). Companion OpenDocument worksheet(s): ``Monte Carlo``, ``General Reference``. Classical Euclidean foundations: :ref:`I.1`, :ref:`III.31`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(1)`, :ref:`X(3)`.

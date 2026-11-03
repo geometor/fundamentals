@@ -1,0 +1,12 @@
+.. folio:: 0300
+   :topic: F.47
+   :title: Cevian Trace F on the Baseline & Ceva Ratios (006)
+   :source: 0300.jpg
+
+**Diplomatic Transcription — Folio 0300** (``0300.jpg``, Sheet 6 of 11):
+
+Finds :math:`F = (pV/(V-q), 0)` on the :math:`x`-axis and computes the signed Ceva ratios along all three sides.
+
+.. math::
+
+   F_x = \frac{p V}{V - q}, \qquad D = \left(\frac{W V (U + p)}{V(U + W) + q W},\; \frac{V q (U + W)}{V(U + W) + q W}\right)

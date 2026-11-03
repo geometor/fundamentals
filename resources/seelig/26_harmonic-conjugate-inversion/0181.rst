@@ -1,0 +1,12 @@
+.. folio:: 0181
+   :topic: F.26
+   :title: Center Distance d and Radius R in Terms of kappa
+   :source: 0181.jpg
+
+**Diplomatic Transcription — Folio 0181** (``0181.jpg``, Sheet 14 of 15):
+
+Tabulates :math:`\kappa, 1/\kappa - \kappa, d/r` and remarks *'(Euclid and Apollonius would approve their use, I'm sure)'*.
+
+.. math::
+
+   (x,\, t,\, r,\, y,\, T) = \left(\hat{x}^2,\, \hat{x}\hat{t},\, \hat{x}\hat{r},\, \hat{r}^2,\, \hat{r}\hat{t}\right) \quad \text{where } \hat{x}^2 + \hat{t}^2 = \hat{r}^2

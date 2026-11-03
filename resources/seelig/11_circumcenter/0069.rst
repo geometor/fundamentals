@@ -1,0 +1,12 @@
+.. folio:: 0069
+   :topic: F.11
+   :title: Circumcircle Subtriangles
+   :source: 0069.jpg
+
+**Diplomatic Transcription — Folio 0069** (``0069.jpg``, Sheet 4 of 6):
+
+Decomposes :math:`K = K_A + K_B + K_C = \frac{1}{2}\sum a\sqrt{R^2 - (a/2)^2}` using central angles :math:`\Phi_C = 2\gamma` and subtriangle semiperimeters :math:`s_C = (2R+c)/2`.
+
+.. math::
+
+   D = 2\left[x_A(y_C - y_B) + x_B(y_A - y_C) + x_C(y_B - y_A)\right], \qquad x_0 = \frac{\sum (x_A^2 + y_A^2)(y_C - y_B)}{D}

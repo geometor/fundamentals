@@ -1,0 +1,12 @@
+.. folio:: 0146
+   :topic: F.25
+   :title: Intersection Angle alpha of Two Circles (Page 7)
+   :source: 0146.jpg
+
+**Diplomatic Transcription — Folio 0146** (``0146.jpg``, Sheet 7 of 28):
+
+Writes :math:`\alpha = \cos^{-1}\left(\frac{r_1^2+r_2^2-d^2}{2r_1r_2}\right)` reducing to :math:`r^2+R^2=d^2` at :math:`90^\circ`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

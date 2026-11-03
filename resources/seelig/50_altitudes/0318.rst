@@ -1,0 +1,12 @@
+.. folio:: 0318
+   :topic: F.50
+   :title: Altitude of a Right Triangle — 'The Sweet Theorem' (altitude-right-001)
+   :source: 0318.jpg
+
+**Diplomatic Transcription — Folio 0318** (``0318.jpg``, Sheet 1 of 4):
+
+Proves :math:`h = ab/c` and the Inverse Pythagorean Theorem :math:`h^{-2} = a^{-2} + b^{-2}`.
+
+.. math::
+
+   H = \frac{h_A^{-1} + h_B^{-1} + h_C^{-1}}{2}, \qquad \frac{1}{K} = 4\sqrt{H(H - h_A^{-1})(H - h_B^{-1})(H - h_C^{-1})}

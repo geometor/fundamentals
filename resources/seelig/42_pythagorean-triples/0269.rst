@@ -1,0 +1,12 @@
+.. folio:: 0269
+   :topic: F.42
+   :title: Self-Corrected Fallacy Box: CT_c vs. Altitude CH_c (003)
+   :source: 0269.jpg
+
+**Diplomatic Transcription — Folio 0269** (``0269.jpg``, Sheet 3 of 4):
+
+Proves that the incircle touchpoint :math:`T_C` (:math:`|AT_C| = s-a`) is distinct from the altitude foot :math:`H_C` (:math:`|AH_C| = b^2/c`), boxing the warning *'CT_c is not \perp to BA'*.
+
+.. math::
+
+   h_c = \frac{a b}{c}, \qquad \frac{1}{h_c^2} = \frac{1}{a^2} + \frac{1}{b^2}, \qquad u = \frac{b^2}{c},\; y = \frac{a^2}{c},\; h_c^2 = u y

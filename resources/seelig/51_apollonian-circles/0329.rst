@@ -1,0 +1,12 @@
+.. folio:: 0329
+   :topic: F.51
+   :title: Coaxial Family of Apollonian Circles for Varying k (apollonian-008)
+   :source: 0329.jpg
+
+**Diplomatic Transcription — Folio 0329** (``0329.jpg``, Sheet 8 of 9):
+
+Plots the nested Apollonian circles around limiting points :math:`A` and :math:`B` with the perpendicular bisector as the :math:`k=1` radical axis.
+
+.. math::
+
+   |A T'|^2 = |AC|\cdot|AD| = |AB|\cdot|A M'| = d(d + M') = \frac{d^2 k^2}{k^2 - 1}

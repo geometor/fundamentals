@@ -1,0 +1,12 @@
+.. folio:: 0245
+   :topic: F.40
+   :title: Stafford's Exact Radical Table for pi/30 (2-007)
+   :source: 0245.jpg
+
+**Diplomatic Transcription — Folio 0245** (``0245.jpg``, Sheet 7 of 18):
+
+Cites James Stafford's trigonometric radical table for multiples of :math:`6^\circ = \pi/30` to verify :math:`\sin 12^\circ` and :math:`\cos 12^\circ`.
+
+.. math::
+
+   E_N = 2\sin\frac{\pi}{N} = \sqrt{2 - \sqrt{4 - E_{N/2}^2}}, \qquad r_N = \cos\frac{\pi}{N} = \frac{1}{2}\sqrt{4 - E_N^2}

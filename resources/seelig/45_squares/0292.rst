@@ -1,0 +1,12 @@
+.. folio:: 0292
+   :topic: F.45
+   :title: Carnot's Theorem & the Japanese Sangaku Theorem (006)
+   :source: 0292.jpg
+
+**Diplomatic Transcription — Folio 0292** (``0292.jpg``, Sheet 6 of 6):
+
+Recalls :math:`OM_A + OM_B + OM_C = R + r` and explains how summing over a cyclic polygon triangulation proves the invariance of the inradii sum.
+
+.. math::
+
+   X_N = \frac{s \cdot u v}{u + v - u v}, \qquad Y_N = \frac{s \cdot u (1 - v)}{u + v - u v}

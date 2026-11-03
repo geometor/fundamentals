@@ -1,0 +1,12 @@
+.. folio:: 0353
+   :topic: F.55
+   :title: Side Recovery c = 2s - (a + b) & Vertex Coordinates (misc-2-003)
+   :source: 0353.jpg
+
+**Diplomatic Transcription — Folio 0353** (``0353.jpg``, Sheet 5 of 5):
+
+Recovers :math:`c = (s-a)+(s-b) = 2s-(a+b)` and writes the resulting Cartesian coordinates of :math:`A, B, C`.
+
+.. math::
+
+   s - a = r\cot\frac{\alpha}{2}, \qquad s - b = r\cot\frac{\beta}{2}, \qquad s - c = r\cot\frac{\gamma}{2}

@@ -1,0 +1,12 @@
+.. folio:: 0169
+   :topic: F.26
+   :title: Jakob Steiner's Power of a Point (Page 2)
+   :source: 0169.jpg
+
+**Diplomatic Transcription — Folio 0169** (``0169.jpg``, Sheet 2 of 15):
+
+Cites Jakob Steiner (1796–1863) for :math:`T^2 = y^2 - r^2 = PD\cdot QD = AD\cdot BD` (Fig. 2).
+
+.. math::
+
+   (x,\, t,\, r,\, y,\, T) = \left(\hat{x}^2,\, \hat{x}\hat{t},\, \hat{x}\hat{r},\, \hat{r}^2,\, \hat{r}\hat{t}\right) \quad \text{where } \hat{x}^2 + \hat{t}^2 = \hat{r}^2

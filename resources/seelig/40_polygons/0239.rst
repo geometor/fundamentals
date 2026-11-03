@@ -1,0 +1,12 @@
+.. folio:: 0239
+   :topic: F.40
+   :title: Edge-Doubling Recursion for Unit-Circle Polygons (2-001)
+   :source: 0239.jpg
+
+**Diplomatic Transcription — Folio 0239** (``0239.jpg``, Sheet 1 of 18):
+
+Derives :math:`E_N = \sqrt{2-\sqrt{4-E_{N/2}^2}}` and apothem :math:`r_N = \frac{1}{2}\sqrt{4-E_N^2}` from the sagitta right triangle in a unit circle (:math:`R=1`).
+
+.. math::
+
+   E_N = 2\sin\frac{\pi}{N} = \sqrt{2 - \sqrt{4 - E_{N/2}^2}}, \qquad r_N = \cos\frac{\pi}{N} = \frac{1}{2}\sqrt{4 - E_N^2}

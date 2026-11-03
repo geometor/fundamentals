@@ -1,0 +1,12 @@
+.. folio:: 0081
+   :topic: F.12
+   :title: Zero-Field Point Between Like Charges
+   :source: 0081.jpg
+
+**Diplomatic Transcription — Folio 0081** (``0081.jpg``, Sheet 10 of 12):
+
+Sets :math:`E_{\text{TOT}} = 0` for :math:`+Q_1, +Q_2` and forms the cubic/absolute-value ratio.
+
+.. math::
+
+   x^2 + y^2 - 2 c_x x + r^2 = 0, \qquad E_{\text{TOT}} = k Q_1 \frac{x - x_1}{|x - x_1|^3} + k Q_2 \frac{x - x_2}{|x - x_2|^3} = 0

@@ -1,0 +1,12 @@
+.. folio:: 0289
+   :topic: F.45
+   :title: Line Intersection N Inside a Square — Solution (003)
+   :source: 0289.jpg
+
+**Diplomatic Transcription — Folio 0289** (``0289.jpg``, Sheet 3 of 6):
+
+Solves the :math:`2\times 2` linear system for :math:`(X_N, Y_N)` and computes the areas of the four resulting sub-regions.
+
+.. math::
+
+   s_{\square} = \sqrt{2}\,R, \qquad s_{\triangle} = \sqrt{3}\,R, \qquad OM_A + OM_B + OM_C = R + r

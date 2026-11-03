@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0232**
+
+Archival scan ``0232.jpg`` from Fred W. Seelig's notebook dossier on **F.36 Orthic Triangle** (Page 1 of 1). Companion OpenDocument worksheet(s): ``Orthic Triangle``, ``Orthocenter``, ``Pedal Triangle``. Classical Euclidean foundations: :ref:`I.12`, :ref:`III.32`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(3)`, :ref:`X(4)`, :ref:`X(5)`.

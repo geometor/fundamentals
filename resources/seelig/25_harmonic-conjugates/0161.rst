@@ -1,0 +1,12 @@
+.. folio:: 0161
+   :topic: F.25
+   :title: Duplicate Scan of q' Equivalence Proof
+   :source: 0161.jpg
+
+**Diplomatic Transcription — Folio 0161** (``0161.jpg``, Sheet 22 of 28):
+
+Second scan of the :math:`q'` equivalence derivation.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

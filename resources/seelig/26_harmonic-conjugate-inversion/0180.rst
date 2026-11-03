@@ -1,0 +1,12 @@
+.. folio:: 0180
+   :topic: F.26
+   :title: Harmonic Conjugate Kite Sample Problem (r = 5, x = 3)
+   :source: 0180.jpg
+
+**Diplomatic Transcription — Folio 0180** (``0180.jpg``, Sheet 13 of 15):
+
+Computes all segments and ratios for :math:`\kappa = 3/5, k = 4, k' = 5/3`.
+
+.. math::
+
+   x y = |MC| \cdot |MD| = r^2, \qquad T^2 = y^2 - r^2 = |AD| \cdot |BD|, \qquad z^2 + T^2 = 2(r^2 + y^2) \implies z^2 = y^2 + 3 r^2

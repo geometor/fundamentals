@@ -1,0 +1,12 @@
+.. folio:: 0228
+   :topic: F.35
+   :title: Acute (5, 6, 7) Triangle Deficit Analysis
+   :source: 0228.jpg
+
+**Diplomatic Transcription — Folio 0228** (``0228.jpg``, Sheet 4 of 7):
+
+Applies Euclid II.13 to :math:`(5,6,7)`, finding interior projection :math:`x = 1`, altitude :math:`h = 2\sqrt{6}`, and segment ratio :math:`r/r' = 28/9`.
+
+.. math::
+
+   |M_C H_C| = \left|\frac{c}{2} - x\right| = \frac{|a^2 - b^2|}{2 c}, \qquad m_c^2 = \frac{a^2 + b^2}{2} - \left(\frac{c}{2}\right)^2

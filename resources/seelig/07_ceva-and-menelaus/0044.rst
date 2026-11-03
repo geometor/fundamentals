@@ -1,0 +1,12 @@
+.. folio:: 0044
+   :topic: F.7
+   :title: Worked Test Case: 6-9-13 Triangle with P=(9,1) (Part 1)
+   :source: 0044.jpg
+
+**Diplomatic Transcription — Folio 0044** (``0044.jpg``, Sheet 21 of 26):
+
+Evaluates :math:`I = 107/13 \approx 8.23, J = 8\sqrt{35}/13 \approx 3.64, N \approx 9.92`, and trace coordinates :math:`D(11.35, 1.26), E(4.69, 2.08), F(9.29, 0)`.
+
+.. math::
+
+   \frac{PD}{AD} + \frac{PE}{BE} + \frac{PF}{CF} = 1, \qquad \frac{AP}{AD} + \frac{BP}{BE} + \frac{CP}{CF} = 2

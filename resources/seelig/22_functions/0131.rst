@@ -1,0 +1,12 @@
+.. folio:: 0131
+   :topic: F.22
+   :title: Six Discrete & Continuous Probability Distributions
+   :source: 0131.jpg
+
+**Diplomatic Transcription — Folio 0131** (``0131.jpg``, Sheet 2 of 2):
+
+Summarizes formulas and density/CDF sketches for Binomial, Poisson, Bernoulli, Uniform, Exponential, and Normal distributions.
+
+.. math::
+
+   \Phi(x) = \frac{1}{2} + \frac{1}{2}\operatorname{erf}\left(\frac{x}{\sqrt{2}}\right), \qquad \operatorname{erf}(x) \approx 1 - \left(\sum_{k=1}^5 a_k t^k\right) e^{-x^2}, \quad t = \frac{1}{1 + 0.3275911 x}

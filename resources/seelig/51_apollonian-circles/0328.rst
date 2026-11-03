@@ -1,0 +1,12 @@
+.. folio:: 0328
+   :topic: F.51
+   :title: Integer Mean Search: m = 36, n = 324 (apollonian-007)
+   :source: 0328.jpg
+
+**Diplomatic Transcription — Folio 0328** (``0328.jpg``, Sheet 7 of 9):
+
+Solves for integer pairs :math:`(m,n)` having integer arithmetic mean :math:`A = 180` and geometric mean :math:`G = 108`.
+
+.. math::
+
+   \frac{|PA|}{|PB|} = k \implies M' = \frac{d}{k^2 - 1}, \qquad R = \frac{d k}{k^2 - 1}, \qquad R^2 - {M'}^2 = \frac{d^2}{k^2 - 1}

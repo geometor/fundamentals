@@ -1,0 +1,12 @@
+.. folio:: 0343
+   :topic: F.52
+   :title: Barycentric-to-Cartesian Matrix Transformation (co007)
+   :source: 0343.jpg
+
+**Diplomatic Transcription — Folio 0343** (``0343.jpg``, Sheet 13 of 15):
+
+Writes the :math:`2\times 3` affine conversion matrix mapping :math:`(\lambda_A, \lambda_B, \lambda_C)` to :math:`(x, y)`.
+
+.. math::
+
+   P = \lambda_A A + \lambda_B B + \lambda_C C \qquad (\lambda_A + \lambda_B + \lambda_C = 1), \qquad \lambda_A = \frac{u}{u + v + w} = \frac{[PBC]}{[ABC]}

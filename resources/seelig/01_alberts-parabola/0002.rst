@@ -1,0 +1,12 @@
+.. folio:: 0002
+   :topic: F.1
+   :title: Albert's Parabola Problem — Attempt #3 (Directrix Frame)
+   :source: 0002.jpg
+
+**Diplomatic Transcription — Folio 0002** (``0002.jpg``, Sheet 2 of 2):
+
+Shifts the parabola to :math:`y = x^2 + 1` with directrix :math:`y = 0`, vertex :math:`V(0,1)`, and focus :math:`F(0,2)`, and formulates the 3-step calculus minimization of :math:`d^2 = (P_x - Q_x)^2 + (P_y - Q_y)^2`.
+
+.. math::
+
+   P_x^3 + \frac{1}{2} P_x - \frac{M}{2} = 0, \qquad r = \frac{P_x + 4 P_x^3}{4}

@@ -1,0 +1,12 @@
+.. folio:: 0080
+   :topic: F.12
+   :title: 1D Collinear Electric Field Vector Formulation
+   :source: 0080.jpg
+
+**Diplomatic Transcription — Folio 0080** (``0080.jpg``, Sheet 9 of 12):
+
+Writes :math:`E_i = k Q_i (x - x_i)/|x - x_i|^3` to preserve vector sign along the line of charges.
+
+.. math::
+
+   P_1 = \left(\frac{k - 1}{k + 1}r,\, 0\right), \qquad P_2 = \left(\frac{k + 1}{k - 1}r,\, 0\right), \qquad M' = \frac{k^2 + 1}{k^2 - 1}r, \qquad R = \frac{2 k}{k^2 - 1}r

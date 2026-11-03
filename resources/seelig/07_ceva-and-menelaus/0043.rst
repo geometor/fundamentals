@@ -1,0 +1,12 @@
+.. folio:: 0043
+   :topic: F.7
+   :title: HP-35s Program Flow Diagram (3/)
+   :source: 0043.jpg
+
+**Diplomatic Transcription — Folio 0043** (``0043.jpg``, Sheet 20 of 26):
+
+Flowchart of subroutine branches for computing trace points and cevian lengths.
+
+.. math::
+
+   D_x = \frac{M J P}{J P + (M - I) Q}, \qquad E_x = \frac{M I Q}{I Q + (M - P) J}, \qquad F_x = \frac{I Q - J P}{Q - J}

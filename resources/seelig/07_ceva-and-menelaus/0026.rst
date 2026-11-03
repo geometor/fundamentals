@@ -1,0 +1,12 @@
+.. folio:: 0026
+   :topic: F.7
+   :title: MNIJ Coordinate Framework for Integer Cevians
+   :source: 0026.jpg
+
+**Diplomatic Transcription — Folio 0026** (``0026.jpg``, Sheet 3 of 26):
+
+Places :math:`A=(0,0), B=(M,0), C=(I,J)` with :math:`BC` intercept :math:`N = JM/(M-I)` to construct integer-segment Ceva configurations.
+
+.. math::
+
+   \frac{PD}{AD} + \frac{PE}{BE} + \frac{PF}{CF} = 1, \qquad \frac{AP}{AD} + \frac{BP}{BE} + \frac{CP}{CF} = 2

@@ -1,0 +1,12 @@
+.. folio:: 0085
+   :topic: F.13
+   :title: Compass Construction of Chord Families in Circle of Radius R
+   :source: 0085.jpg
+
+**Diplomatic Transcription — Folio 0085** (``0085.jpg``, Sheet 2 of 8):
+
+Draws vertical chords for :math:`c/R \in \{1/2, 3/4, 1, 4/3, 3/2, \sqrt{3}, 7/4, 2\}` and an inscribed triangle :math:`\triangle ABC`.
+
+.. math::
+
+   a^2 = f^2 + \frac{c^2}{4} + f c \cos\theta, \qquad b^2 = f^2 + \frac{c^2}{4} - f c \cos\theta

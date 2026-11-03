@@ -1,0 +1,273 @@
+{
+  "Apollonian circles": {
+    "definition": "A family of circles defined as the locus of points whose distances from two fixed foci A and B have a constant ratio k, or the three circles of a triangle passing through a vertex and two isodynamic points.",
+    "aliases": [
+      "Apollonian circle",
+      "circle of Apollonius",
+      "circles of Apollonius"
+    ]
+  },
+  "Carnot's theorem": {
+    "definition": "A theorem relating the signed distances from the circumcenter O to the sides of triangle ABC with the inradius r and circumradius R: d_a + d_b + d_c = R + r.",
+    "aliases": [
+      "Carnot theorem"
+    ]
+  },
+  "Ceva's theorem": {
+    "definition": "A criterion for three cevians AD, BE, CF of triangle ABC to concur: (BD/DC)(CE/EA)(AF/FB) = 1.",
+    "aliases": [
+      "cevian",
+      "cevians"
+    ]
+  },
+  "Conway triangle notation": {
+    "definition": "John H. Conway's algebraic system for triangle geometry setting S = 2K (twice the triangle area) and S_A = (b^2 + c^2 - a^2)/2 = bc cos A, S_B = (c^2 + a^2 - b^2)/2, S_C = (a^2 + b^2 - c^2)/2.",
+    "aliases": [
+      "Conway notation",
+      "Conway symbols"
+    ]
+  },
+  "Euler line": {
+    "definition": "The line passing through a non-equilateral triangle's orthocenter H, nine-point center N, centroid G, and circumcenter O, with HG : GN : NO = 4 : 1 : 2.",
+    "aliases": []
+  },
+  "Fermat point": {
+    "definition": "The isogonic center F = X(13) minimizing the sum of distances PA + PB + PC to the vertices of a triangle with all angles < 120 degrees.",
+    "aliases": [
+      "Torricelli point",
+      "first Fermat point"
+    ]
+  },
+  "Heron's formula": {
+    "definition": "The expression for the area K of a triangle in terms of its semiperimeter s = (a+b+c)/2: K = sqrt(s(s-a)(s-b)(s-c)), or in biquadratic side form 16K^2 = 2a^2b^2 + 2b^2c^2 + 2c^2a^2 - a^4 - b^4 - c^4.",
+    "aliases": [
+      "Heron formula"
+    ]
+  },
+  "Menelaus's theorem": {
+    "definition": "A collinearity criterion for three points D, E, F on the (extended) sides BC, CA, AB of triangle ABC: (BD/DC)(CE/EA)(AF/FB) = -1.",
+    "aliases": [
+      "Menelaus theorem",
+      "transversal"
+    ]
+  },
+  "Pythagorean triple": {
+    "definition": "A tuple of positive integers (a, b, c) satisfying a^2 + b^2 = c^2, parametrized by Euclid's formula a = m^2 - n^2, b = 2mn, c = m^2 + n^2.",
+    "aliases": [
+      "Pythagorean triples"
+    ]
+  },
+  "Stewart's theorem": {
+    "definition": "A theorem relating the length d of a cevian AD dividing side BC = a into segments m and n: b^2 m + c^2 n = a(d^2 + mn).",
+    "aliases": [
+      "Stewart theorem"
+    ]
+  },
+  "barycentric coordinates": {
+    "definition": "Homogeneous coordinates (u : v : w) of a point P with respect to a reference triangle ABC, proportional to the signed areas of triangles PBC, PCA, and PAB.",
+    "aliases": [
+      "barycentric",
+      "homogeneous barycentric coordinates",
+      "barycentrics"
+    ]
+  },
+  "bilinear transformation": {
+    "definition": "A fractional linear or projective mapping of the form w = (az + b)/(cz + d) that preserves cross-ratios and maps circles and lines to circles and lines.",
+    "aliases": [
+      "bilinear transformations",
+      "Möbius transformation"
+    ]
+  },
+  "centers of similitude": {
+    "definition": "The internal and external homothetic centers (:math:`S_+` and :math:`S_-`) of two circles, dividing the segment between their centers harmonically in the ratio of their radii.",
+    "aliases": [
+      "center of similitude",
+      "homothetic center",
+      "similitude center"
+    ]
+  },
+  "centroid": {
+    "definition": "The point of concurrency G = X(2) of the three medians of a triangle, dividing each median in a 2:1 ratio with barycentric coordinates 1 : 1 : 1.",
+    "aliases": [
+      "medians",
+      "median"
+    ]
+  },
+  "circumcenter": {
+    "definition": "The center O = X(3) of the circumscribed circle of a triangle, located at the intersection of the perpendicular bisectors of the three sides.",
+    "aliases": [
+      "circumcircle",
+      "circumradius"
+    ]
+  },
+  "coaxial circles": {
+    "definition": "A one-parameter pencil of circles in which every pair shares the same radical axis; classified into intersecting (elliptic), non-intersecting (hyperbolic with limiting points), and tangent (parabolic) pencils.",
+    "aliases": [
+      "coaxial system",
+      "pencil of circles"
+    ]
+  },
+  "cyclic quadrilateral": {
+    "definition": "A four-sided polygon inscribed in a single circle, satisfying opposite angle supplementary relations, Ptolemy's theorem, and Brahmagupta's area formula.",
+    "aliases": [
+      "cyclic quad"
+    ]
+  },
+  "ellipse": {
+    "definition": "A conic section with eccentricity 0 <= e < 1 whose points have a constant sum of distances 2a from two fixed foci.",
+    "aliases": [
+      "elliptical"
+    ]
+  },
+  "equilateral triangle": {
+    "definition": "A regular three-sided polygon with equal sides a = b = c and interior angles of 60 degrees, constructed in Euclid's Proposition I.1.",
+    "aliases": [
+      "equilateral"
+    ]
+  },
+  "excircle": {
+    "definition": "One of three circles tangent to one side of a triangle and the extensions of the other two sides, centered at an excenter I_a, I_b, or I_c.",
+    "aliases": [
+      "excircles",
+      "excenter",
+      "excenters",
+      "exradius",
+      "extangent"
+    ]
+  },
+  "geometric mean": {
+    "definition": "The mean proporional sqrt(ab) between two positive lengths a and b, constructed as the altitude to the hypotenuse of a right triangle with segments a and b.",
+    "aliases": [
+      "mean proportional"
+    ]
+  },
+  "golden ratio": {
+    "definition": "The extreme and mean ratio phi = (1 + sqrt(5))/2 ≈ 1.6180339887, satisfying phi^2 = phi + 1.",
+    "aliases": [
+      "divine proportion",
+      "golden section"
+    ]
+  },
+  "golden triangle": {
+    "definition": "An isosceles triangle whose side-to-base ratio is the golden ratio phi, having vertex angles of 36-72-72 degrees (acute) or 108-36-36 degrees (gnomon).",
+    "aliases": [
+      "golden triangles",
+      "golden gnomon"
+    ]
+  },
+  "harmonic conjugate": {
+    "definition": "Given collinear points A, B, C, the point D is the harmonic conjugate of C with respect to (A, B) when the cross-ratio (A, B; C, D) = -1, so AC/CB = AD/BD.",
+    "aliases": [
+      "harmonic conjugates",
+      "harmonic range",
+      "harmonic division"
+    ]
+  },
+  "harmonic mean": {
+    "definition": "The reciprocal of the arithmetic mean of reciprocals, H = 2ab/(a + b), realized geometrically by the segment separating harmonic conjugates.",
+    "aliases": []
+  },
+  "incenter": {
+    "definition": "The center I = X(1) of the inscribed circle of a triangle, located at the concurrency of the three interior angle bisectors with barycentric coordinates a : b : c.",
+    "aliases": [
+      "incircle",
+      "inradius"
+    ]
+  },
+  "inversion": {
+    "definition": "A transformation with respect to a circle of center O and radius R mapping each point P to P' on ray OP such that OP * OP' = R^2.",
+    "aliases": [
+      "inversive geometry",
+      "circle inversion"
+    ]
+  },
+  "isosceles triangle": {
+    "definition": "A triangle with at least two equal sides and two equal base angles (Euclid I.5, Pons Asinorum).",
+    "aliases": [
+      "isosceles"
+    ]
+  },
+  "isotomic conjugate": {
+    "definition": "The point P' obtained by reflecting the cevian traces of P across the midpoints of the corresponding sides, with barycentric coordinates 1/u : 1/v : 1/w.",
+    "aliases": [
+      "isotomic"
+    ]
+  },
+  "nine-point circle": {
+    "definition": "Feuerbach's circle centered at N = X(5) of radius R/2 passing through the three side midpoints, the three altitude feet, and the three Euler midpoints between the vertices and the orthocenter.",
+    "aliases": [
+      "Feuerbach circle",
+      "nine-point center"
+    ]
+  },
+  "orthic triangle": {
+    "definition": "The pedal triangle H_A H_B H_C of the orthocenter H, formed by the feet of the three altitudes of triangle ABC; it minimizes perimeter among all inscribed triangles of an acute triangle (Fagnano's problem).",
+    "aliases": []
+  },
+  "orthocenter": {
+    "definition": "The concurrency H = X(4) of the three altitudes of a triangle, with barycentric coordinates tan A : tan B : tan C = 1/S_A : 1/S_B : 1/S_C.",
+    "aliases": [
+      "altitude",
+      "altitudes"
+    ]
+  },
+  "orthogonal circles": {
+    "definition": "Two circles that intersect at right angles, so that the radii to their intersection points are tangent to the other circle and d^2 = r_1^2 + r_2^2.",
+    "aliases": [
+      "orthogonality"
+    ]
+  },
+  "parabola": {
+    "definition": "A conic section of eccentricity e = 1 defined as the locus of points equidistant from a focus F and a directrix line.",
+    "aliases": [
+      "parabolas"
+    ]
+  },
+  "pedal triangle": {
+    "definition": "The triangle formed by the perpendicular projections of a point P onto the three sides of reference triangle ABC.",
+    "aliases": [
+      "pedal triangles"
+    ]
+  },
+  "pole and polar": {
+    "definition": "A projective duality with respect to a conic or circle mapping a point P (the pole) to the line of harmonic conjugates or chord of contact (the polar).",
+    "aliases": [
+      "pole",
+      "polar",
+      "pole-polar"
+    ]
+  },
+  "power of a point": {
+    "definition": "For a point P and circle of center O and radius R, the invariant quantity Pi(P) = OP^2 - R^2 equal to the signed product PA * PB along any secant line through P.",
+    "aliases": [
+      "chord intersection"
+    ]
+  },
+  "radical axis": {
+    "definition": "The locus of points having equal power with respect to two non-concentric circles, forming a line perpendicular to the line of centers.",
+    "aliases": [
+      "radical axes",
+      "radical center"
+    ]
+  },
+  "symmedian point": {
+    "definition": "The Lemoine point K = X(6), the concurrency of the reflections of the medians across the angle bisectors, with barycentric coordinates a^2 : b^2 : c^2.",
+    "aliases": [
+      "symmedian",
+      "Lemoine point"
+    ]
+  },
+  "trilinear coordinates": {
+    "definition": "Homogeneous coordinates (alpha : beta : gamma) proportional to the signed directed distances from a point P to the sidelines BC, CA, AB, related to barycentrics by (u : v : w) = (a*alpha : b*beta : c*gamma).",
+    "aliases": [
+      "trilinear",
+      "trilinears"
+    ]
+  },
+  "vesica piscis": {
+    "definition": "The lens-shaped intersection of two congruent circles each passing through the other's center, fundamental to Euclid I.1 and Gothic pointed arch tracery with height-to-width ratio sqrt(3).",
+    "aliases": [
+      "vesica"
+    ]
+  }
+}

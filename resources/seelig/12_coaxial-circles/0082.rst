@@ -1,0 +1,12 @@
+.. folio:: 0082
+   :topic: F.12
+   :title: Sign Interval Analysis for x_1 < x < x_2
+   :source: 0082.jpg
+
+**Diplomatic Transcription — Folio 0082** (``0082.jpg``, Sheet 11 of 12):
+
+Tests sign cases of :math:`x - x_1` and :math:`x - x_2` across the three collinear intervals.
+
+.. math::
+
+   P_1 = \left(\frac{k - 1}{k + 1}r,\, 0\right), \qquad P_2 = \left(\frac{k + 1}{k - 1}r,\, 0\right), \qquad M' = \frac{k^2 + 1}{k^2 - 1}r, \qquad R = \frac{2 k}{k^2 - 1}r

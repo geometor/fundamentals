@@ -1,0 +1,12 @@
+.. folio:: 0267
+   :topic: F.42
+   :title: Altitude of a Pythagorean Triple Triangle (001)
+   :source: 0267.jpg
+
+**Diplomatic Transcription — Folio 0267** (``0267.jpg``, Sheet 1 of 4):
+
+Derives :math:`h_c = ab/c`, the Inverse Pythagorean Theorem :math:`h_c^{-2} = a^{-2} + b^{-2}`, and the hypotenuse segments :math:`u = b^2/c, y = a^2/c`.
+
+.. math::
+
+   h_c = \frac{a b}{c}, \qquad \frac{1}{h_c^2} = \frac{1}{a^2} + \frac{1}{b^2}, \qquad u = \frac{b^2}{c},\; y = \frac{a^2}{c},\; h_c^2 = u y

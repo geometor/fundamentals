@@ -1,0 +1,12 @@
+.. folio:: 0139
+   :topic: F.24
+   :title: Biquadratic Reduction z^4 - 74z^2 + 928 = 0
+   :source: 0139.jpg
+
+**Diplomatic Transcription — Folio 0139** (``0139.jpg``, Sheet 5 of 5):
+
+Solves the auxiliary circle-intersection system :math:`(P, Q) = (\frac{z^2-40}{2z}, \frac{z^2-16}{2z})` with :math:`P^2+Q^2=9` to get :math:`z^2 = 58`.
+
+.. math::
+
+   r^2 = \left(x - \frac{s}{2}\right)^2 + (y - Q)^2, \qquad p s = P_x H_x + P_y H_y \quad (r = s - p), \qquad g^2 = G_x^2 + G_y^2 = 2 s G_x

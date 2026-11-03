@@ -1,0 +1,12 @@
+.. folio:: 0150
+   :topic: F.25
+   :title: Reciprocal Identities for k, k_2, k_3
+   :source: 0150.jpg
+
+**Diplomatic Transcription — Folio 0150** (``0150.jpg``, Sheet 11 of 28):
+
+Proves :math:`\frac{2}{B-A} = \frac{1}{C} + \frac{1}{D}` and :math:`2 = \frac{1}{k_2} + \frac{1}{k_3}`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

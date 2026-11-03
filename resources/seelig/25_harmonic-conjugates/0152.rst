@@ -1,0 +1,12 @@
+.. folio:: 0152
+   :topic: F.25
+   :title: Right Triangle OPO' Altitude & Projections ('Very pretty!')
+   :source: 0152.jpg
+
+**Diplomatic Transcription — Folio 0152** (``0152.jpg``, Sheet 13 of 28):
+
+Derives :math:`h = |PE| = rR/d`, :math:`x = |OE| = r^2/d`, :math:`y = |O'E| = R^2/d`, and inradius :math:`r_{\text{inc}}`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

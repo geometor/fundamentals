@@ -1,0 +1,12 @@
+.. folio:: 0112
+   :topic: F.15
+   :title: An Open Cyclic Quadrilateral Problem (Fred Seelig, April 2015)
+   :source: 0112.jpg
+
+**Diplomatic Transcription — Folio 0112** (``0112.jpg``, Sheet 15 of 16):
+
+Poses the question of whether a cyclic quadrilateral can have interior angles in geometric progression :math:`\theta, k\theta, k^2\theta, k^3\theta`.
+
+.. math::
+
+   \theta + 2\theta + 3\theta + 4\theta = 360^\circ \implies \theta = 36^\circ, \qquad f = |XZ| = 2\sin 36^\circ = \sqrt{3 - \phi}, \qquad e = |YW| = 2\sin 72^\circ = \phi\sqrt{3 - \phi}

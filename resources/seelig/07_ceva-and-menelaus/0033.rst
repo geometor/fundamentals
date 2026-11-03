@@ -1,0 +1,12 @@
+.. folio:: 0033
+   :topic: F.7
+   :title: Continuation of Heronian Cevian Calculations
+   :source: 0033.jpg
+
+**Diplomatic Transcription — Folio 0033** (``0033.jpg``, Sheet 10 of 26):
+
+Completes the Stewart's theorem verification for :math:`AD, BE, CF` on the :math:`78\text{–}90\text{–}84` triangle.
+
+.. math::
+
+   \frac{AF}{FB} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = +1 \quad (\text{Ceva}), \qquad \frac{AF'}{F'B} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = -1 \quad (\text{Menelaus})

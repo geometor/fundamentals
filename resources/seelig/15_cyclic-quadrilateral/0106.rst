@@ -1,0 +1,12 @@
+.. folio:: 0106
+   :topic: F.15
+   :title: Empirical C.a.R. Measurements of Side Lengths & Central Angles
+   :source: 0106.jpg
+
+**Diplomatic Transcription — Folio 0106** (``0106.jpg``, Sheet 9 of 16):
+
+Records C.a.R. values :math:`a=1.93, b=1.09, c=0.11, d=1.87` and central angles :math:`150^\circ, 66^\circ, 6^\circ, 138^\circ`.
+
+.. math::
+
+   \theta + 2\theta + 3\theta + 4\theta = 360^\circ \implies \theta = 36^\circ, \qquad f = |XZ| = 2\sin 36^\circ = \sqrt{3 - \phi}, \qquad e = |YW| = 2\sin 72^\circ = \phi\sqrt{3 - \phi}

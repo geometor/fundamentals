@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0084**
+
+Archival scan ``0084.jpg`` from Fred W. Seelig's notebook dossier on **F.13 Compare Triangles in Circles** (Page 1 of 8). Companion OpenDocument worksheet(s): ``Circumcircle Solver``, ``Circumcircle-Circumcenter``. Classical Euclidean foundations: :ref:`III.20`, :ref:`IV.5`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(3)`.

@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0064**
+
+Archival scan ``0064.jpg`` from Fred W. Seelig's notebook dossier on **F.10 Circles and Geometric Mean** (Page 3 of 4). Companion OpenDocument worksheet(s): ``General Reference``, ``Harmonic Conjugates``. Classical Euclidean foundations: :ref:`II.14`, :ref:`III.31`, :ref:`VI.8`, :ref:`VI.13`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(1)`, :ref:`X(3)`, :ref:`X(4)`, :ref:`X(5)`, :ref:`X(6)`, :ref:`X(7)`, :ref:`X(8)`.

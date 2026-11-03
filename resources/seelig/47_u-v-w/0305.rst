@@ -1,0 +1,12 @@
+.. folio:: 0305
+   :topic: F.47
+   :title: Spreadsheet Formula Summary for the UVW Worksheet (011)
+   :source: 0305.jpg
+
+**Diplomatic Transcription — Folio 0305** (``0305.jpg``, Sheet 11 of 11):
+
+Summarizes the cell formulas implemented in the ``UVW Triangle`` tab of ``Triangles and Circles.ods``.
+
+.. math::
+
+   A = (-U, 0), \qquad B = (W, 0), \qquad C = (0, V), \qquad a^2 = V^2 + W^2,\; b^2 = U^2 + V^2,\; c = U + W

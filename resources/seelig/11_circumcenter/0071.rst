@@ -1,0 +1,12 @@
+.. folio:: 0071
+   :topic: F.11
+   :title: Properties of the Tangential Triangle
+   :source: 0071.jpg
+
+**Diplomatic Transcription — Folio 0071** (``0071.jpg``, Sheet 6 of 6):
+
+Explanatory notes defining the tangential triangle formed by the tangents to the circumcircle at :math:`A, B, C`.
+
+.. math::
+
+   D = 2\left[x_A(y_C - y_B) + x_B(y_A - y_C) + x_C(y_B - y_A)\right], \qquad x_0 = \frac{\sum (x_A^2 + y_A^2)(y_C - y_B)}{D}

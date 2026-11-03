@@ -1,0 +1,12 @@
+.. folio:: 0095
+   :topic: F.14
+   :title: Stewart's Theorem for Altitudes in Conway Notation
+   :source: 0095.jpg
+
+**Diplomatic Transcription — Folio 0095** (``0095.jpg``, Sheet 4 of 6):
+
+Substitutes :math:`h_c = 2K/c` into :math:`a^2 k_c + b^2 k_c' - c^2 k_c k_c' = h_c^2` to solve for :math:`k_c`.
+
+.. math::
+
+   S^2 = b^2 c^2 - S_A^2 = S_A S_B + S_B S_C + S_C S_A, \qquad S_A S_B S_C = S^2 (S_\omega - 4 R^2)

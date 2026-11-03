@@ -1,0 +1,12 @@
+.. folio:: 0240
+   :topic: F.40
+   :title: Square & Octagon Doubling Family (2-002)
+   :source: 0240.jpg
+
+**Diplomatic Transcription — Folio 0240** (``0240.jpg``, Sheet 2 of 18):
+
+Evaluates nested radicals for :math:`N = 4, 8, 16, 32, 64` starting from :math:`E_4 = \sqrt{2}`.
+
+.. math::
+
+   E_{10} = \phi - 1 = \sqrt{2 - \phi}, \qquad E_5 = \sqrt{3 - \phi}, \qquad E_{15} = 2\sin 12^\circ = \frac{1}{4}\left(\sqrt{10 + 2\sqrt{5}} + \sqrt{3} - \sqrt{15}\right)

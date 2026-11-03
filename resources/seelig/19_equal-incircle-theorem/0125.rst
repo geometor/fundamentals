@@ -1,0 +1,12 @@
+.. folio:: 0125
+   :topic: F.19
+   :title: Equal Incircles Theorem Statement & Ray-Fan Diagrams
+   :source: 0125.jpg
+
+**Diplomatic Transcription — Folio 0125** (``0125.jpg``, Sheet 1 of 2):
+
+States the theorem with two ray-fan diagrams and introduces the hyperbolic substitution :math:`\tan\gamma_n = \sinh(a + nb)`.
+
+.. math::
+
+   (h - r)(\tan\gamma_{n+1} - \tan\gamma_n) = r(\sec\gamma_n + \sec\gamma_{n+1})

@@ -1,0 +1,12 @@
+.. folio:: 0187
+   :topic: F.27
+   :title: Boxed Formula for Projection x = r/gamma & Worked Example (Page 7)
+   :source: 0187.jpg
+
+**Diplomatic Transcription — Folio 0187** (``0187.jpg``, Sheet 5 of 19):
+
+Completes the proof of :math:`x = r/\gamma` and tests :math:`\gamma = 2, r = 1 \implies m=3, n=1, t^2=3, x=1/2`.
+
+.. math::
+
+   |CD| = \operatorname{HM}(|BD|,\, |AD|) = \frac{2 |BD| \cdot |AD|}{|BD| + |AD|} = r\left(\gamma + \frac{1}{\gamma}\right), \qquad x^2 = \frac{(r / t)^2}{\frac{1}{r^2} + \frac{1}{t^2}} = \left(\frac{r}{\gamma}\right)^2

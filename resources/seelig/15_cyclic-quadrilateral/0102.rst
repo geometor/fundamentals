@@ -1,0 +1,12 @@
+.. folio:: 0102
+   :topic: F.15
+   :title: Diagonal \|XZ\| = 2 sin 36 = sqrt(3 - phi) (Page 2)
+   :source: 0102.jpg
+
+**Diplomatic Transcription — Folio 0102** (``0102.jpg``, Sheet 5 of 16):
+
+Computes midpoint distance :math:`|OM_1| = \cos 36^\circ = \phi/2` and chord :math:`|XZ| = \sqrt{3-\phi} \approx 1.1756`.
+
+.. math::
+
+   \theta + 2\theta + 3\theta + 4\theta = 360^\circ \implies \theta = 36^\circ, \qquad f = |XZ| = 2\sin 36^\circ = \sqrt{3 - \phi}, \qquad e = |YW| = 2\sin 72^\circ = \phi\sqrt{3 - \phi}

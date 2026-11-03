@@ -1,0 +1,12 @@
+.. folio:: 0115
+   :topic: F.16
+   :title: The Four Similitude Axes L_{+++}, L_{--+}, L_{-+-}, L_{+--}
+   :source: 0115.jpg
+
+**Diplomatic Transcription — Folio 0115** (``0115.jpg``, Sheet 2 of 4):
+
+Grid-paper drawing of circles :math:`A, B, C` showing all 6 centers of similitude and all 4 Monge–d'Alembert axes.
+
+.. math::
+
+   L_{+++}:\; \{S_{\text{EX}\,AB},\, S_{\text{EX}\,BC},\, S_{\text{EX}\,CA}\}, \qquad L_{+--}:\; \{S_{\text{EX}\,AB},\, S_{\text{IN}\,BC},\, S_{\text{IN}\,CA}\}

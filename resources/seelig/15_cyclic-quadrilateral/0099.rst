@@ -1,0 +1,12 @@
+.. folio:: 0099
+   :topic: F.15
+   :title: Cyclic Quad with Angles theta, 2*theta, 3*theta, 4*theta (Full Title, FWS 2015/4/9)
+   :source: 0099.jpg
+
+**Diplomatic Transcription — Folio 0099** (``0099.jpg``, Sheet 2 of 16):
+
+Uncropped master page showing full title and central/inscribed angle relations.
+
+.. math::
+
+   a c + b d = e f \quad (\text{Ptolemy}), \qquad (k^3 - k^2 + k - 1) = (k - 1)(k^2 + 1) = 0

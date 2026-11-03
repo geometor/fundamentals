@@ -1,0 +1,12 @@
+.. folio:: 0200
+   :topic: F.27
+   :title: Hyperbola Plots for k(kappa) and kappa(k) (Page 2)
+   :source: 0200.jpg
+
+**Diplomatic Transcription — Folio 0200** (``0200.jpg``, Sheet 18 of 19):
+
+Tables and sketches of :math:`k = \frac{1+\kappa}{1-\kappa}` and :math:`\kappa = \frac{k-1}{k+1}`.
+
+.. math::
+
+   Y^2 + (X + Z) Y - X Z = 0 \implies Y = \frac{-(X + Z) + \sqrt{(X + Z)^2 + 4 X Z}}{2}

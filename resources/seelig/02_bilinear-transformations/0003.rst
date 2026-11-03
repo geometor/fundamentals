@@ -1,0 +1,12 @@
+.. folio:: 0003
+   :topic: F.2
+   :title: Bilinear Transformation & Derivatives
+   :source: 0003.jpg
+
+**Diplomatic Transcription — Folio 0003** (``0003.jpg``, Sheet 1 of 8):
+
+Defines :math:`\mathbb{B}(1,x) = \frac{1+x}{1-x} = A(x)B(x)`, derives :math:`\mathbb{B}' = 2B^2` and :math:`\mathbb{B}'' = 4B^3`, and plots the hyperbola with vertical asymptote :math:`x = 1`.
+
+.. math::
+
+   \mathbb{B}(x) = \frac{1 + x}{1 - x}, \qquad \mathbb{B}^{-1}(y) = \frac{y - 1}{y + 1}, \qquad \mathbb{B}'(x) = \frac{2}{(1 - x)^2} = 2 B^2

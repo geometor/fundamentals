@@ -1,0 +1,12 @@
+.. folio:: 0035
+   :topic: F.7
+   :title: Sub-Cevian Harmonic & Barycentric Identities
+   :source: 0035.jpg
+
+**Diplomatic Transcription — Folio 0035** (``0035.jpg``, Sheet 12 of 26):
+
+Proves :math:`\frac{AP}{PD} = \frac{AE}{EC} + \frac{AF}{FB}`, :math:`\sum \frac{PD}{AD} = 1`, and :math:`\sum \frac{AP}{AD} = 2`.
+
+.. math::
+
+   \frac{PD}{AD} + \frac{PE}{BE} + \frac{PF}{CF} = 1, \qquad \frac{AP}{AD} + \frac{BP}{BE} + \frac{CP}{CF} = 2

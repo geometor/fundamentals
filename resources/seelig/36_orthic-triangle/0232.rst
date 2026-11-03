@@ -1,0 +1,12 @@
+.. folio:: 0232
+   :topic: F.36
+   :title: The Orthic Triangle & Fagnano's Problem
+   :source: 0232.jpg
+
+**Diplomatic Transcription — Folio 0232** (``0232.jpg``, Sheet 1 of 1):
+
+Records the three fundamental characterizations of the orthic triangle: (1) pedal triangle of :math:`H`, (2) homothetic to the tangential triangle, and (3) solution to Fagnano's 1775 minimum-perimeter inscribed triangle problem.
+
+.. math::
+
+   a_{\text{orthic}} = a \cos\alpha, \qquad b_{\text{orthic}} = b \cos\beta, \qquad c_{\text{orthic}} = c \cos\gamma

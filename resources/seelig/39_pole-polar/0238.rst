@@ -1,0 +1,12 @@
+.. folio:: 0238
+   :topic: F.39
+   :title: Pole & Polar W.r.t. a Triangle (May 6, 2015)
+   :source: 0238.jpg
+
+**Diplomatic Transcription — Folio 0238** (``0238.jpg``, Sheet 1 of 1):
+
+Constructs the cevian triangle :math:`A'B'C'` of pole :math:`P` and the collinear perspectrix/trilinear polar :math:`L` through :math:`X, Y, Z`, posing open metric questions for :math:`d(P,L), OP, IP, OL, IL`.
+
+.. math::
+
+   P = (u : v : w) \iff L:\; \frac{x}{u} + \frac{y}{v} + \frac{z}{w} = 0

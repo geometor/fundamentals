@@ -1,0 +1,12 @@
+.. folio:: 0005
+   :topic: F.2
+   :title: Second Derivative Forms & C.a.R. Conic Fit (FWS 12/5/2013)
+   :source: 0005.jpg
+
+**Diplomatic Transcription — Folio 0005** (``0005.jpg``, Sheet 3 of 8):
+
+Expresses :math:`\mathbb{B}''` in two algebraic forms and derives the C.a.R. conic curve equation :math:`x/4 - y/4 - xy/4 = 1/4`.
+
+.. math::
+
+   \mathbb{B}(x) = \frac{1 + x}{1 - x}, \qquad \mathbb{B}^{-1}(y) = \frac{y - 1}{y + 1}, \qquad \mathbb{B}'(x) = \frac{2}{(1 - x)^2} = 2 B^2

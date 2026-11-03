@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0105**
+
+Archival scan ``0105.jpg`` from Fred W. Seelig's notebook dossier on **F.15 Cyclic Quadrilateral** (Page 8 of 16). Companion OpenDocument worksheet(s): ``Cyclic Quad``, ``Chord Intersection``. Classical Euclidean foundations: :ref:`III.21`, :ref:`III.22`, :ref:`IV.11`.

@@ -1,0 +1,12 @@
+.. folio:: 0057
+   :topic: F.9
+   :title: Quadratic Solution for P, Q, and Z (FWS 9/24/2014)
+   :source: 0057.jpg
+
+**Diplomatic Transcription — Folio 0057** (``0057.jpg``, Sheet 4 of 8):
+
+Evaluates :math:`P = \frac{3}{2}(\sqrt{3}-1) \approx 1.09808, Q = 3\sqrt{\sqrt{3}/2} \approx 2.79181`, and :math:`Z = 7.08492`.
+
+.. math::
+
+   l_{AE}:\; y = \sqrt{3}x - \frac{\sqrt{2}}{2}R, \qquad P_y = \frac{r_F^2 - r_I^2}{2(F_y - I_y)}

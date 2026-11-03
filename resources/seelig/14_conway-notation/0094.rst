@@ -1,0 +1,12 @@
+.. folio:: 0094
+   :topic: F.14
+   :title: Intercept N and Altitude Splits on the 5-6-7 Triangle (Part 2)
+   :source: 0094.jpg
+
+**Diplomatic Transcription — Folio 0094** (``0094.jpg``, Sheet 3 of 6):
+
+Finds the :math:`y`-intercept :math:`N = \frac{84}{19}\sqrt{6} \approx 10.829` and altitude base fractions :math:`k_c = 30/49, k_c' = 19/49`.
+
+.. math::
+
+   S = 2 K, \qquad S_\omega = \frac{a^2 + b^2 + c^2}{2} = S \cot\omega, \qquad S_A = \frac{b^2 + c^2 - a^2}{2} = b c \cos\alpha

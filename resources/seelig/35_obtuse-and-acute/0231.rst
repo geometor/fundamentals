@@ -1,0 +1,12 @@
+.. folio:: 0231
+   :topic: F.35
+   :title: Median Theorem from Excess & Deficit
+   :source: 0231.jpg
+
+**Diplomatic Transcription — Folio 0231** (``0231.jpg``, Sheet 7 of 7):
+
+Adds Euclid II.12 and II.13 on the two halves of a bisected base :math:`E` to prove Apollonius's median formula :math:`D^2 = \frac{U^2+V^2}{2} - (E/2)^2`.
+
+.. math::
+
+   a^2 = b^2 + c^2 \pm 2 c x \implies x = \frac{|a^2 - (b^2 + c^2)|}{2 c}, \qquad h^2 = b^2 - x^2

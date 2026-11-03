@@ -1,0 +1,12 @@
+.. folio:: 0183
+   :topic: F.27
+   :title: Harmonic Mean \|CD\| = r(gamma + 1/gamma) & Construction Part I
+   :source: 0183.jpg
+
+**Diplomatic Transcription — Folio 0183** (``0183.jpg``, Sheet 1 of 19):
+
+Proves :math:`|CD| = \operatorname{HM}(|BD|, |AD|)` with a table for :math:`1/\gamma \in \{2..6\}` and begins the compass construction.
+
+.. math::
+
+   |CD| = \operatorname{HM}(|BD|,\, |AD|) = \frac{2 |BD| \cdot |AD|}{|BD| + |AD|} = r\left(\gamma + \frac{1}{\gamma}\right), \qquad x^2 = \frac{(r / t)^2}{\frac{1}{r^2} + \frac{1}{t^2}} = \left(\frac{r}{\gamma}\right)^2

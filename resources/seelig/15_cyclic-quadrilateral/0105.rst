@@ -1,0 +1,12 @@
+.. folio:: 0105
+   :topic: F.15
+   :title: Non-Cyclic Trap When Angles Are Ordered Sequentially
+   :source: 0105.jpg
+
+**Diplomatic Transcription — Folio 0105** (``0105.jpg``, Sheet 8 of 16):
+
+Shows that if :math:`W=36^\circ, X=72^\circ, Y=108^\circ, Z=144^\circ` in order around the perimeter, :math:`W + Y \ne 180^\circ` so :math:`WXYZ` is not cyclic.
+
+.. math::
+
+   a c + b d = e f \quad (\text{Ptolemy}), \qquad (k^3 - k^2 + k - 1) = (k - 1)(k^2 + 1) = 0

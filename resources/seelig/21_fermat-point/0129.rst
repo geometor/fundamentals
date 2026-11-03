@@ -1,0 +1,12 @@
+.. folio:: 0129
+   :topic: F.21
+   :title: Obtuse Triangle Regime & Distinction from the Steiner Point (Wells 1991, p. 75)
+   :source: 0129.jpg
+
+**Diplomatic Transcription — Folio 0129** (``0129.jpg``, Sheet 2 of 2):
+
+Explains why :math:`S_{\text{TOT}} = SA + SB + SC` is minimized at the obtuse vertex whenever an angle is :math:`\ge 120^\circ`.
+
+.. math::
+
+   F = X(13) = \left(\csc\left(\alpha + \frac{\pi}{3}\right) : \csc\left(\beta + \frac{\pi}{3}\right) : \csc\left(\gamma + \frac{\pi}{3}\right)\right)

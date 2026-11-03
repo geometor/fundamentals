@@ -1,0 +1,12 @@
+.. folio:: 0204
+   :topic: F.28
+   :title: Inradius, Altitudes & Euler's Formula (citing Altshiller-Court 2007)
+   :source: 0204.jpg
+
+**Diplomatic Transcription — Folio 0204** (``0204.jpg``, Sheet 3 of 5):
+
+Records :math:`1/r = 1/h_a + 1/h_b + 1/h_c`, :math:`2rR = abc/(a+b+c)`, and :math:`d^2 = R(R-2r)`.
+
+.. math::
+
+   \vec{I} = \frac{a \vec{A} + b \vec{B} + c \vec{C}}{a + b + c}, \qquad r = \frac{K}{s} = \sqrt{\frac{(s - a)(s - b)(s - c)}{s}}, \qquad \frac{1}{r} = \frac{1}{h_a} + \frac{1}{h_b} + \frac{1}{h_c}

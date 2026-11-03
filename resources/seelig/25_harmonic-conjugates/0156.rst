@@ -1,0 +1,12 @@
+.. folio:: 0156
+   :topic: F.25
+   :title: Master Diagram: Dual Relations & Internal Symmetry (FWS 6/20/2014)
+   :source: 0156.jpg
+
+**Diplomatic Transcription — Folio 0156** (``0156.jpg``, Sheet 17 of 28):
+
+Yellow legal-pad master construction of semicircles :math:`\Gamma_r, \Gamma_R, \Gamma_w, \Gamma_\rho` and segments :math:`t, t', T, T', p, q, \delta, \rho`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

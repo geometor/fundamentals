@@ -1,0 +1,12 @@
+.. folio:: 0092
+   :topic: F.14
+   :title: Conway Notation Definitions, Trig Functions & Identities
+   :source: 0092.jpg
+
+**Diplomatic Transcription — Folio 0092** (``0092.jpg``, Sheet 1 of 6):
+
+Defines :math:`S = 2K, S_\omega = S\cot\omega, S_A, S_B, S_C` and records the fundamental quadratic and cubic Conway identities.
+
+.. math::
+
+   S = 2 K, \qquad S_\omega = \frac{a^2 + b^2 + c^2}{2} = S \cot\omega, \qquad S_A = \frac{b^2 + c^2 - a^2}{2} = b c \cos\alpha

@@ -1,0 +1,12 @@
+.. folio:: 0336
+   :topic: F.52
+   :title: Euler Line Barycentric Combinations (bari-centers-006)
+   :source: 0336.jpg
+
+**Diplomatic Transcription — Folio 0336** (``0336.jpg``, Sheet 6 of 15):
+
+Verifies :math:`G = \frac{2}{3}O + \frac{1}{3}H` and :math:`N = \frac{1}{2}O + \frac{1}{2}H` directly on the normalized barycentric triples.
+
+.. math::
+
+   X(1) = (a : b : c),\quad X(2) = (1 : 1 : 1),\quad X(3) = (a^2 S_A : b^2 S_B : c^2 S_C),\quad X(4) = (S_B S_C : S_C S_A : S_A S_B),\quad X(6) = (a^2 : b^2 : c^2)

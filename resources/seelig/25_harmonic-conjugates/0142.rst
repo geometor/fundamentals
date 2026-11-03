@@ -1,0 +1,12 @@
+.. folio:: 0142
+   :topic: F.25
+   :title: Symmetrical Ratio gamma = (r+r')/(r-r') = (d+r)/(d-r) (Page 3)
+   :source: 0142.jpg
+
+**Diplomatic Transcription — Folio 0142** (``0142.jpg``, Sheet 3 of 28):
+
+Proves :math:`d = \frac{\gamma+1}{\gamma-1}r` (*'What a pleasing, symmetrical result!'*).
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

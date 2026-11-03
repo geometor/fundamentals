@@ -1,0 +1,12 @@
+.. folio:: 0290
+   :topic: F.45
+   :title: Subdivided Square & Circle Packing Sketch (004)
+   :source: 0290.jpg
+
+**Diplomatic Transcription — Folio 0290** (``0290.jpg``, Sheet 4 of 6):
+
+Sketches nested squares and inscribed circles scaling by powers of :math:`1/\sqrt{2}`.
+
+.. math::
+
+   X_N = \frac{s \cdot u v}{u + v - u v}, \qquad Y_N = \frac{s \cdot u (1 - v)}{u + v - u v}

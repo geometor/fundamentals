@@ -1,0 +1,12 @@
+.. folio:: 0109
+   :topic: F.15
+   :title: Vector Construction of the Non-Cyclic Quadrilateral
+   :source: 0109.jpg
+
+**Diplomatic Transcription — Folio 0109** (``0109.jpg``, Sheet 12 of 16):
+
+Constructs the non-cyclic quadrilateral with :math:`WX = 1` and comments on ambiguous problem statements.
+
+.. math::
+
+   a c + b d = e f \quad (\text{Ptolemy}), \qquad (k^3 - k^2 + k - 1) = (k - 1)(k^2 + 1) = 0

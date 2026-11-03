@@ -1,0 +1,12 @@
+.. folio:: 0184
+   :topic: F.27
+   :title: Harmonic Mean and the Power of a Circle (Page 3)
+   :source: 0184.jpg
+
+**Diplomatic Transcription — Folio 0184** (``0184.jpg``, Sheet 2 of 19):
+
+Uses :math:`t^2 = mn` and :math:`\triangle OxT \sim \triangle TxD` to derive :math:`x^2 = r^2[\frac{1/t^2}{1/r^2+1/t^2}] = (r/\gamma)^2`.
+
+.. math::
+
+   Y^2 + (X + Z) Y - X Z = 0 \implies Y = \frac{-(X + Z) + \sqrt{(X + Z)^2 + 4 X Z}}{2}

@@ -1,0 +1,12 @@
+.. folio:: 0268
+   :topic: F.42
+   :title: Rational Evaluation on Primitive Triples (002)
+   :source: 0268.jpg
+
+**Diplomatic Transcription — Folio 0268** (``0268.jpg``, Sheet 2 of 4):
+
+Evaluates :math:`h_c, u, y` on :math:`(3,4,5)\mapsto (12/5, 9/5, 16/5)` and :math:`(5,12,13)\mapsto (60/13, 25/13, 144/13)`.
+
+.. math::
+
+   |A T_C| = s - a \neq u = \frac{b^2}{c} \quad (a \neq b), \qquad K = (s - a)(s - b) = \frac{a b}{2}

@@ -1,0 +1,12 @@
+.. folio:: 0327
+   :topic: F.51
+   :title: Arithmetic, Geometric & Harmonic Means on Segment AD (apollonian-006)
+   :source: 0327.jpg
+
+**Diplomatic Transcription — Folio 0327** (``0327.jpg``, Sheet 6 of 9):
+
+Identifies :math:`|AB|, |AC|, |AD|, |AM'|` with the classical Pythagorean means.
+
+.. math::
+
+   |A T'|^2 = |AC|\cdot|AD| = |AB|\cdot|A M'| = d(d + M') = \frac{d^2 k^2}{k^2 - 1}

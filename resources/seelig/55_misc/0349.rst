@@ -1,0 +1,12 @@
+.. folio:: 0349
+   :topic: F.55
+   :title: Compass Construction — Vesica Piscis & Orthogonal Axes (drawings-001)
+   :source: 0349.jpg
+
+**Diplomatic Transcription — Folio 0349** (``0349.jpg``, Sheet 1 of 5):
+
+Full-page compass and straightedge construction of a vesica piscis, perpendicular bisector, and inscribed circles.
+
+.. math::
+
+   s - a = r\cot\frac{\alpha}{2}, \qquad s - b = r\cot\frac{\beta}{2}, \qquad s - c = r\cot\frac{\gamma}{2}

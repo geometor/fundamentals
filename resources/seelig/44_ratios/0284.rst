@@ -1,0 +1,12 @@
+.. folio:: 0284
+   :topic: F.44
+   :title: Crossed-Ladder Height & Harmonic Mean (003)
+   :source: 0284.jpg
+
+**Diplomatic Transcription — Folio 0284** (``0284.jpg``, Sheet 3 of 5):
+
+Shows that the height of the crossed-diagonal intersection is :math:`h = \frac{h_1 h_2}{h_1+h_2} = \frac{1}{2}H(h_1,h_2)`, independent of :math:`d`.
+
+.. math::
+
+   x = d\frac{h_1}{h_1 + h_2}, \qquad y - x = d\frac{h_1}{h_2 - h_1}, \qquad h = \frac{h_1 h_2}{h_1 + h_2}

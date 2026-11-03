@@ -1,0 +1,12 @@
+.. folio:: 0190
+   :topic: F.27
+   :title: Derivation of x, y, and Apollonian Radius R from xy = r^2
+   :source: 0190.jpg
+
+**Diplomatic Transcription — Folio 0190** (``0190.jpg``, Sheet 8 of 19):
+
+Derives :math:`x = r\frac{k-1}{k+1}, y = r\frac{k+1}{k-1}`, and :math:`R = \frac{2rk}{k^2-1}`.
+
+.. math::
+
+   Y^2 + (X + Z) Y - X Z = 0 \implies Y = \frac{-(X + Z) + \sqrt{(X + Z)^2 + 4 X Z}}{2}

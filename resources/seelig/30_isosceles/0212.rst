@@ -1,0 +1,12 @@
+.. folio:: 0212
+   :topic: F.30
+   :title: Newton's Right-Triangle Formula & Cubic Setup (Page 2)
+   :source: 0212.jpg
+
+**Diplomatic Transcription — Folio 0212** (``0212.jpg``, Sheet 3 of 5):
+
+Contrasts Newton's *Universal Arithmetick* right-triangle identity :math:`c = s - K/s` with the isosceles cubic :math:`x^3 - \frac{s}{2}x^2 + \frac{K^2}{2s} = 0`.
+
+.. math::
+
+   a = b = s - x, \qquad x = \frac{c}{2}, \qquad K = x\sqrt{s(s - 2x)} \implies 2 s x^3 - s^2 x^2 + K^2 = 0

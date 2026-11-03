@@ -1,0 +1,12 @@
+.. folio:: 0144
+   :topic: F.25
+   :title: Inversion Identity r^2 = d*r' (Page 5, citing Ogilvy 1969, p. 19)
+   :source: 0144.jpg
+
+**Diplomatic Transcription — Folio 0144** (``0144.jpg``, Sheet 5 of 28):
+
+Completes example (:math:`d = 2.5r`) and proves :math:`r^2 = |mX|\cdot |mY|`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

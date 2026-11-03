@@ -1,0 +1,12 @@
+.. folio:: 0285
+   :topic: F.44
+   :title: Dimensionless Ratio Parameterization k = h_2 / h_1 (004)
+   :source: 0285.jpg
+
+**Diplomatic Transcription — Folio 0285** (``0285.jpg``, Sheet 4 of 5):
+
+Divides top and bottom by :math:`h_1^2` to recover the canonical Apollonian formulas :math:`x = d/(k+1), y-x = d/(k-1), z = dk/(k^2-1)`.
+
+.. math::
+
+   y = \frac{2 d h_1 h_2}{h_2^2 - h_1^2}, \qquad z = \frac{y}{2} = \frac{d h_1 h_2}{h_2^2 - h_1^2}

@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0353**
+
+Archival scan ``0353.jpg`` from Fred W. Seelig's notebook dossier on **F.55 Compass Constructions and Angle-to-Side Triangle Reconstruction** (Page 5 of 5). Companion OpenDocument worksheet(s): ``General Reference``, ``Incircle-Incenter``. Classical Euclidean foundations: :ref:`I.1`, :ref:`IV.4`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(1)`, :ref:`X(7)`.

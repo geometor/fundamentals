@@ -1,0 +1,12 @@
+.. folio:: 0257
+   :topic: F.41
+   :title: Algebraic & Radical Simplification Sheet (001)
+   :source: 0257.jpg
+
+**Diplomatic Transcription — Folio 0257** (``0257.jpg``, Sheet 1 of 10):
+
+Works through radical and quadratic simplifications used across the triangle problem set.
+
+.. math::
+
+   A_{\text{acute}} = \int_0^{\sqrt{3}} \left(\sqrt{4 - x^2} - 1\right) dx - \frac{\pi}{4} = \frac{5\pi - 6\sqrt{3}}{12} \approx 0.44297

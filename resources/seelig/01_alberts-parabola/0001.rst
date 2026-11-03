@@ -1,0 +1,12 @@
+.. folio:: 0001
+   :topic: F.1
+   :title: Albert's Parabola Problem (Attempt #2, FWS Apr. 2015)
+   :source: 0001.jpg
+
+**Diplomatic Transcription — Folio 0001** (``0001.jpg``, Sheet 1 of 2):
+
+Derives slope-intercept and double-intercept equations for tangent :math:`T` and normal :math:`N` to :math:`y = x^2`, records C.a.R. expressions, and reduces the normal intercept condition at :math:`(M,0)` (tested at :math:`M=4`) to the depressed cubic :math:`P_x^3 + \frac{1}{2}P_x - 2 = 0`.
+
+.. math::
+
+   T:\; y = 2 P_x x - P_x^2, \qquad N:\; y = -\frac{x}{2 P_x} + \left(P_x^2 + \frac{1}{2}\right)

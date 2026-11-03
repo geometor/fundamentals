@@ -1,0 +1,12 @@
+.. folio:: 0205
+   :topic: F.28
+   :title: Inscribed Circle in Unit Right Triangle
+   :source: 0205.jpg
+
+**Diplomatic Transcription — Folio 0205** (``0205.jpg``, Sheet 4 of 5):
+
+Graph-paper construction of the incircle and angle bisectors of the right triangle with vertices :math:`(0,0), (0,1), (1,0)`.
+
+.. math::
+
+   2 r R = \frac{a b c}{a + b + c}, \qquad d_{IO}^2 = R(R - 2 r) \implies R \ge 2 r

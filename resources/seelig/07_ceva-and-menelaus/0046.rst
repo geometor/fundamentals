@@ -1,0 +1,12 @@
+.. folio:: 0046
+   :topic: F.7
+   :title: Worked Test Case: 6-9-13 Triangle (Part 3)
+   :source: 0046.jpg
+
+**Diplomatic Transcription — Folio 0046** (``0046.jpg``, Sheet 23 of 26):
+
+Cross-checks sub-cevian ratios and subtriangle areas against the Excel workbook.
+
+.. math::
+
+   D_x = \frac{M J P}{J P + (M - I) Q}, \qquad E_x = \frac{M I Q}{I Q + (M - P) J}, \qquad F_x = \frac{I Q - J P}{Q - J}

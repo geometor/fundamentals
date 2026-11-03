@@ -1,0 +1,12 @@
+.. folio:: 0015
+   :topic: F.3
+   :title: Finding Sidelength b(a; c, R)
+   :source: 0015.jpg
+
+**Diplomatic Transcription — Folio 0015** (``0015.jpg``, Sheet 5 of 9):
+
+Derives :math:`b = 2R\sin(180^\circ - (\sin^{-1}\frac{a}{2R} + \sin^{-1}\frac{c}{2R}))` for fixed chord :math:`c` and circumradius :math:`R`.
+
+.. math::
+
+   X = \frac{a}{2}, \quad W = \frac{b + c}{2}, \quad Y = \frac{c - b}{2} \implies K = \sqrt{(W^2 - X^2)(X^2 - Y^2)}

@@ -1,0 +1,12 @@
+.. folio:: 0039
+   :topic: F.7
+   :title: Subtriangle Areas & Side Splits
+   :source: 0039.jpg
+
+**Diplomatic Transcription — Folio 0039** (``0039.jpg``, Sheet 16 of 26):
+
+Computes the six side segments and six subtriangle areas around interior point :math:`P`.
+
+.. math::
+
+   \frac{AF}{FB} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = +1 \quad (\text{Ceva}), \qquad \frac{AF'}{F'B} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = -1 \quad (\text{Menelaus})

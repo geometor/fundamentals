@@ -1,0 +1,12 @@
+.. folio:: 0019
+   :topic: F.3
+   :title: Numerical Evaluation & Means of z_1*, z_2*, z_3*
+   :source: 0019.jpg
+
+**Diplomatic Transcription — Folio 0019** (``0019.jpg``, Sheet 9 of 9):
+
+Computes :math:`z_1^* = \sqrt{91/4} \approx 4.77, z_2^* = \sqrt{57/4} \approx 3.775, z_3^* = \sqrt{21} \approx 4.583` and compares their harmonic ($4.330$), geometric ($4.353$), and arithmetic ($4.376$) means.
+
+.. math::
+
+   X = \frac{a}{2}, \quad W = \frac{b + c}{2}, \quad Y = \frac{c - b}{2} \implies K = \sqrt{(W^2 - X^2)(X^2 - Y^2)}

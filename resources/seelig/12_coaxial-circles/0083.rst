@@ -1,0 +1,12 @@
+.. folio:: 0083
+   :topic: F.12
+   :title: Alternative Coordinate Setup (-d/2, +d/2)
+   :source: 0083.jpg
+
+**Diplomatic Transcription — Folio 0083** (``0083.jpg``, Sheet 12 of 12):
+
+Solves for :math:`P_1` with charges at :math:`\pm d/2` and potential ratio :math:`V_1/V_2 = 1/2`.
+
+.. math::
+
+   x^2 + y^2 - 2 c_x x + r^2 = 0, \qquad E_{\text{TOT}} = k Q_1 \frac{x - x_1}{|x - x_1|^3} + k Q_2 \frac{x - x_2}{|x - x_2|^3} = 0

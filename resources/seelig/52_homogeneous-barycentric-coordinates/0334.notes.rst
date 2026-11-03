@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0334**
+
+Archival scan ``0334.jpg`` from Fred W. Seelig's notebook dossier on **F.52 Homogeneous Barycentric Coordinates** (Page 4 of 15). Companion OpenDocument worksheet(s): ``Barycentric``, ``Barycentric (2)``, ``9-Point Circle``, ``5-6-7 A,B,C``. Classical Euclidean foundations: :ref:`IV.4`, :ref:`IV.5`, :ref:`VI.1`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(1)`, :ref:`X(2)`, :ref:`X(3)`, :ref:`X(4)`, :ref:`X(5)`, :ref:`X(6)`, :ref:`X(7)`, :ref:`X(8)`.

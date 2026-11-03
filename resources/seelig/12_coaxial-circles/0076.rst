@@ -1,0 +1,12 @@
+.. folio:: 0076
+   :topic: F.12
+   :title: Six Landmark Points P_1..P_6 on the Equipotential Circle
+   :source: 0076.jpg
+
+**Diplomatic Transcription — Folio 0076** (``0076.jpg``, Sheet 5 of 12):
+
+Defines :math:`P_1..P_6` around charges :math:`Q_1(-r,0)` and :math:`Q_2(+r,0)` on blue grid paper.
+
+.. math::
+
+   P_1 = \left(\frac{k - 1}{k + 1}r,\, 0\right), \qquad P_2 = \left(\frac{k + 1}{k - 1}r,\, 0\right), \qquad M' = \frac{k^2 + 1}{k^2 - 1}r, \qquad R = \frac{2 k}{k^2 - 1}r

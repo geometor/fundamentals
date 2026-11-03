@@ -1,0 +1,12 @@
+.. folio:: 0352
+   :topic: F.55
+   :title: Unit-Area Normalization K = 1 & Intouch Cotangents (misc-2-002)
+   :source: 0352.jpg
+
+**Diplomatic Transcription — Folio 0352** (``0352.jpg``, Sheet 4 of 5):
+
+Uses :math:`K = rs = 1 \implies s = 1/r` and :math:`s - a = r\cot(\alpha/2), s - b = r\cot(\beta/2)` to solve for :math:`r, s`, and :math:`(a,b,c)`.
+
+.. math::
+
+   K = r s = 1 \implies s = \frac{1}{r}, \qquad c = (s - a) + (s - b) = 2 s - (a + b)

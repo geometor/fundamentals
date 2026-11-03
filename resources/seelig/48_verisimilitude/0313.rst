@@ -1,0 +1,12 @@
+.. folio:: 0313
+   :topic: F.48
+   :title: Worked Quadratic Example (a, b, c, d) = (7, 5, 10, 4) (008)
+   :source: 0313.jpg
+
+**Diplomatic Transcription — Folio 0313** (``0313.jpg``, Sheet 8 of 9):
+
+Solves for the two base division ratios :math:`k = 0.613` and :math:`k = 0.147` at which a cevian of length :math:`d=4` meets base :math:`c=10`.
+
+.. math::
+
+   |AI| = |II_A|\frac{r}{r_a - r}, \qquad |AI_A| = |II_A|\frac{r_a}{r_a - r}, \qquad c^2 k^2 - (c^2 + a^2 - b^2) k + (a^2 - d^2) = 0

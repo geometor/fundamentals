@@ -1,0 +1,12 @@
+.. folio:: 0098
+   :topic: F.15
+   :title: Cyclic Quad with Angles theta, 2*theta, 3*theta, 4*theta (Cropped Copy, FWS 2015/4/9)
+   :source: 0098.jpg
+
+**Diplomatic Transcription — Folio 0098** (``0098.jpg``, Sheet 1 of 16):
+
+Tabulates the four central isosceles triangles :math:`\triangle WOX, \triangle XOY, \triangle YOZ, \triangle ZOW` and sets the goal of finding :math:`|OP|`.
+
+.. math::
+
+   \theta + 2\theta + 3\theta + 4\theta = 360^\circ \implies \theta = 36^\circ, \qquad f = |XZ| = 2\sin 36^\circ = \sqrt{3 - \phi}, \qquad e = |YW| = 2\sin 72^\circ = \phi\sqrt{3 - \phi}

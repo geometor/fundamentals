@@ -1,0 +1,12 @@
+.. folio:: 0283
+   :topic: F.44
+   :title: Total Span y & Midpoint z Between Similitude Centers (002)
+   :source: 0283.jpg
+
+**Diplomatic Transcription — Folio 0283** (``0283.jpg``, Sheet 2 of 5):
+
+Combines :math:`x` and :math:`y-x` to obtain :math:`y = \frac{2dh_1h_2}{h_2^2-h_1^2}` and :math:`z = \frac{dh_1h_2}{h_2^2-h_1^2}`.
+
+.. math::
+
+   y = \frac{2 d h_1 h_2}{h_2^2 - h_1^2}, \qquad z = \frac{y}{2} = \frac{d h_1 h_2}{h_2^2 - h_1^2}

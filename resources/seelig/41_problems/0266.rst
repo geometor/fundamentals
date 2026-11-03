@@ -1,0 +1,12 @@
+.. folio:: 0266
+   :topic: F.41
+   :title: Master Geometry Problem Set — Problems 24–25 (2-008)
+   :source: 0266.jpg
+
+**Diplomatic Transcription — Folio 0266** (``0266.jpg``, Sheet 10 of 10):
+
+Concludes the 25-problem syllabus with projective pole-polar and bilinear transformation challenges.
+
+.. math::
+
+   p_{\text{accept}} = \frac{A_{\text{acute}}}{\sqrt{3}} \approx 0.25575, \qquad d_{IO} = \sqrt{R^2 - 2 r R}

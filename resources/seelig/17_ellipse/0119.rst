@@ -1,0 +1,12 @@
+.. folio:: 0119
+   :topic: F.17
+   :title: Five-Circle Construction Ellipse — Steps 5–7
+   :source: 0119.jpg
+
+**Diplomatic Transcription — Folio 0119** (``0119.jpg``, Sheet 2 of 4):
+
+Locates :math:`Q` with :math:`|BQ| = 2r`, draws circle :math:`(C_1, |C_1 Q|)` to find :math:`C_4, C_5`, and draws transition radials through :math:`C_2, C_3`.
+
+.. math::
+
+   \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1, \qquad r_1 + r_2 = 2 a, \qquad V = a = \sqrt{d \cdot F}, \qquad L = \frac{2 b^2}{a}

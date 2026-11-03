@@ -1,0 +1,12 @@
+.. folio:: 0182
+   :topic: F.26
+   :title: Fibonacci & Lucas Prime Factorization Table (F_1 to F_25)
+   :source: 0182.jpg
+
+**Diplomatic Transcription — Folio 0182** (``0182.jpg``, Sheet 15 of 15):
+
+Reverse side of Folio 14 listing prime factorizations of Fibonacci and Lucas numbers.
+
+.. math::
+
+   x y = |MC| \cdot |MD| = r^2, \qquad T^2 = y^2 - r^2 = |AD| \cdot |BD|, \qquad z^2 + T^2 = 2(r^2 + y^2) \implies z^2 = y^2 + 3 r^2

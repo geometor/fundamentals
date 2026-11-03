@@ -1,0 +1,12 @@
+.. folio:: 0282
+   :topic: F.44
+   :title: Homothetic Right Triangles & Crossed Diagonals (001)
+   :source: 0282.jpg
+
+**Diplomatic Transcription — Folio 0282** (``0282.jpg``, Sheet 1 of 5):
+
+Sets up uprights :math:`h_1, h_2` separated by :math:`d` from apex :math:`O` (angle :math:`\phi`) and derives :math:`x = d h_1/(h_1+h_2)` and :math:`y-x = d h_1/(h_2-h_1)`.
+
+.. math::
+
+   x = d\frac{h_1}{h_1 + h_2}, \qquad y - x = d\frac{h_1}{h_2 - h_1}, \qquad h = \frac{h_1 h_2}{h_1 + h_2}

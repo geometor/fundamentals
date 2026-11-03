@@ -1,0 +1,12 @@
+.. folio:: 0145
+   :topic: F.25
+   :title: Ogilvy's Theorem 8 on Orthogonal Circles (Page 6, Ogilvy p. 20)
+   :source: 0145.jpg
+
+**Diplomatic Transcription — Folio 0145** (``0145.jpg``, Sheet 6 of 28):
+
+Proves that any circle dividing a diameter harmonically is orthogonal to the base circle (:math:`\vec{mP} \perp \vec{zP}`).
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

@@ -1,0 +1,12 @@
+.. folio:: 0018
+   :topic: F.3
+   :title: Polynomial Division & Closed Form for z*
+   :source: 0018.jpg
+
+**Diplomatic Transcription — Folio 0018** (``0018.jpg``, Sheet 8 of 9):
+
+Uses :math:`(x^3 - y^3)/(x - y) = x^2 + xy + y^2` to prove :math:`{z_i^*}^2 = w_i^2 + w_i w_i' + {w_i'}^2`.
+
+.. math::
+
+   16 K^2 = 2 a^2 b^2 + 2 b^2 c^2 + 2 c^2 a^2 - a^4 - b^4 - c^4, \qquad {z_i^*}^2 = w_i^2 + w_i w_i' + {w_i'}^2

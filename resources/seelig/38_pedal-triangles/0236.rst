@@ -1,0 +1,12 @@
+.. folio:: 0236
+   :topic: F.38
+   :title: Pedal Triangle Side Lengths & Area Formula
+   :source: 0236.jpg
+
+**Diplomatic Transcription — Folio 0236** (``0236.jpg``, Sheet 1 of 2):
+
+Records the trilinear pedal side-length formula for :math:`a', b', c'` and Euler's pedal area relation :math:`(\Delta P) = \frac{R^2-OP^2}{4R^2}\Delta`.
+
+.. math::
+
+   a' = \frac{a b c \sqrt{\tau_B^2 + \tau_C^2 + 2\tau_B\tau_C\cos\alpha}}{2 R (a\tau_A + b\tau_B + c\tau_C)}, \qquad \Delta(P) = \frac{R^2 - OP^2}{4 R^2}\Delta

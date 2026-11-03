@@ -1,0 +1,12 @@
+.. folio:: 0072
+   :topic: F.12
+   :title: Coaxal Circles & Electromagnetics Introduction
+   :source: 0072.jpg
+
+**Diplomatic Transcription — Folio 0072** (``0072.jpg``, Sheet 1 of 12):
+
+Introduces coaxal circles via equipotentials around two charges (:math:`K = Q_1/Q_2 = 2`), citing Stanley Ogilvy and Wikipedia, with radical axis :math:`\eta = 1`.
+
+.. math::
+
+   P_1 = \left(\frac{k - 1}{k + 1}r,\, 0\right), \qquad P_2 = \left(\frac{k + 1}{k - 1}r,\, 0\right), \qquad M' = \frac{k^2 + 1}{k^2 - 1}r, \qquad R = \frac{2 k}{k^2 - 1}r

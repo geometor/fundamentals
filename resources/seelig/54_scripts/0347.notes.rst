@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0347**
+
+Archival scan ``0347.jpg`` from Fred W. Seelig's notebook dossier on **F.54 HP-35s Triangle Program and Coordinate Scripts** (Page 1 of 2). Companion OpenDocument worksheet(s): ``Barycentric``, ``5-6-7 A,B,C``. Classical Euclidean foundations: :ref:`VI.2`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(1)`, :ref:`X(2)`, :ref:`X(3)`, :ref:`X(4)`.

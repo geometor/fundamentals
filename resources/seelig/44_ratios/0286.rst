@@ -1,0 +1,12 @@
+.. folio:: 0286
+   :topic: F.44
+   :title: Numerical & Graphical Verification (005)
+   :source: 0286.jpg
+
+**Diplomatic Transcription — Folio 0286** (``0286.jpg``, Sheet 5 of 5):
+
+Tests the formulas on integer height pairs :math:`(h_1, h_2) = (1,2)` and :math:`(2,3)`.
+
+.. math::
+
+   x = d\frac{h_1}{h_1 + h_2}, \qquad y - x = d\frac{h_1}{h_2 - h_1}, \qquad h = \frac{h_1 h_2}{h_1 + h_2}

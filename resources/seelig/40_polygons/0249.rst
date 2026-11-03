@@ -1,0 +1,12 @@
+.. folio:: 0249
+   :topic: F.40
+   :title: Inscribed Pentagon & Decagon Geometry (002)
+   :source: 0249.jpg
+
+**Diplomatic Transcription — Folio 0249** (``0249.jpg``, Sheet 11 of 18):
+
+Shows Ptolemy's / Euclid XIII.10 relation :math:`E_5^2 = R^2 + E_{10}^2` inside the unit circle.
+
+.. math::
+
+   E_N = 2\sin\frac{\pi}{N} = \sqrt{2 - \sqrt{4 - E_{N/2}^2}}, \qquad r_N = \cos\frac{\pi}{N} = \frac{1}{2}\sqrt{4 - E_N^2}

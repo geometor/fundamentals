@@ -1,0 +1,12 @@
+.. folio:: 0322
+   :topic: F.51
+   :title: Apollonian Circle Center M' & Radius R (apollonian-001, FWS 2/7/2014)
+   :source: 0322.jpg
+
+**Diplomatic Transcription — Folio 0322** (``0322.jpg``, Sheet 1 of 9):
+
+Derives :math:`|BC| = d/(k+1), |BD| = d/(k-1), M' = d/(k^2-1)`, and :math:`R = dk/(k^2-1)` for the locus :math:`|PA|/|PB| = k`.
+
+.. math::
+
+   \frac{|PA|}{|PB|} = k \implies M' = \frac{d}{k^2 - 1}, \qquad R = \frac{d k}{k^2 - 1}, \qquad R^2 - {M'}^2 = \frac{d^2}{k^2 - 1}

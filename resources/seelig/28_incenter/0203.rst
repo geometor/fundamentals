@@ -1,0 +1,12 @@
+.. folio:: 0203
+   :topic: F.28
+   :title: Vector Equations for Contact Points T_A, T_B, T_C
+   :source: 0203.jpg
+
+**Diplomatic Transcription — Folio 0203** (``0203.jpg``, Sheet 2 of 5):
+
+Expresses :math:`\vec{T}_C = \vec{A} + \frac{x}{c}(\vec{B}-\vec{A})` and line intersection formulas.
+
+.. math::
+
+   2 r R = \frac{a b c}{a + b + c}, \qquad d_{IO}^2 = R(R - 2 r) \implies R \ge 2 r

@@ -1,0 +1,12 @@
+.. folio:: 0350
+   :topic: F.55
+   :title: Compass Construction — Inscribed Square & Diagonal Grid (drawings-002)
+   :source: 0350.jpg
+
+**Diplomatic Transcription — Folio 0350** (``0350.jpg``, Sheet 2 of 5):
+
+Compass construction of a circle, orthogonal diameters, and inscribed square with auxiliary secant lines.
+
+.. math::
+
+   K = r s = 1 \implies s = \frac{1}{r}, \qquad c = (s - a) + (s - b) = 2 s - (a + b)

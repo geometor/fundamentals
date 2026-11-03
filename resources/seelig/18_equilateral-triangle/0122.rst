@@ -1,0 +1,12 @@
+.. folio:: 0122
+   :topic: F.18
+   :title: Equilateral Triangle Fundamental Properties
+   :source: 0122.jpg
+
+**Diplomatic Transcription — Folio 0122** (``0122.jpg``, Sheet 1 of 3):
+
+Lists coincidence of orthocenter, centroid, and incenter, equal altitudes, and :math:`h_A = 3r` (:math:`h_A = \sqrt{3}/2` for :math:`a=1`).
+
+.. math::
+
+   h_A = \frac{\sqrt{3}}{2} a = 3 r, \qquad R = \frac{a}{\sqrt{3}} = 2 r, \qquad K = \frac{\sqrt{3}}{4} a^2

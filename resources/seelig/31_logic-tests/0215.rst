@@ -1,0 +1,12 @@
+.. folio:: 0215
+   :topic: F.31
+   :title: Three Logical Tests — Boolean Outputs (Page 1/)
+   :source: 0215.jpg
+
+**Diplomatic Transcription — Folio 0215** (``0215.jpg``, Sheet 1 of 6):
+
+Defines predicates :math:`T_1, T_2, T_3` on :math:`\|CA\|, \|CB\|, \|AB\|` and partitions the line through :math:`A, B` into Region :math:`A`, Region :math:`AB`, and Region :math:`B`.
+
+.. math::
+
+   T_1 = (\|CA\| < \|AB\|), \qquad T_2 = (\|CB\| < \|AB\|), \qquad T_3 = (\|CA\| < \|CB\|)

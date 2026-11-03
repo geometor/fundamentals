@@ -1,0 +1,12 @@
+.. folio:: 0118
+   :topic: F.17
+   :title: Five-Circle Construction Ellipse — Steps 1–4
+   :source: 0118.jpg
+
+**Diplomatic Transcription — Folio 0118** (``0118.jpg``, Sheet 1 of 4):
+
+Sets up bounding box :math:`(a, b)`, diagonals :math:`L_1, L_2`, normals :math:`L_3, L_4` meeting at :math:`C_1, C_2, C_3`, and end-cap circles of radius :math:`r`.
+
+.. math::
+
+   \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1, \qquad r_1 + r_2 = 2 a, \qquad V = a = \sqrt{d \cdot F}, \qquad L = \frac{2 b^2}{a}

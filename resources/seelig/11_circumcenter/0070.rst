@@ -1,0 +1,12 @@
+.. folio:: 0070
+   :topic: F.11
+   :title: Tangential Triangle Drawings (Acute vs. Obtuse)
+   :source: 0070.jpg
+
+**Diplomatic Transcription — Folio 0070** (``0070.jpg``, Sheet 5 of 6):
+
+Side-by-side compass-and-straightedge constructions of the tangential triangle for an acute triangle and an obtuse triangle.
+
+.. math::
+
+   R = \frac{a b c}{4 K}, \qquad O = \left(a^2 S_A : b^2 S_B : c^2 S_C\right) = \left(\sin 2\alpha : \sin 2\beta : \sin 2\gamma\right)

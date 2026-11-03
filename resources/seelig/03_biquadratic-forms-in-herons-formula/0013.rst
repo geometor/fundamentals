@@ -1,0 +1,12 @@
+.. folio:: 0013
+   :topic: F.3
+   :title: Three Circumcircle Diagrams
+   :source: 0013.jpg
+
+**Diplomatic Transcription — Folio 0013** (``0013.jpg``, Sheet 3 of 9):
+
+Compass-and-straightedge constructions showing perpendicular bisector distances :math:`h_A, h_B, h_C`, circumradii :math:`R`, and central angle :math:`2\beta`.
+
+.. math::
+
+   X = \frac{a}{2}, \quad W = \frac{b + c}{2}, \quad Y = \frac{c - b}{2} \implies K = \sqrt{(W^2 - X^2)(X^2 - Y^2)}

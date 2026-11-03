@@ -1,0 +1,12 @@
+.. folio:: 0214
+   :topic: F.30
+   :title: Cardano's Formula & Casus Irreducibilis (Page 4)
+   :source: 0214.jpg
+
+**Diplomatic Transcription — Folio 0214** (``0214.jpg``, Sheet 5 of 5):
+
+Writes Cardano's radical solution for :math:`y^3 + py + q = 0` and checks the discriminant boundary :math:`q^2/4 + p^3/27 \le 0` corresponding to two real isosceles solutions coalescing at the equilateral triangle.
+
+.. math::
+
+   a = b = s - x, \qquad x = \frac{c}{2}, \qquad K = x\sqrt{s(s - 2x)} \implies 2 s x^3 - s^2 x^2 + K^2 = 0

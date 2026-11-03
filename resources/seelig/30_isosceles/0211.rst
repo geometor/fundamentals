@@ -1,0 +1,12 @@
+.. folio:: 0211
+   :topic: F.30
+   :title: Isosceles Triangle — Area-Perimeter Cubic (Page 1)
+   :source: 0211.jpg
+
+**Diplomatic Transcription — Folio 0211** (``0211.jpg``, Sheet 2 of 5):
+
+Cites Baloglou & Helfgott (2008) and Ivars Peterson; sets :math:`x = c/2, a = s-x, h = \sqrt{s(s-2x)}` to derive :math:`2sx^3 - s^2 x^2 + K^2 = 0`.
+
+.. math::
+
+   x = y + \frac{s}{6} \implies y^3 - \frac{s^2}{12} y + \left(\frac{K^2}{2s} - \frac{s^3}{54}\right) = 0, \qquad c_{\text{right}} = s - \frac{K}{s}

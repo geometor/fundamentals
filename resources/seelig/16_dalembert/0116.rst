@@ -1,0 +1,12 @@
+.. folio:: 0116
+   :topic: F.16
+   :title: Connection to the Problem of Apollonius
+   :source: 0116.jpg
+
+**Diplomatic Transcription — Folio 0116** (``0116.jpg``, Sheet 3 of 4):
+
+Lists the 6 similitude centers and sets up the `X`/`I` tangency state table for circles tangent to :math:`\Gamma_A, \Gamma_B, \Gamma_C`.
+
+.. math::
+
+   L_{+++}:\; \{S_{\text{EX}\,AB},\, S_{\text{EX}\,BC},\, S_{\text{EX}\,CA}\}, \qquad L_{+--}:\; \{S_{\text{EX}\,AB},\, S_{\text{IN}\,BC},\, S_{\text{IN}\,CA}\}

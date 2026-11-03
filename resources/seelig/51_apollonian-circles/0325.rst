@@ -1,0 +1,12 @@
+.. folio:: 0325
+   :topic: F.51
+   :title: Power of Point A & Tangent Length \|AT'\| (apollonian-004)
+   :source: 0325.jpg
+
+**Diplomatic Transcription — Folio 0325** (``0325.jpg``, Sheet 4 of 9):
+
+Proves :math:`|AT'|^2 = |AC|\cdot|AD| = |AB|\cdot|AM'|` for the tangent :math:`AT'` from :math:`A` to the Apollonian circle.
+
+.. math::
+
+   |A T'|^2 = |AC|\cdot|AD| = |AB|\cdot|A M'| = d(d + M') = \frac{d^2 k^2}{k^2 - 1}

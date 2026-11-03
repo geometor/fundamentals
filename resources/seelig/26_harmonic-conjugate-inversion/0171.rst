@@ -1,0 +1,12 @@
+.. folio:: 0171
+   :topic: F.26
+   :title: Stewart's Theorem on Parallelogram MDM_TT for Diagonal z
+   :source: 0171.jpg
+
+**Diplomatic Transcription — Folio 0171** (``0171.jpg``, Sheet 4 of 15):
+
+Proves :math:`z^2 + T^2 = 2(r^2+y^2) \implies z^2 = y^2 + 3r^2` and derives the reverse :math:`\Gamma'` formula in terms of :math:`x', R`.
+
+.. math::
+
+   (x,\, t,\, r,\, y,\, T) = \left(\hat{x}^2,\, \hat{x}\hat{t},\, \hat{x}\hat{r},\, \hat{r}^2,\, \hat{r}\hat{t}\right) \quad \text{where } \hat{x}^2 + \hat{t}^2 = \hat{r}^2

@@ -1,0 +1,12 @@
+.. folio:: 0029
+   :topic: F.7
+   :title: Length of Cevian to Intouch Point
+   :source: 0029.jpg
+
+**Diplomatic Transcription — Folio 0029** (``0029.jpg``, Sheet 6 of 26):
+
+Applies the Law of Cosines to compute the cevian lengths from vertices to the incircle touchpoints.
+
+.. math::
+
+   \frac{PD}{AD} + \frac{PE}{BE} + \frac{PF}{CF} = 1, \qquad \frac{AP}{AD} + \frac{BP}{BE} + \frac{CP}{CF} = 2

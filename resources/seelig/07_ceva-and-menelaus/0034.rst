@@ -1,0 +1,12 @@
+.. folio:: 0034
+   :topic: F.7
+   :title: Cevian Triangle DEF Side Lengths & Area in Trilinears
+   :source: 0034.jpg
+
+**Diplomatic Transcription — Folio 0034** (``0034.jpg``, Sheet 11 of 26):
+
+Records exact formulas for :math:`|EF|, |FD|, |DE|` and :math:`\text{Area}(\triangle DEF)` in trilinear coordinates :math:`\tau_A : \tau_B : \tau_C`.
+
+.. math::
+
+   D_x = \frac{M J P}{J P + (M - I) Q}, \qquad E_x = \frac{M I Q}{I Q + (M - P) J}, \qquad F_x = \frac{I Q - J P}{Q - J}

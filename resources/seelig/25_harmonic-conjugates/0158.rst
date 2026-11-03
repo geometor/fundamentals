@@ -1,0 +1,12 @@
+.. folio:: 0158
+   :topic: F.25
+   :title: Integer Parameterization r = 2mn, kappa = m/n & Example (3, 7)
+   :source: 0158.jpg
+
+**Diplomatic Transcription — Folio 0158** (``0158.jpg``, Sheet 19 of 28):
+
+Derives :math:`d = \frac{r}{2}(\kappa + 1/\kappa)` and tests :math:`m=3, n=7, r=42 \implies R=40, d=58, p=840/29`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

@@ -1,0 +1,12 @@
+.. folio:: 0101
+   :topic: F.15
+   :title: Inscribed Angles 36, 72, 144, 108 in Unit Circle (FWS Begun April 6, 2015)
+   :source: 0101.jpg
+
+**Diplomatic Transcription — Folio 0101** (``0101.jpg``, Sheet 4 of 16):
+
+Establishes :math:`\theta = 36^\circ` and vertex ordering :math:`W=36^\circ, X=72^\circ, Y=144^\circ, Z=108^\circ` so opposite angles sum to :math:`180^\circ`.
+
+.. math::
+
+   a c + b d = e f \quad (\text{Ptolemy}), \qquad (k^3 - k^2 + k - 1) = (k - 1)(k^2 + 1) = 0

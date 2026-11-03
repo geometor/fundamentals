@@ -1,0 +1,12 @@
+.. folio:: 0206
+   :topic: F.28
+   :title: Translating a Triangle so the Incenter is at the Origin (FWS Nov 8, 2011)
+   :source: 0206.jpg
+
+**Diplomatic Transcription — Folio 0206** (``0206.jpg``, Sheet 5 of 5):
+
+Derives shifted coordinates :math:`\vec{A} = -\vec{O}', \vec{B} = \vec{B}'-\vec{O}', \vec{C} = \vec{C}'-\vec{O}'` with :math:`O'_x = bc(1+\cos\alpha)/(2s), O'_y = bc\sin\alpha/(2s)`.
+
+.. math::
+
+   \vec{I} = \frac{a \vec{A} + b \vec{B} + c \vec{C}}{a + b + c}, \qquad r = \frac{K}{s} = \sqrt{\frac{(s - a)(s - b)(s - c)}{s}}, \qquad \frac{1}{r} = \frac{1}{h_a} + \frac{1}{h_b} + \frac{1}{h_c}

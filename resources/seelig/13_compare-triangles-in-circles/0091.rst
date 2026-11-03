@@ -1,0 +1,12 @@
+.. folio:: 0091
+   :topic: F.13
+   :title: Clean Compass Construction of Cyclic Quadrilateral ABCO
+   :source: 0091.jpg
+
+**Diplomatic Transcription — Folio 0091** (``0091.jpg``, Sheet 8 of 8):
+
+Draws cyclic quadrilateral :math:`ABCO` with three equal sides :math:`R, R, R`, chords :math:`c, a`, and diagonal :math:`b`.
+
+.. math::
+
+   a^2 = f^2 + \frac{c^2}{4} + f c \cos\theta, \qquad b^2 = f^2 + \frac{c^2}{4} - f c \cos\theta

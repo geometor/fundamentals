@@ -1,0 +1,12 @@
+.. folio:: 0149
+   :topic: F.25
+   :title: Barycentric/Coordinate Isolation of C and D
+   :source: 0149.jpg
+
+**Diplomatic Transcription — Folio 0149** (``0149.jpg``, Sheet 10 of 28):
+
+Derives :math:`C = (A+kB)/(1+k)` and harmonic reciprocal formulas for :math:`D`.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

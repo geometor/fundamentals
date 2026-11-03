@@ -1,0 +1,12 @@
+.. folio:: 0164
+   :topic: F.25
+   :title: Dual Chords t = CT, t' = BT' and Tangents T, T'
+   :source: 0164.jpg
+
+**Diplomatic Transcription — Folio 0164** (``0164.jpg``, Sheet 25 of 28):
+
+Derives :math:`t = r\sqrt{1-\kappa^2}` and :math:`t' = R\sqrt{1-{\kappa'}^2} = r\frac{1-\kappa}{\sqrt{\kappa}}`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

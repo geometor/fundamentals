@@ -1,0 +1,12 @@
+.. folio:: 0260
+   :topic: F.41
+   :title: Extremal Limit C -> (0, 1) for d_IO (2-002)
+   :source: 0260.jpg
+
+**Diplomatic Transcription — Folio 0260** (``0260.jpg``, Sheet 4 of 10):
+
+Tracks :math:`R, r, d_{IO}` as :math:`C` approaches the boundary point :math:`(0,1)` of the acute region.
+
+.. math::
+
+   p_{\text{accept}} = \frac{A_{\text{acute}}}{\sqrt{3}} \approx 0.25575, \qquad d_{IO} = \sqrt{R^2 - 2 r R}

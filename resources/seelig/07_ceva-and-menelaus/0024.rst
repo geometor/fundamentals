@@ -1,0 +1,12 @@
+.. folio:: 0024
+   :topic: F.7
+   :title: Gergonne Point Concurrency via Ceva's Theorem (FWS 2011/11/07)
+   :source: 0024.jpg
+
+**Diplomatic Transcription — Folio 0024** (``0024.jpg``, Sheet 1 of 26):
+
+Proves that the cevians to the incircle touchpoints :math:`D=T_A, E=T_B, F=T_C` concur at the Gergonne point :math:`G_e = X(7)` using equal tangent lengths :math:`x, y, z`.
+
+.. math::
+
+   \frac{AF}{FB} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = +1 \quad (\text{Ceva}), \qquad \frac{AF'}{F'B} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = -1 \quad (\text{Menelaus})

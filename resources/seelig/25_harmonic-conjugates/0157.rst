@@ -1,0 +1,12 @@
+.. folio:: 0157
+   :topic: F.25
+   :title: Theorem 1: Duality Theorem (kappa' = 1/k, k' = 1/kappa)
+   :source: 0157.jpg
+
+**Diplomatic Transcription — Folio 0157** (``0157.jpg``, Sheet 18 of 28):
+
+States the duality between :math:`(\Gamma_r, \kappa, k)` and :math:`(\Gamma_R, \kappa', k')` and lists 8 segment formulas.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

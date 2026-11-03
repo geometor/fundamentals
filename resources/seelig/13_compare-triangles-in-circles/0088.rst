@@ -1,0 +1,12 @@
+.. folio:: 0088
+   :topic: F.13
+   :title: Isosceles Decomposition Around Circumcenter O ('Surprise & Pretty')
+   :source: 0088.jpg
+
+**Diplomatic Transcription — Folio 0088** (``0088.jpg``, Sheet 5 of 8):
+
+Proves :math:`(ABC) = \frac{1}{2}ch_c + \frac{1}{2}ah_A - \frac{1}{2}bh_B` and writes the Bretschneider/Brahmagupta area of quadrilateral :math:`ABCO`.
+
+.. math::
+
+   \sin\phi = \frac{c}{2 R}, \qquad h_c = \sqrt{R^2 - \left(\frac{c}{2}\right)^2}, \qquad (ABC) = \frac{1}{2} c h_c + \frac{1}{2} a h_a - \frac{1}{2} b h_b

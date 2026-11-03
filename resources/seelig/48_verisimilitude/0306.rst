@@ -1,0 +1,12 @@
+.. folio:: 0306
+   :topic: F.48
+   :title: Corner Subtriangles Tangent to the Incircle — Semiperimeter s_A = x (001)
+   :source: 0306.jpg
+
+**Diplomatic Transcription — Folio 0306** (``0306.jpg``, Sheet 1 of 9):
+
+Proves by equal tangent segments that the corner subtriangle cut off at vertex :math:`A` by a tangent to the incircle parallel to :math:`BC` has semiperimeter :math:`s_A = s - a = x`.
+
+.. math::
+
+   s_A = x = s - a, \qquad r_A = r\frac{x}{s}, \qquad K_A = K\left(\frac{x}{s}\right)^2, \qquad r_A + r_B + r_C = r\frac{x + y + z}{s} = r

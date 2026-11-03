@@ -1,0 +1,12 @@
+.. folio:: 0042
+   :topic: F.7
+   :title: HP-35s Memory Register Map A–Z (2/, FWS 8/25/2014)
+   :source: 0042.jpg
+
+**Diplomatic Transcription — Folio 0042** (``0042.jpg``, Sheet 19 of 26):
+
+Maps all 26 calculator registers `A`–`Z` to triangle and cevian parameters.
+
+.. math::
+
+   \frac{AF}{FB} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = +1 \quad (\text{Ceva}), \qquad \frac{AF'}{F'B} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = -1 \quad (\text{Menelaus})

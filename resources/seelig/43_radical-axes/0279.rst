@@ -1,0 +1,12 @@
+.. folio:: 0279
+   :topic: F.43
+   :title: Two-Circle Separation Regimes (009)
+   :source: 0279.jpg
+
+**Diplomatic Transcription — Folio 0279** (``0279.jpg``, Sheet 9 of 11):
+
+Classifies disjoint, externally tangent, intersecting, internally tangent, and nested circle pairs by comparing :math:`d` with :math:`r_1 \pm r_2`.
+
+.. math::
+
+   x = |O_1 P| = \frac{d}{2} + \frac{r_1^2 - r_2^2}{2 d}, \qquad x' = |O_2 P| = \frac{d}{2} - \frac{r_1^2 - r_2^2}{2 d}, \qquad t^2 = x^2 - r_1^2 = {x'}^2 - r_2^2

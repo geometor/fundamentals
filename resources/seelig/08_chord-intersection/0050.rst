@@ -1,0 +1,12 @@
+.. folio:: 0050
+   :topic: F.8
+   :title: Sagitta of a Chord in a Circle of Diameter 15
+   :source: 0050.jpg
+
+**Diplomatic Transcription — Folio 0050** (``0050.jpg``, Sheet 1 of 4):
+
+Computes the sagitta :math:`x = \frac{15}{2} - \sqrt{(15/2)^2 - 5^2} = \frac{5(3-\sqrt{5})}{2} \approx 1.91` for a chord of length 10.
+
+.. math::
+
+   |AX| \cdot |BX| = |CX| \cdot |DX| = R^2 - |OX|^2, \qquad x_{\text{sagitta}} = R - \sqrt{R^2 - \left(\frac{c}{2}\right)^2}

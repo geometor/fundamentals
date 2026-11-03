@@ -1,9 +1,16 @@
 *.egg-info
 *.egg-info/
 dist/
+build/
 *.py[cod]
 *.swp
+*.log
 .doctrees
 .ipynb_checkpoints
 __pycache__
+.ruff_cache/
+.pytest_cache/
+.venv/
 tags
+docsrc/modules/api/
+docs/

@@ -1,0 +1,12 @@
+.. folio:: 0040
+   :topic: F.7
+   :title: Summary of MNIJ Cevian Formulas
+   :source: 0040.jpg
+
+**Diplomatic Transcription — Folio 0040** (``0040.jpg``, Sheet 17 of 26):
+
+Consolidates trace coordinates, lengths, and Ceva ratio checks onto a reference sheet.
+
+.. math::
+
+   D_x = \frac{M J P}{J P + (M - I) Q}, \qquad E_x = \frac{M I Q}{I Q + (M - P) J}, \qquad F_x = \frac{I Q - J P}{Q - J}

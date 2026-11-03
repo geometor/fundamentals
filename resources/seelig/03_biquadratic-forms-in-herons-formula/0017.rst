@@ -1,0 +1,12 @@
+.. folio:: 0017
+   :topic: F.3
+   :title: Differentiation for Critical Value z*
+   :source: 0017.jpg
+
+**Diplomatic Transcription — Folio 0017** (``0017.jpg``, Sheet 7 of 9):
+
+Differentiates :math:`f(z) = T_1 + T_2 + T_3 - \sqrt{3}E` where :math:`T_i = \sqrt{((w_i/z)^2 - 1)(1 - (w_i'/z)^2)}`.
+
+.. math::
+
+   X = \frac{a}{2}, \quad W = \frac{b + c}{2}, \quad Y = \frac{c - b}{2} \implies K = \sqrt{(W^2 - X^2)(X^2 - Y^2)}

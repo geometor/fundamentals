@@ -1,0 +1,12 @@
+.. folio:: 0294
+   :topic: F.46
+   :title: Apollonius's Median Formula as Special Case (stewart-002)
+   :source: 0294.jpg
+
+**Diplomatic Transcription — Folio 0294** (``0294.jpg``, Sheet 2 of 2):
+
+Evaluates Stewart's identity at the midpoint :math:`k = k' = 1/2` to obtain :math:`f^2 = \frac{1}{2}(a^2 + b^2 - \frac{1}{2}c^2)`.
+
+.. math::
+
+   k = k' = \frac{1}{2} \implies m_c^2 = \frac{1}{2}\left(a^2 + b^2 - \frac{1}{2}c^2\right) = \frac{2 a^2 + 2 b^2 - c^2}{4}

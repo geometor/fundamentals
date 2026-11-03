@@ -1,0 +1,12 @@
+.. folio:: 0302
+   :topic: F.47
+   :title: Worked Benchmark (8, 8, 16, 4, 4) — Ceva & Menelaus Check (008)
+   :source: 0302.jpg
+
+**Diplomatic Transcription — Folio 0302** (``0302.jpg``, Sheet 8 of 11):
+
+Verifies that the segment ratios determined by :math:`D, E, F` multiply to :math:`1`.
+
+.. math::
+
+   F_x = \frac{p V}{V - q}, \qquad D = \left(\frac{W V (U + p)}{V(U + W) + q W},\; \frac{V q (U + W)}{V(U + W) + q W}\right)

@@ -1,0 +1,12 @@
+.. folio:: 0031
+   :topic: F.7
+   :title: Lattice Triangle Example (I=8, J=8, M=24, P=(12,4))
+   :source: 0031.jpg
+
+**Diplomatic Transcription — Folio 0031** (``0031.jpg``, Sheet 8 of 26):
+
+Computes exact trace coordinates :math:`D, E, F` and verifies Ceva's product :math:`\frac{16}{8}\cdot\frac{3/5}{2/5}\cdot\frac{2}{6} = +1`.
+
+.. math::
+
+   D_x = \frac{M J P}{J P + (M - I) Q}, \qquad E_x = \frac{M I Q}{I Q + (M - P) J}, \qquad F_x = \frac{I Q - J P}{Q - J}

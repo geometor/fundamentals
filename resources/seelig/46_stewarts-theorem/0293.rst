@@ -1,0 +1,12 @@
+.. folio:: 0293
+   :topic: F.46
+   :title: Stewart's Theorem Proof (stewart-001, FWS 11/18/2013)
+   :source: 0293.jpg
+
+**Diplomatic Transcription — Folio 0293** (``0293.jpg``, Sheet 1 of 2):
+
+Defines dimensionless base fractions :math:`k, k'` (:math:`k+k'=1`) for cevian :math:`f = |CD|` and eliminates :math:`\cos\theta` between :math:`\triangle ACD` and :math:`\triangle BCD` to prove :math:`f^2 = k a^2 + k' b^2 - k k' c^2`.
+
+.. math::
+
+   f^2 = k a^2 + k' b^2 - k k' c^2 \qquad (k + k' = 1,\; |AD| = k' c,\; |DB| = k c)

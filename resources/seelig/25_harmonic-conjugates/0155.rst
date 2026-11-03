@@ -1,0 +1,12 @@
+.. folio:: 0155
+   :topic: F.25
+   :title: Two-Color Dimensioned Orthogonal Circles Diagram
+   :source: 0155.jpg
+
+**Diplomatic Transcription — Folio 0155** (``0155.jpg``, Sheet 16 of 28):
+
+Blue/red drawing of :math:`\Gamma_O(r)` and :math:`\Gamma_{O'}(R)` showing segments :math:`X, Y, Z, d, W`.
+
+.. math::
+
+   \Pi_+ = \frac{1}{\kappa} + \kappa, \quad \Pi_- = \frac{1}{\kappa} - \kappa, \quad \Pi_+^2 - \Pi_-^2 = 4, \quad R = \frac{r}{2}\Pi_-, \quad d = \frac{r}{2}\Pi_+, \quad p = r\frac{\Pi_-}{\Pi_+}

@@ -1,0 +1,12 @@
+.. folio:: 0054
+   :topic: F.9
+   :title: Equations of Circles in a Square of Side Z (Part 1)
+   :source: 0054.jpg
+
+**Diplomatic Transcription — Folio 0054** (``0054.jpg``, Sheet 1 of 8):
+
+Sets up :math:`x^2+y^2=9`, :math:`x^2+(y-Z)^2=25`, and :math:`(x-Z)^2+(y-Z)^2=49` for interior point :math:`P` in square :math:`ABCD`.
+
+.. math::
+
+   x^2 + y^2 = 9, \quad x^2 + (y - Z)^2 = 25, \quad (x - Z)^2 + y^2 = 49 \implies 2 Z (Q - P) = 24

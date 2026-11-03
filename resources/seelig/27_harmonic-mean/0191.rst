@@ -1,0 +1,12 @@
+.. folio:: 0191
+   :topic: F.27
+   :title: Identities for w = BC, W = AD, and Center Distance MM' = 2*rho
+   :source: 0191.jpg
+
+**Diplomatic Transcription — Folio 0191** (``0191.jpg``, Sheet 9 of 19):
+
+Proves :math:`r/R = (1-\kappa')/(1-\kappa)` and tests :math:`k=3, \kappa=1/2`.
+
+.. math::
+
+   |CD| = \operatorname{HM}(|BD|,\, |AD|) = \frac{2 |BD| \cdot |AD|}{|BD| + |AD|} = r\left(\gamma + \frac{1}{\gamma}\right), \qquad x^2 = \frac{(r / t)^2}{\frac{1}{r^2} + \frac{1}{t^2}} = \left(\frac{r}{\gamma}\right)^2

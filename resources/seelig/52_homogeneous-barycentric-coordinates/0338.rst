@@ -1,0 +1,12 @@
+.. folio:: 0338
+   :topic: F.52
+   :title: Algebraic Reduction of Form II (co002)
+   :source: 0338.jpg
+
+**Diplomatic Transcription — Folio 0338** (``0338.jpg``, Sheet 8 of 15):
+
+Expands the symmetric polynomials :math:`P = abc, U = a^2b^2+b^2c^2+c^2a^2, S_4 = a^4+b^4+c^4` and proves :math:`\lambda_A + \lambda_B + \lambda_C = 1`.
+
+.. math::
+
+   X(1) = (a : b : c),\quad X(2) = (1 : 1 : 1),\quad X(3) = (a^2 S_A : b^2 S_B : c^2 S_C),\quad X(4) = (S_B S_C : S_C S_A : S_A S_B),\quad X(6) = (a^2 : b^2 : c^2)

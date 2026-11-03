@@ -1,0 +1,12 @@
+.. folio:: 0246
+   :topic: F.40
+   :title: Pentadecagon Apothem & Area (2-008)
+   :source: 0246.jpg
+
+**Diplomatic Transcription — Folio 0246** (``0246.jpg``, Sheet 8 of 18):
+
+Simplifies the nested radical for :math:`r_{15} = \cos 12^\circ` and the area :math:`K_{15} = \frac{15}{2}E_{15}r_{15}`.
+
+.. math::
+
+   E_{10} = \phi - 1 = \sqrt{2 - \phi}, \qquad E_5 = \sqrt{3 - \phi}, \qquad E_{15} = 2\sin 12^\circ = \frac{1}{4}\left(\sqrt{10 + 2\sqrt{5}} + \sqrt{3} - \sqrt{15}\right)

@@ -1,0 +1,12 @@
+.. folio:: 0297
+   :topic: F.47
+   :title: Heronian Juxtaposition Example (U, V, W) = (5, 12, 16) — Page 1 (003)
+   :source: 0297.jpg
+
+**Diplomatic Transcription — Folio 0297** (``0297.jpg``, Sheet 3 of 11):
+
+Combines :math:`(5,12,13)` and :math:`(12,16,20)` along shared altitude :math:`V=12` to form the :math:`(20,13,21)` Heronian triangle (:math:`K=126`).
+
+.. math::
+
+   A = (-U, 0), \qquad B = (W, 0), \qquad C = (0, V), \qquad a^2 = V^2 + W^2,\; b^2 = U^2 + V^2,\; c = U + W

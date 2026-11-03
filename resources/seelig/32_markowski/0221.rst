@@ -1,0 +1,12 @@
+.. folio:: 0221
+   :topic: F.32
+   :title: Markowski's Theorem & Midpoint Inversion (FWS 4/23/2015)
+   :source: 0221.jpg
+
+**Diplomatic Transcription — Folio 0221** (``0221.jpg``, Sheet 1 of 2):
+
+Combines :math:`d_{IO} = \sqrt{R^2-2rR}` and :math:`JKL = \frac{1}{2}r^2 R` to derive :math:`JKL = \frac{(R^2-d_{IO}^2)^2}{8R}`, and records the midpoint inversion circle radius :math:`\rho_I = \sqrt{R^2-(a/2)^2}`.
+
+.. math::
+
+   J K L = \frac{1}{2} r^2 R = \frac{(R^2 - d_{IO}^2)^2}{8 R}, \qquad d_{IO}^2 = R^2 - 2 r R

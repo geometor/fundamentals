@@ -1,0 +1,12 @@
+.. folio:: 0334
+   :topic: F.52
+   :title: Canonical (5, 6, 7) Barycentric Evaluation Table — Part 1 (bari-centers-004)
+   :source: 0334.jpg
+
+**Diplomatic Transcription — Folio 0334** (``0334.jpg``, Sheet 4 of 15):
+
+Evaluates exact rational and decimal normalized barycentric coordinates of :math:`I, G, O, H` on the :math:`(5,6,7)` triangle.
+
+.. math::
+
+   X(1) = (a : b : c),\quad X(2) = (1 : 1 : 1),\quad X(3) = (a^2 S_A : b^2 S_B : c^2 S_C),\quad X(4) = (S_B S_C : S_C S_A : S_A S_B),\quad X(6) = (a^2 : b^2 : c^2)

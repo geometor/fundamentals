@@ -1,0 +1,12 @@
+.. folio:: 0186
+   :topic: F.27
+   :title: Parallel/Perpendicular Angle Chase on Circles Gamma_0 and Gamma_O'' (Page 6)
+   :source: 0186.jpg
+
+**Diplomatic Transcription — Folio 0186** (``0186.jpg``, Sheet 4 of 19):
+
+Proves :math:`OT \parallel UO''`, :math:`TU \perp OD`, and :math:`x^2/r^2 = (r^2-x^2)/t^2`.
+
+.. math::
+
+   Y^2 + (X + Z) Y - X Z = 0 \implies Y = \frac{-(X + Z) + \sqrt{(X + Z)^2 + 4 X Z}}{2}

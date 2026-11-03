@@ -1,0 +1,12 @@
+.. folio:: 0346
+   :topic: F.53
+   :title: Unit Semicircle Proof of Half-Angle Identities
+   :source: 0346.jpg
+
+**Diplomatic Transcription — Folio 0346** (``0346.jpg``, Sheet 1 of 1):
+
+Constructs right triangle :math:`AHP` inside a unit semicircle (:math:`R=1, |AH|=1+\cos\theta, |PH|=\sin\theta, |AP|=2\cos(\theta/2)`) to prove :math:`\cos^2(\theta/2) = \frac{1}{2}(1+\cos\theta)` and :math:`\sin^2(\theta/2) = \frac{1}{2}(1-\cos\theta)`.
+
+.. math::
+
+   (2 x)^2 = \sin^2\theta + (1 + \cos\theta)^2 = 2 + 2\cos\theta \implies \cos^2\frac{\theta}{2} = \frac{1 + \cos\theta}{2}

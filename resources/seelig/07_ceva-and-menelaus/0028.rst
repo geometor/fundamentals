@@ -1,0 +1,12 @@
+.. folio:: 0028
+   :topic: F.7
+   :title: Cut The Knot IMO Cevian Ratio Problem (FWS 2015/4/12)
+   :source: 0028.jpg
+
+**Diplomatic Transcription — Folio 0028** (``0028.jpg``, Sheet 5 of 26):
+
+Uses parallel lines and similar triangles to evaluate :math:`PF/PC + PD/PA` given :math:`AF/BF = 1/3` and :math:`CD/BD = 1/2`.
+
+.. math::
+
+   D_x = \frac{M J P}{J P + (M - I) Q}, \qquad E_x = \frac{M I Q}{I Q + (M - P) J}, \qquad F_x = \frac{I Q - J P}{Q - J}

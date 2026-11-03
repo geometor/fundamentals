@@ -1,0 +1,12 @@
+.. folio:: 0062
+   :topic: F.10
+   :title: Equations of Circles & Geometric Mean
+   :source: 0062.jpg
+
+**Diplomatic Transcription — Folio 0062** (``0062.jpg``, Sheet 1 of 4):
+
+Expresses :math:`P^2 = (3+Q)(3-Q)` and :math:`P^2 = (5+(Z-Q))(5-(Z-Q))` as semicircle geometric means and derives :math:`Z(Q-P) = 12` and :math:`Q = \frac{Z^2-16}{2Z}`.
+
+.. math::
+
+   G = |CH| = \sqrt{m n}, \qquad A_{\text{mean}} = |OC| = \frac{m + n}{2}, \qquad H_{\text{mean}} = |CK| = \frac{2 m n}{m + n}

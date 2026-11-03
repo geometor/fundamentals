@@ -1,0 +1,12 @@
+.. folio:: 0222
+   :topic: F.32
+   :title: Equilateral & 30-60-90 Triangle Verifications (FWS 4/23/2015)
+   :source: 0222.jpg
+
+**Diplomatic Transcription — Folio 0222** (``0222.jpg``, Sheet 2 of 2):
+
+Verifies :math:`JKL = R^3/8` for the equilateral triangle and :math:`JKL = (2-\sqrt{3})/4` for the :math:`30^\circ\text{--}60^\circ\text{--}90^\circ` triangle (:math:`R=1`), where an extra squaring of :math:`d_{IO}^2 = 2-\sqrt{3}` prompted the marginal note *'Stumped! FWS 4/23/2015'*.
+
+.. math::
+
+   J + K + L = 2 R + r, \qquad \rho_I = \sqrt{R^2 - \left(\frac{a}{2}\right)^2}

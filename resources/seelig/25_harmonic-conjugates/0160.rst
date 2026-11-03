@@ -1,0 +1,12 @@
+.. folio:: 0160
+   :topic: F.25
+   :title: Equivalence of Three Expressions for q' = M'Q
+   :source: 0160.jpg
+
+**Diplomatic Transcription — Folio 0160** (``0160.jpg``, Sheet 21 of 28):
+
+Proves :math:`q' = d - q = \sqrt{R^2 - p^2} = p^2/q` in terms of :math:`1/\kappa \pm \kappa`.
+
+.. math::
+
+   \frac{|AC|}{|CB|} = \frac{|AD|}{|BD|} = k = \frac{1 + \kappa}{1 - \kappa}, \qquad |MC| \cdot |MD| = x y = r^2, \qquad \frac{2}{|AB|} = \frac{1}{|AC|} + \frac{1}{|AD|}

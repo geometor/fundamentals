@@ -1,0 +1,12 @@
+.. folio:: 0256
+   :topic: F.40
+   :title: Cartesian Cevian Length Sheet — Part 2 (010)
+   :source: 0256.jpg
+
+**Diplomatic Transcription — Folio 0256** (``0256.jpg``, Sheet 18 of 18):
+
+Completes the algebraic expansion of the Cartesian cevian length formula.
+
+.. math::
+
+   E_{10} = \phi - 1 = \sqrt{2 - \phi}, \qquad E_5 = \sqrt{3 - \phi}, \qquad E_{15} = 2\sin 12^\circ = \frac{1}{4}\left(\sqrt{10 + 2\sqrt{5}} + \sqrt{3} - \sqrt{15}\right)

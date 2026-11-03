@@ -1,0 +1,12 @@
+.. folio:: 0137
+   :topic: F.24
+   :title: Tangency Inner-Product Identity p*s = P_x H_x + P_y H_y
+   :source: 0137.jpg
+
+**Diplomatic Transcription — Folio 0137** (``0137.jpg``, Sheet 3 of 5):
+
+Uses internal tangency :math:`r = s - p` (:math:`p^2 = P_x^2 + P_y^2`) to derive :math:`p s = P_x H_x + P_y H_y`.
+
+.. math::
+
+   r^2 = \left(x - \frac{s}{2}\right)^2 + (y - Q)^2, \qquad p s = P_x H_x + P_y H_y \quad (r = s - p), \qquad g^2 = G_x^2 + G_y^2 = 2 s G_x

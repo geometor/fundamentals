@@ -1,0 +1,12 @@
+.. folio:: 0340
+   :topic: F.52
+   :title: Verification of Form II on the (5, 6, 7) Triangle (co004)
+   :source: 0340.jpg
+
+**Diplomatic Transcription — Folio 0340** (``0340.jpg``, Sheet 10 of 15):
+
+Evaluates Form II at :math:`(a,b,c) = (5,6,7)` to obtain :math:`(\lambda_A, \lambda_B, \lambda_C) = (163/576, 174/576, 239/576) \approx (0.28299, 0.30208, 0.41493)`.
+
+.. math::
+
+   X(1) = (a : b : c),\quad X(2) = (1 : 1 : 1),\quad X(3) = (a^2 S_A : b^2 S_B : c^2 S_C),\quad X(4) = (S_B S_C : S_C S_A : S_A S_B),\quad X(6) = (a^2 : b^2 : c^2)

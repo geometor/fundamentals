@@ -1,0 +1,12 @@
+.. folio:: 0089
+   :topic: F.13
+   :title: Area as a Function of Angles alpha, beta and R
+   :source: 0089.jpg
+
+**Diplomatic Transcription — Folio 0089** (``0089.jpg``, Sheet 6 of 8):
+
+Poses the question of expressing :math:`K = (\triangle ABC)` directly in terms of :math:`\alpha, \beta, R`.
+
+.. math::
+
+   a^2 = f^2 + \frac{c^2}{4} + f c \cos\theta, \qquad b^2 = f^2 + \frac{c^2}{4} - f c \cos\theta

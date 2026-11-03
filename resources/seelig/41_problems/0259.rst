@@ -1,0 +1,12 @@
+.. folio:: 0259
+   :topic: F.41
+   :title: Maximizing d_IO for an Acute Triangle — Vesica Integration (2-001, FWS 2015/04/24)
+   :source: 0259.jpg
+
+**Diplomatic Transcription — Folio 0259** (``0259.jpg``, Sheet 3 of 10):
+
+Integrates the acute region :math:`A = \int_0^{\sqrt{3}}(\sqrt{4-x^2}-1)\,dx - \pi/4 \approx 0.44297` above the right-triangle semicircle to explain the 26% Monte Carlo hit rate.
+
+.. math::
+
+   A_{\text{acute}} = \int_0^{\sqrt{3}} \left(\sqrt{4 - x^2} - 1\right) dx - \frac{\pi}{4} = \frac{5\pi - 6\sqrt{3}}{12} \approx 0.44297

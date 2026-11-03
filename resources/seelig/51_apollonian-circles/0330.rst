@@ -1,0 +1,12 @@
+.. folio:: 0330
+   :topic: F.51
+   :title: Problem of Apollonius — Dörrie's 8-Circle I/X Tangency Table (apollonius-2-001)
+   :source: 0330.jpg
+
+**Diplomatic Transcription — Folio 0330** (``0330.jpg``, Sheet 9 of 9):
+
+Cites Heinrich Dörrie (#32, pp. 154–160) and tabulates all 8 solution circles by their internal (``I``) and external (``X``) tangency states to three given circles.
+
+.. math::
+
+   \frac{|PA|}{|PB|} = k \implies M' = \frac{d}{k^2 - 1}, \qquad R = \frac{d k}{k^2 - 1}, \qquad R^2 - {M'}^2 = \frac{d^2}{k^2 - 1}

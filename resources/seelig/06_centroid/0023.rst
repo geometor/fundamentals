@@ -1,0 +1,12 @@
+.. folio:: 0023
+   :topic: F.6
+   :title: The Medial Triangle M_A M_B M_C
+   :source: 0023.jpg
+
+**Diplomatic Transcription — Folio 0023** (``0023.jpg``, Sheet 2 of 2):
+
+Constructs the medial triangle :math:`\triangle M_A M_B M_C` inscribed in :math:`\triangle ABC` together with medians meeting at :math:`G`.
+
+.. math::
+
+   m_a^2 = \frac{2 b^2 + 2 c^2 - a^2}{4}, \qquad m_b^2 = \frac{2 c^2 + 2 a^2 - b^2}{4}, \qquad m_c^2 = \frac{2 a^2 + 2 b^2 - c^2}{4}

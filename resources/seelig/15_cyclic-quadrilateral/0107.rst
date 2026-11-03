@@ -1,0 +1,12 @@
+.. folio:: 0107
+   :topic: F.15
+   :title: Central Angles in Arithmetic Progression (36, 72, 108, 144)
+   :source: 0107.jpg
+
+**Diplomatic Transcription — Folio 0107** (``0107.jpg``, Sheet 10 of 16):
+
+Places vertices at :math:`e^{j0}, e^{j\theta}, e^{j3\theta}, e^{j6\theta}`, obtaining golden-ratio sides :math:`a = \phi-1, c = \phi` and diagonals :math:`|WY| = \phi, |XZ| = 2`.
+
+.. math::
+
+   a c + b d = e f \quad (\text{Ptolemy}), \qquad (k^3 - k^2 + k - 1) = (k - 1)(k^2 + 1) = 0

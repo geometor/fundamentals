@@ -1,0 +1,12 @@
+.. folio:: 0235
+   :topic: F.37
+   :title: Harmonic Division Along the Circumdiameter
+   :source: 0235.jpg
+
+**Diplomatic Transcription — Folio 0235** (``0235.jpg``, Sheet 3 of 3):
+
+Relates the diameter segments :math:`R-d` and :math:`R+d` to the harmonic ratio :math:`k = (R+d)/(R-d)`.
+
+.. math::
+
+   d^2 = R^2 - 2 r R \iff r(d) = \frac{R}{2} - \frac{d^2}{2 R} = \frac{(R - d)(R + d)}{2 R}

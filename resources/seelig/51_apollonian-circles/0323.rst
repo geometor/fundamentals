@@ -1,0 +1,12 @@
+.. folio:: 0323
+   :topic: F.51
+   :title: Cartesian Equation Completion of the Square (apollonian-002)
+   :source: 0323.jpg
+
+**Diplomatic Transcription — Folio 0323** (``0323.jpg``, Sheet 2 of 9):
+
+Expands :math:`(x+d)^2 + y^2 = k^2(x^2+y^2)` and completes the square to confirm center :math:`(d/(k^2-1), 0)` and radius :math:`dk/(k^2-1)`.
+
+.. math::
+
+   |A T'|^2 = |AC|\cdot|AD| = |AB|\cdot|A M'| = d(d + M') = \frac{d^2 k^2}{k^2 - 1}

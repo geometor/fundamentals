@@ -1,0 +1,12 @@
+.. folio:: 0090
+   :topic: F.13
+   :title: Quadrilateral OABC Partitioned by Median f
+   :source: 0090.jpg
+
+**Diplomatic Transcription — Folio 0090** (``0090.jpg``, Sheet 7 of 8):
+
+Decomposes :math:`OABC` into :math:`(OAM) + (OMC) + (MBC)` sharing median base :math:`f = MC`.
+
+.. math::
+
+   \sin\phi = \frac{c}{2 R}, \qquad h_c = \sqrt{R^2 - \left(\frac{c}{2}\right)^2}, \qquad (ABC) = \frac{1}{2} c h_c + \frac{1}{2} a h_a - \frac{1}{2} b h_b

@@ -1,0 +1,12 @@
+.. folio:: 0038
+   :topic: F.7
+   :title: Cevian Lengths d, e, f in MNIJ Coordinates
+   :source: 0038.jpg
+
+**Diplomatic Transcription — Folio 0038** (``0038.jpg``, Sheet 15 of 26):
+
+Expresses :math:`d = |AD|, e = |BE|, f = |CF|` and vertex distances :math:`d_A, d_B, d_C` in terms of :math:`M, N, I, J, P, Q`.
+
+.. math::
+
+   \frac{PD}{AD} + \frac{PE}{BE} + \frac{PF}{CF} = 1, \qquad \frac{AP}{AD} + \frac{BP}{BE} + \frac{CP}{CF} = 2

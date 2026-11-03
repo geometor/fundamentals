@@ -1,0 +1,12 @@
+.. folio:: 0308
+   :topic: F.48
+   :title: Infinite Chain of Tangential Corner Incircles (003)
+   :source: 0308.jpg
+
+**Diplomatic Transcription — Folio 0308** (``0308.jpg``, Sheet 3 of 9):
+
+Sums the geometric series of nested incircles marching into vertex :math:`A` with ratio :math:`\rho_A = (1 - \sin(\alpha/2))/(1 + \sin(\alpha/2))`.
+
+.. math::
+
+   s_A = x = s - a, \qquad r_A = r\frac{x}{s}, \qquad K_A = K\left(\frac{x}{s}\right)^2, \qquad r_A + r_B + r_C = r\frac{x + y + z}{s} = r

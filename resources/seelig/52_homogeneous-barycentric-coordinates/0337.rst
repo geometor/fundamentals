@@ -1,0 +1,12 @@
+.. folio:: 0337
+   :topic: F.52
+   :title: Nine-Point Center N = X(5) — Form I & Form II (co001, FWS 2014/9/14)
+   :source: 0337.jpg
+
+**Diplomatic Transcription — Folio 0337** (``0337.jpg``, Sheet 7 of 15):
+
+States Form I (:math:`a\cos(\beta-\gamma)`) and derives Form II (:math:`\lambda_A = W + \frac{P^2/a^2 + a^4}{D}` with :math:`D = 4U - 2S_4`) purely in terms of side lengths :math:`a, b, c`.
+
+.. math::
+
+   P = \lambda_A A + \lambda_B B + \lambda_C C \qquad (\lambda_A + \lambda_B + \lambda_C = 1), \qquad \lambda_A = \frac{u}{u + v + w} = \frac{[PBC]}{[ABC]}

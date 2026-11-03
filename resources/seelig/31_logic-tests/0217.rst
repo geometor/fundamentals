@@ -1,0 +1,12 @@
+.. folio:: 0217
+   :topic: F.31
+   :title: Scenarios IV–VI & Signed Ratio k (Page 3/)
+   :source: 0217.jpg
+
+**Diplomatic Transcription — Folio 0217** (``0217.jpg``, Sheet 3 of 6):
+
+Completes Scenarios IV–VI across the right half of :math:`AB` and the ray beyond :math:`B`, mapping each region to the interval of :math:`k = \pm\|AC\|/\|BC\|`.
+
+.. math::
+
+   T_1 = (\|CA\| < \|AB\|), \qquad T_2 = (\|CB\| < \|AB\|), \qquad T_3 = (\|CA\| < \|CB\|)

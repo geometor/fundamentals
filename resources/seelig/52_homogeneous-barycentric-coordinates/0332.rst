@@ -1,0 +1,12 @@
+.. folio:: 0332
+   :topic: F.52
+   :title: Master Barycentric Catalog: X(1), X(2), X(3), X(4) (bari-centers-002)
+   :source: 0332.jpg
+
+**Diplomatic Transcription — Folio 0332** (``0332.jpg``, Sheet 2 of 15):
+
+Tabulates algebraic and Conway-notation barycentric weights for the incenter :math:`I`, centroid :math:`G`, circumcenter :math:`O`, and orthocenter :math:`H`.
+
+.. math::
+
+   X(1) = (a : b : c),\quad X(2) = (1 : 1 : 1),\quad X(3) = (a^2 S_A : b^2 S_B : c^2 S_C),\quad X(4) = (S_B S_C : S_C S_A : S_A S_B),\quad X(6) = (a^2 : b^2 : c^2)

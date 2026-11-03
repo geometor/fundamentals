@@ -1,0 +1,12 @@
+.. folio:: 0004
+   :topic: F.2
+   :title: Inverse Transformation & Unit Square Grid
+   :source: 0004.jpg
+
+**Diplomatic Transcription — Folio 0004** (``0004.jpg``, Sheet 2 of 8):
+
+Plots :math:`\mathbb{B}(x)` and :math:`\mathbb{B}^{-1}(y) = \frac{y-1}{y+1}` on a unit-square grid and re-verifies :math:`\mathbb{B}' = B(1+\mathbb{B}) = 2B^2`.
+
+.. math::
+
+   k = \frac{|AC|}{|BC|} = \frac{1 + \kappa}{1 - \kappa} \iff \kappa = \frac{k - 1}{k + 1}, \qquad M' = \frac{d}{k^2 - 1}, \qquad R = \frac{d k}{k^2 - 1}

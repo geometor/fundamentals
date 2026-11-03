@@ -1,0 +1,12 @@
+.. folio:: 0027
+   :topic: F.7
+   :title: Pythagorean Triple Gluing Table
+   :source: 0027.jpg
+
+**Diplomatic Transcription — Folio 0027** (``0027.jpg``, Sheet 4 of 26):
+
+Tabulates scaled Pythagorean right triangles (:math:`3\text{–}4\text{–}5, 6\text{–}8\text{–}10, 33\text{–}56\text{–}65`) sharing a common altitude :math:`J`.
+
+.. math::
+
+   \frac{AF}{FB} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = +1 \quad (\text{Ceva}), \qquad \frac{AF'}{F'B} \cdot \frac{BD}{DC} \cdot \frac{CE}{EA} = -1 \quad (\text{Menelaus})

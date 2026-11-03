@@ -1,0 +1,12 @@
+.. folio:: 0223
+   :topic: F.33
+   :title: Euclidean (m, n) Pythagorean Triple Table
+   :source: 0223.jpg
+
+**Diplomatic Transcription — Folio 0223** (``0223.jpg``, Sheet 1 of 1):
+
+Tabulates :math:`(m, n, m^2-n^2, 2mn, m^2+n^2)` for 11 coprime pairs of opposite parity from :math:`(2,1)\mapsto(3,4,5)` to :math:`(7,6)\mapsto(13,84,85)`.
+
+.. math::
+
+   a = m^2 - n^2, \qquad b = 2 m n, \qquad c = m^2 + n^2, \qquad a^2 + b^2 = (m^2 + n^2)^2 = c^2

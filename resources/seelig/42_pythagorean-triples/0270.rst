@@ -1,0 +1,12 @@
+.. folio:: 0270
+   :topic: F.42
+   :title: Orthocentric Projection Segments (004)
+   :source: 0270.jpg
+
+**Diplomatic Transcription — Folio 0270** (``0270.jpg``, Sheet 4 of 4):
+
+Relates the right-triangle altitude segments to the general orthocentric system of an acute/obtuse triangle.
+
+.. math::
+
+   |A T_C| = s - a \neq u = \frac{b^2}{c} \quad (a \neq b), \qquad K = (s - a)(s - b) = \frac{a b}{2}

@@ -1,0 +1,12 @@
+.. folio:: 0254
+   :topic: F.40
+   :title: Regular Enneagon (N = 9) Diagonal Relations — Page 2 (007)
+   :source: 0254.jpg
+
+**Diplomatic Transcription — Folio 0254** (``0254.jpg``, Sheet 16 of 18):
+
+Records the three diagonal lengths of the regular enneagon and notes the irreducible cubic :math:`x^3 - 3x + 1 = 0`.
+
+.. math::
+
+   E_{10} = \phi - 1 = \sqrt{2 - \phi}, \qquad E_5 = \sqrt{3 - \phi}, \qquad E_{15} = 2\sin 12^\circ = \frac{1}{4}\left(\sqrt{10 + 2\sqrt{5}} + \sqrt{3} - \sqrt{15}\right)

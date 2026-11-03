@@ -1,0 +1,3 @@
+**Editorial & Symbolic Notes — Folio 0270**
+
+Archival scan ``0270.jpg`` from Fred W. Seelig's notebook dossier on **F.42 Altitude of a Pythagorean Triple Triangle** (Page 4 of 4). Companion OpenDocument worksheet(s): ``Pythagorean Triples``, ``Right Triangle``, ``Altitudes``. Classical Euclidean foundations: :ref:`I.47`, :ref:`VI.8`. Kimberling *Encyclopedia of Triangle Centers* loci: :ref:`X(1)`, :ref:`X(4)`, :ref:`X(7)`.

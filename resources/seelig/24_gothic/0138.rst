@@ -1,0 +1,12 @@
+.. folio:: 0138
+   :topic: F.24
+   :title: Semicircle Geometric Mean Proof of g^2 = 2*s*G_x
+   :source: 0138.jpg
+
+**Diplomatic Transcription — Folio 0138** (``0138.jpg``, Sheet 4 of 5):
+
+Proves :math:`g^2 = G_x^2 + G_y^2 = 2sG_x` in a semicircle of diameter :math:`2s` centered at :math:`B`.
+
+.. math::
+
+   r^2 = \left(x - \frac{s}{2}\right)^2 + (y - Q)^2, \qquad p s = P_x H_x + P_y H_y \quad (r = s - p), \qquad g^2 = G_x^2 + G_y^2 = 2 s G_x

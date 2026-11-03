@@ -1,0 +1,12 @@
+.. folio:: 0296
+   :topic: F.47
+   :title: 2x2 Matrix System for Cevian Trace D (002)
+   :source: 0296.jpg
+
+**Diplomatic Transcription — Folio 0296** (``0296.jpg``, Sheet 2 of 11):
+
+Intersects line :math:`AP` through :math:`P(p,q)` with side :math:`BC` via Cramer's rule to solve for :math:`D = (D_x, D_y)`.
+
+.. math::
+
+   F_x = \frac{p V}{V - q}, \qquad D = \left(\frac{W V (U + p)}{V(U + W) + q W},\; \frac{V q (U + W)}{V(U + W) + q W}\right)

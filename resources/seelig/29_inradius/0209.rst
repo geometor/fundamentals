@@ -1,0 +1,12 @@
+.. folio:: 0209
+   :topic: F.29
+   :title: Measured Scalene Verification (Page 2)
+   :source: 0209.jpg
+
+**Diplomatic Transcription — Folio 0209** (``0209.jpg``, Sheet 3 of 3):
+
+Constructs the incircle and Gergonne cevians on a measured triangle (:math:`a=28.3, b=19, c=30.8, s=39, x=10.7, y=20, z=8.2, K=263`) and verifies :math:`r = K/s \approx 6.74`.
+
+.. math::
+
+   r = \frac{K}{s} = \frac{1}{2}\sqrt{\frac{(b+c-a)(c+a-b)(a+b-c)}{a+b+c}} = \sqrt{\frac{x y z}{x + y + z}}

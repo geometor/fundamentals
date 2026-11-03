@@ -1,0 +1,12 @@
+.. folio:: 0009
+   :topic: F.2
+   :title: Apollonian Proportion (FWS 2/7/2014)
+   :source: 0009.jpg
+
+**Diplomatic Transcription — Folio 0009** (``0009.jpg``, Sheet 7 of 8):
+
+Applies :math:`k = \frac{1+\kappa}{1-\kappa}` to harmonic points :math:`A, C, B, D` with :math:`B=0, A=-d`, deriving :math:`C = -d/(k+1), D = d/(k-1), M' = d/(k^2-1)`, and :math:`R = dk/(k^2-1)`.
+
+.. math::
+
+   \mathbb{B}(x) = \frac{1 + x}{1 - x}, \qquad \mathbb{B}^{-1}(y) = \frac{y - 1}{y + 1}, \qquad \mathbb{B}'(x) = \frac{2}{(1 - x)^2} = 2 B^2

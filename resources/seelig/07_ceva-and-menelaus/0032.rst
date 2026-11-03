@@ -1,0 +1,12 @@
+.. folio:: 0032
+   :topic: F.7
+   :title: Heronian 78-90-84 Triangle Problem (Facebook, April 14, 2015)
+   :source: 0032.jpg
+
+**Diplomatic Transcription — Folio 0032** (``0032.jpg``, Sheet 9 of 26):
+
+Constructs the :math:`78\text{–}90\text{–}84` Heronian triangle with trace splits :math:`(28,56), (39,39), (60,30)` and exact cevian lengths :math:`3\sqrt{673}, 6\sqrt{137}, 14\sqrt{23}`.
+
+.. math::
+
+   \frac{PD}{AD} + \frac{PE}{BE} + \frac{PF}{CF} = 1, \qquad \frac{AP}{AD} + \frac{BP}{BE} + \frac{CP}{CF} = 2

@@ -1,0 +1,12 @@
+.. folio:: 0066
+   :topic: F.11
+   :title: Circumcenter of a Triangle (FWS 5/31/2011)
+   :source: 0066.jpg
+
+**Diplomatic Transcription — Folio 0066** (``0066.jpg``, Sheet 1 of 6):
+
+Summary sheet with circumcircle diagram and Cartesian formulas for :math:`a, b, c, s, A_T, R = abc/(4A_T)`, and :math:`(x_0, y_0)`.
+
+.. math::
+
+   R = \frac{a b c}{4 K}, \qquad O = \left(a^2 S_A : b^2 S_B : c^2 S_C\right) = \left(\sin 2\alpha : \sin 2\beta : \sin 2\gamma\right)

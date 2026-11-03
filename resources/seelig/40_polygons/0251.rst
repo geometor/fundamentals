@@ -1,0 +1,12 @@
+.. folio:: 0251
+   :topic: F.40
+   :title: Chord Length & Central Angle Identities (004)
+   :source: 0251.jpg
+
+**Diplomatic Transcription — Folio 0251** (``0251.jpg``, Sheet 13 of 18):
+
+Relates chord length :math:`c(\theta) = 2R\sin(\theta/2)` to the sagitta :math:`s = R - \sqrt{R^2 - (c/2)^2}`.
+
+.. math::
+
+   E_N = 2\sin\frac{\pi}{N} = \sqrt{2 - \sqrt{4 - E_{N/2}^2}}, \qquad r_N = \cos\frac{\pi}{N} = \frac{1}{2}\sqrt{4 - E_N^2}

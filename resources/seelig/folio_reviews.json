@@ -1,0 +1,2826 @@
+{
+  "0001": {
+    "folio_id": "0001",
+    "topic_id": "F.1",
+    "topic_title": "Albert's Parabola",
+    "folder": "01_alberts-parabola",
+    "original_filename": "0001.jpg",
+    "status": "verified"
+  },
+  "0002": {
+    "folio_id": "0002",
+    "topic_id": "F.1",
+    "topic_title": "Albert's Parabola",
+    "folder": "01_alberts-parabola",
+    "original_filename": "0002.jpg",
+    "status": "verified"
+  },
+  "0003": {
+    "folio_id": "0003",
+    "topic_id": "F.2",
+    "topic_title": "Bilinear Transformations",
+    "folder": "02_bilinear-transformations",
+    "original_filename": "0003.jpg",
+    "status": "verified"
+  },
+  "0004": {
+    "folio_id": "0004",
+    "topic_id": "F.2",
+    "topic_title": "Bilinear Transformations",
+    "folder": "02_bilinear-transformations",
+    "original_filename": "0004.jpg",
+    "status": "verified"
+  },
+  "0005": {
+    "folio_id": "0005",
+    "topic_id": "F.2",
+    "topic_title": "Bilinear Transformations",
+    "folder": "02_bilinear-transformations",
+    "original_filename": "0005.jpg",
+    "status": "verified"
+  },
+  "0006": {
+    "folio_id": "0006",
+    "topic_id": "F.2",
+    "topic_title": "Bilinear Transformations",
+    "folder": "02_bilinear-transformations",
+    "original_filename": "0006.jpg",
+    "status": "verified"
+  },
+  "0007": {
+    "folio_id": "0007",
+    "topic_id": "F.2",
+    "topic_title": "Bilinear Transformations",
+    "folder": "02_bilinear-transformations",
+    "original_filename": "0007.jpg",
+    "status": "verified"
+  },
+  "0008": {
+    "folio_id": "0008",
+    "topic_id": "F.2",
+    "topic_title": "Bilinear Transformations",
+    "folder": "02_bilinear-transformations",
+    "original_filename": "0008.jpg",
+    "status": "verified"
+  },
+  "0009": {
+    "folio_id": "0009",
+    "topic_id": "F.2",
+    "topic_title": "Bilinear Transformations",
+    "folder": "02_bilinear-transformations",
+    "original_filename": "0009.jpg",
+    "status": "verified"
+  },
+  "0010": {
+    "folio_id": "0010",
+    "topic_id": "F.2",
+    "topic_title": "Bilinear Transformations",
+    "folder": "02_bilinear-transformations",
+    "original_filename": "0010.jpg",
+    "status": "verified"
+  },
+  "0011": {
+    "folio_id": "0011",
+    "topic_id": "F.3",
+    "topic_title": "Biquadratic Forms in Heron's Formula",
+    "folder": "03_biquadratic-forms-in-herons-formula",
+    "original_filename": "0011.jpg",
+    "status": "verified"
+  },
+  "0012": {
+    "folio_id": "0012",
+    "topic_id": "F.3",
+    "topic_title": "Biquadratic Forms in Heron's Formula",
+    "folder": "03_biquadratic-forms-in-herons-formula",
+    "original_filename": "0012.jpg",
+    "status": "verified"
+  },
+  "0013": {
+    "folio_id": "0013",
+    "topic_id": "F.3",
+    "topic_title": "Biquadratic Forms in Heron's Formula",
+    "folder": "03_biquadratic-forms-in-herons-formula",
+    "original_filename": "0013.jpg",
+    "status": "verified"
+  },
+  "0014": {
+    "folio_id": "0014",
+    "topic_id": "F.3",
+    "topic_title": "Biquadratic Forms in Heron's Formula",
+    "folder": "03_biquadratic-forms-in-herons-formula",
+    "original_filename": "0014.jpg",
+    "status": "verified"
+  },
+  "0015": {
+    "folio_id": "0015",
+    "topic_id": "F.3",
+    "topic_title": "Biquadratic Forms in Heron's Formula",
+    "folder": "03_biquadratic-forms-in-herons-formula",
+    "original_filename": "0015.jpg",
+    "status": "verified"
+  },
+  "0016": {
+    "folio_id": "0016",
+    "topic_id": "F.3",
+    "topic_title": "Biquadratic Forms in Heron's Formula",
+    "folder": "03_biquadratic-forms-in-herons-formula",
+    "original_filename": "0016.jpg",
+    "status": "verified"
+  },
+  "0017": {
+    "folio_id": "0017",
+    "topic_id": "F.3",
+    "topic_title": "Biquadratic Forms in Heron's Formula",
+    "folder": "03_biquadratic-forms-in-herons-formula",
+    "original_filename": "0017.jpg",
+    "status": "verified"
+  },
+  "0018": {
+    "folio_id": "0018",
+    "topic_id": "F.3",
+    "topic_title": "Biquadratic Forms in Heron's Formula",
+    "folder": "03_biquadratic-forms-in-herons-formula",
+    "original_filename": "0018.jpg",
+    "status": "verified"
+  },
+  "0019": {
+    "folio_id": "0019",
+    "topic_id": "F.3",
+    "topic_title": "Biquadratic Forms in Heron's Formula",
+    "folder": "03_biquadratic-forms-in-herons-formula",
+    "original_filename": "0019.jpg",
+    "status": "verified"
+  },
+  "0020": {
+    "folio_id": "0020",
+    "topic_id": "F.4",
+    "topic_title": "Carnot's Theorem",
+    "folder": "04_carnots-theorem",
+    "original_filename": "0020.jpg",
+    "status": "verified"
+  },
+  "0021": {
+    "folio_id": "0021",
+    "topic_id": "F.5",
+    "topic_title": "Centers of Similitude",
+    "folder": "05_centers-of-similitude",
+    "original_filename": "0021.jpg",
+    "status": "verified"
+  },
+  "0022": {
+    "folio_id": "0022",
+    "topic_id": "F.6",
+    "topic_title": "Centroid",
+    "folder": "06_centroid",
+    "original_filename": "0022.jpg",
+    "status": "verified"
+  },
+  "0023": {
+    "folio_id": "0023",
+    "topic_id": "F.6",
+    "topic_title": "Centroid",
+    "folder": "06_centroid",
+    "original_filename": "0023.jpg",
+    "status": "verified"
+  },
+  "0024": {
+    "folio_id": "0024",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0024.jpg",
+    "status": "verified"
+  },
+  "0025": {
+    "folio_id": "0025",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0025.jpg",
+    "status": "verified"
+  },
+  "0026": {
+    "folio_id": "0026",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0026.jpg",
+    "status": "verified"
+  },
+  "0027": {
+    "folio_id": "0027",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0027.jpg",
+    "status": "verified"
+  },
+  "0028": {
+    "folio_id": "0028",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0028.jpg",
+    "status": "verified"
+  },
+  "0029": {
+    "folio_id": "0029",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0029.jpg",
+    "status": "verified"
+  },
+  "0030": {
+    "folio_id": "0030",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0030.jpg",
+    "status": "verified"
+  },
+  "0031": {
+    "folio_id": "0031",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0031.jpg",
+    "status": "verified"
+  },
+  "0032": {
+    "folio_id": "0032",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0032.jpg",
+    "status": "verified"
+  },
+  "0033": {
+    "folio_id": "0033",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0033.jpg",
+    "status": "verified"
+  },
+  "0034": {
+    "folio_id": "0034",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0034.jpg",
+    "status": "verified"
+  },
+  "0035": {
+    "folio_id": "0035",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0035.jpg",
+    "status": "verified"
+  },
+  "0036": {
+    "folio_id": "0036",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0036.jpg",
+    "status": "verified"
+  },
+  "0037": {
+    "folio_id": "0037",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0037.jpg",
+    "status": "verified"
+  },
+  "0038": {
+    "folio_id": "0038",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0038.jpg",
+    "status": "verified"
+  },
+  "0039": {
+    "folio_id": "0039",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0039.jpg",
+    "status": "verified"
+  },
+  "0040": {
+    "folio_id": "0040",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0040.jpg",
+    "status": "verified"
+  },
+  "0041": {
+    "folio_id": "0041",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0041.jpg",
+    "status": "verified"
+  },
+  "0042": {
+    "folio_id": "0042",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0042.jpg",
+    "status": "verified"
+  },
+  "0043": {
+    "folio_id": "0043",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0043.jpg",
+    "status": "verified"
+  },
+  "0044": {
+    "folio_id": "0044",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0044.jpg",
+    "status": "verified"
+  },
+  "0045": {
+    "folio_id": "0045",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0045.jpg",
+    "status": "verified"
+  },
+  "0046": {
+    "folio_id": "0046",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0046.jpg",
+    "status": "verified"
+  },
+  "0047": {
+    "folio_id": "0047",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0047.jpg",
+    "status": "verified"
+  },
+  "0048": {
+    "folio_id": "0048",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0048.jpg",
+    "status": "verified"
+  },
+  "0049": {
+    "folio_id": "0049",
+    "topic_id": "F.7",
+    "topic_title": "Ceva and Menelaus",
+    "folder": "07_ceva-and-menelaus",
+    "original_filename": "0049.jpg",
+    "status": "verified"
+  },
+  "0050": {
+    "folio_id": "0050",
+    "topic_id": "F.8",
+    "topic_title": "Chord Intersection",
+    "folder": "08_chord-intersection",
+    "original_filename": "0050.jpg",
+    "status": "verified"
+  },
+  "0051": {
+    "folio_id": "0051",
+    "topic_id": "F.8",
+    "topic_title": "Chord Intersection",
+    "folder": "08_chord-intersection",
+    "original_filename": "0051.jpg",
+    "status": "verified"
+  },
+  "0052": {
+    "folio_id": "0052",
+    "topic_id": "F.8",
+    "topic_title": "Chord Intersection",
+    "folder": "08_chord-intersection",
+    "original_filename": "0052.jpg",
+    "status": "verified"
+  },
+  "0053": {
+    "folio_id": "0053",
+    "topic_id": "F.8",
+    "topic_title": "Chord Intersection",
+    "folder": "08_chord-intersection",
+    "original_filename": "0053.jpg",
+    "status": "verified"
+  },
+  "0054": {
+    "folio_id": "0054",
+    "topic_id": "F.9",
+    "topic_title": "Circle Equations",
+    "folder": "09_circle-equations",
+    "original_filename": "0054.jpg",
+    "status": "verified"
+  },
+  "0055": {
+    "folio_id": "0055",
+    "topic_id": "F.9",
+    "topic_title": "Circle Equations",
+    "folder": "09_circle-equations",
+    "original_filename": "0055.jpg",
+    "status": "verified"
+  },
+  "0056": {
+    "folio_id": "0056",
+    "topic_id": "F.9",
+    "topic_title": "Circle Equations",
+    "folder": "09_circle-equations",
+    "original_filename": "0056.jpg",
+    "status": "verified"
+  },
+  "0057": {
+    "folio_id": "0057",
+    "topic_id": "F.9",
+    "topic_title": "Circle Equations",
+    "folder": "09_circle-equations",
+    "original_filename": "0057.jpg",
+    "status": "verified"
+  },
+  "0058": {
+    "folio_id": "0058",
+    "topic_id": "F.9",
+    "topic_title": "Circle Equations",
+    "folder": "09_circle-equations",
+    "original_filename": "0058.jpg",
+    "status": "verified"
+  },
+  "0059": {
+    "folio_id": "0059",
+    "topic_id": "F.9",
+    "topic_title": "Circle Equations",
+    "folder": "09_circle-equations",
+    "original_filename": "0059.jpg",
+    "status": "verified"
+  },
+  "0060": {
+    "folio_id": "0060",
+    "topic_id": "F.9",
+    "topic_title": "Circle Equations",
+    "folder": "09_circle-equations",
+    "original_filename": "0060.jpg",
+    "status": "verified"
+  },
+  "0061": {
+    "folio_id": "0061",
+    "topic_id": "F.9",
+    "topic_title": "Circle Equations",
+    "folder": "09_circle-equations",
+    "original_filename": "0061.jpg",
+    "status": "verified"
+  },
+  "0062": {
+    "folio_id": "0062",
+    "topic_id": "F.10",
+    "topic_title": "Circles and Geometric Mean",
+    "folder": "10_circles-and-geometric-mean",
+    "original_filename": "0062.jpg",
+    "status": "verified"
+  },
+  "0063": {
+    "folio_id": "0063",
+    "topic_id": "F.10",
+    "topic_title": "Circles and Geometric Mean",
+    "folder": "10_circles-and-geometric-mean",
+    "original_filename": "0063.jpg",
+    "status": "verified"
+  },
+  "0064": {
+    "folio_id": "0064",
+    "topic_id": "F.10",
+    "topic_title": "Circles and Geometric Mean",
+    "folder": "10_circles-and-geometric-mean",
+    "original_filename": "0064.jpg",
+    "status": "verified"
+  },
+  "0065": {
+    "folio_id": "0065",
+    "topic_id": "F.10",
+    "topic_title": "Circles and Geometric Mean",
+    "folder": "10_circles-and-geometric-mean",
+    "original_filename": "0065.jpg",
+    "status": "verified"
+  },
+  "0066": {
+    "folio_id": "0066",
+    "topic_id": "F.11",
+    "topic_title": "Circumcenter",
+    "folder": "11_circumcenter",
+    "original_filename": "0066.jpg",
+    "status": "verified"
+  },
+  "0067": {
+    "folio_id": "0067",
+    "topic_id": "F.11",
+    "topic_title": "Circumcenter",
+    "folder": "11_circumcenter",
+    "original_filename": "0067.jpg",
+    "status": "verified"
+  },
+  "0068": {
+    "folio_id": "0068",
+    "topic_id": "F.11",
+    "topic_title": "Circumcenter",
+    "folder": "11_circumcenter",
+    "original_filename": "0068.jpg",
+    "status": "verified"
+  },
+  "0069": {
+    "folio_id": "0069",
+    "topic_id": "F.11",
+    "topic_title": "Circumcenter",
+    "folder": "11_circumcenter",
+    "original_filename": "0069.jpg",
+    "status": "verified"
+  },
+  "0070": {
+    "folio_id": "0070",
+    "topic_id": "F.11",
+    "topic_title": "Circumcenter",
+    "folder": "11_circumcenter",
+    "original_filename": "0070.jpg",
+    "status": "verified"
+  },
+  "0071": {
+    "folio_id": "0071",
+    "topic_id": "F.11",
+    "topic_title": "Circumcenter",
+    "folder": "11_circumcenter",
+    "original_filename": "0071.jpg",
+    "status": "verified"
+  },
+  "0072": {
+    "folio_id": "0072",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0072.jpg",
+    "status": "verified"
+  },
+  "0073": {
+    "folio_id": "0073",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0073.jpg",
+    "status": "verified"
+  },
+  "0074": {
+    "folio_id": "0074",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0074.jpg",
+    "status": "verified"
+  },
+  "0075": {
+    "folio_id": "0075",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0075.jpg",
+    "status": "verified"
+  },
+  "0076": {
+    "folio_id": "0076",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0076.jpg",
+    "status": "verified"
+  },
+  "0077": {
+    "folio_id": "0077",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0077.jpg",
+    "status": "verified"
+  },
+  "0078": {
+    "folio_id": "0078",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0078.jpg",
+    "status": "verified"
+  },
+  "0079": {
+    "folio_id": "0079",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0079.jpg",
+    "status": "verified"
+  },
+  "0080": {
+    "folio_id": "0080",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0080.jpg",
+    "status": "verified"
+  },
+  "0081": {
+    "folio_id": "0081",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0081.jpg",
+    "status": "verified"
+  },
+  "0082": {
+    "folio_id": "0082",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0082.jpg",
+    "status": "verified"
+  },
+  "0083": {
+    "folio_id": "0083",
+    "topic_id": "F.12",
+    "topic_title": "Coaxial Circles",
+    "folder": "12_coaxial-circles",
+    "original_filename": "0083.jpg",
+    "status": "verified"
+  },
+  "0084": {
+    "folio_id": "0084",
+    "topic_id": "F.13",
+    "topic_title": "Compare Triangles in Circles",
+    "folder": "13_compare-triangles-in-circles",
+    "original_filename": "0084.jpg",
+    "status": "verified"
+  },
+  "0085": {
+    "folio_id": "0085",
+    "topic_id": "F.13",
+    "topic_title": "Compare Triangles in Circles",
+    "folder": "13_compare-triangles-in-circles",
+    "original_filename": "0085.jpg",
+    "status": "verified"
+  },
+  "0086": {
+    "folio_id": "0086",
+    "topic_id": "F.13",
+    "topic_title": "Compare Triangles in Circles",
+    "folder": "13_compare-triangles-in-circles",
+    "original_filename": "0086.jpg",
+    "status": "verified"
+  },
+  "0087": {
+    "folio_id": "0087",
+    "topic_id": "F.13",
+    "topic_title": "Compare Triangles in Circles",
+    "folder": "13_compare-triangles-in-circles",
+    "original_filename": "0087.jpg",
+    "status": "verified"
+  },
+  "0088": {
+    "folio_id": "0088",
+    "topic_id": "F.13",
+    "topic_title": "Compare Triangles in Circles",
+    "folder": "13_compare-triangles-in-circles",
+    "original_filename": "0088.jpg",
+    "status": "verified"
+  },
+  "0089": {
+    "folio_id": "0089",
+    "topic_id": "F.13",
+    "topic_title": "Compare Triangles in Circles",
+    "folder": "13_compare-triangles-in-circles",
+    "original_filename": "0089.jpg",
+    "status": "verified"
+  },
+  "0090": {
+    "folio_id": "0090",
+    "topic_id": "F.13",
+    "topic_title": "Compare Triangles in Circles",
+    "folder": "13_compare-triangles-in-circles",
+    "original_filename": "0090.jpg",
+    "status": "verified"
+  },
+  "0091": {
+    "folio_id": "0091",
+    "topic_id": "F.13",
+    "topic_title": "Compare Triangles in Circles",
+    "folder": "13_compare-triangles-in-circles",
+    "original_filename": "0091.jpg",
+    "status": "verified"
+  },
+  "0092": {
+    "folio_id": "0092",
+    "topic_id": "F.14",
+    "topic_title": "Conway Notation",
+    "folder": "14_conway-notation",
+    "original_filename": "0092.jpg",
+    "status": "verified"
+  },
+  "0093": {
+    "folio_id": "0093",
+    "topic_id": "F.14",
+    "topic_title": "Conway Notation",
+    "folder": "14_conway-notation",
+    "original_filename": "0093.jpg",
+    "status": "verified"
+  },
+  "0094": {
+    "folio_id": "0094",
+    "topic_id": "F.14",
+    "topic_title": "Conway Notation",
+    "folder": "14_conway-notation",
+    "original_filename": "0094.jpg",
+    "status": "verified"
+  },
+  "0095": {
+    "folio_id": "0095",
+    "topic_id": "F.14",
+    "topic_title": "Conway Notation",
+    "folder": "14_conway-notation",
+    "original_filename": "0095.jpg",
+    "status": "verified"
+  },
+  "0096": {
+    "folio_id": "0096",
+    "topic_id": "F.14",
+    "topic_title": "Conway Notation",
+    "folder": "14_conway-notation",
+    "original_filename": "0096.jpg",
+    "status": "verified"
+  },
+  "0097": {
+    "folio_id": "0097",
+    "topic_id": "F.14",
+    "topic_title": "Conway Notation",
+    "folder": "14_conway-notation",
+    "original_filename": "0097.jpg",
+    "status": "verified"
+  },
+  "0098": {
+    "folio_id": "0098",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0098.jpg",
+    "status": "verified"
+  },
+  "0099": {
+    "folio_id": "0099",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0099.jpg",
+    "status": "verified"
+  },
+  "0100": {
+    "folio_id": "0100",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0100.jpg",
+    "status": "verified"
+  },
+  "0101": {
+    "folio_id": "0101",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0101.jpg",
+    "status": "verified"
+  },
+  "0102": {
+    "folio_id": "0102",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0102.jpg",
+    "status": "verified"
+  },
+  "0103": {
+    "folio_id": "0103",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0103.jpg",
+    "status": "verified"
+  },
+  "0104": {
+    "folio_id": "0104",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0104.jpg",
+    "status": "verified"
+  },
+  "0105": {
+    "folio_id": "0105",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0105.jpg",
+    "status": "verified"
+  },
+  "0106": {
+    "folio_id": "0106",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0106.jpg",
+    "status": "verified"
+  },
+  "0107": {
+    "folio_id": "0107",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0107.jpg",
+    "status": "verified"
+  },
+  "0108": {
+    "folio_id": "0108",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0108.jpg",
+    "status": "verified"
+  },
+  "0109": {
+    "folio_id": "0109",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0109.jpg",
+    "status": "verified"
+  },
+  "0110": {
+    "folio_id": "0110",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0110.jpg",
+    "status": "verified"
+  },
+  "0111": {
+    "folio_id": "0111",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0111.jpg",
+    "status": "verified"
+  },
+  "0112": {
+    "folio_id": "0112",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0112.jpg",
+    "status": "verified"
+  },
+  "0113": {
+    "folio_id": "0113",
+    "topic_id": "F.15",
+    "topic_title": "Cyclic Quadrilateral",
+    "folder": "15_cyclic-quadrilateral",
+    "original_filename": "0113.jpg",
+    "status": "verified"
+  },
+  "0114": {
+    "folio_id": "0114",
+    "topic_id": "F.16",
+    "topic_title": "d'Alembert's Theorem",
+    "folder": "16_dalembert",
+    "original_filename": "0114.jpg",
+    "status": "verified"
+  },
+  "0115": {
+    "folio_id": "0115",
+    "topic_id": "F.16",
+    "topic_title": "d'Alembert's Theorem",
+    "folder": "16_dalembert",
+    "original_filename": "0115.jpg",
+    "status": "verified"
+  },
+  "0116": {
+    "folio_id": "0116",
+    "topic_id": "F.16",
+    "topic_title": "d'Alembert's Theorem",
+    "folder": "16_dalembert",
+    "original_filename": "0116.jpg",
+    "status": "verified"
+  },
+  "0117": {
+    "folio_id": "0117",
+    "topic_id": "F.16",
+    "topic_title": "d'Alembert's Theorem",
+    "folder": "16_dalembert",
+    "original_filename": "0117.jpg",
+    "status": "verified"
+  },
+  "0118": {
+    "folio_id": "0118",
+    "topic_id": "F.17",
+    "topic_title": "Ellipse",
+    "folder": "17_ellipse",
+    "original_filename": "0118.jpg",
+    "status": "verified"
+  },
+  "0119": {
+    "folio_id": "0119",
+    "topic_id": "F.17",
+    "topic_title": "Ellipse",
+    "folder": "17_ellipse",
+    "original_filename": "0119.jpg",
+    "status": "verified"
+  },
+  "0120": {
+    "folio_id": "0120",
+    "topic_id": "F.17",
+    "topic_title": "Ellipse",
+    "folder": "17_ellipse",
+    "original_filename": "0120.jpg",
+    "status": "verified"
+  },
+  "0121": {
+    "folio_id": "0121",
+    "topic_id": "F.17",
+    "topic_title": "Ellipse",
+    "folder": "17_ellipse",
+    "original_filename": "0121.jpg",
+    "status": "verified"
+  },
+  "0122": {
+    "folio_id": "0122",
+    "topic_id": "F.18",
+    "topic_title": "Equilateral Triangle",
+    "folder": "18_equilateral-triangle",
+    "original_filename": "0122.jpg",
+    "status": "verified"
+  },
+  "0123": {
+    "folio_id": "0123",
+    "topic_id": "F.18",
+    "topic_title": "Equilateral Triangle",
+    "folder": "18_equilateral-triangle",
+    "original_filename": "0123.jpg",
+    "status": "verified"
+  },
+  "0124": {
+    "folio_id": "0124",
+    "topic_id": "F.18",
+    "topic_title": "Equilateral Triangle",
+    "folder": "18_equilateral-triangle",
+    "original_filename": "0124.jpg",
+    "status": "verified"
+  },
+  "0125": {
+    "folio_id": "0125",
+    "topic_id": "F.19",
+    "topic_title": "Equal Incircles Theorem",
+    "folder": "19_equal-incircle-theorem",
+    "original_filename": "0125.jpg",
+    "status": "verified"
+  },
+  "0126": {
+    "folio_id": "0126",
+    "topic_id": "F.19",
+    "topic_title": "Equal Incircles Theorem",
+    "folder": "19_equal-incircle-theorem",
+    "original_filename": "0126.jpg",
+    "status": "verified"
+  },
+  "0127": {
+    "folio_id": "0127",
+    "topic_id": "F.20",
+    "topic_title": "Extangent",
+    "folder": "20_extangent",
+    "original_filename": "0127.jpg",
+    "status": "verified"
+  },
+  "0128": {
+    "folio_id": "0128",
+    "topic_id": "F.21",
+    "topic_title": "Fermat Point",
+    "folder": "21_fermat-point",
+    "original_filename": "0128.jpg",
+    "status": "verified"
+  },
+  "0129": {
+    "folio_id": "0129",
+    "topic_id": "F.21",
+    "topic_title": "Fermat Point",
+    "folder": "21_fermat-point",
+    "original_filename": "0129.jpg",
+    "status": "verified"
+  },
+  "0130": {
+    "folio_id": "0130",
+    "topic_id": "F.22",
+    "topic_title": "Functions",
+    "folder": "22_functions",
+    "original_filename": "0130.jpg",
+    "status": "verified"
+  },
+  "0131": {
+    "folio_id": "0131",
+    "topic_id": "F.22",
+    "topic_title": "Functions",
+    "folder": "22_functions",
+    "original_filename": "0131.jpg",
+    "status": "verified"
+  },
+  "0132": {
+    "folio_id": "0132",
+    "topic_id": "F.23",
+    "topic_title": "Golden Triangles",
+    "folder": "23_golden-triangles",
+    "original_filename": "0132.jpg",
+    "status": "verified"
+  },
+  "0133": {
+    "folio_id": "0133",
+    "topic_id": "F.23",
+    "topic_title": "Golden Triangles",
+    "folder": "23_golden-triangles",
+    "original_filename": "0133.jpg",
+    "status": "verified"
+  },
+  "0134": {
+    "folio_id": "0134",
+    "topic_id": "F.23",
+    "topic_title": "Golden Triangles",
+    "folder": "23_golden-triangles",
+    "original_filename": "0134.jpg",
+    "status": "verified"
+  },
+  "0135": {
+    "folio_id": "0135",
+    "topic_id": "F.24",
+    "topic_title": "Gothic Arch",
+    "folder": "24_gothic",
+    "original_filename": "0135.jpg",
+    "status": "verified"
+  },
+  "0136": {
+    "folio_id": "0136",
+    "topic_id": "F.24",
+    "topic_title": "Gothic Arch",
+    "folder": "24_gothic",
+    "original_filename": "0136.jpg",
+    "status": "verified"
+  },
+  "0137": {
+    "folio_id": "0137",
+    "topic_id": "F.24",
+    "topic_title": "Gothic Arch",
+    "folder": "24_gothic",
+    "original_filename": "0137.jpg",
+    "status": "verified"
+  },
+  "0138": {
+    "folio_id": "0138",
+    "topic_id": "F.24",
+    "topic_title": "Gothic Arch",
+    "folder": "24_gothic",
+    "original_filename": "0138.jpg",
+    "status": "verified"
+  },
+  "0139": {
+    "folio_id": "0139",
+    "topic_id": "F.24",
+    "topic_title": "Gothic Arch",
+    "folder": "24_gothic",
+    "original_filename": "0139.jpg",
+    "status": "verified"
+  },
+  "0140": {
+    "folio_id": "0140",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0140.jpg",
+    "status": "verified"
+  },
+  "0141": {
+    "folio_id": "0141",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0141.jpg",
+    "status": "verified"
+  },
+  "0142": {
+    "folio_id": "0142",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0142.jpg",
+    "status": "verified"
+  },
+  "0143": {
+    "folio_id": "0143",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0143.jpg",
+    "status": "verified"
+  },
+  "0144": {
+    "folio_id": "0144",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0144.jpg",
+    "status": "verified"
+  },
+  "0145": {
+    "folio_id": "0145",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0145.jpg",
+    "status": "verified"
+  },
+  "0146": {
+    "folio_id": "0146",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0146.jpg",
+    "status": "verified"
+  },
+  "0147": {
+    "folio_id": "0147",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0147.jpg",
+    "status": "verified"
+  },
+  "0148": {
+    "folio_id": "0148",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0148.jpg",
+    "status": "verified"
+  },
+  "0149": {
+    "folio_id": "0149",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0149.jpg",
+    "status": "verified"
+  },
+  "0150": {
+    "folio_id": "0150",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0150.jpg",
+    "status": "verified"
+  },
+  "0151": {
+    "folio_id": "0151",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0151.jpg",
+    "status": "verified"
+  },
+  "0152": {
+    "folio_id": "0152",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0152.jpg",
+    "status": "verified"
+  },
+  "0153": {
+    "folio_id": "0153",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0153.jpg",
+    "status": "verified"
+  },
+  "0154": {
+    "folio_id": "0154",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0154.jpg",
+    "status": "verified"
+  },
+  "0155": {
+    "folio_id": "0155",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0155.jpg",
+    "status": "verified"
+  },
+  "0156": {
+    "folio_id": "0156",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0156.jpg",
+    "status": "verified"
+  },
+  "0157": {
+    "folio_id": "0157",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0157.jpg",
+    "status": "verified"
+  },
+  "0158": {
+    "folio_id": "0158",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0158.jpg",
+    "status": "verified"
+  },
+  "0159": {
+    "folio_id": "0159",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0159.jpg",
+    "status": "verified"
+  },
+  "0160": {
+    "folio_id": "0160",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0160.jpg",
+    "status": "verified"
+  },
+  "0161": {
+    "folio_id": "0161",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0161.jpg",
+    "status": "verified"
+  },
+  "0162": {
+    "folio_id": "0162",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0162.jpg",
+    "status": "verified"
+  },
+  "0163": {
+    "folio_id": "0163",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0163.jpg",
+    "status": "verified"
+  },
+  "0164": {
+    "folio_id": "0164",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0164.jpg",
+    "status": "verified"
+  },
+  "0165": {
+    "folio_id": "0165",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0165.jpg",
+    "status": "verified"
+  },
+  "0166": {
+    "folio_id": "0166",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0166.jpg",
+    "status": "verified"
+  },
+  "0167": {
+    "folio_id": "0167",
+    "topic_id": "F.25",
+    "topic_title": "Harmonic Conjugates",
+    "folder": "25_harmonic-conjugates",
+    "original_filename": "0167.jpg",
+    "status": "verified"
+  },
+  "0168": {
+    "folio_id": "0168",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0168.jpg",
+    "status": "verified"
+  },
+  "0169": {
+    "folio_id": "0169",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0169.jpg",
+    "status": "verified"
+  },
+  "0170": {
+    "folio_id": "0170",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0170.jpg",
+    "status": "verified"
+  },
+  "0171": {
+    "folio_id": "0171",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0171.jpg",
+    "status": "verified"
+  },
+  "0172": {
+    "folio_id": "0172",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0172.jpg",
+    "status": "verified"
+  },
+  "0173": {
+    "folio_id": "0173",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0173.jpg",
+    "status": "verified"
+  },
+  "0174": {
+    "folio_id": "0174",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0174.jpg",
+    "status": "verified"
+  },
+  "0175": {
+    "folio_id": "0175",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0175.jpg",
+    "status": "verified"
+  },
+  "0176": {
+    "folio_id": "0176",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0176.jpg",
+    "status": "verified"
+  },
+  "0177": {
+    "folio_id": "0177",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0177.jpg",
+    "status": "verified"
+  },
+  "0178": {
+    "folio_id": "0178",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0178.jpg",
+    "status": "verified"
+  },
+  "0179": {
+    "folio_id": "0179",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0179.jpg",
+    "status": "verified"
+  },
+  "0180": {
+    "folio_id": "0180",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0180.jpg",
+    "status": "verified"
+  },
+  "0181": {
+    "folio_id": "0181",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0181.jpg",
+    "status": "verified"
+  },
+  "0182": {
+    "folio_id": "0182",
+    "topic_id": "F.26",
+    "topic_title": "Harmonic Conjugate Inversion",
+    "folder": "26_harmonic-conjugate-inversion",
+    "original_filename": "0182.jpg",
+    "status": "verified"
+  },
+  "0183": {
+    "folio_id": "0183",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0183.jpg",
+    "status": "verified"
+  },
+  "0184": {
+    "folio_id": "0184",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0184.jpg",
+    "status": "verified"
+  },
+  "0185": {
+    "folio_id": "0185",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0185.jpg",
+    "status": "verified"
+  },
+  "0186": {
+    "folio_id": "0186",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0186.jpg",
+    "status": "verified"
+  },
+  "0187": {
+    "folio_id": "0187",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0187.jpg",
+    "status": "verified"
+  },
+  "0188": {
+    "folio_id": "0188",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0188.jpg",
+    "status": "verified"
+  },
+  "0189": {
+    "folio_id": "0189",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0189.jpg",
+    "status": "verified"
+  },
+  "0190": {
+    "folio_id": "0190",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0190.jpg",
+    "status": "verified"
+  },
+  "0191": {
+    "folio_id": "0191",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0191.jpg",
+    "status": "verified"
+  },
+  "0192": {
+    "folio_id": "0192",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0192.jpg",
+    "status": "verified"
+  },
+  "0193": {
+    "folio_id": "0193",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0193.jpg",
+    "status": "verified"
+  },
+  "0194": {
+    "folio_id": "0194",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0194.jpg",
+    "status": "verified"
+  },
+  "0195": {
+    "folio_id": "0195",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0195.jpg",
+    "status": "verified"
+  },
+  "0196": {
+    "folio_id": "0196",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0196.jpg",
+    "status": "verified"
+  },
+  "0197": {
+    "folio_id": "0197",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0197.jpg",
+    "status": "verified"
+  },
+  "0198": {
+    "folio_id": "0198",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0198.jpg",
+    "status": "verified"
+  },
+  "0199": {
+    "folio_id": "0199",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0199.jpg",
+    "status": "verified"
+  },
+  "0200": {
+    "folio_id": "0200",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0200.jpg",
+    "status": "verified"
+  },
+  "0201": {
+    "folio_id": "0201",
+    "topic_id": "F.27",
+    "topic_title": "Harmonic Mean",
+    "folder": "27_harmonic-mean",
+    "original_filename": "0201.jpg",
+    "status": "verified"
+  },
+  "0202": {
+    "folio_id": "0202",
+    "topic_id": "F.28",
+    "topic_title": "Incenter",
+    "folder": "28_incenter",
+    "original_filename": "0202.jpg",
+    "status": "verified"
+  },
+  "0203": {
+    "folio_id": "0203",
+    "topic_id": "F.28",
+    "topic_title": "Incenter",
+    "folder": "28_incenter",
+    "original_filename": "0203.jpg",
+    "status": "verified"
+  },
+  "0204": {
+    "folio_id": "0204",
+    "topic_id": "F.28",
+    "topic_title": "Incenter",
+    "folder": "28_incenter",
+    "original_filename": "0204.jpg",
+    "status": "verified"
+  },
+  "0205": {
+    "folio_id": "0205",
+    "topic_id": "F.28",
+    "topic_title": "Incenter",
+    "folder": "28_incenter",
+    "original_filename": "0205.jpg",
+    "status": "verified"
+  },
+  "0206": {
+    "folio_id": "0206",
+    "topic_id": "F.28",
+    "topic_title": "Incenter",
+    "folder": "28_incenter",
+    "original_filename": "0206.jpg",
+    "status": "verified"
+  },
+  "0207": {
+    "folio_id": "0207",
+    "topic_id": "F.29",
+    "topic_title": "Inradius",
+    "folder": "29_inradius",
+    "original_filename": "0207.jpg",
+    "status": "verified"
+  },
+  "0208": {
+    "folio_id": "0208",
+    "topic_id": "F.29",
+    "topic_title": "Inradius",
+    "folder": "29_inradius",
+    "original_filename": "0208.jpg",
+    "status": "verified"
+  },
+  "0209": {
+    "folio_id": "0209",
+    "topic_id": "F.29",
+    "topic_title": "Inradius",
+    "folder": "29_inradius",
+    "original_filename": "0209.jpg",
+    "status": "verified"
+  },
+  "0210": {
+    "folio_id": "0210",
+    "topic_id": "F.30",
+    "topic_title": "Isosceles Triangles",
+    "folder": "30_isosceles",
+    "original_filename": "0210.jpg",
+    "status": "verified"
+  },
+  "0211": {
+    "folio_id": "0211",
+    "topic_id": "F.30",
+    "topic_title": "Isosceles Triangles",
+    "folder": "30_isosceles",
+    "original_filename": "0211.jpg",
+    "status": "verified"
+  },
+  "0212": {
+    "folio_id": "0212",
+    "topic_id": "F.30",
+    "topic_title": "Isosceles Triangles",
+    "folder": "30_isosceles",
+    "original_filename": "0212.jpg",
+    "status": "verified"
+  },
+  "0213": {
+    "folio_id": "0213",
+    "topic_id": "F.30",
+    "topic_title": "Isosceles Triangles",
+    "folder": "30_isosceles",
+    "original_filename": "0213.jpg",
+    "status": "verified"
+  },
+  "0214": {
+    "folio_id": "0214",
+    "topic_id": "F.30",
+    "topic_title": "Isosceles Triangles",
+    "folder": "30_isosceles",
+    "original_filename": "0214.jpg",
+    "status": "verified"
+  },
+  "0215": {
+    "folio_id": "0215",
+    "topic_id": "F.31",
+    "topic_title": "Logic Tests",
+    "folder": "31_logic-tests",
+    "original_filename": "0215.jpg",
+    "status": "verified"
+  },
+  "0216": {
+    "folio_id": "0216",
+    "topic_id": "F.31",
+    "topic_title": "Logic Tests",
+    "folder": "31_logic-tests",
+    "original_filename": "0216.jpg",
+    "status": "verified"
+  },
+  "0217": {
+    "folio_id": "0217",
+    "topic_id": "F.31",
+    "topic_title": "Logic Tests",
+    "folder": "31_logic-tests",
+    "original_filename": "0217.jpg",
+    "status": "verified"
+  },
+  "0218": {
+    "folio_id": "0218",
+    "topic_id": "F.31",
+    "topic_title": "Logic Tests",
+    "folder": "31_logic-tests",
+    "original_filename": "0218.jpg",
+    "status": "verified"
+  },
+  "0219": {
+    "folio_id": "0219",
+    "topic_id": "F.31",
+    "topic_title": "Logic Tests",
+    "folder": "31_logic-tests",
+    "original_filename": "0219.jpg",
+    "status": "verified"
+  },
+  "0220": {
+    "folio_id": "0220",
+    "topic_id": "F.31",
+    "topic_title": "Logic Tests",
+    "folder": "31_logic-tests",
+    "original_filename": "0220.jpg",
+    "status": "verified"
+  },
+  "0221": {
+    "folio_id": "0221",
+    "topic_id": "F.32",
+    "topic_title": "Markowski's Theorem",
+    "folder": "32_markowski",
+    "original_filename": "0221.jpg",
+    "status": "verified"
+  },
+  "0222": {
+    "folio_id": "0222",
+    "topic_id": "F.32",
+    "topic_title": "Markowski's Theorem",
+    "folder": "32_markowski",
+    "original_filename": "0222.jpg",
+    "status": "verified"
+  },
+  "0223": {
+    "folio_id": "0223",
+    "topic_id": "F.33",
+    "topic_title": "Euclidean (m, n) Generators",
+    "folder": "33_m-n",
+    "original_filename": "0223.jpg",
+    "status": "verified"
+  },
+  "0224": {
+    "folio_id": "0224",
+    "topic_id": "F.34",
+    "topic_title": "Nine-Point Circle",
+    "folder": "34_nine-point-circle",
+    "original_filename": "0224.jpg",
+    "status": "verified"
+  },
+  "0225": {
+    "folio_id": "0225",
+    "topic_id": "F.35",
+    "topic_title": "Obtuse and Acute Triangles",
+    "folder": "35_obtuse-and-acute",
+    "original_filename": "0225.jpg",
+    "status": "verified"
+  },
+  "0226": {
+    "folio_id": "0226",
+    "topic_id": "F.35",
+    "topic_title": "Obtuse and Acute Triangles",
+    "folder": "35_obtuse-and-acute",
+    "original_filename": "0226.jpg",
+    "status": "verified"
+  },
+  "0227": {
+    "folio_id": "0227",
+    "topic_id": "F.35",
+    "topic_title": "Obtuse and Acute Triangles",
+    "folder": "35_obtuse-and-acute",
+    "original_filename": "0227.jpg",
+    "status": "verified"
+  },
+  "0228": {
+    "folio_id": "0228",
+    "topic_id": "F.35",
+    "topic_title": "Obtuse and Acute Triangles",
+    "folder": "35_obtuse-and-acute",
+    "original_filename": "0228.jpg",
+    "status": "verified"
+  },
+  "0229": {
+    "folio_id": "0229",
+    "topic_id": "F.35",
+    "topic_title": "Obtuse and Acute Triangles",
+    "folder": "35_obtuse-and-acute",
+    "original_filename": "0229.jpg",
+    "status": "verified"
+  },
+  "0230": {
+    "folio_id": "0230",
+    "topic_id": "F.35",
+    "topic_title": "Obtuse and Acute Triangles",
+    "folder": "35_obtuse-and-acute",
+    "original_filename": "0230.jpg",
+    "status": "verified"
+  },
+  "0231": {
+    "folio_id": "0231",
+    "topic_id": "F.35",
+    "topic_title": "Obtuse and Acute Triangles",
+    "folder": "35_obtuse-and-acute",
+    "original_filename": "0231.jpg",
+    "status": "verified"
+  },
+  "0232": {
+    "folio_id": "0232",
+    "topic_id": "F.36",
+    "topic_title": "Orthic Triangle",
+    "folder": "36_orthic-triangle",
+    "original_filename": "0232.jpg",
+    "status": "verified"
+  },
+  "0233": {
+    "folio_id": "0233",
+    "topic_id": "F.37",
+    "topic_title": "Euler's Inradius Parabola",
+    "folder": "37_parabolas",
+    "original_filename": "0233.jpg",
+    "status": "verified"
+  },
+  "0234": {
+    "folio_id": "0234",
+    "topic_id": "F.37",
+    "topic_title": "Euler's Inradius Parabola",
+    "folder": "37_parabolas",
+    "original_filename": "0234.jpg",
+    "status": "verified"
+  },
+  "0235": {
+    "folio_id": "0235",
+    "topic_id": "F.37",
+    "topic_title": "Euler's Inradius Parabola",
+    "folder": "37_parabolas",
+    "original_filename": "0235.jpg",
+    "status": "verified"
+  },
+  "0236": {
+    "folio_id": "0236",
+    "topic_id": "F.38",
+    "topic_title": "Pedal Triangles",
+    "folder": "38_pedal-triangles",
+    "original_filename": "0236.jpg",
+    "status": "verified"
+  },
+  "0237": {
+    "folio_id": "0237",
+    "topic_id": "F.38",
+    "topic_title": "Pedal Triangles",
+    "folder": "38_pedal-triangles",
+    "original_filename": "0237.jpg",
+    "status": "verified"
+  },
+  "0238": {
+    "folio_id": "0238",
+    "topic_id": "F.39",
+    "topic_title": "Pole and Polar with Respect to a Triangle",
+    "folder": "39_pole-polar",
+    "original_filename": "0238.jpg",
+    "status": "verified"
+  },
+  "0239": {
+    "folio_id": "0239",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0239.jpg",
+    "status": "verified"
+  },
+  "0240": {
+    "folio_id": "0240",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0240.jpg",
+    "status": "verified"
+  },
+  "0241": {
+    "folio_id": "0241",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0241.jpg",
+    "status": "verified"
+  },
+  "0242": {
+    "folio_id": "0242",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0242.jpg",
+    "status": "verified"
+  },
+  "0243": {
+    "folio_id": "0243",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0243.jpg",
+    "status": "verified"
+  },
+  "0244": {
+    "folio_id": "0244",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0244.jpg",
+    "status": "verified"
+  },
+  "0245": {
+    "folio_id": "0245",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0245.jpg",
+    "status": "verified"
+  },
+  "0246": {
+    "folio_id": "0246",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0246.jpg",
+    "status": "verified"
+  },
+  "0247": {
+    "folio_id": "0247",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0247.jpg",
+    "status": "verified"
+  },
+  "0248": {
+    "folio_id": "0248",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0248.jpg",
+    "status": "verified"
+  },
+  "0249": {
+    "folio_id": "0249",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0249.jpg",
+    "status": "verified"
+  },
+  "0250": {
+    "folio_id": "0250",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0250.jpg",
+    "status": "verified"
+  },
+  "0251": {
+    "folio_id": "0251",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0251.jpg",
+    "status": "verified"
+  },
+  "0252": {
+    "folio_id": "0252",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0252.jpg",
+    "status": "verified"
+  },
+  "0253": {
+    "folio_id": "0253",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0253.jpg",
+    "status": "verified"
+  },
+  "0254": {
+    "folio_id": "0254",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0254.jpg",
+    "status": "verified"
+  },
+  "0255": {
+    "folio_id": "0255",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0255.jpg",
+    "status": "verified"
+  },
+  "0256": {
+    "folio_id": "0256",
+    "topic_id": "F.40",
+    "topic_title": "Regular Polygons and Nested Radicals",
+    "folder": "40_polygons",
+    "original_filename": "0256.jpg",
+    "status": "verified"
+  },
+  "0257": {
+    "folio_id": "0257",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0257.jpg",
+    "status": "verified"
+  },
+  "0258": {
+    "folio_id": "0258",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0258.jpg",
+    "status": "verified"
+  },
+  "0259": {
+    "folio_id": "0259",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0259.jpg",
+    "status": "verified"
+  },
+  "0260": {
+    "folio_id": "0260",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0260.jpg",
+    "status": "verified"
+  },
+  "0261": {
+    "folio_id": "0261",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0261.jpg",
+    "status": "verified"
+  },
+  "0262": {
+    "folio_id": "0262",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0262.jpg",
+    "status": "verified"
+  },
+  "0263": {
+    "folio_id": "0263",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0263.jpg",
+    "status": "verified"
+  },
+  "0264": {
+    "folio_id": "0264",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0264.jpg",
+    "status": "verified"
+  },
+  "0265": {
+    "folio_id": "0265",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0265.jpg",
+    "status": "verified"
+  },
+  "0266": {
+    "folio_id": "0266",
+    "topic_id": "F.41",
+    "topic_title": "Geometric Problems and Extremal Loci",
+    "folder": "41_problems",
+    "original_filename": "0266.jpg",
+    "status": "verified"
+  },
+  "0267": {
+    "folio_id": "0267",
+    "topic_id": "F.42",
+    "topic_title": "Altitude of a Pythagorean Triple Triangle",
+    "folder": "42_pythagorean-triples",
+    "original_filename": "0267.jpg",
+    "status": "verified"
+  },
+  "0268": {
+    "folio_id": "0268",
+    "topic_id": "F.42",
+    "topic_title": "Altitude of a Pythagorean Triple Triangle",
+    "folder": "42_pythagorean-triples",
+    "original_filename": "0268.jpg",
+    "status": "verified"
+  },
+  "0269": {
+    "folio_id": "0269",
+    "topic_id": "F.42",
+    "topic_title": "Altitude of a Pythagorean Triple Triangle",
+    "folder": "42_pythagorean-triples",
+    "original_filename": "0269.jpg",
+    "status": "verified"
+  },
+  "0270": {
+    "folio_id": "0270",
+    "topic_id": "F.42",
+    "topic_title": "Altitude of a Pythagorean Triple Triangle",
+    "folder": "42_pythagorean-triples",
+    "original_filename": "0270.jpg",
+    "status": "verified"
+  },
+  "0271": {
+    "folio_id": "0271",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0271.jpg",
+    "status": "verified"
+  },
+  "0272": {
+    "folio_id": "0272",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0272.jpg",
+    "status": "verified"
+  },
+  "0273": {
+    "folio_id": "0273",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0273.jpg",
+    "status": "verified"
+  },
+  "0274": {
+    "folio_id": "0274",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0274.jpg",
+    "status": "verified"
+  },
+  "0275": {
+    "folio_id": "0275",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0275.jpg",
+    "status": "verified"
+  },
+  "0276": {
+    "folio_id": "0276",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0276.jpg",
+    "status": "verified"
+  },
+  "0277": {
+    "folio_id": "0277",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0277.jpg",
+    "status": "verified"
+  },
+  "0278": {
+    "folio_id": "0278",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0278.jpg",
+    "status": "verified"
+  },
+  "0279": {
+    "folio_id": "0279",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0279.jpg",
+    "status": "verified"
+  },
+  "0280": {
+    "folio_id": "0280",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0280.jpg",
+    "status": "verified"
+  },
+  "0281": {
+    "folio_id": "0281",
+    "topic_id": "F.43",
+    "topic_title": "Radical Axes and Radical Center",
+    "folder": "43_radical-axes",
+    "original_filename": "0281.jpg",
+    "status": "verified"
+  },
+  "0282": {
+    "folio_id": "0282",
+    "topic_id": "F.44",
+    "topic_title": "Homothetic Ratios and Crossed Diagonals",
+    "folder": "44_ratios",
+    "original_filename": "0282.jpg",
+    "status": "verified"
+  },
+  "0283": {
+    "folio_id": "0283",
+    "topic_id": "F.44",
+    "topic_title": "Homothetic Ratios and Crossed Diagonals",
+    "folder": "44_ratios",
+    "original_filename": "0283.jpg",
+    "status": "verified"
+  },
+  "0284": {
+    "folio_id": "0284",
+    "topic_id": "F.44",
+    "topic_title": "Homothetic Ratios and Crossed Diagonals",
+    "folder": "44_ratios",
+    "original_filename": "0284.jpg",
+    "status": "verified"
+  },
+  "0285": {
+    "folio_id": "0285",
+    "topic_id": "F.44",
+    "topic_title": "Homothetic Ratios and Crossed Diagonals",
+    "folder": "44_ratios",
+    "original_filename": "0285.jpg",
+    "status": "verified"
+  },
+  "0286": {
+    "folio_id": "0286",
+    "topic_id": "F.44",
+    "topic_title": "Homothetic Ratios and Crossed Diagonals",
+    "folder": "44_ratios",
+    "original_filename": "0286.jpg",
+    "status": "verified"
+  },
+  "0287": {
+    "folio_id": "0287",
+    "topic_id": "F.45",
+    "topic_title": "Squares, Subdivided Lattices, and the Japanese Theorem",
+    "folder": "45_squares",
+    "original_filename": "0287.jpg",
+    "status": "verified"
+  },
+  "0288": {
+    "folio_id": "0288",
+    "topic_id": "F.45",
+    "topic_title": "Squares, Subdivided Lattices, and the Japanese Theorem",
+    "folder": "45_squares",
+    "original_filename": "0288.jpg",
+    "status": "verified"
+  },
+  "0289": {
+    "folio_id": "0289",
+    "topic_id": "F.45",
+    "topic_title": "Squares, Subdivided Lattices, and the Japanese Theorem",
+    "folder": "45_squares",
+    "original_filename": "0289.jpg",
+    "status": "verified"
+  },
+  "0290": {
+    "folio_id": "0290",
+    "topic_id": "F.45",
+    "topic_title": "Squares, Subdivided Lattices, and the Japanese Theorem",
+    "folder": "45_squares",
+    "original_filename": "0290.jpg",
+    "status": "verified"
+  },
+  "0291": {
+    "folio_id": "0291",
+    "topic_id": "F.45",
+    "topic_title": "Squares, Subdivided Lattices, and the Japanese Theorem",
+    "folder": "45_squares",
+    "original_filename": "0291.jpg",
+    "status": "verified"
+  },
+  "0292": {
+    "folio_id": "0292",
+    "topic_id": "F.45",
+    "topic_title": "Squares, Subdivided Lattices, and the Japanese Theorem",
+    "folder": "45_squares",
+    "original_filename": "0292.jpg",
+    "status": "verified"
+  },
+  "0293": {
+    "folio_id": "0293",
+    "topic_id": "F.46",
+    "topic_title": "Stewart's Theorem",
+    "folder": "46_stewarts-theorem",
+    "original_filename": "0293.jpg",
+    "status": "verified"
+  },
+  "0294": {
+    "folio_id": "0294",
+    "topic_id": "F.46",
+    "topic_title": "Stewart's Theorem",
+    "folder": "46_stewarts-theorem",
+    "original_filename": "0294.jpg",
+    "status": "verified"
+  },
+  "0295": {
+    "folio_id": "0295",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0295.jpg",
+    "status": "verified"
+  },
+  "0296": {
+    "folio_id": "0296",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0296.jpg",
+    "status": "verified"
+  },
+  "0297": {
+    "folio_id": "0297",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0297.jpg",
+    "status": "verified"
+  },
+  "0298": {
+    "folio_id": "0298",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0298.jpg",
+    "status": "verified"
+  },
+  "0299": {
+    "folio_id": "0299",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0299.jpg",
+    "status": "verified"
+  },
+  "0300": {
+    "folio_id": "0300",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0300.jpg",
+    "status": "verified"
+  },
+  "0301": {
+    "folio_id": "0301",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0301.jpg",
+    "status": "verified"
+  },
+  "0302": {
+    "folio_id": "0302",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0302.jpg",
+    "status": "verified"
+  },
+  "0303": {
+    "folio_id": "0303",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0303.jpg",
+    "status": "verified"
+  },
+  "0304": {
+    "folio_id": "0304",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0304.jpg",
+    "status": "verified"
+  },
+  "0305": {
+    "folio_id": "0305",
+    "topic_id": "F.47",
+    "topic_title": "The UVW Coordinate Triangle",
+    "folder": "47_u-v-w",
+    "original_filename": "0305.jpg",
+    "status": "verified"
+  },
+  "0306": {
+    "folio_id": "0306",
+    "topic_id": "F.48",
+    "topic_title": "Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+    "folder": "48_verisimilitude",
+    "original_filename": "0306.jpg",
+    "status": "verified"
+  },
+  "0307": {
+    "folio_id": "0307",
+    "topic_id": "F.48",
+    "topic_title": "Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+    "folder": "48_verisimilitude",
+    "original_filename": "0307.jpg",
+    "status": "verified"
+  },
+  "0308": {
+    "folio_id": "0308",
+    "topic_id": "F.48",
+    "topic_title": "Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+    "folder": "48_verisimilitude",
+    "original_filename": "0308.jpg",
+    "status": "verified"
+  },
+  "0309": {
+    "folio_id": "0309",
+    "topic_id": "F.48",
+    "topic_title": "Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+    "folder": "48_verisimilitude",
+    "original_filename": "0309.jpg",
+    "status": "verified"
+  },
+  "0310": {
+    "folio_id": "0310",
+    "topic_id": "F.48",
+    "topic_title": "Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+    "folder": "48_verisimilitude",
+    "original_filename": "0310.jpg",
+    "status": "verified"
+  },
+  "0311": {
+    "folio_id": "0311",
+    "topic_id": "F.48",
+    "topic_title": "Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+    "folder": "48_verisimilitude",
+    "original_filename": "0311.jpg",
+    "status": "verified"
+  },
+  "0312": {
+    "folio_id": "0312",
+    "topic_id": "F.48",
+    "topic_title": "Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+    "folder": "48_verisimilitude",
+    "original_filename": "0312.jpg",
+    "status": "verified"
+  },
+  "0313": {
+    "folio_id": "0313",
+    "topic_id": "F.48",
+    "topic_title": "Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+    "folder": "48_verisimilitude",
+    "original_filename": "0313.jpg",
+    "status": "verified"
+  },
+  "0314": {
+    "folio_id": "0314",
+    "topic_id": "F.48",
+    "topic_title": "Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+    "folder": "48_verisimilitude",
+    "original_filename": "0314.jpg",
+    "status": "verified"
+  },
+  "0315": {
+    "folio_id": "0315",
+    "topic_id": "F.49",
+    "topic_title": "Vesica Piscis and Acute-Obtuse Probability",
+    "folder": "49_vesica-pisces",
+    "original_filename": "0315.jpg",
+    "status": "verified"
+  },
+  "0316": {
+    "folio_id": "0316",
+    "topic_id": "F.49",
+    "topic_title": "Vesica Piscis and Acute-Obtuse Probability",
+    "folder": "49_vesica-pisces",
+    "original_filename": "0316.jpg",
+    "status": "verified"
+  },
+  "0317": {
+    "folio_id": "0317",
+    "topic_id": "F.49",
+    "topic_title": "Vesica Piscis and Acute-Obtuse Probability",
+    "folder": "49_vesica-pisces",
+    "original_filename": "0317.jpg",
+    "status": "verified"
+  },
+  "0318": {
+    "folio_id": "0318",
+    "topic_id": "F.50",
+    "topic_title": "Altitudes, Mitchell's Reciprocal Heron Formula, and the Symphonic Theorem",
+    "folder": "50_altitudes",
+    "original_filename": "0318.jpg",
+    "status": "verified"
+  },
+  "0319": {
+    "folio_id": "0319",
+    "topic_id": "F.50",
+    "topic_title": "Altitudes, Mitchell's Reciprocal Heron Formula, and the Symphonic Theorem",
+    "folder": "50_altitudes",
+    "original_filename": "0319.jpg",
+    "status": "verified"
+  },
+  "0320": {
+    "folio_id": "0320",
+    "topic_id": "F.50",
+    "topic_title": "Altitudes, Mitchell's Reciprocal Heron Formula, and the Symphonic Theorem",
+    "folder": "50_altitudes",
+    "original_filename": "0320.jpg",
+    "status": "verified"
+  },
+  "0321": {
+    "folio_id": "0321",
+    "topic_id": "F.50",
+    "topic_title": "Altitudes, Mitchell's Reciprocal Heron Formula, and the Symphonic Theorem",
+    "folder": "50_altitudes",
+    "original_filename": "0321.jpg",
+    "status": "verified"
+  },
+  "0322": {
+    "folio_id": "0322",
+    "topic_id": "F.51",
+    "topic_title": "Apollonian Circles and the Problem of Apollonius",
+    "folder": "51_apollonian-circles",
+    "original_filename": "0322.jpg",
+    "status": "verified"
+  },
+  "0323": {
+    "folio_id": "0323",
+    "topic_id": "F.51",
+    "topic_title": "Apollonian Circles and the Problem of Apollonius",
+    "folder": "51_apollonian-circles",
+    "original_filename": "0323.jpg",
+    "status": "verified"
+  },
+  "0324": {
+    "folio_id": "0324",
+    "topic_id": "F.51",
+    "topic_title": "Apollonian Circles and the Problem of Apollonius",
+    "folder": "51_apollonian-circles",
+    "original_filename": "0324.jpg",
+    "status": "verified"
+  },
+  "0325": {
+    "folio_id": "0325",
+    "topic_id": "F.51",
+    "topic_title": "Apollonian Circles and the Problem of Apollonius",
+    "folder": "51_apollonian-circles",
+    "original_filename": "0325.jpg",
+    "status": "verified"
+  },
+  "0326": {
+    "folio_id": "0326",
+    "topic_id": "F.51",
+    "topic_title": "Apollonian Circles and the Problem of Apollonius",
+    "folder": "51_apollonian-circles",
+    "original_filename": "0326.jpg",
+    "status": "verified"
+  },
+  "0327": {
+    "folio_id": "0327",
+    "topic_id": "F.51",
+    "topic_title": "Apollonian Circles and the Problem of Apollonius",
+    "folder": "51_apollonian-circles",
+    "original_filename": "0327.jpg",
+    "status": "verified"
+  },
+  "0328": {
+    "folio_id": "0328",
+    "topic_id": "F.51",
+    "topic_title": "Apollonian Circles and the Problem of Apollonius",
+    "folder": "51_apollonian-circles",
+    "original_filename": "0328.jpg",
+    "status": "verified"
+  },
+  "0329": {
+    "folio_id": "0329",
+    "topic_id": "F.51",
+    "topic_title": "Apollonian Circles and the Problem of Apollonius",
+    "folder": "51_apollonian-circles",
+    "original_filename": "0329.jpg",
+    "status": "verified"
+  },
+  "0330": {
+    "folio_id": "0330",
+    "topic_id": "F.51",
+    "topic_title": "Apollonian Circles and the Problem of Apollonius",
+    "folder": "51_apollonian-circles",
+    "original_filename": "0330.jpg",
+    "status": "verified"
+  },
+  "0331": {
+    "folio_id": "0331",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0331.jpg",
+    "status": "verified"
+  },
+  "0332": {
+    "folio_id": "0332",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0332.jpg",
+    "status": "verified"
+  },
+  "0333": {
+    "folio_id": "0333",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0333.jpg",
+    "status": "verified"
+  },
+  "0334": {
+    "folio_id": "0334",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0334.jpg",
+    "status": "verified"
+  },
+  "0335": {
+    "folio_id": "0335",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0335.jpg",
+    "status": "verified"
+  },
+  "0336": {
+    "folio_id": "0336",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0336.jpg",
+    "status": "verified"
+  },
+  "0337": {
+    "folio_id": "0337",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0337.jpg",
+    "status": "verified"
+  },
+  "0338": {
+    "folio_id": "0338",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0338.jpg",
+    "status": "verified"
+  },
+  "0339": {
+    "folio_id": "0339",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0339.jpg",
+    "status": "verified"
+  },
+  "0340": {
+    "folio_id": "0340",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0340.jpg",
+    "status": "verified"
+  },
+  "0341": {
+    "folio_id": "0341",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0341.jpg",
+    "status": "verified"
+  },
+  "0342": {
+    "folio_id": "0342",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0342.jpg",
+    "status": "verified"
+  },
+  "0343": {
+    "folio_id": "0343",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0343.jpg",
+    "status": "verified"
+  },
+  "0344": {
+    "folio_id": "0344",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0344.jpg",
+    "status": "verified"
+  },
+  "0345": {
+    "folio_id": "0345",
+    "topic_id": "F.52",
+    "topic_title": "Homogeneous Barycentric Coordinates",
+    "folder": "52_homogeneous-barycentric-coordinates",
+    "original_filename": "0345.jpg",
+    "status": "verified"
+  },
+  "0346": {
+    "folio_id": "0346",
+    "topic_id": "F.53",
+    "topic_title": "Geometric Half-Angle Trigonometry",
+    "folder": "53_trig",
+    "original_filename": "0346.jpg",
+    "status": "verified"
+  },
+  "0347": {
+    "folio_id": "0347",
+    "topic_id": "F.54",
+    "topic_title": "HP-35s Triangle Program and Coordinate Scripts",
+    "folder": "54_scripts",
+    "original_filename": "0347.jpg",
+    "status": "verified"
+  },
+  "0348": {
+    "folio_id": "0348",
+    "topic_id": "F.54",
+    "topic_title": "HP-35s Triangle Program and Coordinate Scripts",
+    "folder": "54_scripts",
+    "original_filename": "0348.jpg",
+    "status": "verified"
+  },
+  "0349": {
+    "folio_id": "0349",
+    "topic_id": "F.55",
+    "topic_title": "Compass Constructions and Angle-to-Side Triangle Reconstruction",
+    "folder": "55_misc",
+    "original_filename": "0349.jpg",
+    "status": "verified"
+  },
+  "0350": {
+    "folio_id": "0350",
+    "topic_id": "F.55",
+    "topic_title": "Compass Constructions and Angle-to-Side Triangle Reconstruction",
+    "folder": "55_misc",
+    "original_filename": "0350.jpg",
+    "status": "verified"
+  },
+  "0351": {
+    "folio_id": "0351",
+    "topic_id": "F.55",
+    "topic_title": "Compass Constructions and Angle-to-Side Triangle Reconstruction",
+    "folder": "55_misc",
+    "original_filename": "0351.jpg",
+    "status": "verified"
+  },
+  "0352": {
+    "folio_id": "0352",
+    "topic_id": "F.55",
+    "topic_title": "Compass Constructions and Angle-to-Side Triangle Reconstruction",
+    "folder": "55_misc",
+    "original_filename": "0352.jpg",
+    "status": "verified"
+  },
+  "0353": {
+    "folio_id": "0353",
+    "topic_id": "F.55",
+    "topic_title": "Compass Constructions and Angle-to-Side Triangle Reconstruction",
+    "folder": "55_misc",
+    "original_filename": "0353.jpg",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,12 @@
+.. folio:: 0250
+   :topic: F.40
+   :title: Golden Triangle & Gnomon Decomposition of the Decagon (003)
+   :source: 0250.jpg
+
+**Diplomatic Transcription — Folio 0250** (``0250.jpg``, Sheet 12 of 18):
+
+Partitions the regular decagon into ten acute :math:`72^\circ\text{--}72^\circ\text{--}36^\circ` golden triangles.
+
+.. math::
+
+   E_{10} = \phi - 1 = \sqrt{2 - \phi}, \qquad E_5 = \sqrt{3 - \phi}, \qquad E_{15} = 2\sin 12^\circ = \frac{1}{4}\left(\sqrt{10 + 2\sqrt{5}} + \sqrt{3} - \sqrt{15}\right)

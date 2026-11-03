@@ -1,0 +1,12 @@
+.. folio:: 0351
+   :topic: F.55
+   :title: Reconstructing a Triangle from Angles (alpha, beta, gamma) — Assumption Sets (misc-2-001)
+   :source: 0351.jpg
+
+**Diplomatic Transcription — Folio 0351** (``0351.jpg``, Sheet 3 of 5):
+
+Sets up the problem of determining :math:`(a,b,c)` and vertex coordinates :math:`(A,B,C)` from :math:`(\alpha, \beta, \gamma)` under three scale normalizations (:math:`c=1`, :math:`R=1`, or :math:`K=1`).
+
+.. math::
+
+   s - a = r\cot\frac{\alpha}{2}, \qquad s - b = r\cot\frac{\beta}{2}, \qquad s - c = r\cot\frac{\gamma}{2}

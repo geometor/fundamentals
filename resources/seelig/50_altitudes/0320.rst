@@ -1,0 +1,12 @@
+.. folio:: 0320
+   :topic: F.50
+   :title: The Symphonic Theorem & Altitude Ratios (altitudes-002)
+   :source: 0320.jpg
+
+**Diplomatic Transcription — Folio 0320** (``0320.jpg``, Sheet 3 of 4):
+
+States the Symphonic Theorem :math:`h_A^{-2} + h_B^{-2} = h_C^{-2}` for right triangles and relates :math:`h_A : h_B : h_C = a^{-1} : b^{-1} : c^{-1}`.
+
+.. math::
+
+   H = \frac{h_A^{-1} + h_B^{-1} + h_C^{-1}}{2}, \qquad \frac{1}{K} = 4\sqrt{H(H - h_A^{-1})(H - h_B^{-1})(H - h_C^{-1})}
