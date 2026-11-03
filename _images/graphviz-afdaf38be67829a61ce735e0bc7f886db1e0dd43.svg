@@ -1,0 +1,111 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="618pt" height="188pt" viewBox="0.00 0.00 618.00 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.7</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-07/index.html" ns1:title="F.7\nCeva and Menelaus">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M343.5,-108C343.5,-108 257.5,-108 257.5,-108 251.5,-108 245.5,-102 245.5,-96 245.5,-96 245.5,-84 245.5,-84 245.5,-78 251.5,-72 257.5,-72 257.5,-72 343.5,-72 343.5,-72 349.5,-72 355.5,-78 355.5,-84 355.5,-84 355.5,-96 355.5,-96 355.5,-102 349.5,-108 343.5,-108" />
+<ns0:text text-anchor="middle" x="300.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.7</ns0:text>
+<ns0:text text-anchor="middle" x="300.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ceva and Menelaus</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.23</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-23/index.html" ns1:title="F.23\nGolden Triangles">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M83,-36C83,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 83,0 83,0 89,0 95,-6 95,-12 95,-12 95,-24 95,-24 95,-30 89,-36 83,-36" />
+<ns0:text text-anchor="middle" x="47.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.23</ns0:text>
+<ns0:text text-anchor="middle" x="47.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Golden Triangles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.7-&gt;F.23</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M245.17,-74.62C205.62,-64.22 151.17,-49.64 103.5,-36 102.99,-35.85 102.47,-35.71 101.95,-35.56" />
+<ns0:polygon fill="#888888" stroke="#888888" points="102.53,-33.17 95.13,-33.57 101.17,-37.88 102.53,-33.17" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.39</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-39/index.html" ns1:title="F.39\nPole and Polar with Respect to a Triangle">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M304,-36C304,-36 125,-36 125,-36 119,-36 113,-30 113,-24 113,-24 113,-12 113,-12 113,-6 119,0 125,0 125,0 304,0 304,0 310,0 316,-6 316,-12 316,-12 316,-24 316,-24 316,-30 310,-36 304,-36" />
+<ns0:text text-anchor="middle" x="214.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.39</ns0:text>
+<ns0:text text-anchor="middle" x="214.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Pole and Polar with Respect to a Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.7-&gt;F.39</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M279.24,-71.7C267.68,-62.29 253.28,-50.56 240.99,-40.56" />
+<ns0:polygon fill="#888888" stroke="#888888" points="242.49,-38.62 235.51,-36.1 239.4,-42.42 242.49,-38.62" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>F.46</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-46/index.html" ns1:title="F.46\nStewart's Theorem">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M426.5,-36C426.5,-36 346.5,-36 346.5,-36 340.5,-36 334.5,-30 334.5,-24 334.5,-24 334.5,-12 334.5,-12 334.5,-6 340.5,0 346.5,0 346.5,0 426.5,0 426.5,0 432.5,0 438.5,-6 438.5,-12 438.5,-12 438.5,-24 438.5,-24 438.5,-30 432.5,-36 426.5,-36" />
+<ns0:text text-anchor="middle" x="386.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.46</ns0:text>
+<ns0:text text-anchor="middle" x="386.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Stewart's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>F.7-&gt;F.46</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M321.76,-71.7C333.32,-62.29 347.72,-50.56 360.01,-40.56" />
+<ns0:polygon fill="#888888" stroke="#888888" points="361.6,-42.42 365.49,-36.1 358.51,-38.62 361.6,-42.42" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>F.47</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../topics/f-47/index.html" ns1:title="F.47\nThe UVW Coordinate Triangle">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M598,-36C598,-36 469,-36 469,-36 463,-36 457,-30 457,-24 457,-24 457,-12 457,-12 457,-6 463,0 469,0 469,0 598,0 598,0 604,0 610,-6 610,-12 610,-12 610,-24 610,-24 610,-30 604,-36 598,-36" />
+<ns0:text text-anchor="middle" x="533.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.47</ns0:text>
+<ns0:text text-anchor="middle" x="533.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">The UVW Coordinate Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>F.7-&gt;F.47</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M355.72,-72.41C389.91,-62.14 433.94,-48.91 469.63,-38.19" />
+<ns0:polygon fill="#888888" stroke="#888888" points="470.65,-40.44 476.65,-36.08 469.24,-35.75 470.65,-40.44" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.2</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-02/index.html" ns1:title="F.2\nBilinear Transformations">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M296.5,-180C296.5,-180 192.5,-180 192.5,-180 186.5,-180 180.5,-174 180.5,-168 180.5,-168 180.5,-156 180.5,-156 180.5,-150 186.5,-144 192.5,-144 192.5,-144 296.5,-144 296.5,-144 302.5,-144 308.5,-150 308.5,-156 308.5,-156 308.5,-168 308.5,-168 308.5,-174 302.5,-180 296.5,-180" />
+<ns0:text text-anchor="middle" x="244.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.2</ns0:text>
+<ns0:text text-anchor="middle" x="244.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Bilinear Transformations</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.2-&gt;F.7</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M258.34,-143.7C265.6,-134.63 274.58,-123.4 282.38,-113.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="284.36,-115.1 286.82,-108.1 280.53,-112.04 284.36,-115.1" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.6</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-06/index.html" ns1:title="F.6\nCentroid">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M374,-180C374,-180 339,-180 339,-180 333,-180 327,-174 327,-168 327,-168 327,-156 327,-156 327,-150 333,-144 339,-144 339,-144 374,-144 374,-144 380,-144 386,-150 386,-156 386,-156 386,-168 386,-168 386,-174 380,-180 374,-180" />
+<ns0:text text-anchor="middle" x="356.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.6</ns0:text>
+<ns0:text text-anchor="middle" x="356.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Centroid</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.6-&gt;F.7</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M342.66,-143.7C335.4,-134.63 326.42,-123.4 318.62,-113.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="320.47,-112.04 314.18,-108.1 316.64,-115.1 320.47,-112.04" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

@@ -1,0 +1,74 @@
+geometor.fundamentals.catalog
+=============================
+
+.. py:module:: geometor.fundamentals.catalog
+
+.. autoapi-nested-parse::
+
+   Unified catalog of all 55 topics (`F.1`–`F.55`) and 353 folio transcriptions.
+
+   Combines `TOPICS_1_TO_28` (`catalog_a.py`) and `TOPICS_29_TO_55` (`catalog_b.py`)
+   into `TOPICS_CATALOG` and provides lookup and diplomatic folio transcription
+   helpers for the archival ingestion and Book Codex compilation pipelines.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.fundamentals.catalog.TOPICS_CATALOG
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.fundamentals.catalog.get_topic_by_num
+   geometor.fundamentals.catalog.get_topic_by_id
+   geometor.fundamentals.catalog.get_folio_transcription
+
+
+Module Contents
+---------------
+
+.. py:data:: TOPICS_CATALOG
+   :type:  list[dict[str, object]]
+
+.. py:function:: get_topic_by_num(num: int) -> dict[str, object]
+
+   Return the topic dictionary for 1-based topic number `num` (1..55).
+
+   :param num: Topic number from 1 to 55.
+
+   :returns: Matching topic dictionary from `TOPICS_CATALOG`.
+
+   :raises KeyError: If `num` is outside `1..55`.
+
+
+.. py:function:: get_topic_by_id(topic_id: str) -> dict[str, object]
+
+   Return the topic dictionary for topic identifier `F.<num>`.
+
+   :param topic_id: Topic identifier such as `'F.1'` or `'F.52'`.
+
+   :returns: Matching topic dictionary from `TOPICS_CATALOG`.
+
+   :raises KeyError: If `topic_id` is not found.
+
+
+.. py:function:: get_folio_transcription(topic: dict[str, object], folio_id: str, page_index: int, total_pages: int, original_filename: str) -> dict[str, str]
+
+   Build the diplomatic RST transcription and editorial notes for a single folio.
+
+   :param topic: Topic dictionary from `TOPICS_CATALOG`.
+   :param folio_id: 4-digit sequential folio identifier (`0001`..`0353`).
+   :param page_index: 1-based index of this scan within the topic folder.
+   :param total_pages: Total number of scanned pages in this topic folder.
+   :param original_filename: Original `.jpg` filename from Fred W. Seelig's scans.
+
+   :returns: Dictionary with keys `'heading'`, `'diplomatic_rst'`, and `'notes_rst'`.
+
+

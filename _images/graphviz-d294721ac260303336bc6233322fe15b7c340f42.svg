@@ -1,0 +1,63 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="424pt" height="116pt" viewBox="0.00 0.00 424.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.55</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-55/index.html" ns1:title="F.55\nCompass Constructions and Angle-to-Side Triangle Reconstruction">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M302,-36C302,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 302,0 302,0 308,0 314,-6 314,-12 314,-12 314,-24 314,-24 314,-30 308,-36 302,-36" />
+<ns0:text text-anchor="middle" x="157" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.55</ns0:text>
+<ns0:text text-anchor="middle" x="157" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Compass Constructions and Angle-to-Side Triangle Reconstruction</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.14</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-14/index.html" ns1:title="F.14\nConway Notation">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M98,-108C98,-108 24,-108 24,-108 18,-108 12,-102 12,-96 12,-96 12,-84 12,-84 12,-78 18,-72 24,-72 24,-72 98,-72 98,-72 104,-72 110,-78 110,-84 110,-84 110,-96 110,-96 110,-102 104,-108 98,-108" />
+<ns0:text text-anchor="middle" x="61" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.14</ns0:text>
+<ns0:text text-anchor="middle" x="61" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Conway Notation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.14-&gt;F.55</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M84.73,-71.7C97.75,-62.2 114,-50.35 127.8,-40.29" />
+<ns0:polygon fill="#888888" stroke="#888888" points="129.33,-42.21 133.54,-36.1 126.44,-38.25 129.33,-42.21" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.29</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-29/index.html" ns1:title="F.29\nInradius">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M173.5,-108C173.5,-108 140.5,-108 140.5,-108 134.5,-108 128.5,-102 128.5,-96 128.5,-96 128.5,-84 128.5,-84 128.5,-78 134.5,-72 140.5,-72 140.5,-72 173.5,-72 173.5,-72 179.5,-72 185.5,-78 185.5,-84 185.5,-84 185.5,-96 185.5,-96 185.5,-102 179.5,-108 173.5,-108" />
+<ns0:text text-anchor="middle" x="157" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.29</ns0:text>
+<ns0:text text-anchor="middle" x="157" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Inradius</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.29-&gt;F.55</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M157,-71.7C157,-63.14 157,-52.66 157,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="159.45,-43.1 157,-36.1 154.55,-43.1 159.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.49</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-49/index.html" ns1:title="F.49\nVesica Piscis and Acute-Obtuse Probability">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M404,-108C404,-108 216,-108 216,-108 210,-108 204,-102 204,-96 204,-96 204,-84 204,-84 204,-78 210,-72 216,-72 216,-72 404,-72 404,-72 410,-72 416,-78 416,-84 416,-84 416,-96 416,-96 416,-102 410,-108 404,-108" />
+<ns0:text text-anchor="middle" x="310" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.49</ns0:text>
+<ns0:text text-anchor="middle" x="310" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Vesica Piscis and Acute-Obtuse Probability</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.49-&gt;F.55</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M272.57,-71.88C250.91,-61.97 223.54,-49.44 200.87,-39.07" />
+<ns0:polygon fill="#888888" stroke="#888888" points="201.69,-36.75 194.31,-36.07 199.65,-41.21 201.69,-36.75" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

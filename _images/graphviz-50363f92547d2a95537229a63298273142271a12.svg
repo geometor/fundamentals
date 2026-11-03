@@ -1,0 +1,63 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="417pt" height="116pt" viewBox="0.00 0.00 416.50 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.13</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-13/index.html" ns1:title="F.13\nCompare Triangles in Circles">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M320.5,-36C320.5,-36 195.5,-36 195.5,-36 189.5,-36 183.5,-30 183.5,-24 183.5,-24 183.5,-12 183.5,-12 183.5,-6 189.5,0 195.5,0 195.5,0 320.5,0 320.5,0 326.5,0 332.5,-6 332.5,-12 332.5,-12 332.5,-24 332.5,-24 332.5,-30 326.5,-36 320.5,-36" />
+<ns0:text text-anchor="middle" x="258" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.13</ns0:text>
+<ns0:text text-anchor="middle" x="258" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Compare Triangles in Circles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.3</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-03/index.html" ns1:title="F.3\nBiquadratic Forms in Heron's Formula">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M176,-108C176,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 176,-72 176,-72 182,-72 188,-78 188,-84 188,-84 188,-96 188,-96 188,-102 182,-108 176,-108" />
+<ns0:text text-anchor="middle" x="94" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.3</ns0:text>
+<ns0:text text-anchor="middle" x="94" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Biquadratic Forms in Heron's Formula</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.3-&gt;F.13</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M134.12,-71.88C157.44,-61.92 186.93,-49.34 211.29,-38.94" />
+<ns0:polygon fill="#888888" stroke="#888888" points="212.54,-41.07 218.01,-36.07 210.61,-36.56 212.54,-41.07" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.8</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-08/index.html" ns1:title="F.8\nChord Intersection">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M297.5,-108C297.5,-108 218.5,-108 218.5,-108 212.5,-108 206.5,-102 206.5,-96 206.5,-96 206.5,-84 206.5,-84 206.5,-78 212.5,-72 218.5,-72 218.5,-72 297.5,-72 297.5,-72 303.5,-72 309.5,-78 309.5,-84 309.5,-84 309.5,-96 309.5,-96 309.5,-102 303.5,-108 297.5,-108" />
+<ns0:text text-anchor="middle" x="258" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.8</ns0:text>
+<ns0:text text-anchor="middle" x="258" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Chord Intersection</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.8-&gt;F.13</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M258,-71.7C258,-63.14 258,-52.66 258,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="260.45,-43.1 258,-36.1 255.55,-43.1 260.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.11</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-11/index.html" ns1:title="F.11\nCircumcenter">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M396.5,-108C396.5,-108 339.5,-108 339.5,-108 333.5,-108 327.5,-102 327.5,-96 327.5,-96 327.5,-84 327.5,-84 327.5,-78 333.5,-72 339.5,-72 339.5,-72 396.5,-72 396.5,-72 402.5,-72 408.5,-78 408.5,-84 408.5,-84 408.5,-96 408.5,-96 408.5,-102 402.5,-108 396.5,-108" />
+<ns0:text text-anchor="middle" x="368" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.11</ns0:text>
+<ns0:text text-anchor="middle" x="368" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circumcenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.11-&gt;F.13</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M341.09,-71.88C326.04,-62.3 307.16,-50.28 291.2,-40.13" />
+<ns0:polygon fill="#888888" stroke="#888888" points="292.23,-37.88 285.01,-36.19 289.6,-42.01 292.23,-37.88" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

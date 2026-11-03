@@ -5,7 +5,17 @@ geometor.fundamentals.app
 
 .. autoapi-nested-parse::
 
-   run the main app
+   Command-line interface and pipeline runner for GEOMETOR Fundamentals.
+
+   Supports subcommands:
+
+   - `ingest`: Migrate and index Fred Seelig's 55 notebook folders (353 folios) and
+     OpenDocument spreadsheets into `resources/`.
+   - `transform`: Compile the 3-Track Book Codex (`docsrc/topics/f-01`..`f-55`),
+     spreadsheets index (`docsrc/spreadsheets/`), and scholarly apparatus
+     (`docsrc/glossary.rst`, `docsrc/persons.rst`, `docsrc/bibliography.rst`).
+   - `build`: Execute both `ingest` and `transform` in sequence.
+   - `status`: Display a Rich summary table of all 55 topics and 353 folios.
 
 
 
@@ -14,11 +24,36 @@ Functions
 
 .. autoapisummary::
 
+   geometor.fundamentals.app.get_repo_root
    geometor.fundamentals.app.run
+   geometor.fundamentals.app.main
 
 
 Module Contents
 ---------------
 
-.. py:function:: run() -> None
+.. py:function:: get_repo_root() -> pathlib.Path
+
+   Resolve the repository root path for `geometor/fundamentals`.
+
+   :returns: Absolute `Path` to the repository root.
+
+
+.. py:function:: run(argv: list[str] | None = None) -> int
+
+   Execute the `fundamentals` CLI pipeline.
+
+   :param argv: Optional list of CLI argument strings.
+
+   :returns: Exit status code (`0` on success).
+
+
+.. py:function:: main(argv: list[str] | None = None) -> int
+
+   Main entry point for `project.scripts` in `pyproject.toml`.
+
+   :param argv: Optional list of CLI argument strings.
+
+   :returns: Exit status code (`0` on success).
+
 

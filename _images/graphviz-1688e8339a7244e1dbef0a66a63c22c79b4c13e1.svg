@@ -1,0 +1,79 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="437pt" height="188pt" viewBox="0.00 0.00 436.50 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.41</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-41/index.html" ns1:title="F.41\nGeometric Problems and Extremal Loci">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M293,-108C293,-108 123,-108 123,-108 117,-108 111,-102 111,-96 111,-96 111,-84 111,-84 111,-78 117,-72 123,-72 123,-72 293,-72 293,-72 299,-72 305,-78 305,-84 305,-84 305,-96 305,-96 305,-102 299,-108 293,-108" />
+<ns0:text text-anchor="middle" x="208" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.41</ns0:text>
+<ns0:text text-anchor="middle" x="208" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Geometric Problems and Extremal Loci</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.49</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-49/index.html" ns1:title="F.49\nVesica Piscis and Acute-Obtuse Probability">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M302,-36C302,-36 114,-36 114,-36 108,-36 102,-30 102,-24 102,-24 102,-12 102,-12 102,-6 108,0 114,0 114,0 302,0 302,0 308,0 314,-6 314,-12 314,-12 314,-24 314,-24 314,-30 308,-36 302,-36" />
+<ns0:text text-anchor="middle" x="208" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.49</ns0:text>
+<ns0:text text-anchor="middle" x="208" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Vesica Piscis and Acute-Obtuse Probability</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.41-&gt;F.49</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M208,-71.7C208,-63.14 208,-52.66 208,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="210.45,-43.1 208,-36.1 205.55,-43.1 210.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.32</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-32/index.html" ns1:title="F.32\nMarkowski's Theorem">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M106,-180C106,-180 12,-180 12,-180 6,-180 0,-174 0,-168 0,-168 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 106,-144 106,-144 112,-144 118,-150 118,-156 118,-156 118,-168 118,-168 118,-174 112,-180 106,-180" />
+<ns0:text text-anchor="middle" x="59" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.32</ns0:text>
+<ns0:text text-anchor="middle" x="59" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Markowski's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.32-&gt;F.41</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M95.45,-143.88C116.54,-133.97 143.2,-121.44 165.28,-111.07" />
+<ns0:polygon fill="#888888" stroke="#888888" points="166.37,-113.26 171.67,-108.07 164.29,-108.83 166.37,-113.26" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.35</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-35/index.html" ns1:title="F.35\nObtuse and Acute Triangles">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M267.5,-180C267.5,-180 148.5,-180 148.5,-180 142.5,-180 136.5,-174 136.5,-168 136.5,-168 136.5,-156 136.5,-156 136.5,-150 142.5,-144 148.5,-144 148.5,-144 267.5,-144 267.5,-144 273.5,-144 279.5,-150 279.5,-156 279.5,-156 279.5,-168 279.5,-168 279.5,-174 273.5,-180 267.5,-180" />
+<ns0:text text-anchor="middle" x="208" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.35</ns0:text>
+<ns0:text text-anchor="middle" x="208" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Obtuse and Acute Triangles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.35-&gt;F.41</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M208,-143.7C208,-135.14 208,-124.66 208,-115.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="210.45,-115.1 208,-108.1 205.55,-115.1 210.45,-115.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.37</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-37/index.html" ns1:title="F.37\nEuler's Inradius Parabola">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M416.5,-180C416.5,-180 309.5,-180 309.5,-180 303.5,-180 297.5,-174 297.5,-168 297.5,-168 297.5,-156 297.5,-156 297.5,-150 303.5,-144 309.5,-144 309.5,-144 416.5,-144 416.5,-144 422.5,-144 428.5,-150 428.5,-156 428.5,-156 428.5,-168 428.5,-168 428.5,-174 422.5,-180 416.5,-180" />
+<ns0:text text-anchor="middle" x="363" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.37</ns0:text>
+<ns0:text text-anchor="middle" x="363" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Euler's Inradius Parabola</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.37-&gt;F.41</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M325.08,-143.88C303.14,-133.97 275.41,-121.44 252.45,-111.07" />
+<ns0:polygon fill="#888888" stroke="#888888" points="253.18,-108.72 245.79,-108.07 251.17,-113.18 253.18,-108.72" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

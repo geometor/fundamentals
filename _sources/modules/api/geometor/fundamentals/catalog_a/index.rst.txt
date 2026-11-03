@@ -1,0 +1,25 @@
+geometor.fundamentals.catalog_a
+===============================
+
+.. py:module:: geometor.fundamentals.catalog_a
+
+.. autoapi-nested-parse::
+
+   Catalog data for Topics F.1 through F.28 of GEOMETOR Fundamentals.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.fundamentals.catalog_a.TOPICS_1_TO_28
+
+
+Module Contents
+---------------
+
+.. py:data:: TOPICS_1_TO_28
+   :type:  list[dict[str, object]]
+

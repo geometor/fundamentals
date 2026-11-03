@@ -5,7 +5,37 @@ geometor.fundamentals.__main__
 
 .. autoapi-nested-parse::
 
-   The package entry point into the application.
+   The package entry point into the GEOMETOR Fundamentals application.
 
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.fundamentals.__main__.main
+   geometor.fundamentals.__main__.run
+
+
+Module Contents
+---------------
+
+.. py:function:: main(argv: list[str] | None = None) -> int
+
+   Main entry point for `project.scripts` in `pyproject.toml`.
+
+   :param argv: Optional list of CLI argument strings.
+
+   :returns: Exit status code (`0` on success).
+
+
+.. py:function:: run(argv: list[str] | None = None) -> int
+
+   Execute the `fundamentals` CLI pipeline.
+
+   :param argv: Optional list of CLI argument strings.
+
+   :returns: Exit status code (`0` on success).
 
 

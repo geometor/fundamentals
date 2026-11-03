@@ -1,0 +1,76 @@
+geometor.fundamentals.apparatus
+===============================
+
+.. py:module:: geometor.fundamentals.apparatus
+
+.. autoapi-nested-parse::
+
+   Scholarly apparatus registries and RST generators for GEOMETOR Fundamentals.
+
+   Maintains canonical definitions for geometric glossary terms, historical and
+   modern mathematicians (including Fred W. Seelig), and bibliographic references,
+   and compiles `resources/*.json` alongside `docsrc/glossary.rst`,
+   `docsrc/persons.rst`, and `docsrc/bibliography.rst`.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.fundamentals.apparatus.GLOSSARY_REGISTRY
+   geometor.fundamentals.apparatus.PERSONS_REGISTRY
+   geometor.fundamentals.apparatus.CITATIONS_REGISTRY
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.fundamentals.apparatus.export_apparatus_json
+   geometor.fundamentals.apparatus.generate_apparatus_rst
+   geometor.fundamentals.apparatus.enrich_text
+
+
+Module Contents
+---------------
+
+.. py:data:: GLOSSARY_REGISTRY
+   :type:  dict[str, dict[str, object]]
+
+.. py:data:: PERSONS_REGISTRY
+   :type:  dict[str, dict[str, str]]
+
+.. py:data:: CITATIONS_REGISTRY
+   :type:  dict[str, dict[str, str]]
+
+.. py:function:: export_apparatus_json(resources_dir: pathlib.Path) -> None
+
+   Write `glossary.json`, `persons.json`, and `citations.json` into `resources_dir`.
+
+   :param resources_dir: Target `resources/` directory path.
+
+
+.. py:function:: generate_apparatus_rst(docsrc_dir: pathlib.Path) -> None
+
+   Generate `docsrc/glossary.rst`, `docsrc/persons.rst`, and `docsrc/bibliography.rst`.
+
+   :param docsrc_dir: Path to `docsrc/`.
+
+
+.. py:function:: enrich_text(text: str, seen_terms: set[str] | None = None, seen_persons: set[str] | None = None) -> str
+
+   Wrap first occurrences of registered glossary terms and persons in RST roles.
+
+   Skips regions already inside backticks, math roles, or explicit RST roles.
+
+   :param text: Input RST paragraph or block.
+   :param seen_terms: Optional mutable set tracking already-linked canonical terms.
+   :param seen_persons: Optional mutable set tracking already-linked person IDs.
+
+   :returns: person:` roles.
+   :rtype: Enriched RST string with `:term:` and `
+
+

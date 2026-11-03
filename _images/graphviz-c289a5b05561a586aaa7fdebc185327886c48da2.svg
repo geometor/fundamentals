@@ -1,0 +1,127 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="945pt" height="116pt" viewBox="0.00 0.00 945.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.2</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-02/index.html" ns1:title="F.2\nBilinear Transformations">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M478,-108C478,-108 374,-108 374,-108 368,-108 362,-102 362,-96 362,-96 362,-84 362,-84 362,-78 368,-72 374,-72 374,-72 478,-72 478,-72 484,-72 490,-78 490,-84 490,-84 490,-96 490,-96 490,-102 484,-108 478,-108" />
+<ns0:text text-anchor="middle" x="426" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.2</ns0:text>
+<ns0:text text-anchor="middle" x="426" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Bilinear Transformations</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.5</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-05/index.html" ns1:title="F.5\nCenters of Similitude">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M102,-36C102,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 102,0 102,0 108,0 114,-6 114,-12 114,-12 114,-24 114,-24 114,-30 108,-36 102,-36" />
+<ns0:text text-anchor="middle" x="57" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.5</ns0:text>
+<ns0:text text-anchor="middle" x="57" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Centers of Similitude</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.2-&gt;F.5</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M361.87,-79.29C300.35,-69.62 204.95,-53.69 123,-36 122.37,-35.86 121.73,-35.72 121.09,-35.58" />
+<ns0:polygon fill="#888888" stroke="#888888" points="121.54,-33.17 114.17,-34.02 120.46,-37.95 121.54,-33.17" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.7</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-07/index.html" ns1:title="F.7\nCeva and Menelaus">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M230,-36C230,-36 144,-36 144,-36 138,-36 132,-30 132,-24 132,-24 132,-12 132,-12 132,-6 138,0 144,0 144,0 230,0 230,0 236,0 242,-6 242,-12 242,-12 242,-24 242,-24 242,-30 236,-36 230,-36" />
+<ns0:text text-anchor="middle" x="187" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.7</ns0:text>
+<ns0:text text-anchor="middle" x="187" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ceva and Menelaus</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.2-&gt;F.7</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M367.84,-71.97C331.81,-61.41 285.57,-47.87 248.87,-37.12" />
+<ns0:polygon fill="#888888" stroke="#888888" points="249.54,-34.76 242.13,-35.15 248.16,-39.47 249.54,-34.76" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.12</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-12/index.html" ns1:title="F.12\nCoaxial Circles">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M337.5,-36C337.5,-36 272.5,-36 272.5,-36 266.5,-36 260.5,-30 260.5,-24 260.5,-24 260.5,-12 260.5,-12 260.5,-6 266.5,0 272.5,0 272.5,0 337.5,0 337.5,0 343.5,0 349.5,-6 349.5,-12 349.5,-12 349.5,-24 349.5,-24 349.5,-30 343.5,-36 337.5,-36" />
+<ns0:text text-anchor="middle" x="305" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.12</ns0:text>
+<ns0:text text-anchor="middle" x="305" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Coaxial Circles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.2-&gt;F.12</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M396.4,-71.88C379.7,-62.22 358.71,-50.07 341.05,-39.86" />
+<ns0:polygon fill="#888888" stroke="#888888" points="342,-37.57 334.71,-36.19 339.55,-41.82 342,-37.57" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.25</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-25/index.html" ns1:title="F.25\nHarmonic Conjugates">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M472.5,-36C472.5,-36 379.5,-36 379.5,-36 373.5,-36 367.5,-30 367.5,-24 367.5,-24 367.5,-12 367.5,-12 367.5,-6 373.5,0 379.5,0 379.5,0 472.5,0 472.5,0 478.5,0 484.5,-6 484.5,-12 484.5,-12 484.5,-24 484.5,-24 484.5,-30 478.5,-36 472.5,-36" />
+<ns0:text text-anchor="middle" x="426" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.25</ns0:text>
+<ns0:text text-anchor="middle" x="426" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Conjugates</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.2-&gt;F.25</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M426,-71.7C426,-63.14 426,-52.66 426,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="428.45,-43.1 426,-36.1 423.55,-43.1 428.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>F.27</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-27/index.html" ns1:title="F.27\nHarmonic Mean">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M583,-36C583,-36 515,-36 515,-36 509,-36 503,-30 503,-24 503,-24 503,-12 503,-12 503,-6 509,0 515,0 515,0 583,0 583,0 589,0 595,-6 595,-12 595,-12 595,-24 595,-24 595,-30 589,-36 583,-36" />
+<ns0:text text-anchor="middle" x="549" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.27</ns0:text>
+<ns0:text text-anchor="middle" x="549" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Mean</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>F.2-&gt;F.27</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M456.09,-71.88C473.06,-62.22 494.41,-50.07 512.35,-39.86" />
+<ns0:polygon fill="#888888" stroke="#888888" points="513.92,-41.78 518.8,-36.19 511.5,-37.52 513.92,-41.78" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>F.31</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../topics/f-31/index.html" ns1:title="F.31\nLogic Tests">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M673,-36C673,-36 625,-36 625,-36 619,-36 613,-30 613,-24 613,-24 613,-12 613,-12 613,-6 619,0 625,0 625,0 673,0 673,0 679,0 685,-6 685,-12 685,-12 685,-24 685,-24 685,-30 679,-36 673,-36" />
+<ns0:text text-anchor="middle" x="649" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.31</ns0:text>
+<ns0:text text-anchor="middle" x="649" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Logic Tests</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>F.2-&gt;F.31</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M487.3,-71.92C521.78,-62.03 565.5,-48.98 604,-36 604.62,-35.79 605.25,-35.58 605.88,-35.36" />
+<ns0:polygon fill="#888888" stroke="#888888" points="606.94,-37.59 612.73,-32.96 605.31,-32.96 606.94,-37.59" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>F.51</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../topics/f-51/index.html" ns1:title="F.51\nApollonian Circles and the Problem of Apollonius">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M925,-36C925,-36 715,-36 715,-36 709,-36 703,-30 703,-24 703,-24 703,-12 703,-12 703,-6 709,0 715,0 715,0 925,0 925,0 931,0 937,-6 937,-12 937,-12 937,-24 937,-24 937,-30 931,-36 925,-36" />
+<ns0:text text-anchor="middle" x="820" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.51</ns0:text>
+<ns0:text text-anchor="middle" x="820" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Apollonian Circles and the Problem of Apollonius</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge7" class="edge">
+<ns0:title>F.2-&gt;F.51</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M490.18,-77.6C551.53,-66.7 645.04,-50.08 716.85,-37.33" />
+<ns0:polygon fill="#888888" stroke="#888888" points="717.7,-39.66 724.17,-36.03 716.85,-34.84 717.7,-39.66" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

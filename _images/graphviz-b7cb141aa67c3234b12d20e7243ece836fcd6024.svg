@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="282pt" height="188pt" viewBox="0.00 0.00 282.00 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.40</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-40/index.html" ns1:title="F.40\nRegular Polygons and Nested Radicals">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M222,-108C222,-108 52,-108 52,-108 46,-108 40,-102 40,-96 40,-96 40,-84 40,-84 40,-78 46,-72 52,-72 52,-72 222,-72 222,-72 228,-72 234,-78 234,-84 234,-84 234,-96 234,-96 234,-102 228,-108 222,-108" />
+<ns0:text text-anchor="middle" x="137" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.40</ns0:text>
+<ns0:text text-anchor="middle" x="137" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Regular Polygons and Nested Radicals</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.45</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-45/index.html" ns1:title="F.45\nSquares, Subdivided Lattices, and the Japanese Theorem">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M262,-36C262,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 262,0 262,0 268,0 274,-6 274,-12 274,-12 274,-24 274,-24 274,-30 268,-36 262,-36" />
+<ns0:text text-anchor="middle" x="137" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.45</ns0:text>
+<ns0:text text-anchor="middle" x="137" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Squares, Subdivided Lattices, and the Japanese Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.40-&gt;F.45</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M137,-71.7C137,-63.14 137,-52.66 137,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="139.45,-43.1 137,-36.1 134.55,-43.1 139.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.23</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-23/index.html" ns1:title="F.23\nGolden Triangles">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M172.5,-180C172.5,-180 101.5,-180 101.5,-180 95.5,-180 89.5,-174 89.5,-168 89.5,-168 89.5,-156 89.5,-156 89.5,-150 95.5,-144 101.5,-144 101.5,-144 172.5,-144 172.5,-144 178.5,-144 184.5,-150 184.5,-156 184.5,-156 184.5,-168 184.5,-168 184.5,-174 178.5,-180 172.5,-180" />
+<ns0:text text-anchor="middle" x="137" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.23</ns0:text>
+<ns0:text text-anchor="middle" x="137" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Golden Triangles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.23-&gt;F.40</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M137,-143.7C137,-135.14 137,-124.66 137,-115.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="139.45,-115.1 137,-108.1 134.55,-115.1 139.45,-115.1" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

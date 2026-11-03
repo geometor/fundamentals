@@ -1,0 +1,63 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="444pt" height="116pt" viewBox="0.00 0.00 444.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.45</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-45/index.html" ns1:title="F.45\nSquares, Subdivided Lattices, and the Japanese Theorem">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M296,-36C296,-36 46,-36 46,-36 40,-36 34,-30 34,-24 34,-24 34,-12 34,-12 34,-6 40,0 46,0 46,0 296,0 296,0 302,0 308,-6 308,-12 308,-12 308,-24 308,-24 308,-30 302,-36 296,-36" />
+<ns0:text text-anchor="middle" x="171" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.45</ns0:text>
+<ns0:text text-anchor="middle" x="171" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Squares, Subdivided Lattices, and the Japanese Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.4</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-04/index.html" ns1:title="F.4\nCarnot's Theorem">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M88,-108C88,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 88,-72 88,-72 94,-72 100,-78 100,-84 100,-84 100,-96 100,-96 100,-102 94,-108 88,-108" />
+<ns0:text text-anchor="middle" x="50" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.4</ns0:text>
+<ns0:text text-anchor="middle" x="50" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Carnot's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.4-&gt;F.45</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M79.6,-71.88C96.3,-62.22 117.29,-50.07 134.95,-39.86" />
+<ns0:polygon fill="#888888" stroke="#888888" points="136.45,-41.82 141.29,-36.19 134,-37.57 136.45,-41.82" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.18</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-18/index.html" ns1:title="F.18\nEquilateral Triangle">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M211.5,-108C211.5,-108 130.5,-108 130.5,-108 124.5,-108 118.5,-102 118.5,-96 118.5,-96 118.5,-84 118.5,-84 118.5,-78 124.5,-72 130.5,-72 130.5,-72 211.5,-72 211.5,-72 217.5,-72 223.5,-78 223.5,-84 223.5,-84 223.5,-96 223.5,-96 223.5,-102 217.5,-108 211.5,-108" />
+<ns0:text text-anchor="middle" x="171" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.18</ns0:text>
+<ns0:text text-anchor="middle" x="171" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Equilateral Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.18-&gt;F.45</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M171,-71.7C171,-63.14 171,-52.66 171,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="173.45,-43.1 171,-36.1 168.55,-43.1 173.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.40</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-40/index.html" ns1:title="F.40\nRegular Polygons and Nested Radicals">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M424,-108C424,-108 254,-108 254,-108 248,-108 242,-102 242,-96 242,-96 242,-84 242,-84 242,-78 248,-72 254,-72 254,-72 424,-72 424,-72 430,-72 436,-78 436,-84 436,-84 436,-96 436,-96 436,-102 430,-108 424,-108" />
+<ns0:text text-anchor="middle" x="339" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.40</ns0:text>
+<ns0:text text-anchor="middle" x="339" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Regular Polygons and Nested Radicals</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.40-&gt;F.45</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M297.9,-71.88C273.92,-61.88 243.55,-49.23 218.53,-38.81" />
+<ns0:polygon fill="#888888" stroke="#888888" points="219.37,-36.5 211.96,-36.07 217.48,-41.02 219.37,-36.5" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

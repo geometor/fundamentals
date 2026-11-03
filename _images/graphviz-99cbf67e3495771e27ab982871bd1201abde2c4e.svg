@@ -1,0 +1,159 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="1065pt" height="188pt" viewBox="0.00 0.00 1064.50 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.25</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-25/index.html" ns1:title="F.25\nHarmonic Conjugates">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M444,-108C444,-108 351,-108 351,-108 345,-108 339,-102 339,-96 339,-96 339,-84 339,-84 339,-78 345,-72 351,-72 351,-72 444,-72 444,-72 450,-72 456,-78 456,-84 456,-84 456,-96 456,-96 456,-102 450,-108 444,-108" />
+<ns0:text text-anchor="middle" x="397.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.25</ns0:text>
+<ns0:text text-anchor="middle" x="397.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Conjugates</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.26</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-26/index.html" ns1:title="F.26\nHarmonic Conjugate Inversion">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M143,-36C143,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 143,0 143,0 149,0 155,-6 155,-12 155,-12 155,-24 155,-24 155,-30 149,-36 143,-36" />
+<ns0:text text-anchor="middle" x="77.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.26</ns0:text>
+<ns0:text text-anchor="middle" x="77.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Conjugate Inversion</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.25-&gt;F.26</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M338.81,-76.16C289.32,-65.34 217.87,-49.71 162.18,-37.52" />
+<ns0:polygon fill="#888888" stroke="#888888" points="162.49,-35.08 155.13,-35.98 161.44,-39.87 162.49,-35.08" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>F.27</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-27/index.html" ns1:title="F.27\nHarmonic Mean">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M253.5,-36C253.5,-36 185.5,-36 185.5,-36 179.5,-36 173.5,-30 173.5,-24 173.5,-24 173.5,-12 173.5,-12 173.5,-6 179.5,0 185.5,0 185.5,0 253.5,0 253.5,0 259.5,0 265.5,-6 265.5,-12 265.5,-12 265.5,-24 265.5,-24 265.5,-30 259.5,-36 253.5,-36" />
+<ns0:text text-anchor="middle" x="219.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.27</ns0:text>
+<ns0:text text-anchor="middle" x="219.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Mean</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>F.25-&gt;F.27</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M353.96,-71.88C328.43,-61.84 296.09,-49.12 269.52,-38.67" />
+<ns0:polygon fill="#888888" stroke="#888888" points="270.31,-36.35 262.9,-36.07 268.52,-40.91 270.31,-36.35" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>F.31</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../topics/f-31/index.html" ns1:title="F.31\nLogic Tests">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M343.5,-36C343.5,-36 295.5,-36 295.5,-36 289.5,-36 283.5,-30 283.5,-24 283.5,-24 283.5,-12 283.5,-12 283.5,-6 289.5,0 295.5,0 295.5,0 343.5,0 343.5,0 349.5,0 355.5,-6 355.5,-12 355.5,-12 355.5,-24 355.5,-24 355.5,-30 349.5,-36 343.5,-36" />
+<ns0:text text-anchor="middle" x="319.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.31</ns0:text>
+<ns0:text text-anchor="middle" x="319.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Logic Tests</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>F.25-&gt;F.31</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M378.22,-71.7C367.83,-62.37 354.9,-50.77 343.83,-40.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="345.41,-38.96 338.56,-36.1 342.13,-42.6 345.41,-38.96" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>F.39</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../topics/f-39/index.html" ns1:title="F.39\nPole and Polar with Respect to a Triangle">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M565,-36C565,-36 386,-36 386,-36 380,-36 374,-30 374,-24 374,-24 374,-12 374,-12 374,-6 380,0 386,0 386,0 565,0 565,0 571,0 577,-6 577,-12 577,-12 577,-24 577,-24 577,-30 571,-36 565,-36" />
+<ns0:text text-anchor="middle" x="475.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.39</ns0:text>
+<ns0:text text-anchor="middle" x="475.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Pole and Polar with Respect to a Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge7" class="edge">
+<ns0:title>F.25-&gt;F.39</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M416.78,-71.7C427.17,-62.37 440.1,-50.77 451.17,-40.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="452.87,-42.6 456.44,-36.1 449.59,-38.96 452.87,-42.6" />
+</ns0:g>
+
+<ns0:g id="node9" class="node">
+<ns0:title>F.44</ns0:title>
+<ns0:g id="a_node9"><ns0:a ns1:href="../topics/f-44/index.html" ns1:title="F.44\nHomothetic Ratios and Crossed Diagonals">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M792,-36C792,-36 607,-36 607,-36 601,-36 595,-30 595,-24 595,-24 595,-12 595,-12 595,-6 601,0 607,0 607,0 792,0 792,0 798,0 804,-6 804,-12 804,-12 804,-24 804,-24 804,-30 798,-36 792,-36" />
+<ns0:text text-anchor="middle" x="699.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.44</ns0:text>
+<ns0:text text-anchor="middle" x="699.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Homothetic Ratios and Crossed Diagonals</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge8" class="edge">
+<ns0:title>F.25-&gt;F.44</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M456.09,-75.42C502.54,-64.65 567.96,-49.49 619.28,-37.59" />
+<ns0:polygon fill="#888888" stroke="#888888" points="619.84,-39.98 626.11,-36.01 618.74,-35.21 619.84,-39.98" />
+</ns0:g>
+
+<ns0:g id="node10" class="node">
+<ns0:title>F.51</ns0:title>
+<ns0:g id="a_node10"><ns0:a ns1:href="../topics/f-51/index.html" ns1:title="F.51\nApollonian Circles and the Problem of Apollonius">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M1044.5,-36C1044.5,-36 834.5,-36 834.5,-36 828.5,-36 822.5,-30 822.5,-24 822.5,-24 822.5,-12 822.5,-12 822.5,-6 828.5,0 834.5,0 834.5,0 1044.5,0 1044.5,0 1050.5,0 1056.5,-6 1056.5,-12 1056.5,-12 1056.5,-24 1056.5,-24 1056.5,-30 1050.5,-36 1044.5,-36" />
+<ns0:text text-anchor="middle" x="939.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.51</ns0:text>
+<ns0:text text-anchor="middle" x="939.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Apollonian Circles and the Problem of Apollonius</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge9" class="edge">
+<ns0:title>F.25-&gt;F.51</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M456.08,-81.68C536.62,-71.57 686.09,-52.71 813.5,-36 814.15,-35.92 814.79,-35.83 815.44,-35.74" />
+<ns0:polygon fill="#888888" stroke="#888888" points="815.85,-38.16 822.47,-34.82 815.21,-33.3 815.85,-38.16" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.2</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-02/index.html" ns1:title="F.2\nBilinear Transformations">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M315.5,-180C315.5,-180 211.5,-180 211.5,-180 205.5,-180 199.5,-174 199.5,-168 199.5,-168 199.5,-156 199.5,-156 199.5,-150 205.5,-144 211.5,-144 211.5,-144 315.5,-144 315.5,-144 321.5,-144 327.5,-150 327.5,-156 327.5,-156 327.5,-168 327.5,-168 327.5,-174 321.5,-180 315.5,-180" />
+<ns0:text text-anchor="middle" x="263.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.2</ns0:text>
+<ns0:text text-anchor="middle" x="263.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Bilinear Transformations</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.2-&gt;F.25</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M296.28,-143.88C315.02,-134.09 338.64,-121.75 358.34,-111.45" />
+<ns0:polygon fill="#888888" stroke="#888888" points="359.52,-113.6 364.59,-108.19 357.26,-109.26 359.52,-113.6" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.8</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-08/index.html" ns1:title="F.8\nChord Intersection">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M437,-180C437,-180 358,-180 358,-180 352,-180 346,-174 346,-168 346,-168 346,-156 346,-156 346,-150 352,-144 358,-144 358,-144 437,-144 437,-144 443,-144 449,-150 449,-156 449,-156 449,-168 449,-168 449,-174 443,-180 437,-180" />
+<ns0:text text-anchor="middle" x="397.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.8</ns0:text>
+<ns0:text text-anchor="middle" x="397.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Chord Intersection</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.8-&gt;F.25</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M397.5,-143.7C397.5,-135.14 397.5,-124.66 397.5,-115.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="399.95,-115.1 397.5,-108.1 395.05,-115.1 399.95,-115.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.12</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-12/index.html" ns1:title="F.12\nCoaxial Circles">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M544,-180C544,-180 479,-180 479,-180 473,-180 467,-174 467,-168 467,-168 467,-156 467,-156 467,-150 473,-144 479,-144 479,-144 544,-144 544,-144 550,-144 556,-150 556,-156 556,-156 556,-168 556,-168 556,-174 550,-180 544,-180" />
+<ns0:text text-anchor="middle" x="511.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.12</ns0:text>
+<ns0:text text-anchor="middle" x="511.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Coaxial Circles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.12-&gt;F.25</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M483.61,-143.88C467.88,-134.22 448.1,-122.07 431.47,-111.86" />
+<ns0:polygon fill="#888888" stroke="#888888" points="432.74,-109.76 425.49,-108.19 430.18,-113.94 432.74,-109.76" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

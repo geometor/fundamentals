@@ -1,0 +1,374 @@
+geometor.fundamentals.render
+============================
+
+.. py:module:: geometor.fundamentals.render
+
+.. autoapi-nested-parse::
+
+   Explorer-styled interactive SVG renderer for GEOMETOR Fundamentals.
+
+   Renders a `geometor.model.Model` (along with optional analytical conic curves
+   such as parabolas and ellipses) into a standalone, interactive SVG diagram with
+   embedded dark/light mode styling, pan/zoom/reset/labels/guides controls, and
+   two-way `.geom-ref[data-ref]` hover highlighting synchronized with the prose.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.fundamentals.render.Point
+   geometor.fundamentals.render.Line
+   geometor.fundamentals.render.Circle
+   geometor.fundamentals.render.Polygon
+   geometor.fundamentals.render.Segment
+   geometor.fundamentals.render.EXPLORER_SVG_CSS
+   geometor.fundamentals.render.INTERACTIVE_SVG_JS
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.fundamentals.render.render_svg
+
+
+Module Contents
+---------------
+
+.. py:data:: Point
+
+.. py:data:: Line
+
+.. py:data:: Circle
+
+.. py:data:: Polygon
+
+.. py:data:: Segment
+
+.. py:data:: EXPLORER_SVG_CSS
+   :value: Multiline-String
+
+   .. raw:: html
+
+      <details><summary>Show Value</summary>
+
+   .. code-block:: python
+
+      """
+      . explorer-canvas, svg.fundamentals-diagram {
+          background-color: #111111;
+          border: 1px solid #333;
+          border-radius: 6px;
+          width: 100%;
+          height: auto;
+          max-height: 540px;
+          display: block;
+          margin: 0.5rem auto;
+          user-select: none;
+          overflow: hidden;
+          cursor: grab;
+      }
+      svg.fundamentals-diagram:active {
+          cursor: grabbing;
+      }
+      @media (prefers-color-scheme: light) {
+          svg.fundamentals-diagram {
+              background-color: #fafafa;
+              border-color: #ddd;
+          }
+          svg.fundamentals-diagram .Point {
+              stroke: #fafafa !important;
+          }
+          svg.fundamentals-diagram .Point.given {
+              fill: #111111 !important;
+          }
+          svg.fundamentals-diagram .label-halo {
+              stroke: #fafafa !important;
+          }
+          svg.fundamentals-diagram .label-fill {
+              fill: #111111 !important;
+          }
+          svg.fundamentals-diagram .Line,
+          svg.fundamentals-diagram .Segment {
+              stroke: #555555;
+          }
+      }
+      .Line, .Segment {
+          stroke: #999999;
+          stroke-linecap: round;
+          vector-effect: non-scaling-stroke;
+          stroke-width: 1.2px;
+          fill: none;
+          opacity: 0.78;
+          transition: stroke-width 0.15s ease, opacity 0.15s ease, filter 0.15s ease;
+      }
+      .Circle, .Curve {
+          stroke: #c93b76;
+          vector-effect: non-scaling-stroke;
+          stroke-width: 1.25px;
+          fill: none;
+          opacity: 0.82;
+          transition: stroke-width 0.15s ease, opacity 0.15s ease, filter 0.15s ease;
+      }
+      .Polygon {
+          fill: rgba(70, 130, 180, 0.10);
+          stroke: #5c9fd6;
+          vector-effect: non-scaling-stroke;
+          stroke-width: 1.8px;
+          stroke-linejoin: round;
+          transition: stroke-width 0.15s ease, fill-opacity 0.15s ease;
+      }
+      .Point {
+          fill: #e5c07b;
+          stroke: #111111;
+          vector-effect: non-scaling-stroke;
+          stroke-width: 1.4px;
+          transition: r 0.15s ease, filter 0.15s ease;
+      }
+      .Point.given {
+          fill: #ffffff;
+      }
+      .Point.focus, .Point.center, .Point.target {
+          fill: #00e5ff;
+      }
+      .Point.harmonic, .Point.conjugate {
+          fill: #ff5252;
+      }
+      .Point.midpoint, .Point.foot {
+          fill: #98c379;
+      }
+      .Line.guide, .Circle.guide, .Segment.guide {
+          stroke-dasharray: 4 4;
+          opacity: 0.42;
+          stroke-width: 0.9px;
+      }
+      .Line.reference, .Segment.reference {
+          stroke: #5c9fd6;
+          stroke-width: 1.8px;
+          opacity: 0.9;
+      }
+      .Line.euler, .Line.axis, .Segment.euler, .Segment.axis {
+          stroke: #e06c75;
+          stroke-width: 1.8px;
+          opacity: 0.92;
+      }
+      .Line.cevian, .Segment.cevian, .Segment.altitude, .Segment.median, .Segment.bisector {
+          stroke: #98c379;
+          stroke-width: 1.4px;
+          opacity: 0.85;
+      }
+      .Circle.circumcircle {
+          stroke: #e06c75;
+          stroke-width: 1.5px;
+      }
+      .Circle.incircle, .Circle.excircle {
+          stroke: #e5c07b;
+          stroke-width: 1.5px;
+      }
+      .Circle.ninepoint, .Circle.apollonius, .Circle.coaxial {
+          stroke: #61afef;
+          stroke-width: 1.5px;
+      }
+      .Curve.parabola, .Curve.ellipse, .Curve.hyperbola {
+          stroke: #c678dd;
+          stroke-width: 2.0px;
+          opacity: 0.95;
+      }
+      .element-group {
+          cursor: pointer;
+      }
+      .element-group.svg-hovered .Line,
+      .element-group.svg-hovered .Segment,
+      .element-group.svg-hovered .Circle,
+      .element-group.svg-hovered .Curve,
+      .element-group.svg-hovered .Polygon {
+          stroke: #00e5ff !important;
+          stroke-width: 2.8px !important;
+          opacity: 1.0 !important;
+          filter: drop-shadow(0 0 5px rgba(0, 229, 255, 0.75));
+      }
+      .element-group.svg-hovered .Point {
+          fill: #00e5ff !important;
+          filter: drop-shadow(0 0 6px rgba(0, 229, 255, 0.9));
+      }
+      .geom-ref {
+          font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+          font-weight: 600;
+          padding: 0.05em 0.3em;
+          border-radius: 3px;
+          background: rgba(97, 175, 239, 0.14);
+          color: #61afef;
+          cursor: pointer;
+          transition: background-color 0.15s ease, color 0.15s ease;
+      }
+      .geom-ref:hover, .geom-ref.ref-hovered {
+          background: #00e5ff;
+          color: #111111;
+      }
+      .svg-control-btn {
+          cursor: pointer;
+      }
+      .svg-control-btn rect {
+          fill: rgba(30, 30, 30, 0.82);
+          stroke: #555;
+          stroke-width: 1px;
+          rx: 3px;
+      }
+      .svg-control-btn:hover rect {
+          fill: rgba(60, 60, 60, 0.95);
+          stroke: #00e5ff;
+      }
+      .svg-control-btn text {
+          fill: #ddd;
+          font-family: sans-serif;
+          font-size: 9px;
+          font-weight: 600;
+          text-anchor: middle;
+          dominant-baseline: central;
+          pointer-events: none;
+      }
+      svg.hide-labels .labels-layer {
+          display: none;
+      }
+      svg.hide-guides .guide {
+          display: none;
+      }
+      """
+
+   .. raw:: html
+
+      </details>
+
+
+
+.. py:data:: INTERACTIVE_SVG_JS
+   :value: Multiline-String
+
+   .. raw:: html
+
+      <details><summary>Show Value</summary>
+
+   .. code-block:: python
+
+      """
+      (function() {
+        if (window.__fundamentalsSvgInit) return;
+        window.__fundamentalsSvgInit = true;
+      
+        function initDiagram(svg) {
+          if (svg.dataset.initialized) return;
+          svg.dataset.initialized = "true";
+          const vp = svg.querySelector(".svg-viewport");
+          if (!vp) return;
+      
+          let scale = 1, tx = 0, ty = 0;
+          let dragging = false, startX = 0, startY = 0;
+      
+          function applyTransform() {
+            vp.setAttribute("transform", `translate(${tx},${ty}) scale(${scale})`);
+          }
+      
+          svg.addEventListener("wheel", function(e) {
+            e.preventDefault();
+            const rect = svg.getBoundingClientRect();
+            const vb = svg.viewBox.baseVal;
+            const mx = vb.x + ((e.clientX - rect.left) / rect.width) * vb.width;
+            const my = vb.y + ((e.clientY - rect.top) / rect.height) * vb.height;
+            const factor = e.deltaY < 0 ? 1.15 : 1 / 1.15;
+            const newScale = Math.min(Math.max(scale * factor, 0.25), 12);
+            tx = mx - (mx - tx) * (newScale / scale);
+            ty = my - (my - ty) * (newScale / scale);
+            scale = newScale;
+            applyTransform();
+          }, { passive: false });
+      
+          svg.addEventListener("mousedown", function(e) {
+            if (e.target.closest(".svg-controls")) return;
+            dragging = true;
+            startX = e.clientX;
+            startY = e.clientY;
+          });
+      
+          window.addEventListener("mousemove", function(e) {
+            if (!dragging) return;
+            const rect = svg.getBoundingClientRect();
+            const vb = svg.viewBox.baseVal;
+            const dx = ((e.clientX - startX) / rect.width) * vb.width;
+            const dy = ((e.clientY - startY) / rect.height) * vb.height;
+            startX = e.clientX;
+            startY = e.clientY;
+            tx += dx;
+            ty += dy;
+            applyTransform();
+          });
+      
+          window.addEventListener("mouseup", function() {
+            dragging = false;
+          });
+      
+          svg.querySelectorAll(".svg-control-btn").forEach(function(btn) {
+            btn.addEventListener("click", function(e) {
+              e.stopPropagation();
+              const action = btn.dataset.action;
+              if (action === "zoom-in") { scale = Math.min(scale * 1.25, 12); applyTransform(); }
+              else if (action === "zoom-out") { scale = Math.max(scale / 1.25, 0.25); applyTransform(); }
+              else if (action === "reset") { scale = 1; tx = 0; ty = 0; applyTransform(); }
+              else if (action === "labels") { svg.classList.toggle("hide-labels"); }
+              else if (action === "guides") { svg.classList.toggle("hide-guides"); }
+            });
+          });
+        }
+      
+        function setupHoverSync() {
+          document.querySelectorAll("svg.fundamentals-diagram").forEach(initDiagram);
+      
+          document.addEventListener("mouseover", function(e) {
+            const refEl = e.target.closest("[data-ref]");
+            if (!refEl) return;
+            const ref = refEl.dataset.ref;
+            if (!ref) return;
+            document.querySelectorAll(`.element-group[data-ref="${CSS.escape(ref)}"]`).forEach(el => el.classList.add("svg-hovered"));
+            document.querySelectorAll(`.geom-ref[data-ref="${CSS.escape(ref)}"]`).forEach(el => el.classList.add("ref-hovered"));
+          });
+      
+          document.addEventListener("mouseout", function(e) {
+            const refEl = e.target.closest("[data-ref]");
+            if (!refEl) return;
+            const ref = refEl.dataset.ref;
+            if (!ref) return;
+            document.querySelectorAll(`.element-group[data-ref="${CSS.escape(ref)}"]`).forEach(el => el.classList.remove("svg-hovered"));
+            document.querySelectorAll(`.geom-ref[data-ref="${CSS.escape(ref)}"]`).forEach(el => el.classList.remove("ref-hovered"));
+          });
+        }
+      
+        if (document.readyState === "loading") {
+          document.addEventListener("DOMContentLoaded", setupHoverSync);
+        } else {
+          setupHoverSync();
+        }
+      })();
+      """
+
+   .. raw:: html
+
+      </details>
+
+
+
+.. py:function:: render_svg(model: geometor.model.Model, output_path: pathlib.Path, extra_curves: list[dict[str, object]] | None = None, padding_ratio: float = 0.16) -> pathlib.Path
+
+   Render a `geometor.model.Model` to an interactive Explorer-styled SVG file.
+
+   :param model: Populated `geometor.model.Model` instance.
+   :param output_path: Destination `.svg` file path.
+   :param extra_curves: Optional list of parametric curve dictionaries with keys
+                        `label`, `points` (list of `(x, y)` floats), and `classes` (list of strings).
+   :param padding_ratio: Fractional margin added around the bounding box of points/circles.
+
+   :returns: Path to the written SVG file.
+
+

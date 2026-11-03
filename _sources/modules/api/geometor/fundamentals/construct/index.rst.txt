@@ -1,0 +1,148 @@
+geometor.fundamentals.construct
+===============================
+
+.. py:module:: geometor.fundamentals.construct
+
+.. autoapi-nested-parse::
+
+   Symbolic and constructive geometry engine for the 55 topics of GEOMETOR Fundamentals.
+
+   Builds `geometor.model.Model` instances and standalone `model.py` scripts
+   grounded in Fred W. Seelig's canonical reference configurations, including the
+   reference acute triangle `(a, b, c) = (5, 6, 7)` on baseline `AB = 7` with
+   `A = (0, 0)`, `B = (7, 0)`, and `C = (30/7, 12*sqrt(6)/7)`.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.fundamentals.construct.create_model
+   geometor.fundamentals.construct.add_point
+   geometor.fundamentals.construct.add_line
+   geometor.fundamentals.construct.add_segment
+   geometor.fundamentals.construct.add_circle
+   geometor.fundamentals.construct.add_polygon
+   geometor.fundamentals.construct.setup_seelig_triangle
+   geometor.fundamentals.construct.build_topic_model
+   geometor.fundamentals.construct.generate_topic_model_code
+
+
+Module Contents
+---------------
+
+.. py:function:: create_model(name: str = 'Fundamentals Construction') -> geometor.model.Model
+
+   Create a silent `geometor.model.Model` instance for fast batch or standalone execution.
+
+   :param name: Human-readable title for the construction model.
+
+   :returns: Initialized `Model` instance.
+
+
+.. py:function:: add_point(model: geometor.model.Model, x: float, y: float, label: str, classes: list[str] | None = None, parents: list[Any] | None = None, guide: bool = False) -> sympy.geometry.Point
+
+   Register a `Point` element in `model` with label `label` and CSS `classes`.
+
+   :param model: Target `Model` instance.
+   :param x: Cartesian x-coordinate.
+   :param y: Cartesian y-coordinate.
+   :param label: Algebraic identifier (e.g., `'A'`, `'O'`, `'M_A'`).
+   :param classes: Optional list of CSS classes (`'given'`, `'center'`, `'focus'`, etc.).
+   :param parents: Optional list of parent elements.
+   :param guide: Whether the point is a construction guide.
+
+   :returns: Registered `sympy.geometry.Point` instance.
+
+
+.. py:function:: add_line(model: geometor.model.Model, pt1: sympy.geometry.Point, pt2: sympy.geometry.Point, label: str = '', classes: list[str] | None = None, guide: bool = False) -> sympy.geometry.Line | None
+
+   Register a `Line` element passing through `pt1` and `pt2`.
+
+   :param model: Target `Model` instance.
+   :param pt1: First defining point.
+   :param pt2: Second defining point.
+   :param label: Optional line identifier; defaults to `'[ P Q ]'`.
+   :param classes: Optional list of CSS style classes.
+   :param guide: Whether the line is a dashed construction guide.
+
+   :returns: Registered `sympy.geometry.Line` or `None` if points coincide.
+
+
+.. py:function:: add_segment(model: geometor.model.Model, pt1: sympy.geometry.Point, pt2: sympy.geometry.Point, label: str = '', classes: list[str] | None = None) -> sympy.geometry.Segment | None
+
+   Register a `Segment` element joining `pt1` and `pt2`.
+
+   :param model: Target `Model` instance.
+   :param pt1: First endpoint.
+   :param pt2: Second endpoint.
+   :param label: Optional segment identifier.
+   :param classes: Optional list of CSS style classes.
+
+   :returns: Registered `sympy.geometry.Segment` or `None` if endpoints coincide.
+
+
+.. py:function:: add_circle(model: geometor.model.Model, pt_center: sympy.geometry.Point, pt_radius: sympy.geometry.Point, label: str = '', classes: list[str] | None = None, guide: bool = False) -> sympy.geometry.Circle | None
+
+   Register a `Circle` centered at `pt_center` passing through `pt_radius`.
+
+   :param model: Target `Model` instance.
+   :param pt_center: Center point of the circle.
+   :param pt_radius: Point on the circumference defining the radius.
+   :param label: Optional circle identifier; defaults to `'( O A )'`.
+   :param classes: Optional list of CSS style classes.
+   :param guide: Whether the circle is a dashed construction guide.
+
+   :returns: Registered `sympy.geometry.Circle` or `None` if radius vanishes.
+
+
+.. py:function:: add_polygon(model: geometor.model.Model, pts: list[sympy.geometry.Point], label: str = '', classes: list[str] | None = None) -> sympy.geometry.Polygon
+
+   Register a `Polygon` or `Triangle` element in `model`.
+
+   :param model: Target `Model` instance.
+   :param pts: Ordered vertex points.
+   :param label: Optional polygon identifier; defaults to `'< A B C >'`.
+   :param classes: Optional list of CSS style classes.
+
+   :returns: Registered `sympy.geometry.Polygon` or `Triangle`.
+
+
+.. py:function:: setup_seelig_triangle(model: geometor.model.Model, sides: tuple[float, float, float] = (5.0, 6.0, 7.0), show_guides: bool = False) -> dict[str, Any]
+
+   Construct Fred Seelig's canonical triangle `ABC` on baseline `AB = c`.
+
+   Default `(a, b, c) = (5, 6, 7)` sets `A = (0, 0)`, `B = (7, 0)`, and
+   `C = (30/7, 12*sqrt(6)/7) ≈ (4.285714, 4.199028)`.
+
+   :param model: Target `Model` instance.
+   :param sides: Side lengths `(a, b, c)` opposite `(A, B, C)`.
+   :param show_guides: Whether to include the Euclid I.22 construction circles.
+
+   :returns: Dictionary of points and triangle invariants (`A`, `B`, `C`, `a`, `b`, `c`,
+             `s`, `K`, `R`, `r`, `SA`, `SB`, `SC`, `bary_to_xy`).
+
+
+.. py:function:: build_topic_model(topic_num: int, title: str = '') -> tuple[geometor.model.Model, list[dict[str, object]]]
+
+   Construct the exact geometric model and optional analytic curves for topic `F.<topic_num>`.
+
+   :param topic_num: Integer topic number (1 through 55).
+   :param title: Human-readable topic title.
+
+   :returns: Tuple of `(model, extra_curves)` ready for SVG rendering and analysis.
+
+
+.. py:function:: generate_topic_model_code(topic_num: int, title: str, enunciation: str) -> str
+
+   Generate a standalone executable `model.py` script for topic `F.<topic_num>`.
+
+   :param topic_num: Integer topic number (1 through 55).
+   :param title: Topic title string.
+   :param enunciation: Formal geometric enunciation for the module docstring.
+
+   :returns: Formatted Python source code for `docsrc/topics/f-NN/model.py`.
+
+

@@ -1,0 +1,127 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="627pt" height="188pt" viewBox="0.00 0.00 627.00 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.28</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-28/index.html" ns1:title="F.28\nIncenter">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M315,-108C315,-108 281,-108 281,-108 275,-108 269,-102 269,-96 269,-96 269,-84 269,-84 269,-78 275,-72 281,-72 281,-72 315,-72 315,-72 321,-72 327,-78 327,-84 327,-84 327,-96 327,-96 327,-102 321,-108 315,-108" />
+<ns0:text text-anchor="middle" x="298" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.28</ns0:text>
+<ns0:text text-anchor="middle" x="298" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Incenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.4</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-04/index.html" ns1:title="F.4\nCarnot's Theorem">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M88,-36C88,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 88,0 88,0 94,0 100,-6 100,-12 100,-12 100,-24 100,-24 100,-30 94,-36 88,-36" />
+<ns0:text text-anchor="middle" x="50" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.4</ns0:text>
+<ns0:text text-anchor="middle" x="50" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Carnot's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.28-&gt;F.4</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M268.84,-80.89C231.7,-70.55 165.54,-52.07 109,-36 108.37,-35.82 107.74,-35.64 107.11,-35.46" />
+<ns0:polygon fill="#888888" stroke="#888888" points="107.61,-33.06 100.21,-33.49 106.26,-37.77 107.61,-33.06" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.19</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-19/index.html" ns1:title="F.19\nEqual Incircles Theorem">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M234,-36C234,-36 130,-36 130,-36 124,-36 118,-30 118,-24 118,-24 118,-12 118,-12 118,-6 124,0 130,0 130,0 234,0 234,0 240,0 246,-6 246,-12 246,-12 246,-24 246,-24 246,-30 240,-36 234,-36" />
+<ns0:text text-anchor="middle" x="182" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.19</ns0:text>
+<ns0:text text-anchor="middle" x="182" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Equal Incircles Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.28-&gt;F.19</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M269.62,-71.88C253.61,-62.22 233.49,-50.07 216.56,-39.86" />
+<ns0:polygon fill="#888888" stroke="#888888" points="217.75,-37.71 210.49,-36.19 215.21,-41.9 217.75,-37.71" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>F.20</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-20/index.html" ns1:title="F.20\nExtangent">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M319.5,-36C319.5,-36 276.5,-36 276.5,-36 270.5,-36 264.5,-30 264.5,-24 264.5,-24 264.5,-12 264.5,-12 264.5,-6 270.5,0 276.5,0 276.5,0 319.5,0 319.5,0 325.5,0 331.5,-6 331.5,-12 331.5,-12 331.5,-24 331.5,-24 331.5,-30 325.5,-36 319.5,-36" />
+<ns0:text text-anchor="middle" x="298" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.20</ns0:text>
+<ns0:text text-anchor="middle" x="298" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Extangent</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>F.28-&gt;F.20</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M298,-71.7C298,-63.14 298,-52.66 298,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="300.45,-43.1 298,-36.1 295.55,-43.1 300.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>F.29</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../topics/f-29/index.html" ns1:title="F.29\nInradius">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M394.5,-36C394.5,-36 361.5,-36 361.5,-36 355.5,-36 349.5,-30 349.5,-24 349.5,-24 349.5,-12 349.5,-12 349.5,-6 355.5,0 361.5,0 361.5,0 394.5,0 394.5,0 400.5,0 406.5,-6 406.5,-12 406.5,-12 406.5,-24 406.5,-24 406.5,-30 400.5,-36 394.5,-36" />
+<ns0:text text-anchor="middle" x="378" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.29</ns0:text>
+<ns0:text text-anchor="middle" x="378" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Inradius</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>F.28-&gt;F.29</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M317.78,-71.7C328.43,-62.37 341.69,-50.77 353.05,-40.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="354.8,-42.56 358.45,-36.1 351.57,-38.87 354.8,-42.56" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>F.52</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../topics/f-52/index.html" ns1:title="F.52\nHomogeneous Barycentric Coordinates">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M607,-36C607,-36 437,-36 437,-36 431,-36 425,-30 425,-24 425,-24 425,-12 425,-12 425,-6 431,0 437,0 437,0 607,0 607,0 613,0 619,-6 619,-12 619,-12 619,-24 619,-24 619,-30 613,-36 607,-36" />
+<ns0:text text-anchor="middle" x="522" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.52</ns0:text>
+<ns0:text text-anchor="middle" x="522" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Homogeneous Barycentric Coordinates</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge7" class="edge">
+<ns0:title>F.28-&gt;F.52</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M327.28,-79.85C360.94,-69.33 417.12,-51.78 460.5,-38.22" />
+<ns0:polygon fill="#888888" stroke="#888888" points="461.4,-40.5 467.35,-36.08 459.94,-35.83 461.4,-40.5" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.3</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-03/index.html" ns1:title="F.3\nBiquadratic Forms in Heron's Formula">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M304,-180C304,-180 140,-180 140,-180 134,-180 128,-174 128,-168 128,-168 128,-156 128,-156 128,-150 134,-144 140,-144 140,-144 304,-144 304,-144 310,-144 316,-150 316,-156 316,-156 316,-168 316,-168 316,-174 310,-180 304,-180" />
+<ns0:text text-anchor="middle" x="222" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.3</ns0:text>
+<ns0:text text-anchor="middle" x="222" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Biquadratic Forms in Heron's Formula</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.3-&gt;F.28</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M240.79,-143.7C250.82,-134.46 263.27,-122.98 274,-113.11" />
+<ns0:polygon fill="#888888" stroke="#888888" points="275.94,-114.65 279.43,-108.1 272.62,-111.04 275.94,-114.65" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.11</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-11/index.html" ns1:title="F.11\nCircumcenter">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M403.5,-180C403.5,-180 346.5,-180 346.5,-180 340.5,-180 334.5,-174 334.5,-168 334.5,-168 334.5,-156 334.5,-156 334.5,-150 340.5,-144 346.5,-144 346.5,-144 403.5,-144 403.5,-144 409.5,-144 415.5,-150 415.5,-156 415.5,-156 415.5,-168 415.5,-168 415.5,-174 409.5,-180 403.5,-180" />
+<ns0:text text-anchor="middle" x="375" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.11</ns0:text>
+<ns0:text text-anchor="middle" x="375" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circumcenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.11-&gt;F.28</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M355.97,-143.7C345.71,-134.37 332.95,-122.77 322.02,-112.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="323.64,-111 316.81,-108.1 320.35,-114.63 323.64,-111" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

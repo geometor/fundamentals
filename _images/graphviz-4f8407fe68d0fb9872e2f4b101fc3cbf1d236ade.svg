@@ -1,0 +1,143 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="924pt" height="188pt" viewBox="0.00 0.00 924.00 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.10</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-10/index.html" ns1:title="F.10\nCircles and Geometric Mean">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M352.5,-108C352.5,-108 229.5,-108 229.5,-108 223.5,-108 217.5,-102 217.5,-96 217.5,-96 217.5,-84 217.5,-84 217.5,-78 223.5,-72 229.5,-72 229.5,-72 352.5,-72 352.5,-72 358.5,-72 364.5,-78 364.5,-84 364.5,-84 364.5,-96 364.5,-96 364.5,-102 358.5,-108 352.5,-108" />
+<ns0:text text-anchor="middle" x="291" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.10</ns0:text>
+<ns0:text text-anchor="middle" x="291" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circles and Geometric Mean</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.17</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-17/index.html" ns1:title="F.17\nEllipse">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M42,-36C42,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 42,0 42,0 48,0 54,-6 54,-12 54,-12 54,-24 54,-24 54,-30 48,-36 42,-36" />
+<ns0:text text-anchor="middle" x="27" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.17</ns0:text>
+<ns0:text text-anchor="middle" x="27" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ellipse</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.10-&gt;F.17</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M217.49,-76.05C172.25,-67.06 113.47,-53.56 63,-36 62.28,-35.75 61.56,-35.49 60.83,-35.22" />
+<ns0:polygon fill="#888888" stroke="#888888" points="61.68,-32.92 54.27,-32.61 59.86,-37.47 61.68,-32.92" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.24</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-24/index.html" ns1:title="F.24\nGothic Arch">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M134,-36C134,-36 84,-36 84,-36 78,-36 72,-30 72,-24 72,-24 72,-12 72,-12 72,-6 78,0 84,0 84,0 134,0 134,0 140,0 146,-6 146,-12 146,-12 146,-24 146,-24 146,-30 140,-36 134,-36" />
+<ns0:text text-anchor="middle" x="109" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.24</ns0:text>
+<ns0:text text-anchor="middle" x="109" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Gothic Arch</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.10-&gt;F.24</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M246.48,-71.88C217.93,-60.9 181.05,-46.71 152.67,-35.8" />
+<ns0:polygon fill="#888888" stroke="#888888" points="153.43,-33.46 146.02,-33.24 151.67,-38.04 153.43,-33.46" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>F.27</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-27/index.html" ns1:title="F.27\nHarmonic Mean">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M244,-36C244,-36 176,-36 176,-36 170,-36 164,-30 164,-24 164,-24 164,-12 164,-12 164,-6 170,0 176,0 176,0 244,0 244,0 250,0 256,-6 256,-12 256,-12 256,-24 256,-24 256,-30 250,-36 244,-36" />
+<ns0:text text-anchor="middle" x="210" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.27</ns0:text>
+<ns0:text text-anchor="middle" x="210" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Mean</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>F.10-&gt;F.27</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M270.98,-71.7C260.19,-62.37 246.77,-50.77 235.26,-40.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="236.69,-38.83 229.79,-36.1 233.49,-42.54 236.69,-38.83" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>F.42</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../topics/f-42/index.html" ns1:title="F.42\nAltitude of a Pythagorean Triple Triangle">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M458,-36C458,-36 286,-36 286,-36 280,-36 274,-30 274,-24 274,-24 274,-12 274,-12 274,-6 280,0 286,0 286,0 458,0 458,0 464,0 470,-6 470,-12 470,-12 470,-24 470,-24 470,-30 464,-36 458,-36" />
+<ns0:text text-anchor="middle" x="372" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.42</ns0:text>
+<ns0:text text-anchor="middle" x="372" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Altitude of a Pythagorean Triple Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>F.10-&gt;F.42</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M311.02,-71.7C321.81,-62.37 335.23,-50.77 346.74,-40.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="348.51,-42.54 352.21,-36.1 345.31,-38.83 348.51,-42.54" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>F.51</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../topics/f-51/index.html" ns1:title="F.51\nApollonian Circles and the Problem of Apollonius">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M710,-36C710,-36 500,-36 500,-36 494,-36 488,-30 488,-24 488,-24 488,-12 488,-12 488,-6 494,0 500,0 500,0 710,0 710,0 716,0 722,-6 722,-12 722,-12 722,-24 722,-24 722,-30 716,-36 710,-36" />
+<ns0:text text-anchor="middle" x="605" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.51</ns0:text>
+<ns0:text text-anchor="middle" x="605" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Apollonian Circles and the Problem of Apollonius</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge7" class="edge">
+<ns0:title>F.10-&gt;F.51</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M364.62,-72.59C411.61,-62.11 472.65,-48.51 521.45,-37.62" />
+<ns0:polygon fill="#888888" stroke="#888888" points="522.26,-39.95 528.56,-36.04 521.2,-35.17 522.26,-39.95" />
+</ns0:g>
+
+<ns0:g id="node9" class="node">
+<ns0:title>F.53</ns0:title>
+<ns0:g id="a_node9"><ns0:a ns1:href="../topics/f-53/index.html" ns1:title="F.53\nGeometric Half-Angle Trigonometry">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M904,-36C904,-36 752,-36 752,-36 746,-36 740,-30 740,-24 740,-24 740,-12 740,-12 740,-6 746,0 752,0 752,0 904,0 904,0 910,0 916,-6 916,-12 916,-12 916,-24 916,-24 916,-30 910,-36 904,-36" />
+<ns0:text text-anchor="middle" x="828" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.53</ns0:text>
+<ns0:text text-anchor="middle" x="828" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Geometric Half-Angle Trigonometry</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge8" class="edge">
+<ns0:title>F.10-&gt;F.53</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M364.73,-81.34C452.26,-71.97 602.56,-54.98 731,-36 731.54,-35.92 732.08,-35.84 732.62,-35.76" />
+<ns0:polygon fill="#888888" stroke="#888888" points="733.19,-38.15 739.74,-34.67 732.46,-33.31 733.19,-38.15" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.8</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-08/index.html" ns1:title="F.8\nChord Intersection">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M272.5,-180C272.5,-180 193.5,-180 193.5,-180 187.5,-180 181.5,-174 181.5,-168 181.5,-168 181.5,-156 181.5,-156 181.5,-150 187.5,-144 193.5,-144 193.5,-144 272.5,-144 272.5,-144 278.5,-144 284.5,-150 284.5,-156 284.5,-156 284.5,-168 284.5,-168 284.5,-174 278.5,-180 272.5,-180" />
+<ns0:text text-anchor="middle" x="233" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.8</ns0:text>
+<ns0:text text-anchor="middle" x="233" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Chord Intersection</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.8-&gt;F.10</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M247.34,-143.7C254.85,-134.63 264.15,-123.4 272.23,-113.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="274.25,-115.06 276.83,-108.1 270.48,-111.93 274.25,-115.06" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.9</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-09/index.html" ns1:title="F.9\nCircle Equations">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M385.5,-180C385.5,-180 314.5,-180 314.5,-180 308.5,-180 302.5,-174 302.5,-168 302.5,-168 302.5,-156 302.5,-156 302.5,-150 308.5,-144 314.5,-144 314.5,-144 385.5,-144 385.5,-144 391.5,-144 397.5,-150 397.5,-156 397.5,-156 397.5,-168 397.5,-168 397.5,-174 391.5,-180 385.5,-180" />
+<ns0:text text-anchor="middle" x="350" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.9</ns0:text>
+<ns0:text text-anchor="middle" x="350" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circle Equations</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.9-&gt;F.10</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M335.42,-143.7C327.77,-134.63 318.31,-123.4 310.09,-113.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="311.8,-111.88 305.42,-108.1 308.05,-115.04 311.8,-111.88" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

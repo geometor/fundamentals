@@ -1,0 +1,39 @@
+geometor.fundamentals.transform
+===============================
+
+.. py:module:: geometor.fundamentals.transform
+
+.. autoapi-nested-parse::
+
+   3-Track Book Codex compiler for GEOMETOR Fundamentals (`docsrc/topics/`).
+
+   Compiles the 55 topics (`F.1` through `F.55`) into Sphinx ReStructuredText
+   folders (`docsrc/topics/f-01/` through `docsrc/topics/f-55/`) with:
+
+   - Track 1 (`index.rst`): Mathematical synthesis, `.. enunciation::`, interactive
+     Explorer SVG (`f-NN.svg`), `.. signature::` block, SymPy derivations, cross-repo
+     links (`euclid`, `elements`, `etc`), spreadsheet dropdowns, and Graphviz DAG.
+   - Track 2 (`folios.rst`): Fred W. Seelig's scanned notebook pages (`<NNNN>.jpg`)
+     paired with `.. folio:: <NNNN>` diplomatic transcriptions and editorial notes.
+   - Track 3 (`code.rst`): Executable `geometor.model` / SymPy script (`model.py`).
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.fundamentals.transform.generate_codex
+
+
+Module Contents
+---------------
+
+.. py:function:: generate_codex(repo_root: pathlib.Path) -> None
+
+   Compile the complete Sphinx `docsrc/` Book Codex, spreadsheets, and apparatus.
+
+   :param repo_root: Root directory of `/home/phi/PROJECTS/geometor/fundamentals`.
+
+

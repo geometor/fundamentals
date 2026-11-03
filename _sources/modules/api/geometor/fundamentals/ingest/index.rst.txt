@@ -1,0 +1,42 @@
+geometor.fundamentals.ingest
+============================
+
+.. py:module:: geometor.fundamentals.ingest
+
+.. autoapi-nested-parse::
+
+   Archival ingestion pipeline for Fred W. Seelig's notebooks and spreadsheets.
+
+   Migrates the 55 handwritten topic folders (353 scanned `.jpg` pages) into a
+   normalized `resources/seelig/<NN_slug>/` hierarchy with sequential 4-digit
+   folio identifiers (`0001` through `0353`), generates diplomatic `<NNNN>.rst`
+   and `<NNNN>.notes.rst` files compatible with `publish folio`, migrates the
+   OpenDocument Spreadsheets into `resources/spreadsheets/`, and exports
+   `resources/topics.json` and `resources/seelig/folio_reviews.json`.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.fundamentals.ingest.ingest_archive
+
+
+Module Contents
+---------------
+
+.. py:function:: ingest_archive(repo_root: pathlib.Path) -> dict[str, object]
+
+   Ingest or refresh `resources/seelig/`, `resources/spreadsheets/`, and `resources/*.json`.
+
+   Idempotent: if `pages/` still exists, copies scans and spreadsheets from
+   `pages/03.projects/`; otherwise operates directly on the migrated
+   `resources/seelig/` and `resources/spreadsheets/` directories.
+
+   :param repo_root: Root directory of `/home/phi/PROJECTS/geometor/fundamentals`.
+
+   :returns: Master dictionary written to `resources/topics.json`.
+
+

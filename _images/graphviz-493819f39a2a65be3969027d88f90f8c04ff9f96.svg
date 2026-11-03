@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="272pt" height="116pt" viewBox="0.00 0.00 271.50 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.31</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-31/index.html" ns1:title="F.31\nLogic Tests">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M158,-36C158,-36 110,-36 110,-36 104,-36 98,-30 98,-24 98,-24 98,-12 98,-12 98,-6 104,0 110,0 110,0 158,0 158,0 164,0 170,-6 170,-12 170,-12 170,-24 170,-24 170,-30 164,-36 158,-36" />
+<ns0:text text-anchor="middle" x="134" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.31</ns0:text>
+<ns0:text text-anchor="middle" x="134" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Logic Tests</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.2</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-02/index.html" ns1:title="F.2\nBilinear Transformations">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M116,-108C116,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 116,-72 116,-72 122,-72 128,-78 128,-84 128,-84 128,-96 128,-96 128,-102 122,-108 116,-108" />
+<ns0:text text-anchor="middle" x="64" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.2</ns0:text>
+<ns0:text text-anchor="middle" x="64" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Bilinear Transformations</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.2-&gt;F.31</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M81.3,-71.7C90.54,-62.46 102.02,-50.98 111.89,-41.11" />
+<ns0:polygon fill="#888888" stroke="#888888" points="113.68,-42.79 116.9,-36.1 110.21,-39.32 113.68,-42.79" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.25</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-25/index.html" ns1:title="F.25\nHarmonic Conjugates">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M251.5,-108C251.5,-108 158.5,-108 158.5,-108 152.5,-108 146.5,-102 146.5,-96 146.5,-96 146.5,-84 146.5,-84 146.5,-78 152.5,-72 158.5,-72 158.5,-72 251.5,-72 251.5,-72 257.5,-72 263.5,-78 263.5,-84 263.5,-84 263.5,-96 263.5,-96 263.5,-102 257.5,-108 251.5,-108" />
+<ns0:text text-anchor="middle" x="205" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.25</ns0:text>
+<ns0:text text-anchor="middle" x="205" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Conjugates</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.25-&gt;F.31</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M187.45,-71.7C178.08,-62.46 166.44,-50.98 156.42,-41.11" />
+<ns0:polygon fill="#888888" stroke="#888888" points="158.05,-39.27 151.35,-36.1 154.61,-42.76 158.05,-39.27" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

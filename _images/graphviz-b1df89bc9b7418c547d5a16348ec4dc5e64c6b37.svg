@@ -1,0 +1,95 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="815pt" height="116pt" viewBox="0.00 0.00 814.50 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.18</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-18/index.html" ns1:title="F.18\nEquilateral Triangle">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M288,-108C288,-108 207,-108 207,-108 201,-108 195,-102 195,-96 195,-96 195,-84 195,-84 195,-78 201,-72 207,-72 207,-72 288,-72 288,-72 294,-72 300,-78 300,-84 300,-84 300,-96 300,-96 300,-102 294,-108 288,-108" />
+<ns0:text text-anchor="middle" x="247.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.18</ns0:text>
+<ns0:text text-anchor="middle" x="247.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Equilateral Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.21</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-21/index.html" ns1:title="F.21\nFermat Point">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M67,-36C67,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 67,0 67,0 73,0 79,-6 79,-12 79,-12 79,-24 79,-24 79,-30 73,-36 67,-36" />
+<ns0:text text-anchor="middle" x="39.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.21</ns0:text>
+<ns0:text text-anchor="middle" x="39.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Fermat Point</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.18-&gt;F.21</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M195.17,-71.96C163.87,-61.7 123.35,-48.28 87.5,-36 86.9,-35.79 86.29,-35.58 85.68,-35.37" />
+<ns0:polygon fill="#888888" stroke="#888888" points="86.45,-33.05 79.03,-33.07 84.84,-37.68 86.45,-33.05" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.23</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-23/index.html" ns1:title="F.23\nGolden Triangles">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M180,-36C180,-36 109,-36 109,-36 103,-36 97,-30 97,-24 97,-24 97,-12 97,-12 97,-6 103,0 109,0 109,0 180,0 180,0 186,0 192,-6 192,-12 192,-12 192,-24 192,-24 192,-30 186,-36 180,-36" />
+<ns0:text text-anchor="middle" x="144.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.23</ns0:text>
+<ns0:text text-anchor="middle" x="144.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Golden Triangles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.18-&gt;F.23</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M222.3,-71.88C208.21,-62.3 190.53,-50.28 175.59,-40.13" />
+<ns0:polygon fill="#888888" stroke="#888888" points="176.96,-38.1 169.79,-36.19 174.21,-42.15 176.96,-38.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.24</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-24/index.html" ns1:title="F.24\nGothic Arch">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M272.5,-36C272.5,-36 222.5,-36 222.5,-36 216.5,-36 210.5,-30 210.5,-24 210.5,-24 210.5,-12 210.5,-12 210.5,-6 216.5,0 222.5,0 222.5,0 272.5,0 272.5,0 278.5,0 284.5,-6 284.5,-12 284.5,-12 284.5,-24 284.5,-24 284.5,-30 278.5,-36 272.5,-36" />
+<ns0:text text-anchor="middle" x="247.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.24</ns0:text>
+<ns0:text text-anchor="middle" x="247.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Gothic Arch</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.18-&gt;F.24</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M247.5,-71.7C247.5,-63.14 247.5,-52.66 247.5,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="249.95,-43.1 247.5,-36.1 245.05,-43.1 249.95,-43.1" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.45</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-45/index.html" ns1:title="F.45\nSquares, Subdivided Lattices, and the Japanese Theorem">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M564.5,-36C564.5,-36 314.5,-36 314.5,-36 308.5,-36 302.5,-30 302.5,-24 302.5,-24 302.5,-12 302.5,-12 302.5,-6 308.5,0 314.5,0 314.5,0 564.5,0 564.5,0 570.5,0 576.5,-6 576.5,-12 576.5,-12 576.5,-24 576.5,-24 576.5,-30 570.5,-36 564.5,-36" />
+<ns0:text text-anchor="middle" x="439.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.45</ns0:text>
+<ns0:text text-anchor="middle" x="439.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Squares, Subdivided Lattices, and the Japanese Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.18-&gt;F.45</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M294.47,-71.88C322.12,-61.8 357.18,-49.01 385.9,-38.54" />
+<ns0:polygon fill="#888888" stroke="#888888" points="386.95,-40.77 392.68,-36.07 385.27,-36.16 386.95,-40.77" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>F.49</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-49/index.html" ns1:title="F.49\nVesica Piscis and Acute-Obtuse Probability">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M794.5,-36C794.5,-36 606.5,-36 606.5,-36 600.5,-36 594.5,-30 594.5,-24 594.5,-24 594.5,-12 594.5,-12 594.5,-6 600.5,0 606.5,0 606.5,0 794.5,0 794.5,0 800.5,0 806.5,-6 806.5,-12 806.5,-12 806.5,-24 806.5,-24 806.5,-30 800.5,-36 794.5,-36" />
+<ns0:text text-anchor="middle" x="700.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.49</ns0:text>
+<ns0:text text-anchor="middle" x="700.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Vesica Piscis and Acute-Obtuse Probability</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>F.18-&gt;F.49</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M300.35,-80.83C370.3,-70.02 495.46,-50.68 587.23,-36.5" />
+<ns0:polygon fill="#888888" stroke="#888888" points="587.79,-38.9 594.33,-35.41 587.04,-34.05 587.79,-38.9" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

@@ -1,0 +1,63 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="391pt" height="116pt" viewBox="0.00 0.00 391.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.24</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-24/index.html" ns1:title="F.24\nGothic Arch">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M211.5,-36C211.5,-36 161.5,-36 161.5,-36 155.5,-36 149.5,-30 149.5,-24 149.5,-24 149.5,-12 149.5,-12 149.5,-6 155.5,0 161.5,0 161.5,0 211.5,0 211.5,0 217.5,0 223.5,-6 223.5,-12 223.5,-12 223.5,-24 223.5,-24 223.5,-30 217.5,-36 211.5,-36" />
+<ns0:text text-anchor="middle" x="186.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.24</ns0:text>
+<ns0:text text-anchor="middle" x="186.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Gothic Arch</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.9</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-09/index.html" ns1:title="F.9\nCircle Equations">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M83,-108C83,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 83,-72 83,-72 89,-72 95,-78 95,-84 95,-84 95,-96 95,-96 95,-102 89,-108 83,-108" />
+<ns0:text text-anchor="middle" x="47.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.9</ns0:text>
+<ns0:text text-anchor="middle" x="47.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circle Equations</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.9-&gt;F.24</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M81.5,-71.88C100.94,-62.09 125.44,-49.75 145.88,-39.45" />
+<ns0:polygon fill="#888888" stroke="#888888" points="147.22,-41.53 152.37,-36.19 145.01,-37.15 147.22,-41.53" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.10</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-10/index.html" ns1:title="F.10\nCircles and Geometric Mean">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M248,-108C248,-108 125,-108 125,-108 119,-108 113,-102 113,-96 113,-96 113,-84 113,-84 113,-78 119,-72 125,-72 125,-72 248,-72 248,-72 254,-72 260,-78 260,-84 260,-84 260,-96 260,-96 260,-102 254,-108 248,-108" />
+<ns0:text text-anchor="middle" x="186.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.10</ns0:text>
+<ns0:text text-anchor="middle" x="186.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circles and Geometric Mean</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.10-&gt;F.24</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M186.5,-71.7C186.5,-63.14 186.5,-52.66 186.5,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="188.95,-43.1 186.5,-36.1 184.05,-43.1 188.95,-43.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.18</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-18/index.html" ns1:title="F.18\nEquilateral Triangle">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M371,-108C371,-108 290,-108 290,-108 284,-108 278,-102 278,-96 278,-96 278,-84 278,-84 278,-78 284,-72 290,-72 290,-72 371,-72 371,-72 377,-72 383,-78 383,-84 383,-84 383,-96 383,-96 383,-102 377,-108 371,-108" />
+<ns0:text text-anchor="middle" x="330.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.18</ns0:text>
+<ns0:text text-anchor="middle" x="330.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Equilateral Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.18-&gt;F.24</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M295.27,-71.88C275.05,-62.05 249.54,-49.64 228.3,-39.32" />
+<ns0:polygon fill="#888888" stroke="#888888" points="229.23,-37.05 221.86,-36.19 227.09,-41.45 229.23,-37.05" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

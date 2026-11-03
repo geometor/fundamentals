@@ -1,0 +1,127 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="672pt" height="188pt" viewBox="0.00 0.00 672.00 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.4</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-04/index.html" ns1:title="F.4\nCarnot's Theorem">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M304,-108C304,-108 228,-108 228,-108 222,-108 216,-102 216,-96 216,-96 216,-84 216,-84 216,-78 222,-72 228,-72 228,-72 304,-72 304,-72 310,-72 316,-78 316,-84 316,-84 316,-96 316,-96 316,-102 310,-108 304,-108" />
+<ns0:text text-anchor="middle" x="266" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.4</ns0:text>
+<ns0:text text-anchor="middle" x="266" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Carnot's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.19</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-19/index.html" ns1:title="F.19\nEqual Incircles Theorem">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M116,-36C116,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 116,0 116,0 122,0 128,-6 128,-12 128,-12 128,-24 128,-24 128,-30 122,-36 116,-36" />
+<ns0:text text-anchor="middle" x="64" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.19</ns0:text>
+<ns0:text text-anchor="middle" x="64" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Equal Incircles Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.4-&gt;F.19</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M216.84,-71.97C187.64,-61.84 150.5,-48.97 120.14,-38.45" />
+<ns0:polygon fill="#888888" stroke="#888888" points="120.79,-36.09 113.38,-36.11 119.19,-40.72 120.79,-36.09" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>F.32</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-32/index.html" ns1:title="F.32\nMarkowski's Theorem">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M252,-36C252,-36 158,-36 158,-36 152,-36 146,-30 146,-24 146,-24 146,-12 146,-12 146,-6 152,0 158,0 158,0 252,0 252,0 258,0 264,-6 264,-12 264,-12 264,-24 264,-24 264,-30 258,-36 252,-36" />
+<ns0:text text-anchor="middle" x="205" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.32</ns0:text>
+<ns0:text text-anchor="middle" x="205" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Markowski's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>F.4-&gt;F.32</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M250.92,-71.7C243.02,-62.63 233.24,-51.4 224.74,-41.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="226.35,-39.77 219.91,-36.1 222.66,-42.99 226.35,-39.77" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>F.38</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../topics/f-38/index.html" ns1:title="F.38\nPedal Triangles">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M359.5,-36C359.5,-36 294.5,-36 294.5,-36 288.5,-36 282.5,-30 282.5,-24 282.5,-24 282.5,-12 282.5,-12 282.5,-6 288.5,0 294.5,0 294.5,0 359.5,0 359.5,0 365.5,0 371.5,-6 371.5,-12 371.5,-12 371.5,-24 371.5,-24 371.5,-30 365.5,-36 359.5,-36" />
+<ns0:text text-anchor="middle" x="327" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.38</ns0:text>
+<ns0:text text-anchor="middle" x="327" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Pedal Triangles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>F.4-&gt;F.38</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M281.08,-71.7C288.98,-62.63 298.76,-51.4 307.26,-41.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="309.34,-42.99 312.09,-36.1 305.65,-39.77 309.34,-42.99" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>F.45</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../topics/f-45/index.html" ns1:title="F.45\nSquares, Subdivided Lattices, and the Japanese Theorem">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M652,-36C652,-36 402,-36 402,-36 396,-36 390,-30 390,-24 390,-24 390,-12 390,-12 390,-6 396,0 402,0 402,0 652,0 652,0 658,0 664,-6 664,-12 664,-12 664,-24 664,-24 664,-30 658,-36 652,-36" />
+<ns0:text text-anchor="middle" x="527" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.45</ns0:text>
+<ns0:text text-anchor="middle" x="527" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Squares, Subdivided Lattices, and the Japanese Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge7" class="edge">
+<ns0:title>F.4-&gt;F.45</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M316.01,-75.59C355.78,-64.92 411.89,-49.87 456.26,-37.97" />
+<ns0:polygon fill="#888888" stroke="#888888" points="457.15,-40.27 463.27,-36.09 455.88,-35.54 457.15,-40.27" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.3</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-03/index.html" ns1:title="F.3\nBiquadratic Forms in Heron's Formula">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M195,-180C195,-180 31,-180 31,-180 25,-180 19,-174 19,-168 19,-168 19,-156 19,-156 19,-150 25,-144 31,-144 31,-144 195,-144 195,-144 201,-144 207,-150 207,-156 207,-156 207,-168 207,-168 207,-174 201,-180 195,-180" />
+<ns0:text text-anchor="middle" x="113" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.3</ns0:text>
+<ns0:text text-anchor="middle" x="113" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Biquadratic Forms in Heron's Formula</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.3-&gt;F.4</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M150.43,-143.88C172.09,-133.97 199.46,-121.44 222.13,-111.07" />
+<ns0:polygon fill="#888888" stroke="#888888" points="223.35,-113.21 228.69,-108.07 221.31,-108.75 223.35,-113.21" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.11</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-11/index.html" ns1:title="F.11\nCircumcenter">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M294.5,-180C294.5,-180 237.5,-180 237.5,-180 231.5,-180 225.5,-174 225.5,-168 225.5,-168 225.5,-156 225.5,-156 225.5,-150 231.5,-144 237.5,-144 237.5,-144 294.5,-144 294.5,-144 300.5,-144 306.5,-150 306.5,-156 306.5,-156 306.5,-168 306.5,-168 306.5,-174 300.5,-180 294.5,-180" />
+<ns0:text text-anchor="middle" x="266" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.11</ns0:text>
+<ns0:text text-anchor="middle" x="266" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circumcenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.11-&gt;F.4</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M266,-143.7C266,-135.14 266,-124.66 266,-115.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="268.45,-115.1 266,-108.1 263.55,-115.1 268.45,-115.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.28</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-28/index.html" ns1:title="F.28\nIncenter">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M371,-180C371,-180 337,-180 337,-180 331,-180 325,-174 325,-168 325,-168 325,-156 325,-156 325,-150 331,-144 337,-144 337,-144 371,-144 371,-144 377,-144 383,-150 383,-156 383,-156 383,-168 383,-168 383,-174 377,-180 371,-180" />
+<ns0:text text-anchor="middle" x="354" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.28</ns0:text>
+<ns0:text text-anchor="middle" x="354" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Incenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.28-&gt;F.4</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M332.25,-143.7C320.42,-134.29 305.68,-122.56 293.11,-112.56" />
+<ns0:polygon fill="#888888" stroke="#888888" points="294.51,-110.54 287.5,-108.1 291.46,-114.38 294.51,-110.54" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

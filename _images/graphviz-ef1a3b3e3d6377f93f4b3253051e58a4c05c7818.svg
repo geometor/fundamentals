@@ -1,0 +1,79 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="433pt" height="188pt" viewBox="0.00 0.00 433.00 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.9</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-09/index.html" ns1:title="F.9\nCircle Equations">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M238,-108C238,-108 167,-108 167,-108 161,-108 155,-102 155,-96 155,-96 155,-84 155,-84 155,-78 161,-72 167,-72 167,-72 238,-72 238,-72 244,-72 250,-78 250,-84 250,-84 250,-96 250,-96 250,-102 244,-108 238,-108" />
+<ns0:text text-anchor="middle" x="202.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.9</ns0:text>
+<ns0:text text-anchor="middle" x="202.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circle Equations</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.10</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-10/index.html" ns1:title="F.10\nCircles and Geometric Mean">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M135,-36C135,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 135,0 135,0 141,0 147,-6 147,-12 147,-12 147,-24 147,-24 147,-30 141,-36 135,-36" />
+<ns0:text text-anchor="middle" x="73.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.10</ns0:text>
+<ns0:text text-anchor="middle" x="73.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circles and Geometric Mean</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.9-&gt;F.10</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M170.94,-71.88C152.98,-62.13 130.36,-49.86 111.44,-39.59" />
+<ns0:polygon fill="#888888" stroke="#888888" points="112.5,-37.37 105.18,-36.19 110.16,-41.68 112.5,-37.37" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.24</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-24/index.html" ns1:title="F.24\nGothic Arch">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M227.5,-36C227.5,-36 177.5,-36 177.5,-36 171.5,-36 165.5,-30 165.5,-24 165.5,-24 165.5,-12 165.5,-12 165.5,-6 171.5,0 177.5,0 177.5,0 227.5,0 227.5,0 233.5,0 239.5,-6 239.5,-12 239.5,-12 239.5,-24 239.5,-24 239.5,-30 233.5,-36 227.5,-36" />
+<ns0:text text-anchor="middle" x="202.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.24</ns0:text>
+<ns0:text text-anchor="middle" x="202.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Gothic Arch</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.9-&gt;F.24</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M202.5,-71.7C202.5,-63.14 202.5,-52.66 202.5,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="204.95,-43.1 202.5,-36.1 200.05,-43.1 204.95,-43.1" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.43</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-43/index.html" ns1:title="F.43\nRadical Axes and Radical Center">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M413,-36C413,-36 270,-36 270,-36 264,-36 258,-30 258,-24 258,-24 258,-12 258,-12 258,-6 264,0 270,0 270,0 413,0 413,0 419,0 425,-6 425,-12 425,-12 425,-24 425,-24 425,-30 419,-36 413,-36" />
+<ns0:text text-anchor="middle" x="341.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.43</ns0:text>
+<ns0:text text-anchor="middle" x="341.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Radical Axes and Radical Center</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.9-&gt;F.43</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M236.5,-71.88C255.94,-62.09 280.44,-49.75 300.88,-39.45" />
+<ns0:polygon fill="#888888" stroke="#888888" points="302.22,-41.53 307.37,-36.19 300.01,-37.15 302.22,-41.53" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.8</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-08/index.html" ns1:title="F.8\nChord Intersection">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M242,-180C242,-180 163,-180 163,-180 157,-180 151,-174 151,-168 151,-168 151,-156 151,-156 151,-150 157,-144 163,-144 163,-144 242,-144 242,-144 248,-144 254,-150 254,-156 254,-156 254,-168 254,-168 254,-174 248,-180 242,-180" />
+<ns0:text text-anchor="middle" x="202.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.8</ns0:text>
+<ns0:text text-anchor="middle" x="202.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Chord Intersection</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.8-&gt;F.9</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M202.5,-143.7C202.5,-135.14 202.5,-124.66 202.5,-115.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="204.95,-115.1 202.5,-108.1 200.05,-115.1 204.95,-115.1" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

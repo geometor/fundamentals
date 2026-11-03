@@ -1,0 +1,31 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="184pt" height="116pt" viewBox="0.00 0.00 184.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.53</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-53/index.html" ns1:title="F.53\nGeometric Half-Angle Trigonometry">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M164,-36C164,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 164,0 164,0 170,0 176,-6 176,-12 176,-12 176,-24 176,-24 176,-30 170,-36 164,-36" />
+<ns0:text text-anchor="middle" x="88" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.53</ns0:text>
+<ns0:text text-anchor="middle" x="88" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Geometric Half-Angle Trigonometry</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.10</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-10/index.html" ns1:title="F.10\nCircles and Geometric Mean">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M149.5,-108C149.5,-108 26.5,-108 26.5,-108 20.5,-108 14.5,-102 14.5,-96 14.5,-96 14.5,-84 14.5,-84 14.5,-78 20.5,-72 26.5,-72 26.5,-72 149.5,-72 149.5,-72 155.5,-72 161.5,-78 161.5,-84 161.5,-84 161.5,-96 161.5,-96 161.5,-102 155.5,-108 149.5,-108" />
+<ns0:text text-anchor="middle" x="88" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.10</ns0:text>
+<ns0:text text-anchor="middle" x="88" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circles and Geometric Mean</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.10-&gt;F.53</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M88,-71.7C88,-63.14 88,-52.66 88,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="90.45,-43.1 88,-36.1 85.55,-43.1 90.45,-43.1" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

@@ -1,0 +1,127 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="1383pt" height="188pt" viewBox="0.00 0.00 1382.50 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.14</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-14/index.html" ns1:title="F.14\nConway Notation">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M520.5,-108C520.5,-108 446.5,-108 446.5,-108 440.5,-108 434.5,-102 434.5,-96 434.5,-96 434.5,-84 434.5,-84 434.5,-78 440.5,-72 446.5,-72 446.5,-72 520.5,-72 520.5,-72 526.5,-72 532.5,-78 532.5,-84 532.5,-84 532.5,-96 532.5,-96 532.5,-102 526.5,-108 520.5,-108" />
+<ns0:text text-anchor="middle" x="483.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.14</ns0:text>
+<ns0:text text-anchor="middle" x="483.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Conway Notation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.21</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-21/index.html" ns1:title="F.21\nFermat Point">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M67,-36C67,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 67,0 67,0 73,0 79,-6 79,-12 79,-12 79,-24 79,-24 79,-30 73,-36 67,-36" />
+<ns0:text text-anchor="middle" x="39.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.21</ns0:text>
+<ns0:text text-anchor="middle" x="39.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Fermat Point</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.14-&gt;F.21</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M434.44,-85.72C359.01,-79.94 210.39,-65.65 87.5,-36 86.98,-35.88 86.47,-35.75 85.95,-35.62" />
+<ns0:polygon fill="#888888" stroke="#888888" points="86.52,-33.23 79.12,-33.75 85.22,-37.96 86.52,-33.23" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.29</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-29/index.html" ns1:title="F.29\nInradius">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M142,-36C142,-36 109,-36 109,-36 103,-36 97,-30 97,-24 97,-24 97,-12 97,-12 97,-6 103,0 109,0 109,0 142,0 142,0 148,0 154,-6 154,-12 154,-12 154,-24 154,-24 154,-30 148,-36 142,-36" />
+<ns0:text text-anchor="middle" x="125.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.29</ns0:text>
+<ns0:text text-anchor="middle" x="125.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Inradius</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.14-&gt;F.29</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M434.37,-84.81C370.78,-78.5 257.06,-64.16 163.5,-36 162.64,-35.74 161.78,-35.47 160.92,-35.18" />
+<ns0:polygon fill="#888888" stroke="#888888" points="161.67,-32.85 154.25,-32.78 160.01,-37.46 161.67,-32.85" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.48</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-48/index.html" ns1:title="F.48\nVerisimilitude, Corner Subtriangles, and Excircle Homothety">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M444.5,-36C444.5,-36 184.5,-36 184.5,-36 178.5,-36 172.5,-30 172.5,-24 172.5,-24 172.5,-12 172.5,-12 172.5,-6 178.5,0 184.5,0 184.5,0 444.5,0 444.5,0 450.5,0 456.5,-6 456.5,-12 456.5,-12 456.5,-24 456.5,-24 456.5,-30 450.5,-36 444.5,-36" />
+<ns0:text text-anchor="middle" x="314.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.48</ns0:text>
+<ns0:text text-anchor="middle" x="314.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Verisimilitude, Corner Subtriangles, and Excircle Homothety</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.14-&gt;F.48</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M442.16,-71.88C418.03,-61.88 387.48,-49.23 362.32,-38.81" />
+<ns0:polygon fill="#888888" stroke="#888888" points="363.11,-36.48 355.71,-36.07 361.24,-41.01 363.11,-36.48" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>F.50</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-50/index.html" ns1:title="F.50\nAltitudes, Mitchell's Reciprocal Heron Formula, and the Symphonic Theorem">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M818.5,-36C818.5,-36 486.5,-36 486.5,-36 480.5,-36 474.5,-30 474.5,-24 474.5,-24 474.5,-12 474.5,-12 474.5,-6 480.5,0 486.5,0 486.5,0 818.5,0 818.5,0 824.5,0 830.5,-6 830.5,-12 830.5,-12 830.5,-24 830.5,-24 830.5,-30 824.5,-36 818.5,-36" />
+<ns0:text text-anchor="middle" x="652.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.50</ns0:text>
+<ns0:text text-anchor="middle" x="652.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Altitudes, Mitchell's Reciprocal Heron Formula, and the Symphonic Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>F.14-&gt;F.50</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M524.84,-71.88C548.97,-61.88 579.52,-49.23 604.68,-38.81" />
+<ns0:polygon fill="#888888" stroke="#888888" points="605.76,-41.01 611.29,-36.07 603.89,-36.48 605.76,-41.01" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>F.52</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../topics/f-52/index.html" ns1:title="F.52\nHomogeneous Barycentric Coordinates">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M1030.5,-36C1030.5,-36 860.5,-36 860.5,-36 854.5,-36 848.5,-30 848.5,-24 848.5,-24 848.5,-12 848.5,-12 848.5,-6 854.5,0 860.5,0 860.5,0 1030.5,0 1030.5,0 1036.5,0 1042.5,-6 1042.5,-12 1042.5,-12 1042.5,-24 1042.5,-24 1042.5,-30 1036.5,-36 1030.5,-36" />
+<ns0:text text-anchor="middle" x="945.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.52</ns0:text>
+<ns0:text text-anchor="middle" x="945.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Homogeneous Barycentric Coordinates</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>F.14-&gt;F.52</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M532.76,-81.84C601.49,-71.82 730.04,-52.92 839.5,-36 840.14,-35.9 840.79,-35.8 841.44,-35.7" />
+<ns0:polygon fill="#888888" stroke="#888888" points="841.92,-38.1 848.46,-34.61 841.17,-33.26 841.92,-38.1" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>F.55</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../topics/f-55/index.html" ns1:title="F.55\nCompass Constructions and Angle-to-Side Triangle Reconstruction">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M1362.5,-36C1362.5,-36 1072.5,-36 1072.5,-36 1066.5,-36 1060.5,-30 1060.5,-24 1060.5,-24 1060.5,-12 1060.5,-12 1060.5,-6 1066.5,0 1072.5,0 1072.5,0 1362.5,0 1362.5,0 1368.5,0 1374.5,-6 1374.5,-12 1374.5,-12 1374.5,-24 1374.5,-24 1374.5,-30 1368.5,-36 1362.5,-36" />
+<ns0:text text-anchor="middle" x="1217.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.55</ns0:text>
+<ns0:text text-anchor="middle" x="1217.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Compass Constructions and Angle-to-Side Triangle Reconstruction</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge7" class="edge">
+<ns0:title>F.14-&gt;F.55</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M532.52,-84.58C630.93,-75.66 859.54,-54.79 1051.5,-36 1052.04,-35.95 1052.58,-35.89 1053.12,-35.84" />
+<ns0:polygon fill="#888888" stroke="#888888" points="1053.5,-38.27 1060.23,-35.14 1053.02,-33.39 1053.5,-38.27" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.3</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-03/index.html" ns1:title="F.3\nBiquadratic Forms in Heron's Formula">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M565.5,-180C565.5,-180 401.5,-180 401.5,-180 395.5,-180 389.5,-174 389.5,-168 389.5,-168 389.5,-156 389.5,-156 389.5,-150 395.5,-144 401.5,-144 401.5,-144 565.5,-144 565.5,-144 571.5,-144 577.5,-150 577.5,-156 577.5,-156 577.5,-168 577.5,-168 577.5,-174 571.5,-180 565.5,-180" />
+<ns0:text text-anchor="middle" x="483.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.3</ns0:text>
+<ns0:text text-anchor="middle" x="483.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Biquadratic Forms in Heron's Formula</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.3-&gt;F.14</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M483.5,-143.7C483.5,-135.14 483.5,-124.66 483.5,-115.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="485.95,-115.1 483.5,-108.1 481.05,-115.1 485.95,-115.1" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

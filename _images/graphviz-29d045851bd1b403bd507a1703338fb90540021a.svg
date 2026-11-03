@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="246pt" height="116pt" viewBox="0.00 0.00 246.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.26</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-26/index.html" ns1:title="F.26\nHarmonic Conjugate Inversion">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M181,-36C181,-36 50,-36 50,-36 44,-36 38,-30 38,-24 38,-24 38,-12 38,-12 38,-6 44,0 50,0 50,0 181,0 181,0 187,0 193,-6 193,-12 193,-12 193,-24 193,-24 193,-30 187,-36 181,-36" />
+<ns0:text text-anchor="middle" x="115.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.26</ns0:text>
+<ns0:text text-anchor="middle" x="115.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Conjugate Inversion</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.8</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-08/index.html" ns1:title="F.8\nChord Intersection">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M91,-108C91,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 91,-72 91,-72 97,-72 103,-78 103,-84 103,-84 103,-96 103,-96 103,-102 97,-108 91,-108" />
+<ns0:text text-anchor="middle" x="51.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.8</ns0:text>
+<ns0:text text-anchor="middle" x="51.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Chord Intersection</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.8-&gt;F.26</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M67.32,-71.7C75.69,-62.54 86.07,-51.19 95.04,-41.38" />
+<ns0:polygon fill="#888888" stroke="#888888" points="96.95,-42.92 99.86,-36.1 93.33,-39.62 96.95,-42.92" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.25</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-25/index.html" ns1:title="F.25\nHarmonic Conjugates">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M226,-108C226,-108 133,-108 133,-108 127,-108 121,-102 121,-96 121,-96 121,-84 121,-84 121,-78 127,-72 133,-72 133,-72 226,-72 226,-72 232,-72 238,-78 238,-84 238,-84 238,-96 238,-96 238,-102 232,-108 226,-108" />
+<ns0:text text-anchor="middle" x="179.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.25</ns0:text>
+<ns0:text text-anchor="middle" x="179.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Conjugates</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.25-&gt;F.26</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M163.68,-71.7C155.31,-62.54 144.93,-51.19 135.96,-41.38" />
+<ns0:polygon fill="#888888" stroke="#888888" points="137.67,-39.62 131.14,-36.1 134.05,-42.92 137.67,-39.62" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

@@ -1,0 +1,54 @@
+geometor.fundamentals.folio_review
+==================================
+
+.. py:module:: geometor.fundamentals.folio_review
+
+.. autoapi-nested-parse::
+
+   Interactive Folio Review server and CLI inspector for the Fred W. Seelig archive.
+
+   Provides a lightweight Flask web interface and Rich CLI summary for inspecting
+   the 353 scanned folios (`0001.jpg`–`0353.jpg`), their diplomatic `.rst`
+   transcriptions, `.notes.rst` commentary, and review status in
+   `resources/seelig/folio_reviews.json`.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.fundamentals.folio_review.get_repo_root
+   geometor.fundamentals.folio_review.summarize_folios
+   geometor.fundamentals.folio_review.main
+
+
+Module Contents
+---------------
+
+.. py:function:: get_repo_root() -> pathlib.Path
+
+   Resolve the root directory of `geometor/fundamentals`.
+
+   :returns: Absolute `Path` to the repository root.
+
+
+.. py:function:: summarize_folios(repo_root: pathlib.Path | None = None) -> dict[str, int]
+
+   Print a Rich summary table of the 55 topic folders and 353 folios.
+
+   :param repo_root: Optional repository root path.
+
+   :returns: Dictionary of summary counts (`topics`, `folios`, `verified`).
+
+
+.. py:function:: main(argv: list[str] | None = None) -> int
+
+   CLI entry point for `fundamentals-review`.
+
+   :param argv: Optional list of command-line arguments.
+
+   :returns: Process exit code (`0` on success).
+
+

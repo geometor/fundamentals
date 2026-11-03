@@ -1,0 +1,95 @@
+geometor.fundamentals.spreadsheets
+==================================
+
+.. py:module:: geometor.fundamentals.spreadsheets
+
+.. autoapi-nested-parse::
+
+   OpenDocument Spreadsheet (.ods) parser and RST generator for the Seelig archive.
+
+   Extracts worksheet metadata, cell values, and OpenFormula expressions from
+   Fred W. Seelig's computational geometry workbooks (`Triangles and Circles.ods`,
+   `circumcircle-circumcenter.ods`, and `triangle-basics-draw.ods`) and compiles
+   both structured JSON (`resources/spreadsheets/worksheets.json`) and Sphinx
+   ReStructuredText documentation (`docsrc/spreadsheets/index.rst`).
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.fundamentals.spreadsheets.ODS_NS
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.fundamentals.spreadsheets.clean_formula
+   geometor.fundamentals.spreadsheets.parse_ods_file
+   geometor.fundamentals.spreadsheets.build_spreadsheets_index
+   geometor.fundamentals.spreadsheets.format_sheet_rst_dropdown
+   geometor.fundamentals.spreadsheets.generate_spreadsheets_rst
+
+
+Module Contents
+---------------
+
+.. py:data:: ODS_NS
+   :type:  dict[str, str]
+
+.. py:function:: clean_formula(formula: str) -> str
+
+   Normalize an OpenFormula string into clean human-readable notation.
+
+   :param formula: Raw `table:formula` attribute from an `.ods` cell.
+
+   :returns: Cleaned formula string starting with `=`.
+
+
+.. py:function:: parse_ods_file(ods_path: pathlib.Path, max_rows: int = 45, max_cols: int = 12) -> list[dict[str, object]]
+
+   Parse an OpenDocument Spreadsheet (`.ods`) into worksheet dictionaries.
+
+   :param ods_path: Path to the `.ods` file on disk.
+   :param max_rows: Maximum number of rows to inspect per sheet.
+   :param max_cols: Maximum number of columns to inspect per row.
+
+   :returns: List of dictionaries describing each worksheet, its dimensions,
+             extracted formulas, and preview table rows.
+
+
+.. py:function:: build_spreadsheets_index(spreadsheets_dir: pathlib.Path, output_json: pathlib.Path) -> dict[str, object]
+
+   Parse all `.ods` workbooks in `spreadsheets_dir` and write `worksheets.json`.
+
+   :param spreadsheets_dir: Directory containing migrated `.ods` files.
+   :param output_json: Destination path for `worksheets.json`.
+
+   :returns: Dictionary mapping workbook names and worksheet names to extracted data.
+
+
+.. py:function:: format_sheet_rst_dropdown(sheet: dict[str, object], open_by_default: bool = False) -> list[str]
+
+   Render a collapsible RST `.. dropdown::` summarizing a single worksheet.
+
+   :param sheet: Parsed worksheet dictionary from :func:`parse_ods_file`.
+   :param open_by_default: Whether to add `:open:` to the dropdown directive.
+
+   :returns: List of RST lines representing the collapsible worksheet table.
+
+
+.. py:function:: generate_spreadsheets_rst(spreadsheets_payload: dict[str, object], sheet_to_topics: dict[str, list[tuple[str, str]]], docsrc_dir: pathlib.Path) -> pathlib.Path
+
+   Generate `docsrc/spreadsheets/index.rst` documenting all Seelig workbooks.
+
+   :param spreadsheets_payload: Dictionary returned by :func:`build_spreadsheets_index`.
+   :param sheet_to_topics: Mapping of worksheet name to list of `(topic_id, title)`.
+   :param docsrc_dir: Path to `docsrc/`.
+
+   :returns: Path to the generated `docsrc/spreadsheets/index.rst`.
+
+

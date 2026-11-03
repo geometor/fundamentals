@@ -1,0 +1,79 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="279pt" height="188pt" viewBox="0.00 0.00 279.00 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.37</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-37/index.html" ns1:title="F.37\nEuler's Inradius Parabola">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M209,-108C209,-108 102,-108 102,-108 96,-108 90,-102 90,-96 90,-96 90,-84 90,-84 90,-78 96,-72 102,-72 102,-72 209,-72 209,-72 215,-72 221,-78 221,-84 221,-84 221,-96 221,-96 221,-102 215,-108 209,-108" />
+<ns0:text text-anchor="middle" x="155.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.37</ns0:text>
+<ns0:text text-anchor="middle" x="155.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Euler's Inradius Parabola</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.41</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-41/index.html" ns1:title="F.41\nGeometric Problems and Extremal Loci">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M240.5,-36C240.5,-36 70.5,-36 70.5,-36 64.5,-36 58.5,-30 58.5,-24 58.5,-24 58.5,-12 58.5,-12 58.5,-6 64.5,0 70.5,0 70.5,0 240.5,0 240.5,0 246.5,0 252.5,-6 252.5,-12 252.5,-12 252.5,-24 252.5,-24 252.5,-30 246.5,-36 240.5,-36" />
+<ns0:text text-anchor="middle" x="155.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.41</ns0:text>
+<ns0:text text-anchor="middle" x="155.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Geometric Problems and Extremal Loci</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.37-&gt;F.41</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M155.5,-71.7C155.5,-63.14 155.5,-52.66 155.5,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="157.95,-43.1 155.5,-36.1 153.05,-43.1 157.95,-43.1" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.1</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-01/index.html" ns1:title="F.1\nAlbert's Parabola">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M85,-180C85,-180 12,-180 12,-180 6,-180 0,-174 0,-168 0,-168 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 85,-144 85,-144 91,-144 97,-150 97,-156 97,-156 97,-168 97,-168 97,-174 91,-180 85,-180" />
+<ns0:text text-anchor="middle" x="48.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.1</ns0:text>
+<ns0:text text-anchor="middle" x="48.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Albert's Parabola</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.1-&gt;F.37</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M74.68,-143.88C89.31,-134.3 107.68,-122.28 123.21,-112.13" />
+<ns0:polygon fill="#888888" stroke="#888888" points="124.71,-114.07 129.22,-108.19 122.03,-109.97 124.71,-114.07" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.11</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-11/index.html" ns1:title="F.11\nCircumcenter">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M184,-180C184,-180 127,-180 127,-180 121,-180 115,-174 115,-168 115,-168 115,-156 115,-156 115,-150 121,-144 127,-144 127,-144 184,-144 184,-144 190,-144 196,-150 196,-156 196,-156 196,-168 196,-168 196,-174 190,-180 184,-180" />
+<ns0:text text-anchor="middle" x="155.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.11</ns0:text>
+<ns0:text text-anchor="middle" x="155.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circumcenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.11-&gt;F.37</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M155.5,-143.7C155.5,-135.14 155.5,-124.66 155.5,-115.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="157.95,-115.1 155.5,-108.1 153.05,-115.1 157.95,-115.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.29</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-29/index.html" ns1:title="F.29\nInradius">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M259,-180C259,-180 226,-180 226,-180 220,-180 214,-174 214,-168 214,-168 214,-156 214,-156 214,-150 220,-144 226,-144 226,-144 259,-144 259,-144 265,-144 271,-150 271,-156 271,-156 271,-168 271,-168 271,-174 265,-180 259,-180" />
+<ns0:text text-anchor="middle" x="242.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.29</ns0:text>
+<ns0:text text-anchor="middle" x="242.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Inradius</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.29-&gt;F.37</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M220.99,-143.7C209.3,-134.29 194.73,-122.56 182.3,-112.56" />
+<ns0:polygon fill="#888888" stroke="#888888" points="183.75,-110.58 176.76,-108.1 180.68,-114.4 183.75,-110.58" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

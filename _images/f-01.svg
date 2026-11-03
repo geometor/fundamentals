@@ -1,0 +1,320 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="fundamentals-diagram" viewBox="-6.1000 -7.8500 13.2000 11.7000">
+  <style>
+. explorer-canvas, svg.fundamentals-diagram {
+    background-color: #111111;
+    border: 1px solid #333;
+    border-radius: 6px;
+    width: 100%;
+    height: auto;
+    max-height: 540px;
+    display: block;
+    margin: 0.5rem auto;
+    user-select: none;
+    overflow: hidden;
+    cursor: grab;
+}
+svg.fundamentals-diagram:active {
+    cursor: grabbing;
+}
+@media (prefers-color-scheme: light) {
+    svg.fundamentals-diagram {
+        background-color: #fafafa;
+        border-color: #ddd;
+    }
+    svg.fundamentals-diagram .Point {
+        stroke: #fafafa !important;
+    }
+    svg.fundamentals-diagram .Point.given {
+        fill: #111111 !important;
+    }
+    svg.fundamentals-diagram .label-halo {
+        stroke: #fafafa !important;
+    }
+    svg.fundamentals-diagram .label-fill {
+        fill: #111111 !important;
+    }
+    svg.fundamentals-diagram .Line,
+    svg.fundamentals-diagram .Segment {
+        stroke: #555555;
+    }
+}
+.Line, .Segment {
+    stroke: #999999;
+    stroke-linecap: round;
+    vector-effect: non-scaling-stroke;
+    stroke-width: 1.2px;
+    fill: none;
+    opacity: 0.78;
+    transition: stroke-width 0.15s ease, opacity 0.15s ease, filter 0.15s ease;
+}
+.Circle, .Curve {
+    stroke: #c93b76;
+    vector-effect: non-scaling-stroke;
+    stroke-width: 1.25px;
+    fill: none;
+    opacity: 0.82;
+    transition: stroke-width 0.15s ease, opacity 0.15s ease, filter 0.15s ease;
+}
+.Polygon {
+    fill: rgba(70, 130, 180, 0.10);
+    stroke: #5c9fd6;
+    vector-effect: non-scaling-stroke;
+    stroke-width: 1.8px;
+    stroke-linejoin: round;
+    transition: stroke-width 0.15s ease, fill-opacity 0.15s ease;
+}
+.Point {
+    fill: #e5c07b;
+    stroke: #111111;
+    vector-effect: non-scaling-stroke;
+    stroke-width: 1.4px;
+    transition: r 0.15s ease, filter 0.15s ease;
+}
+.Point.given {
+    fill: #ffffff;
+}
+.Point.focus, .Point.center, .Point.target {
+    fill: #00e5ff;
+}
+.Point.harmonic, .Point.conjugate {
+    fill: #ff5252;
+}
+.Point.midpoint, .Point.foot {
+    fill: #98c379;
+}
+.Line.guide, .Circle.guide, .Segment.guide {
+    stroke-dasharray: 4 4;
+    opacity: 0.42;
+    stroke-width: 0.9px;
+}
+.Line.reference, .Segment.reference {
+    stroke: #5c9fd6;
+    stroke-width: 1.8px;
+    opacity: 0.9;
+}
+.Line.euler, .Line.axis, .Segment.euler, .Segment.axis {
+    stroke: #e06c75;
+    stroke-width: 1.8px;
+    opacity: 0.92;
+}
+.Line.cevian, .Segment.cevian, .Segment.altitude, .Segment.median, .Segment.bisector {
+    stroke: #98c379;
+    stroke-width: 1.4px;
+    opacity: 0.85;
+}
+.Circle.circumcircle {
+    stroke: #e06c75;
+    stroke-width: 1.5px;
+}
+.Circle.incircle, .Circle.excircle {
+    stroke: #e5c07b;
+    stroke-width: 1.5px;
+}
+.Circle.ninepoint, .Circle.apollonius, .Circle.coaxial {
+    stroke: #61afef;
+    stroke-width: 1.5px;
+}
+.Curve.parabola, .Curve.ellipse, .Curve.hyperbola {
+    stroke: #c678dd;
+    stroke-width: 2.0px;
+    opacity: 0.95;
+}
+.element-group {
+    cursor: pointer;
+}
+.element-group.svg-hovered .Line,
+.element-group.svg-hovered .Segment,
+.element-group.svg-hovered .Circle,
+.element-group.svg-hovered .Curve,
+.element-group.svg-hovered .Polygon {
+    stroke: #00e5ff !important;
+    stroke-width: 2.8px !important;
+    opacity: 1.0 !important;
+    filter: drop-shadow(0 0 5px rgba(0, 229, 255, 0.75));
+}
+.element-group.svg-hovered .Point {
+    fill: #00e5ff !important;
+    filter: drop-shadow(0 0 6px rgba(0, 229, 255, 0.9));
+}
+.geom-ref {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-weight: 600;
+    padding: 0.05em 0.3em;
+    border-radius: 3px;
+    background: rgba(97, 175, 239, 0.14);
+    color: #61afef;
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+.geom-ref:hover, .geom-ref.ref-hovered {
+    background: #00e5ff;
+    color: #111111;
+}
+.svg-control-btn {
+    cursor: pointer;
+}
+.svg-control-btn rect {
+    fill: rgba(30, 30, 30, 0.82);
+    stroke: #555;
+    stroke-width: 1px;
+    rx: 3px;
+}
+.svg-control-btn:hover rect {
+    fill: rgba(60, 60, 60, 0.95);
+    stroke: #00e5ff;
+}
+.svg-control-btn text {
+    fill: #ddd;
+    font-family: sans-serif;
+    font-size: 9px;
+    font-weight: 600;
+    text-anchor: middle;
+    dominant-baseline: central;
+    pointer-events: none;
+}
+svg.hide-labels .labels-layer {
+    display: none;
+}
+svg.hide-guides .guide {
+    display: none;
+}
+</style>
+  <g class="svg-viewport">
+    <g class="polygons-layer">
+    </g>
+    <g class="circles-layer">
+    </g>
+    <g class="curves-layer">
+    <g class="element-group" data-ref="parabola"><path class="Curve parabola" d="M-4.4000,-4.8400 L-4.2000,-4.4100 L-4.0000,-4.0000 L-3.8000,-3.6100 L-3.6000,-3.2400 L-3.4000,-2.8900 L-3.2000,-2.5600 L-3.0000,-2.2500 L-2.8000,-1.9600 L-2.6000,-1.6900 L-2.4000,-1.4400 L-2.2000,-1.2100 L-2.0000,-1.0000 L-1.8000,-0.8100 L-1.6000,-0.6400 L-1.4000,-0.4900 L-1.2000,-0.3600 L-1.0000,-0.2500 L-0.8000,-0.1600 L-0.6000,-0.0900 L-0.4000,-0.0400 L-0.2000,-0.0100 L0.0000,-0.0000 L0.2000,-0.0100 L0.4000,-0.0400 L0.6000,-0.0900 L0.8000,-0.1600 L1.0000,-0.2500 L1.2000,-0.3600 L1.4000,-0.4900 L1.6000,-0.6400 L1.8000,-0.8100 L2.0000,-1.0000 L2.2000,-1.2100 L2.4000,-1.4400 L2.6000,-1.6900 L2.8000,-1.9600 L3.0000,-2.2500 L3.2000,-2.5600 L3.4000,-2.8900 L3.6000,-3.2400 L3.8000,-3.6100 L4.0000,-4.0000 L4.2000,-4.4100 L4.4000,-4.8400 L4.6000,-5.2900 L4.8000,-5.7600 L5.0000,-6.2500"><title>parabola</title></path></g>
+    </g>
+    <g class="lines-layer">
+    <g class="element-group" data-ref="directrix"><line class="Line axis" x1="-29.5000" y1="1.0000" x2="20.5000" y2="1.0000"><title>directrix</title></line></g>
+    <g class="element-group" data-ref="axis"><line class="Line guide" x1="0.0000" y1="25.0000" x2="0.0000" y2="-25.0000"><title>axis</title></line></g>
+    <g class="element-group" data-ref="/ F P /"><line class="Segment cevian" x1="0.0000" y1="-1.0000" x2="3.0000" y2="-2.2500"><title>/ F P /</title></line></g>
+    <g class="element-group" data-ref="/ P Q /"><line class="Segment cevian" x1="3.0000" y1="-2.2500" x2="3.0000" y2="1.0000"><title>/ P Q /</title></line></g>
+    <g class="element-group" data-ref="/ F Q /"><line class="Segment guide" x1="0.0000" y1="-1.0000" x2="3.0000" y2="1.0000"><title>/ F Q /</title></line></g>
+    <g class="element-group" data-ref="tangent"><line class="Line euler" x1="-13.8675" y1="23.0513" x2="13.8675" y2="-18.5513"><title>tangent</title></line></g>
+    </g>
+    <g class="points-layer">
+    <g class="element-group" data-ref="V"><circle class="Point given" cx="0.0000" cy="-0.0000" r="0.1943"><title>V (0.000, 0.000)</title></circle></g>
+    <g class="element-group" data-ref="F"><circle class="Point focus" cx="0.0000" cy="-1.0000" r="0.1943"><title>F (0.000, 1.000)</title></circle></g>
+    <g class="element-group" data-ref="D_1"><circle class="Point guide" cx="-4.5000" cy="1.0000" r="0.1518"><title>D_1 (-4.500, -1.000)</title></circle></g>
+    <g class="element-group" data-ref="D_2"><circle class="Point guide" cx="5.5000" cy="1.0000" r="0.1518"><title>D_2 (5.500, -1.000)</title></circle></g>
+    <g class="element-group" data-ref="P"><circle class="Point target" cx="3.0000" cy="-2.2500" r="0.1518"><title>P (3.000, 2.250)</title></circle></g>
+    <g class="element-group" data-ref="Q"><circle class="Point foot" cx="3.0000" cy="1.0000" r="0.1518"><title>Q (3.000, -1.000)</title></circle></g>
+    <g class="element-group" data-ref="T"><circle class="Point midpoint" cx="0.0000" cy="2.2500" r="0.1518"><title>T (0.000, -2.250)</title></circle></g>
+    </g>
+    <g class="labels-layer">
+    <g class="element-group" data-ref="V"><text class="label-halo" x="0.2505" y="-0.2201" font-family="sans-serif" font-size="0.4092" font-weight="600" stroke="#111111" stroke-width="0.1023" stroke-linejoin="round" fill="none">V</text><text class="label-fill" x="0.2505" y="-0.2201" font-family="sans-serif" font-size="0.4092" font-weight="600" fill="#f0f0f0">V</text></g>
+    <g class="element-group" data-ref="F"><text class="label-halo" x="0.2505" y="-1.2201" font-family="sans-serif" font-size="0.4092" font-weight="600" stroke="#111111" stroke-width="0.1023" stroke-linejoin="round" fill="none">F</text><text class="label-fill" x="0.2505" y="-1.2201" font-family="sans-serif" font-size="0.4092" font-weight="600" fill="#f0f0f0">F</text></g>
+    <g class="element-group" data-ref="P"><text class="label-halo" x="3.2505" y="-2.4701" font-family="sans-serif" font-size="0.4092" font-weight="600" stroke="#111111" stroke-width="0.1023" stroke-linejoin="round" fill="none">P</text><text class="label-fill" x="3.2505" y="-2.4701" font-family="sans-serif" font-size="0.4092" font-weight="600" fill="#f0f0f0">P</text></g>
+    <g class="element-group" data-ref="Q"><text class="label-halo" x="3.2505" y="0.7799" font-family="sans-serif" font-size="0.4092" font-weight="600" stroke="#111111" stroke-width="0.1023" stroke-linejoin="round" fill="none">Q</text><text class="label-fill" x="3.2505" y="0.7799" font-family="sans-serif" font-size="0.4092" font-weight="600" fill="#f0f0f0">Q</text></g>
+    <g class="element-group" data-ref="T"><text class="label-halo" x="0.2505" y="2.0299" font-family="sans-serif" font-size="0.4092" font-weight="600" stroke="#111111" stroke-width="0.1023" stroke-linejoin="round" fill="none">T</text><text class="label-fill" x="0.2505" y="2.0299" font-family="sans-serif" font-size="0.4092" font-weight="600" fill="#f0f0f0">T</text></g>
+    </g>
+  </g>
+  <g class="svg-controls">
+    <g class="svg-control-btn" data-action="zoom-in"><rect x="2.2545" y="-7.7003" width="0.8593" height="0.5544" /><text x="2.6842" y="-7.4231" style="font-size:0.2550px">+</text></g>
+    <g class="svg-control-btn" data-action="zoom-out"><rect x="3.2137" y="-7.7003" width="0.8593" height="0.5544" /><text x="3.6433" y="-7.4231" style="font-size:0.2550px">−</text></g>
+    <g class="svg-control-btn" data-action="reset"><rect x="4.1728" y="-7.7003" width="0.8593" height="0.5544" /><text x="4.6024" y="-7.4231" style="font-size:0.2550px">⟲</text></g>
+    <g class="svg-control-btn" data-action="labels"><rect x="5.1319" y="-7.7003" width="0.8593" height="0.5544" /><text x="5.5615" y="-7.4231" style="font-size:0.2550px">Lbl</text></g>
+    <g class="svg-control-btn" data-action="guides"><rect x="6.0910" y="-7.7003" width="0.8593" height="0.5544" /><text x="6.5207" y="-7.4231" style="font-size:0.2550px">Gde</text></g>
+  </g>
+  <script>
+(function() {
+  if (window.__fundamentalsSvgInit) return;
+  window.__fundamentalsSvgInit = true;
+
+  function initDiagram(svg) {
+    if (svg.dataset.initialized) return;
+    svg.dataset.initialized = "true";
+    const vp = svg.querySelector(".svg-viewport");
+    if (!vp) return;
+
+    let scale = 1, tx = 0, ty = 0;
+    let dragging = false, startX = 0, startY = 0;
+
+    function applyTransform() {
+      vp.setAttribute("transform", `translate(${tx},${ty}) scale(${scale})`);
+    }
+
+    svg.addEventListener("wheel", function(e) {
+      e.preventDefault();
+      const rect = svg.getBoundingClientRect();
+      const vb = svg.viewBox.baseVal;
+      const mx = vb.x + ((e.clientX - rect.left) / rect.width) * vb.width;
+      const my = vb.y + ((e.clientY - rect.top) / rect.height) * vb.height;
+      const factor = e.deltaY < 0 ? 1.15 : 1 / 1.15;
+      const newScale = Math.min(Math.max(scale * factor, 0.25), 12);
+      tx = mx - (mx - tx) * (newScale / scale);
+      ty = my - (my - ty) * (newScale / scale);
+      scale = newScale;
+      applyTransform();
+    }, { passive: false });
+
+    svg.addEventListener("mousedown", function(e) {
+      if (e.target.closest(".svg-controls")) return;
+      dragging = true;
+      startX = e.clientX;
+      startY = e.clientY;
+    });
+
+    window.addEventListener("mousemove", function(e) {
+      if (!dragging) return;
+      const rect = svg.getBoundingClientRect();
+      const vb = svg.viewBox.baseVal;
+      const dx = ((e.clientX - startX) / rect.width) * vb.width;
+      const dy = ((e.clientY - startY) / rect.height) * vb.height;
+      startX = e.clientX;
+      startY = e.clientY;
+      tx += dx;
+      ty += dy;
+      applyTransform();
+    });
+
+    window.addEventListener("mouseup", function() {
+      dragging = false;
+    });
+
+    svg.querySelectorAll(".svg-control-btn").forEach(function(btn) {
+      btn.addEventListener("click", function(e) {
+        e.stopPropagation();
+        const action = btn.dataset.action;
+        if (action === "zoom-in") { scale = Math.min(scale * 1.25, 12); applyTransform(); }
+        else if (action === "zoom-out") { scale = Math.max(scale / 1.25, 0.25); applyTransform(); }
+        else if (action === "reset") { scale = 1; tx = 0; ty = 0; applyTransform(); }
+        else if (action === "labels") { svg.classList.toggle("hide-labels"); }
+        else if (action === "guides") { svg.classList.toggle("hide-guides"); }
+      });
+    });
+  }
+
+  function setupHoverSync() {
+    document.querySelectorAll("svg.fundamentals-diagram").forEach(initDiagram);
+
+    document.addEventListener("mouseover", function(e) {
+      const refEl = e.target.closest("[data-ref]");
+      if (!refEl) return;
+      const ref = refEl.dataset.ref;
+      if (!ref) return;
+      document.querySelectorAll(`.element-group[data-ref="${CSS.escape(ref)}"]`).forEach(el => el.classList.add("svg-hovered"));
+      document.querySelectorAll(`.geom-ref[data-ref="${CSS.escape(ref)}"]`).forEach(el => el.classList.add("ref-hovered"));
+    });
+
+    document.addEventListener("mouseout", function(e) {
+      const refEl = e.target.closest("[data-ref]");
+      if (!refEl) return;
+      const ref = refEl.dataset.ref;
+      if (!ref) return;
+      document.querySelectorAll(`.element-group[data-ref="${CSS.escape(ref)}"]`).forEach(el => el.classList.remove("svg-hovered"));
+      document.querySelectorAll(`.geom-ref[data-ref="${CSS.escape(ref)}"]`).forEach(el => el.classList.remove("ref-hovered"));
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", setupHoverSync);
+  } else {
+    setupHoverSync();
+  }
+})();
+</script>
+</svg>

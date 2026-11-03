@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="270pt" height="116pt" viewBox="0.00 0.00 270.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.17</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-17/index.html" ns1:title="F.17\nEllipse">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M133.5,-36C133.5,-36 103.5,-36 103.5,-36 97.5,-36 91.5,-30 91.5,-24 91.5,-24 91.5,-12 91.5,-12 91.5,-6 97.5,0 103.5,0 103.5,0 133.5,0 133.5,0 139.5,0 145.5,-6 145.5,-12 145.5,-12 145.5,-24 145.5,-24 145.5,-30 139.5,-36 133.5,-36" />
+<ns0:text text-anchor="middle" x="118.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.17</ns0:text>
+<ns0:text text-anchor="middle" x="118.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ellipse</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.1</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-01/index.html" ns1:title="F.1\nAlbert's Parabola">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M85,-108C85,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 85,-72 85,-72 91,-72 97,-78 97,-84 97,-84 97,-96 97,-96 97,-102 91,-108 85,-108" />
+<ns0:text text-anchor="middle" x="48.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.1</ns0:text>
+<ns0:text text-anchor="middle" x="48.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Albert's Parabola</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.1-&gt;F.17</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M65.8,-71.7C75.04,-62.46 86.52,-50.98 96.39,-41.11" />
+<ns0:polygon fill="#888888" stroke="#888888" points="98.18,-42.79 101.4,-36.1 94.71,-39.32 98.18,-42.79" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.10</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-10/index.html" ns1:title="F.10\nCircles and Geometric Mean">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M250,-108C250,-108 127,-108 127,-108 121,-108 115,-102 115,-96 115,-96 115,-84 115,-84 115,-78 121,-72 127,-72 127,-72 250,-72 250,-72 256,-72 262,-78 262,-84 262,-84 262,-96 262,-96 262,-102 256,-108 250,-108" />
+<ns0:text text-anchor="middle" x="188.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.10</ns0:text>
+<ns0:text text-anchor="middle" x="188.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circles and Geometric Mean</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.10-&gt;F.17</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M171.2,-71.7C161.96,-62.46 150.48,-50.98 140.61,-41.11" />
+<ns0:polygon fill="#888888" stroke="#888888" points="142.29,-39.32 135.6,-36.1 138.82,-42.79 142.29,-39.32" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

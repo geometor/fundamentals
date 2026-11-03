@@ -1,0 +1,47 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="212pt" height="116pt" viewBox="0.00 0.00 212.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.38</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-38/index.html" ns1:title="F.38\nPedal Triangles">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M137.5,-36C137.5,-36 72.5,-36 72.5,-36 66.5,-36 60.5,-30 60.5,-24 60.5,-24 60.5,-12 60.5,-12 60.5,-6 66.5,0 72.5,0 72.5,0 137.5,0 137.5,0 143.5,0 149.5,-6 149.5,-12 149.5,-12 149.5,-24 149.5,-24 149.5,-30 143.5,-36 137.5,-36" />
+<ns0:text text-anchor="middle" x="105" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.38</ns0:text>
+<ns0:text text-anchor="middle" x="105" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Pedal Triangles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.4</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-04/index.html" ns1:title="F.4\nCarnot's Theorem">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M88,-108C88,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 88,-72 88,-72 94,-72 100,-78 100,-84 100,-84 100,-96 100,-96 100,-102 94,-108 88,-108" />
+<ns0:text text-anchor="middle" x="50" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.4</ns0:text>
+<ns0:text text-anchor="middle" x="50" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Carnot's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.4-&gt;F.38</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M63.6,-71.7C70.72,-62.63 79.54,-51.4 87.2,-41.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="89.16,-43.12 91.56,-36.1 85.31,-40.09 89.16,-43.12" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.36</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-36/index.html" ns1:title="F.36\nOrthic Triangle">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M192,-108C192,-108 130,-108 130,-108 124,-108 118,-102 118,-96 118,-96 118,-84 118,-84 118,-78 124,-72 130,-72 130,-72 192,-72 192,-72 198,-72 204,-78 204,-84 204,-84 204,-96 204,-96 204,-102 198,-108 192,-108" />
+<ns0:text text-anchor="middle" x="161" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.36</ns0:text>
+<ns0:text text-anchor="middle" x="161" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Orthic Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.36-&gt;F.38</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M147.16,-71.7C139.9,-62.63 130.92,-51.4 123.12,-41.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="124.97,-40.04 118.68,-36.1 121.14,-43.1 124.97,-40.04" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

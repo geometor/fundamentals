@@ -1,0 +1,717 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>geometor.fundamentals.render &mdash; GEOMETOR • fundamentals</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=69acf51f" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../../../../index.html">
+        <h1>GEOMETOR • fundamentals</h1>
+      </a>
+      <div class="org-repo">
+        <span class="org">GEOMETOR</span>
+        •
+        <span class="repo">fundamentals</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../mission/index.html"  >Mission</a>
+        </li>
+        <li>
+          <a href="../../../../../topics/index.html"  >Topics</a>
+        </li>
+        <li>
+          <a href="../../../../../usage/index.html"  >Usage</a>
+        </li>
+        <li>
+          <a href="../../../../../spreadsheets/index.html"  >Spreadsheets</a>
+        </li>
+        <li>
+          <a href="../../../../../glossary.html"  >Glossary</a>
+        </li>
+        <li>
+          <a href="../../../../../persons.html"  >Persons</a>
+        </li>
+        <li>
+          <a href="../../../../../bibliography.html"  >Bibliography</a>
+        </li>
+        <li>
+          <a href="../../../../../log/index.html"  >Log</a>
+        </li>
+        <li>
+          <a href="../../../../index.html" class="is-active" aria-selected="true" >Modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../../../../index.html" title="Return to Project Portal">&larr; fundamentals</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../../../../../index.html">GEOMETOR • fundamentals</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="module-geometor.fundamentals.render">
+        <span id="geometor-fundamentals-render"></span><h1>geometor.fundamentals.render<a class="headerlink" href="#module-geometor.fundamentals.render" title="Link to this heading">¶</a></h1>
+        <p>Explorer-styled interactive SVG renderer for GEOMETOR Fundamentals.</p>
+        <p>Renders a <cite>geometor.model.Model</cite> (along with optional analytical conic curves
+        such as parabolas and ellipses) into a standalone, interactive SVG diagram with
+        embedded dark/light mode styling, pan/zoom/reset/labels/guides controls, and
+        two-way <cite>.geom-ref[data-ref]</cite> hover highlighting synchronized with the prose.</p>
+        <section class="level-2" id="attributes">
+        <h2>Attributes<a class="headerlink" href="#attributes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.fundamentals.render.Point" title="geometor.fundamentals.render.Point"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Point</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.fundamentals.render.Line" title="geometor.fundamentals.render.Line"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Line</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.fundamentals.render.Circle" title="geometor.fundamentals.render.Circle"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Circle</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.fundamentals.render.Polygon" title="geometor.fundamentals.render.Polygon"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Polygon</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.fundamentals.render.Segment" title="geometor.fundamentals.render.Segment"><code class="xref py py-obj docutils literal notranslate"><span class="pre">Segment</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.fundamentals.render.EXPLORER_SVG_CSS" title="geometor.fundamentals.render.EXPLORER_SVG_CSS"><code class="xref py py-obj docutils literal notranslate"><span class="pre">EXPLORER_SVG_CSS</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.fundamentals.render.INTERACTIVE_SVG_JS" title="geometor.fundamentals.render.INTERACTIVE_SVG_JS"><code class="xref py py-obj docutils literal notranslate"><span class="pre">INTERACTIVE_SVG_JS</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="functions">
+        <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.fundamentals.render.render_svg" title="geometor.fundamentals.render.render_svg"><code class="xref py py-obj docutils literal notranslate"><span class="pre">render_svg</span></code></a>(model, output_path[, extra_curves, ...]) → pathlib.Path</p></td>
+        <td><p>Render a <cite>geometor.model.Model</cite> to an interactive Explorer-styled SVG file.</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="module-contents">
+        <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.fundamentals.render.Point">
+        <span class="sig-prename descclassname"><span class="pre">geometor.fundamentals.render.</span></span><span class="sig-name descname"><span class="pre">Point</span></span><a class="headerlink" href="#geometor.fundamentals.render.Point" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.fundamentals.render.Line">
+        <span class="sig-prename descclassname"><span class="pre">geometor.fundamentals.render.</span></span><span class="sig-name descname"><span class="pre">Line</span></span><a class="headerlink" href="#geometor.fundamentals.render.Line" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.fundamentals.render.Circle">
+        <span class="sig-prename descclassname"><span class="pre">geometor.fundamentals.render.</span></span><span class="sig-name descname"><span class="pre">Circle</span></span><a class="headerlink" href="#geometor.fundamentals.render.Circle" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.fundamentals.render.Polygon">
+        <span class="sig-prename descclassname"><span class="pre">geometor.fundamentals.render.</span></span><span class="sig-name descname"><span class="pre">Polygon</span></span><a class="headerlink" href="#geometor.fundamentals.render.Polygon" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.fundamentals.render.Segment">
+        <span class="sig-prename descclassname"><span class="pre">geometor.fundamentals.render.</span></span><span class="sig-name descname"><span class="pre">Segment</span></span><a class="headerlink" href="#geometor.fundamentals.render.Segment" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.fundamentals.render.EXPLORER_SVG_CSS">
+        <span class="sig-prename descclassname"><span class="pre">geometor.fundamentals.render.</span></span><span class="sig-name descname"><span class="pre">EXPLORER_SVG_CSS</span></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">Multiline-String</span></span><a class="headerlink" href="#geometor.fundamentals.render.EXPLORER_SVG_CSS" title="Link to this definition">¶</a></dt>
+        <dd><details><summary>Show Value</summary><div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="sd">"""</span>
+        <span class="sd">. explorer-canvas, svg.fundamentals-diagram {</span>
+        <span class="sd">    background-color: #111111;</span>
+        <span class="sd">    border: 1px solid #333;</span>
+        <span class="sd">    border-radius: 6px;</span>
+        <span class="sd">    width: 100%;</span>
+        <span class="sd">    height: auto;</span>
+        <span class="sd">    max-height: 540px;</span>
+        <span class="sd">    display: block;</span>
+        <span class="sd">    margin: 0.5rem auto;</span>
+        <span class="sd">    user-select: none;</span>
+        <span class="sd">    overflow: hidden;</span>
+        <span class="sd">    cursor: grab;</span>
+        <span class="sd">}</span>
+        <span class="sd">svg.fundamentals-diagram:active {</span>
+        <span class="sd">    cursor: grabbing;</span>
+        <span class="sd">}</span>
+        <span class="sd">@media (prefers-color-scheme: light) {</span>
+        <span class="sd">    svg.fundamentals-diagram {</span>
+        <span class="sd">        background-color: #fafafa;</span>
+        <span class="sd">        border-color: #ddd;</span>
+        <span class="sd">    }</span>
+        <span class="sd">    svg.fundamentals-diagram .Point {</span>
+        <span class="sd">        stroke: #fafafa !important;</span>
+        <span class="sd">    }</span>
+        <span class="sd">    svg.fundamentals-diagram .Point.given {</span>
+        <span class="sd">        fill: #111111 !important;</span>
+        <span class="sd">    }</span>
+        <span class="sd">    svg.fundamentals-diagram .label-halo {</span>
+        <span class="sd">        stroke: #fafafa !important;</span>
+        <span class="sd">    }</span>
+        <span class="sd">    svg.fundamentals-diagram .label-fill {</span>
+        <span class="sd">        fill: #111111 !important;</span>
+        <span class="sd">    }</span>
+        <span class="sd">    svg.fundamentals-diagram .Line,</span>
+        <span class="sd">    svg.fundamentals-diagram .Segment {</span>
+        <span class="sd">        stroke: #555555;</span>
+        <span class="sd">    }</span>
+        <span class="sd">}</span>
+        <span class="sd">.Line, .Segment {</span>
+        <span class="sd">    stroke: #999999;</span>
+        <span class="sd">    stroke-linecap: round;</span>
+        <span class="sd">    vector-effect: non-scaling-stroke;</span>
+        <span class="sd">    stroke-width: 1.2px;</span>
+        <span class="sd">    fill: none;</span>
+        <span class="sd">    opacity: 0.78;</span>
+        <span class="sd">    transition: stroke-width 0.15s ease, opacity 0.15s ease, filter 0.15s ease;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Circle, .Curve {</span>
+        <span class="sd">    stroke: #c93b76;</span>
+        <span class="sd">    vector-effect: non-scaling-stroke;</span>
+        <span class="sd">    stroke-width: 1.25px;</span>
+        <span class="sd">    fill: none;</span>
+        <span class="sd">    opacity: 0.82;</span>
+        <span class="sd">    transition: stroke-width 0.15s ease, opacity 0.15s ease, filter 0.15s ease;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Polygon {</span>
+        <span class="sd">    fill: rgba(70, 130, 180, 0.10);</span>
+        <span class="sd">    stroke: #5c9fd6;</span>
+        <span class="sd">    vector-effect: non-scaling-stroke;</span>
+        <span class="sd">    stroke-width: 1.8px;</span>
+        <span class="sd">    stroke-linejoin: round;</span>
+        <span class="sd">    transition: stroke-width 0.15s ease, fill-opacity 0.15s ease;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Point {</span>
+        <span class="sd">    fill: #e5c07b;</span>
+        <span class="sd">    stroke: #111111;</span>
+        <span class="sd">    vector-effect: non-scaling-stroke;</span>
+        <span class="sd">    stroke-width: 1.4px;</span>
+        <span class="sd">    transition: r 0.15s ease, filter 0.15s ease;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Point.given {</span>
+        <span class="sd">    fill: #ffffff;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Point.focus, .Point.center, .Point.target {</span>
+        <span class="sd">    fill: #00e5ff;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Point.harmonic, .Point.conjugate {</span>
+        <span class="sd">    fill: #ff5252;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Point.midpoint, .Point.foot {</span>
+        <span class="sd">    fill: #98c379;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Line.guide, .Circle.guide, .Segment.guide {</span>
+        <span class="sd">    stroke-dasharray: 4 4;</span>
+        <span class="sd">    opacity: 0.42;</span>
+        <span class="sd">    stroke-width: 0.9px;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Line.reference, .Segment.reference {</span>
+        <span class="sd">    stroke: #5c9fd6;</span>
+        <span class="sd">    stroke-width: 1.8px;</span>
+        <span class="sd">    opacity: 0.9;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Line.euler, .Line.axis, .Segment.euler, .Segment.axis {</span>
+        <span class="sd">    stroke: #e06c75;</span>
+        <span class="sd">    stroke-width: 1.8px;</span>
+        <span class="sd">    opacity: 0.92;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Line.cevian, .Segment.cevian, .Segment.altitude, .Segment.median, .Segment.bisector {</span>
+        <span class="sd">    stroke: #98c379;</span>
+        <span class="sd">    stroke-width: 1.4px;</span>
+        <span class="sd">    opacity: 0.85;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Circle.circumcircle {</span>
+        <span class="sd">    stroke: #e06c75;</span>
+        <span class="sd">    stroke-width: 1.5px;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Circle.incircle, .Circle.excircle {</span>
+        <span class="sd">    stroke: #e5c07b;</span>
+        <span class="sd">    stroke-width: 1.5px;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Circle.ninepoint, .Circle.apollonius, .Circle.coaxial {</span>
+        <span class="sd">    stroke: #61afef;</span>
+        <span class="sd">    stroke-width: 1.5px;</span>
+        <span class="sd">}</span>
+        <span class="sd">.Curve.parabola, .Curve.ellipse, .Curve.hyperbola {</span>
+        <span class="sd">    stroke: #c678dd;</span>
+        <span class="sd">    stroke-width: 2.0px;</span>
+        <span class="sd">    opacity: 0.95;</span>
+        <span class="sd">}</span>
+        <span class="sd">.element-group {</span>
+        <span class="sd">    cursor: pointer;</span>
+        <span class="sd">}</span>
+        <span class="sd">.element-group.svg-hovered .Line,</span>
+        <span class="sd">.element-group.svg-hovered .Segment,</span>
+        <span class="sd">.element-group.svg-hovered .Circle,</span>
+        <span class="sd">.element-group.svg-hovered .Curve,</span>
+        <span class="sd">.element-group.svg-hovered .Polygon {</span>
+        <span class="sd">    stroke: #00e5ff !important;</span>
+        <span class="sd">    stroke-width: 2.8px !important;</span>
+        <span class="sd">    opacity: 1.0 !important;</span>
+        <span class="sd">    filter: drop-shadow(0 0 5px rgba(0, 229, 255, 0.75));</span>
+        <span class="sd">}</span>
+        <span class="sd">.element-group.svg-hovered .Point {</span>
+        <span class="sd">    fill: #00e5ff !important;</span>
+        <span class="sd">    filter: drop-shadow(0 0 6px rgba(0, 229, 255, 0.9));</span>
+        <span class="sd">}</span>
+        <span class="sd">.geom-ref {</span>
+        <span class="sd">    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;</span>
+        <span class="sd">    font-weight: 600;</span>
+        <span class="sd">    padding: 0.05em 0.3em;</span>
+        <span class="sd">    border-radius: 3px;</span>
+        <span class="sd">    background: rgba(97, 175, 239, 0.14);</span>
+        <span class="sd">    color: #61afef;</span>
+        <span class="sd">    cursor: pointer;</span>
+        <span class="sd">    transition: background-color 0.15s ease, color 0.15s ease;</span>
+        <span class="sd">}</span>
+        <span class="sd">.geom-ref:hover, .geom-ref.ref-hovered {</span>
+        <span class="sd">    background: #00e5ff;</span>
+        <span class="sd">    color: #111111;</span>
+        <span class="sd">}</span>
+        <span class="sd">.svg-control-btn {</span>
+        <span class="sd">    cursor: pointer;</span>
+        <span class="sd">}</span>
+        <span class="sd">.svg-control-btn rect {</span>
+        <span class="sd">    fill: rgba(30, 30, 30, 0.82);</span>
+        <span class="sd">    stroke: #555;</span>
+        <span class="sd">    stroke-width: 1px;</span>
+        <span class="sd">    rx: 3px;</span>
+        <span class="sd">}</span>
+        <span class="sd">.svg-control-btn:hover rect {</span>
+        <span class="sd">    fill: rgba(60, 60, 60, 0.95);</span>
+        <span class="sd">    stroke: #00e5ff;</span>
+        <span class="sd">}</span>
+        <span class="sd">.svg-control-btn text {</span>
+        <span class="sd">    fill: #ddd;</span>
+        <span class="sd">    font-family: sans-serif;</span>
+        <span class="sd">    font-size: 9px;</span>
+        <span class="sd">    font-weight: 600;</span>
+        <span class="sd">    text-anchor: middle;</span>
+        <span class="sd">    dominant-baseline: central;</span>
+        <span class="sd">    pointer-events: none;</span>
+        <span class="sd">}</span>
+        <span class="sd">svg.hide-labels .labels-layer {</span>
+        <span class="sd">    display: none;</span>
+        <span class="sd">}</span>
+        <span class="sd">svg.hide-guides .guide {</span>
+        <span class="sd">    display: none;</span>
+        <span class="sd">}</span>
+        <span class="sd">"""</span>
+        </pre></div>
+        </div>
+        </details></dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.fundamentals.render.INTERACTIVE_SVG_JS">
+        <span class="sig-prename descclassname"><span class="pre">geometor.fundamentals.render.</span></span><span class="sig-name descname"><span class="pre">INTERACTIVE_SVG_JS</span></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">Multiline-String</span></span><a class="headerlink" href="#geometor.fundamentals.render.INTERACTIVE_SVG_JS" title="Link to this definition">¶</a></dt>
+        <dd><details><summary>Show Value</summary><div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="sd">"""</span>
+        <span class="sd">(function() {</span>
+        <span class="sd">  if (window.__fundamentalsSvgInit) return;</span>
+        <span class="sd">  window.__fundamentalsSvgInit = true;</span>
+
+        <span class="sd">  function initDiagram(svg) {</span>
+        <span class="sd">    if (svg.dataset.initialized) return;</span>
+        <span class="sd">    svg.dataset.initialized = "true";</span>
+        <span class="sd">    const vp = svg.querySelector(".svg-viewport");</span>
+        <span class="sd">    if (!vp) return;</span>
+
+        <span class="sd">    let scale = 1, tx = 0, ty = 0;</span>
+        <span class="sd">    let dragging = false, startX = 0, startY = 0;</span>
+
+        <span class="sd">    function applyTransform() {</span>
+        <span class="sd">      vp.setAttribute("transform", `translate(${tx},${ty}) scale(${scale})`);</span>
+        <span class="sd">    }</span>
+
+        <span class="sd">    svg.addEventListener("wheel", function(e) {</span>
+        <span class="sd">      e.preventDefault();</span>
+        <span class="sd">      const rect = svg.getBoundingClientRect();</span>
+        <span class="sd">      const vb = svg.viewBox.baseVal;</span>
+        <span class="sd">      const mx = vb.x + ((e.clientX - rect.left) / rect.width) * vb.width;</span>
+        <span class="sd">      const my = vb.y + ((e.clientY - rect.top) / rect.height) * vb.height;</span>
+        <span class="sd">      const factor = e.deltaY &lt; 0 ? 1.15 : 1 / 1.15;</span>
+        <span class="sd">      const newScale = Math.min(Math.max(scale * factor, 0.25), 12);</span>
+        <span class="sd">      tx = mx - (mx - tx) * (newScale / scale);</span>
+        <span class="sd">      ty = my - (my - ty) * (newScale / scale);</span>
+        <span class="sd">      scale = newScale;</span>
+        <span class="sd">      applyTransform();</span>
+        <span class="sd">    }, { passive: false });</span>
+
+        <span class="sd">    svg.addEventListener("mousedown", function(e) {</span>
+        <span class="sd">      if (e.target.closest(".svg-controls")) return;</span>
+        <span class="sd">      dragging = true;</span>
+        <span class="sd">      startX = e.clientX;</span>
+        <span class="sd">      startY = e.clientY;</span>
+        <span class="sd">    });</span>
+
+        <span class="sd">    window.addEventListener("mousemove", function(e) {</span>
+        <span class="sd">      if (!dragging) return;</span>
+        <span class="sd">      const rect = svg.getBoundingClientRect();</span>
+        <span class="sd">      const vb = svg.viewBox.baseVal;</span>
+        <span class="sd">      const dx = ((e.clientX - startX) / rect.width) * vb.width;</span>
+        <span class="sd">      const dy = ((e.clientY - startY) / rect.height) * vb.height;</span>
+        <span class="sd">      startX = e.clientX;</span>
+        <span class="sd">      startY = e.clientY;</span>
+        <span class="sd">      tx += dx;</span>
+        <span class="sd">      ty += dy;</span>
+        <span class="sd">      applyTransform();</span>
+        <span class="sd">    });</span>
+
+        <span class="sd">    window.addEventListener("mouseup", function() {</span>
+        <span class="sd">      dragging = false;</span>
+        <span class="sd">    });</span>
+
+        <span class="sd">    svg.querySelectorAll(".svg-control-btn").forEach(function(btn) {</span>
+        <span class="sd">      btn.addEventListener("click", function(e) {</span>
+        <span class="sd">        e.stopPropagation();</span>
+        <span class="sd">        const action = btn.dataset.action;</span>
+        <span class="sd">        if (action === "zoom-in") { scale = Math.min(scale * 1.25, 12); applyTransform(); }</span>
+        <span class="sd">        else if (action === "zoom-out") { scale = Math.max(scale / 1.25, 0.25); applyTransform(); }</span>
+        <span class="sd">        else if (action === "reset") { scale = 1; tx = 0; ty = 0; applyTransform(); }</span>
+        <span class="sd">        else if (action === "labels") { svg.classList.toggle("hide-labels"); }</span>
+        <span class="sd">        else if (action === "guides") { svg.classList.toggle("hide-guides"); }</span>
+        <span class="sd">      });</span>
+        <span class="sd">    });</span>
+        <span class="sd">  }</span>
+
+        <span class="sd">  function setupHoverSync() {</span>
+        <span class="sd">    document.querySelectorAll("svg.fundamentals-diagram").forEach(initDiagram);</span>
+
+        <span class="sd">    document.addEventListener("mouseover", function(e) {</span>
+        <span class="sd">      const refEl = e.target.closest("[data-ref]");</span>
+        <span class="sd">      if (!refEl) return;</span>
+        <span class="sd">      const ref = refEl.dataset.ref;</span>
+        <span class="sd">      if (!ref) return;</span>
+        <span class="sd">      document.querySelectorAll(`.element-group[data-ref="${CSS.escape(ref)}"]`).forEach(el =&gt; el.classList.add("svg-hovered"));</span>
+        <span class="sd">      document.querySelectorAll(`.geom-ref[data-ref="${CSS.escape(ref)}"]`).forEach(el =&gt; el.classList.add("ref-hovered"));</span>
+        <span class="sd">    });</span>
+
+        <span class="sd">    document.addEventListener("mouseout", function(e) {</span>
+        <span class="sd">      const refEl = e.target.closest("[data-ref]");</span>
+        <span class="sd">      if (!refEl) return;</span>
+        <span class="sd">      const ref = refEl.dataset.ref;</span>
+        <span class="sd">      if (!ref) return;</span>
+        <span class="sd">      document.querySelectorAll(`.element-group[data-ref="${CSS.escape(ref)}"]`).forEach(el =&gt; el.classList.remove("svg-hovered"));</span>
+        <span class="sd">      document.querySelectorAll(`.geom-ref[data-ref="${CSS.escape(ref)}"]`).forEach(el =&gt; el.classList.remove("ref-hovered"));</span>
+        <span class="sd">    });</span>
+        <span class="sd">  }</span>
+
+        <span class="sd">  if (document.readyState === "loading") {</span>
+        <span class="sd">    document.addEventListener("DOMContentLoaded", setupHoverSync);</span>
+        <span class="sd">  } else {</span>
+        <span class="sd">    setupHoverSync();</span>
+        <span class="sd">  }</span>
+        <span class="sd">})();</span>
+        <span class="sd">"""</span>
+        </pre></div>
+        </div>
+        </details></dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.fundamentals.render.render_svg">
+        <span class="sig-prename descclassname"><span class="pre">geometor.fundamentals.render.</span></span><span class="sig-name descname"><span class="pre">render_svg</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">model</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">geometor.model.Model</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">output_path</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></em>, <em class="sig-param"><span class="n"><span class="pre">extra_curves</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#list" title="(in Python v3.13)"><span class="pre">list</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#dict" title="(in Python v3.13)"><span class="pre">dict</span></a><span class="p"><span class="pre">[</span></span><a class="reference external" href="https://docs.python.org/3.13/builtins/stdtypes.html#str" title="(in Python v3.13)"><span class="pre">str</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#object" title="(in Python v3.13)"><span class="pre">object</span></a><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><a class="reference external" href="https://docs.python.org/3.13/builtins/constants.html#None" title="(in Python v3.13)"><span class="pre">None</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">padding_ratio</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference external" href="https://docs.python.org/3.13/builtins/functions.html#float" title="(in Python v3.13)"><span class="pre">float</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">0.16</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><a class="reference external" href="https://docs.python.org/3.13/library/pathlib.html#pathlib.Path" title="(in Python v3.13)"><span class="pre">pathlib.Path</span></a></span></span><a class="headerlink" href="#geometor.fundamentals.render.render_svg" title="Link to this definition">¶</a></dt>
+        <dd><p>Render a <cite>geometor.model.Model</cite> to an interactive Explorer-styled SVG file.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Parameters<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>model</strong> – Populated <cite>geometor.model.Model</cite> instance.</p></li>
+        <li><p><strong>output_path</strong> – Destination <cite>.svg</cite> file path.</p></li>
+        <li><p><strong>extra_curves</strong> – Optional list of parametric curve dictionaries with keys
+        <cite>label</cite>, <cite>points</cite> (list of <cite>(x, y)</cite> floats), and <cite>classes</cite> (list of strings).</p></li>
+        <li><p><strong>padding_ratio</strong> – Fractional margin added around the bounding box of points/circles.</p></li>
+        </ul>
+        </dd>
+        <dt class="field-even">Returns<span class="colon">:</span></dt>
+        <dd class="field-even"><p>Path to the written SVG file.</p>
+        </dd>
+        </dl>
+        </dd></dl>
+
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../../../../index.html">GEOMETOR • fundamentals</a>
+          </div>
+          <div class="book-nav-next">
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../../../../log/26.306-book-codex-pipeline/index.html">3-Track Book Codex & Fred W. Seelig Archive Serialization</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../../../../../tags/acute.html">acute</a></li>
+        <li><a href="../../../../../tags/altitude.html">altitude</a></li>
+        <li><a href="../../../../../tags/altitudes.html">altitudes</a></li>
+        <li><a href="../../../../../tags/analytic-geometry.html">analytic-geometry</a></li>
+        <li><a href="../../../../../tags/apollonian-circles.html">apollonian-circles</a></li>
+        <li><a href="../../../../../tags/apollonius.html">apollonius</a></li>
+        <li><a href="../../../../../tags/approximation.html">approximation</a></li>
+        <li><a href="../../../../../tags/architecture.html">architecture</a></li>
+        <li><a href="../../../../../tags/area.html">area</a></li>
+        <li><a href="../../../../../tags/barycentric.html">barycentric</a></li>
+        <li><a href="../../../../../tags/bilinear.html">bilinear</a></li>
+        <li><a href="../../../../../tags/biquadratic.html">biquadratic</a></li>
+        <li><a href="../../../../../tags/boolean.html">boolean</a></li>
+        <li><a href="../../../../../tags/brocard.html">brocard</a></li>
+        <li><a href="../../../../../tags/cardano.html">cardano</a></li>
+        <li><a href="../../../../../tags/carnot.html">carnot</a></li>
+        <li><a href="../../../../../tags/centroid.html">centroid</a></li>
+        <li><a href="../../../../../tags/ceva.html">ceva</a></li>
+        <li><a href="../../../../../tags/cevian.html">cevian</a></li>
+        <li><a href="../../../../../tags/cevians.html">cevians</a></li>
+        <li><a href="../../../../../tags/chords.html">chords</a></li>
+        <li><a href="../../../../../tags/circles.html">circles</a></li>
+        <li><a href="../../../../../tags/circumcenter.html">circumcenter</a></li>
+        <li><a href="../../../../../tags/circumcircle.html">circumcircle</a></li>
+        <li><a href="../../../../../tags/circumradius.html">circumradius</a></li>
+        <li><a href="../../../../../tags/coaxial.html">coaxial</a></li>
+        <li><a href="../../../../../tags/coaxial-circles.html">coaxial-circles</a></li>
+        <li><a href="../../../../../tags/codex.html">codex</a></li>
+        <li><a href="../../../../../tags/collinear.html">collinear</a></li>
+        <li><a href="../../../../../tags/compass-construction.html">compass-construction</a></li>
+        <li><a href="../../../../../tags/conics.html">conics</a></li>
+        <li><a href="../../../../../tags/constructions.html">constructions</a></li>
+        <li><a href="../../../../../tags/conway.html">conway</a></li>
+        <li><a href="../../../../../tags/coordinates.html">coordinates</a></li>
+        <li><a href="../../../../../tags/cosine-law.html">cosine-law</a></li>
+        <li><a href="../../../../../tags/cross-ratio.html">cross-ratio</a></li>
+        <li><a href="../../../../../tags/crossed-ladders.html">crossed-ladders</a></li>
+        <li><a href="../../../../../tags/cubic.html">cubic</a></li>
+        <li><a href="../../../../../tags/cyclic-quadrilateral.html">cyclic-quadrilateral</a></li>
+        <li><a href="../../../../../tags/dalembert.html">dalembert</a></li>
+        <li><a href="../../../../../tags/decagon.html">decagon</a></li>
+        <li><a href="../../../../../tags/desargues.html">desargues</a></li>
+        <li><a href="../../../../../tags/diophantine.html">diophantine</a></li>
+        <li><a href="../../../../../tags/duality.html">duality</a></li>
+        <li><a href="../../../../../tags/eccentricity.html">eccentricity</a></li>
+        <li><a href="../../../../../tags/electromagnetics.html">electromagnetics</a></li>
+        <li><a href="../../../../../tags/ellipse.html">ellipse</a></li>
+        <li><a href="../../../../../tags/equilateral.html">equilateral</a></li>
+        <li><a href="../../../../../tags/error-function.html">error-function</a></li>
+        <li><a href="../../../../../tags/etc.html">etc</a></li>
+        <li><a href="../../../../../tags/euclid.html">euclid</a></li>
+        <li><a href="../../../../../tags/euclid-i-1.html">euclid-i-1</a></li>
+        <li><a href="../../../../../tags/euclid-iv-10.html">euclid-iv-10</a></li>
+        <li><a href="../../../../../tags/euclid-vi-3.html">euclid-vi-3</a></li>
+        <li><a href="../../../../../tags/euler.html">euler</a></li>
+        <li><a href="../../../../../tags/euler-formula.html">euler-formula</a></li>
+        <li><a href="../../../../../tags/euler-line.html">euler-line</a></li>
+        <li><a href="../../../../../tags/excircle.html">excircle</a></li>
+        <li><a href="../../../../../tags/extangent.html">extangent</a></li>
+        <li><a href="../../../../../tags/fagnano.html">fagnano</a></li>
+        <li><a href="../../../../../tags/fermat-point.html">fermat-point</a></li>
+        <li><a href="../../../../../tags/feuerbach.html">feuerbach</a></li>
+        <li><a href="../../../../../tags/functions.html">functions</a></li>
+        <li><a href="../../../../../tags/gaussian.html">gaussian</a></li>
+        <li><a href="../../../../../tags/geometric-mean.html">geometric-mean</a></li>
+        <li><a href="../../../../../tags/gergonne.html">gergonne</a></li>
+        <li><a href="../../../../../tags/golden-ratio.html">golden-ratio</a></li>
+        <li><a href="../../../../../tags/golden-triangle.html">golden-triangle</a></li>
+        <li><a href="../../../../../tags/gothic.html">gothic</a></li>
+        <li><a href="../../../../../tags/half-angle.html">half-angle</a></li>
+        <li><a href="../../../../../tags/harmonic.html">harmonic</a></li>
+        <li><a href="../../../../../tags/harmonic-conjugates.html">harmonic-conjugates</a></li>
+        <li><a href="../../../../../tags/harmonic-mean.html">harmonic-mean</a></li>
+        <li><a href="../../../../../tags/heron.html">heron</a></li>
+        <li><a href="../../../../../tags/heronian.html">heronian</a></li>
+        <li><a href="../../../../../tags/homothety.html">homothety</a></li>
+        <li><a href="../../../../../tags/hp-35s.html">hp-35s</a></li>
+        <li><a href="../../../../../tags/hyperbolic-functions.html">hyperbolic-functions</a></li>
+        <li><a href="../../../../../tags/incenter.html">incenter</a></li>
+        <li><a href="../../../../../tags/incircle.html">incircle</a></li>
+        <li><a href="../../../../../tags/inradius.html">inradius</a></li>
+        <li><a href="../../../../../tags/inversion.html">inversion</a></li>
+        <li><a href="../../../../../tags/isosceles.html">isosceles</a></li>
+        <li><a href="../../../../../tags/japanese-theorem.html">japanese-theorem</a></li>
+        <li><a href="../../../../../tags/latus-rectum.html">latus-rectum</a></li>
+        <li><a href="../../../../../tags/logic.html">logic</a></li>
+        <li><a href="../../../../../tags/markowski.html">markowski</a></li>
+        <li><a href="../../../../../tags/matrices.html">matrices</a></li>
+        <li><a href="../../../../../tags/medial-triangle.html">medial-triangle</a></li>
+        <li><a href="../../../../../tags/median.html">median</a></li>
+        <li><a href="../../../../../tags/medians.html">medians</a></li>
+        <li><a href="../../../../../tags/menelaus.html">menelaus</a></li>
+        <li><a href="../../../../../tags/model.html">model</a></li>
+        <li><a href="../../../../../tags/monge.html">monge</a></li>
+        <li><a href="../../../../../tags/monte-carlo.html">monte-carlo</a></li>
+        <li><a href="../../../../../tags/nested-radicals.html">nested-radicals</a></li>
+        <li><a href="../../../../../tags/newton.html">newton</a></li>
+        <li><a href="../../../../../tags/nine-point-circle.html">nine-point-circle</a></li>
+        <li><a href="../../../../../tags/normal.html">normal</a></li>
+        <li><a href="../../../../../tags/number-theory.html">number-theory</a></li>
+        <li><a href="../../../../../tags/obtuse.html">obtuse</a></li>
+        <li><a href="../../../../../tags/ogilvy.html">ogilvy</a></li>
+        <li><a href="../../../../../tags/optimization.html">optimization</a></li>
+        <li><a href="../../../../../tags/orthic-triangle.html">orthic-triangle</a></li>
+        <li><a href="../../../../../tags/orthocenter.html">orthocenter</a></li>
+        <li><a href="../../../../../tags/orthogonal-circles.html">orthogonal-circles</a></li>
+        <li><a href="../../../../../tags/parabola.html">parabola</a></li>
+        <li><a href="../../../../../tags/pedal-triangle.html">pedal-triangle</a></li>
+        <li><a href="../../../../../tags/pentadecagon.html">pentadecagon</a></li>
+        <li><a href="../../../../../tags/pentagon.html">pentagon</a></li>
+        <li><a href="../../../../../tags/pole-polar.html">pole-polar</a></li>
+        <li><a href="../../../../../tags/polygons.html">polygons</a></li>
+        <li><a href="../../../../../tags/power-of-a-point.html">power-of-a-point</a></li>
+        <li><a href="../../../../../tags/primes.html">primes</a></li>
+        <li><a href="../../../../../tags/probability.html">probability</a></li>
+        <li><a href="../../../../../tags/problems.html">problems</a></li>
+        <li><a href="../../../../../tags/projective.html">projective</a></li>
+        <li><a href="../../../../../tags/ptolemy.html">ptolemy</a></li>
+        <li><a href="../../../../../tags/pythagoras.html">pythagoras</a></li>
+        <li><a href="../../../../../tags/pythagorean-triples.html">pythagorean-triples</a></li>
+        <li><a href="../../../../../tags/radical-axis.html">radical-axis</a></li>
+        <li><a href="../../../../../tags/radical-center.html">radical-center</a></li>
+        <li><a href="../../../../../tags/radicals.html">radicals</a></li>
+        <li><a href="../../../../../tags/ratios.html">ratios</a></li>
+        <li><a href="../../../../../tags/right-triangle.html">right-triangle</a></li>
+        <li><a href="../../../../../tags/roots-of-unity.html">roots-of-unity</a></li>
+        <li><a href="../../../../../tags/sagitta.html">sagitta</a></li>
+        <li><a href="../../../../../tags/sangaku.html">sangaku</a></li>
+        <li><a href="../../../../../tags/scripts.html">scripts</a></li>
+        <li><a href="../../../../../tags/seelig.html">seelig</a></li>
+        <li><a href="../../../../../tags/semicircle.html">semicircle</a></li>
+        <li><a href="../../../../../tags/similitude.html">similitude</a></li>
+        <li><a href="../../../../../tags/spreadsheet.html">spreadsheet</a></li>
+        <li><a href="../../../../../tags/spreadsheets.html">spreadsheets</a></li>
+        <li><a href="../../../../../tags/square.html">square</a></li>
+        <li><a href="../../../../../tags/squares.html">squares</a></li>
+        <li><a href="../../../../../tags/steiner.html">steiner</a></li>
+        <li><a href="../../../../../tags/stewart.html">stewart</a></li>
+        <li><a href="../../../../../tags/symphonic.html">symphonic</a></li>
+        <li><a href="../../../../../tags/sympy.html">sympy</a></li>
+        <li><a href="../../../../../tags/tangent.html">tangent</a></li>
+        <li><a href="../../../../../tags/tangential.html">tangential</a></li>
+        <li><a href="../../../../../tags/tangential-triangle.html">tangential-triangle</a></li>
+        <li><a href="../../../../../tags/tangents.html">tangents</a></li>
+        <li><a href="../../../../../tags/thales.html">thales</a></li>
+        <li><a href="../../../../../tags/torricelli.html">torricelli</a></li>
+        <li><a href="../../../../../tags/triangle-centers.html">triangle-centers</a></li>
+        <li><a href="../../../../../tags/trigonometry.html">trigonometry</a></li>
+        <li><a href="../../../../../tags/trilinear.html">trilinear</a></li>
+        <li><a href="../../../../../tags/trilinear-polar.html">trilinear-polar</a></li>
+        <li><a href="../../../../../tags/vesica.html">vesica</a></li>
+        <li><a href="../../../../../tags/vesica-piscis.html">vesica-piscis</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../../../../../categories/Algebraic%20%26%20Coordinate%20Systems.html">Algebraic & Coordinate Systems</a></li>
+        <li><a href="../../../../../categories/Circle%20Geometry%20%26%20Pencils.html">Circle Geometry & Pencils</a></li>
+        <li><a href="../../../../../categories/Circle%20Inversion.html">Circle Inversion</a></li>
+        <li><a href="../../../../../categories/Coaxial%20%26%20Radical%20Systems.html">Coaxial & Radical Systems</a></li>
+        <li><a href="../../../../../categories/Conics%20%26%20Analytic%20Loci.html">Conics & Analytic Loci</a></li>
+        <li><a href="../../../../../categories/Polygons.html">Polygons</a></li>
+        <li><a href="../../../../../categories/Projective%20%26%20Harmonic%20Geometry.html">Projective & Harmonic Geometry</a></li>
+        <li><a href="../../../../../categories/Special%20Triangles%20%26%20Sacred%20Proportions.html">Special Triangles & Sacred Proportions</a></li>
+        <li><a href="../../../../../categories/Tessellations%20%26%20Special%20Triangles.html">Tessellations & Special Triangles</a></li>
+        <li><a href="../../../../../categories/Triangle%20Centers%20%26%20Classical%20Circles.html">Triangle Centers & Classical Circles</a></li>
+        <li><a href="../../../../../categories/Triangle%20Centers%20%26%20Classical%20Lines.html">Triangle Centers & Classical Lines</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../../../types/log.html">log</a></li>
+        <li><a href="../../../../../types/topic.html">topic</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../../../about.html"  >about</a></li>
+        <li><a href="../../../../../connect.html"  >connect</a></li>
+        <li><a href="../../../../../todos/index.html"  >Todos</a></li>
+        <li><a href="../../../../../changelog.html"  >Changelog</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, GEOMETOR.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../_static/documentation_options.js?v=01f34227"></script>
+  <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../../../_static/js/geometor_interactive.js?v=4430a5d4"></script>
+  <script src="../../../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

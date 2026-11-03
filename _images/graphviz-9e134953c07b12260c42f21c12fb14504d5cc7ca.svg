@@ -1,0 +1,79 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="367pt" height="188pt" viewBox="0.00 0.00 366.50 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.46</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-46/index.html" ns1:title="F.46\nStewart's Theorem">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M182,-108C182,-108 102,-108 102,-108 96,-108 90,-102 90,-96 90,-96 90,-84 90,-84 90,-78 96,-72 102,-72 102,-72 182,-72 182,-72 188,-72 194,-78 194,-84 194,-84 194,-96 194,-96 194,-102 188,-108 182,-108" />
+<ns0:text text-anchor="middle" x="142" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.46</ns0:text>
+<ns0:text text-anchor="middle" x="142" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Stewart's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.48</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-48/index.html" ns1:title="F.48\nVerisimilitude, Corner Subtriangles, and Excircle Homothety">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M272,-36C272,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 272,0 272,0 278,0 284,-6 284,-12 284,-12 284,-24 284,-24 284,-30 278,-36 272,-36" />
+<ns0:text text-anchor="middle" x="142" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.48</ns0:text>
+<ns0:text text-anchor="middle" x="142" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Verisimilitude, Corner Subtriangles, and Excircle Homothety</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.46-&gt;F.48</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M142,-71.7C142,-63.14 142,-52.66 142,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="144.45,-43.1 142,-36.1 139.55,-43.1 144.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.6</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-06/index.html" ns1:title="F.6\nCentroid">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M56.5,-180C56.5,-180 21.5,-180 21.5,-180 15.5,-180 9.5,-174 9.5,-168 9.5,-168 9.5,-156 9.5,-156 9.5,-150 15.5,-144 21.5,-144 21.5,-144 56.5,-144 56.5,-144 62.5,-144 68.5,-150 68.5,-156 68.5,-156 68.5,-168 68.5,-168 68.5,-174 62.5,-180 56.5,-180" />
+<ns0:text text-anchor="middle" x="39" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.6</ns0:text>
+<ns0:text text-anchor="middle" x="39" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Centroid</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.6-&gt;F.46</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M64.2,-143.88C78.29,-134.3 95.97,-122.28 110.91,-112.13" />
+<ns0:polygon fill="#888888" stroke="#888888" points="112.29,-114.15 116.71,-108.19 109.54,-110.1 112.29,-114.15" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.7</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-07/index.html" ns1:title="F.7\nCeva and Menelaus">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M185,-180C185,-180 99,-180 99,-180 93,-180 87,-174 87,-168 87,-168 87,-156 87,-156 87,-150 93,-144 99,-144 99,-144 185,-144 185,-144 191,-144 197,-150 197,-156 197,-156 197,-168 197,-168 197,-174 191,-180 185,-180" />
+<ns0:text text-anchor="middle" x="142" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.7</ns0:text>
+<ns0:text text-anchor="middle" x="142" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ceva and Menelaus</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.7-&gt;F.46</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M142,-143.7C142,-135.14 142,-124.66 142,-115.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="144.45,-115.1 142,-108.1 139.55,-115.1 144.45,-115.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.35</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-35/index.html" ns1:title="F.35\nObtuse and Acute Triangles">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M346.5,-180C346.5,-180 227.5,-180 227.5,-180 221.5,-180 215.5,-174 215.5,-168 215.5,-168 215.5,-156 215.5,-156 215.5,-150 221.5,-144 227.5,-144 227.5,-144 346.5,-144 346.5,-144 352.5,-144 358.5,-150 358.5,-156 358.5,-156 358.5,-168 358.5,-168 358.5,-174 352.5,-180 346.5,-180" />
+<ns0:text text-anchor="middle" x="287" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.35</ns0:text>
+<ns0:text text-anchor="middle" x="287" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Obtuse and Acute Triangles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.35-&gt;F.46</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M251.53,-143.88C231.09,-134.01 205.28,-121.55 183.85,-111.21" />
+<ns0:polygon fill="#888888" stroke="#888888" points="184.72,-108.91 177.36,-108.07 182.59,-113.32 184.72,-108.91" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

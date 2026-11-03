@@ -1,0 +1,63 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="242pt" height="188pt" viewBox="0.00 0.00 241.50 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.23</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-23/index.html" ns1:title="F.23\nGolden Triangles">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M153.5,-108C153.5,-108 82.5,-108 82.5,-108 76.5,-108 70.5,-102 70.5,-96 70.5,-96 70.5,-84 70.5,-84 70.5,-78 76.5,-72 82.5,-72 82.5,-72 153.5,-72 153.5,-72 159.5,-72 165.5,-78 165.5,-84 165.5,-84 165.5,-96 165.5,-96 165.5,-102 159.5,-108 153.5,-108" />
+<ns0:text text-anchor="middle" x="118" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.23</ns0:text>
+<ns0:text text-anchor="middle" x="118" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Golden Triangles</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.40</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-40/index.html" ns1:title="F.40\nRegular Polygons and Nested Radicals">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M203,-36C203,-36 33,-36 33,-36 27,-36 21,-30 21,-24 21,-24 21,-12 21,-12 21,-6 27,0 33,0 33,0 203,0 203,0 209,0 215,-6 215,-12 215,-12 215,-24 215,-24 215,-30 209,-36 203,-36" />
+<ns0:text text-anchor="middle" x="118" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.40</ns0:text>
+<ns0:text text-anchor="middle" x="118" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Regular Polygons and Nested Radicals</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.23-&gt;F.40</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M118,-71.7C118,-63.14 118,-52.66 118,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="120.45,-43.1 118,-36.1 115.55,-43.1 120.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.7</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-07/index.html" ns1:title="F.7\nCeva and Menelaus">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M98,-180C98,-180 12,-180 12,-180 6,-180 0,-174 0,-168 0,-168 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 98,-144 98,-144 104,-144 110,-150 110,-156 110,-156 110,-168 110,-168 110,-174 104,-180 98,-180" />
+<ns0:text text-anchor="middle" x="55" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.7</ns0:text>
+<ns0:text text-anchor="middle" x="55" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ceva and Menelaus</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.7-&gt;F.23</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M70.57,-143.7C78.81,-134.54 89.02,-123.19 97.86,-113.38" />
+<ns0:polygon fill="#888888" stroke="#888888" points="99.74,-114.95 102.61,-108.1 96.1,-111.67 99.74,-114.95" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.18</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-18/index.html" ns1:title="F.18\nEquilateral Triangle">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M221.5,-180C221.5,-180 140.5,-180 140.5,-180 134.5,-180 128.5,-174 128.5,-168 128.5,-168 128.5,-156 128.5,-156 128.5,-150 134.5,-144 140.5,-144 140.5,-144 221.5,-144 221.5,-144 227.5,-144 233.5,-150 233.5,-156 233.5,-156 233.5,-168 233.5,-168 233.5,-174 227.5,-180 221.5,-180" />
+<ns0:text text-anchor="middle" x="181" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.18</ns0:text>
+<ns0:text text-anchor="middle" x="181" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Equilateral Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.18-&gt;F.23</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M165.43,-143.7C157.19,-134.54 146.98,-123.19 138.14,-113.38" />
+<ns0:polygon fill="#888888" stroke="#888888" points="139.9,-111.67 133.39,-108.1 136.26,-114.95 139.9,-111.67" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

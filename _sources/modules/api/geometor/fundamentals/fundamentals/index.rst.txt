@@ -5,7 +5,36 @@ geometor.fundamentals.fundamentals
 
 .. autoapi-nested-parse::
 
-   fundamentals
+   Core application class for GEOMETOR Fundamentals.
+
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.fundamentals.fundamentals.Fundamentals
+
+
+Module Contents
+---------------
+
+.. py:class:: Fundamentals(repo_root: pathlib.Path | None = None)
+
+   High-level interface to the GEOMETOR Fundamentals archive and codex pipeline.
+
+
+   .. py:attribute:: repo_root
+
+
+   .. py:method:: run(argv: list[str] | None = None) -> int
+
+      Execute the CLI pipeline.
+
+      :param argv: Optional list of CLI argument strings.
+
+      :returns: Exit code (`0` on success).
 
 
 

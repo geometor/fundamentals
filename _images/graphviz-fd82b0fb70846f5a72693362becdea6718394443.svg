@@ -1,0 +1,63 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="298pt" height="116pt" viewBox="0.00 0.00 298.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.20</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-20/index.html" ns1:title="F.20\nExtangent">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M194.5,-36C194.5,-36 151.5,-36 151.5,-36 145.5,-36 139.5,-30 139.5,-24 139.5,-24 139.5,-12 139.5,-12 139.5,-6 145.5,0 151.5,0 151.5,0 194.5,0 194.5,0 200.5,0 206.5,-6 206.5,-12 206.5,-12 206.5,-24 206.5,-24 206.5,-30 200.5,-36 194.5,-36" />
+<ns0:text text-anchor="middle" x="173" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.20</ns0:text>
+<ns0:text text-anchor="middle" x="173" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Extangent</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.5</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-05/index.html" ns1:title="F.5\nCenters of Similitude">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M102,-108C102,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 102,-72 102,-72 108,-72 114,-78 114,-84 114,-84 114,-96 114,-96 114,-102 108,-108 102,-108" />
+<ns0:text text-anchor="middle" x="57" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.5</ns0:text>
+<ns0:text text-anchor="middle" x="57" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Centers of Similitude</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.5-&gt;F.20</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M85.38,-71.88C101.39,-62.22 121.51,-50.07 138.44,-39.86" />
+<ns0:polygon fill="#888888" stroke="#888888" points="139.79,-41.9 144.51,-36.19 137.25,-37.71 139.79,-41.9" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.11</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-11/index.html" ns1:title="F.11\nCircumcenter">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M201.5,-108C201.5,-108 144.5,-108 144.5,-108 138.5,-108 132.5,-102 132.5,-96 132.5,-96 132.5,-84 132.5,-84 132.5,-78 138.5,-72 144.5,-72 144.5,-72 201.5,-72 201.5,-72 207.5,-72 213.5,-78 213.5,-84 213.5,-84 213.5,-96 213.5,-96 213.5,-102 207.5,-108 201.5,-108" />
+<ns0:text text-anchor="middle" x="173" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.11</ns0:text>
+<ns0:text text-anchor="middle" x="173" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circumcenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.11-&gt;F.20</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M173,-71.7C173,-63.14 173,-52.66 173,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="175.45,-43.1 173,-36.1 170.55,-43.1 175.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.28</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-28/index.html" ns1:title="F.28\nIncenter">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M278,-108C278,-108 244,-108 244,-108 238,-108 232,-102 232,-96 232,-96 232,-84 232,-84 232,-78 238,-72 244,-72 244,-72 278,-72 278,-72 284,-72 290,-78 290,-84 290,-84 290,-96 290,-96 290,-102 284,-108 278,-108" />
+<ns0:text text-anchor="middle" x="261" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.28</ns0:text>
+<ns0:text text-anchor="middle" x="261" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Incenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.28-&gt;F.20</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M239.25,-71.7C227.42,-62.29 212.68,-50.56 200.11,-40.56" />
+<ns0:polygon fill="#888888" stroke="#888888" points="201.51,-38.54 194.5,-36.1 198.46,-42.38 201.51,-38.54" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

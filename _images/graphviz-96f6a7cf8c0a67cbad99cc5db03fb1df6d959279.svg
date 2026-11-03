@@ -1,0 +1,79 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="283pt" height="188pt" viewBox="0.00 0.00 282.50 188.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.32</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-32/index.html" ns1:title="F.32\nMarkowski's Theorem">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M206,-108C206,-108 112,-108 112,-108 106,-108 100,-102 100,-96 100,-96 100,-84 100,-84 100,-78 106,-72 112,-72 112,-72 206,-72 206,-72 212,-72 218,-78 218,-84 218,-84 218,-96 218,-96 218,-102 212,-108 206,-108" />
+<ns0:text text-anchor="middle" x="159" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.32</ns0:text>
+<ns0:text text-anchor="middle" x="159" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Markowski's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.41</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-41/index.html" ns1:title="F.41\nGeometric Problems and Extremal Loci">
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M244,-36C244,-36 74,-36 74,-36 68,-36 62,-30 62,-24 62,-24 62,-12 62,-12 62,-6 68,0 74,0 74,0 244,0 244,0 250,0 256,-6 256,-12 256,-12 256,-24 256,-24 256,-30 250,-36 244,-36" />
+<ns0:text text-anchor="middle" x="159" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.41</ns0:text>
+<ns0:text text-anchor="middle" x="159" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Geometric Problems and Extremal Loci</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.32-&gt;F.41</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M159,-71.7C159,-63.14 159,-52.66 159,-43.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="161.45,-43.1 159,-36.1 156.55,-43.1 161.45,-43.1" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.4</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-04/index.html" ns1:title="F.4\nCarnot's Theorem">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M88,-180C88,-180 12,-180 12,-180 6,-180 0,-174 0,-168 0,-168 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 88,-144 88,-144 94,-144 100,-150 100,-156 100,-156 100,-168 100,-168 100,-174 94,-180 88,-180" />
+<ns0:text text-anchor="middle" x="50" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.4</ns0:text>
+<ns0:text text-anchor="middle" x="50" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Carnot's Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.4-&gt;F.32</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M76.66,-143.88C91.58,-134.3 110.29,-122.28 126.1,-112.13" />
+<ns0:polygon fill="#888888" stroke="#888888" points="127.67,-114.03 132.23,-108.19 125.02,-109.91 127.67,-114.03" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.11</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-11/index.html" ns1:title="F.11\nCircumcenter">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M187.5,-180C187.5,-180 130.5,-180 130.5,-180 124.5,-180 118.5,-174 118.5,-168 118.5,-168 118.5,-156 118.5,-156 118.5,-150 124.5,-144 130.5,-144 130.5,-144 187.5,-144 187.5,-144 193.5,-144 199.5,-150 199.5,-156 199.5,-156 199.5,-168 199.5,-168 199.5,-174 193.5,-180 187.5,-180" />
+<ns0:text text-anchor="middle" x="159" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.11</ns0:text>
+<ns0:text text-anchor="middle" x="159" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circumcenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.11-&gt;F.32</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M159,-143.7C159,-135.14 159,-124.66 159,-115.3" />
+<ns0:polygon fill="#888888" stroke="#888888" points="161.45,-115.1 159,-108.1 156.55,-115.1 161.45,-115.1" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.29</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-29/index.html" ns1:title="F.29\nInradius">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M262.5,-180C262.5,-180 229.5,-180 229.5,-180 223.5,-180 217.5,-174 217.5,-168 217.5,-168 217.5,-156 217.5,-156 217.5,-150 223.5,-144 229.5,-144 229.5,-144 262.5,-144 262.5,-144 268.5,-144 274.5,-150 274.5,-156 274.5,-156 274.5,-168 274.5,-168 274.5,-174 268.5,-180 262.5,-180" />
+<ns0:text text-anchor="middle" x="246" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.29</ns0:text>
+<ns0:text text-anchor="middle" x="246" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Inradius</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.29-&gt;F.32</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M224.49,-143.7C212.8,-134.29 198.23,-122.56 185.8,-112.56" />
+<ns0:polygon fill="#888888" stroke="#888888" points="187.25,-110.58 180.26,-108.1 184.18,-114.4 187.25,-110.58" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

@@ -1,0 +1,79 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="642pt" height="116pt" viewBox="0.00 0.00 642.00 116.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
+<ns0:title>dependency</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>F.50</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-50/index.html" ns1:title="F.50\nAltitudes, Mitchell's Reciprocal Heron Formula, and the Symphonic Theorem">
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M479,-36C479,-36 147,-36 147,-36 141,-36 135,-30 135,-24 135,-24 135,-12 135,-12 135,-6 141,0 147,0 147,0 479,0 479,0 485,0 491,-6 491,-12 491,-12 491,-24 491,-24 491,-30 485,-36 479,-36" />
+<ns0:text text-anchor="middle" x="313" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.50</ns0:text>
+<ns0:text text-anchor="middle" x="313" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Altitudes, Mitchell's Reciprocal Heron Formula, and the Symphonic Theorem</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>F.3</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-03/index.html" ns1:title="F.3\nBiquadratic Forms in Heron's Formula">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M176,-108C176,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 176,-72 176,-72 182,-72 188,-78 188,-84 188,-84 188,-96 188,-96 188,-102 182,-108 176,-108" />
+<ns0:text text-anchor="middle" x="94" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.3</ns0:text>
+<ns0:text text-anchor="middle" x="94" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Biquadratic Forms in Heron's Formula</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>F.3-&gt;F.50</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M147.29,-71.97C179.09,-61.8 219.56,-48.87 252.55,-38.32" />
+<ns0:polygon fill="#888888" stroke="#888888" points="253.55,-40.58 259.47,-36.11 252.05,-35.91 253.55,-40.58" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>F.14</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-14/index.html" ns1:title="F.14\nConway Notation">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M292,-108C292,-108 218,-108 218,-108 212,-108 206,-102 206,-96 206,-96 206,-84 206,-84 206,-78 212,-72 218,-72 218,-72 292,-72 292,-72 298,-72 304,-78 304,-84 304,-84 304,-96 304,-96 304,-102 298,-108 292,-108" />
+<ns0:text text-anchor="middle" x="255" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.14</ns0:text>
+<ns0:text text-anchor="middle" x="255" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Conway Notation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>F.14-&gt;F.50</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M269.34,-71.7C276.85,-62.63 286.15,-51.4 294.23,-41.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="296.25,-43.06 298.83,-36.1 292.48,-39.93 296.25,-43.06" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>F.34</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-34/index.html" ns1:title="F.34\nNine-Point Circle">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M407.5,-108C407.5,-108 334.5,-108 334.5,-108 328.5,-108 322.5,-102 322.5,-96 322.5,-96 322.5,-84 322.5,-84 322.5,-78 328.5,-72 334.5,-72 334.5,-72 407.5,-72 407.5,-72 413.5,-72 419.5,-78 419.5,-84 419.5,-84 419.5,-96 419.5,-96 419.5,-102 413.5,-108 407.5,-108" />
+<ns0:text text-anchor="middle" x="371" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.34</ns0:text>
+<ns0:text text-anchor="middle" x="371" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Nine-Point Circle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>F.34-&gt;F.50</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M356.66,-71.7C349.15,-62.63 339.85,-51.4 331.77,-41.65" />
+<ns0:polygon fill="#888888" stroke="#888888" points="333.52,-39.93 327.17,-36.1 329.75,-43.06 333.52,-39.93" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>F.42</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-42/index.html" ns1:title="F.42\nAltitude of a Pythagorean Triple Triangle">
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M622,-108C622,-108 450,-108 450,-108 444,-108 438,-102 438,-96 438,-96 438,-84 438,-84 438,-78 444,-72 450,-72 450,-72 622,-72 622,-72 628,-72 634,-78 634,-84 634,-84 634,-96 634,-96 634,-102 628,-108 622,-108" />
+<ns0:text text-anchor="middle" x="536" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.42</ns0:text>
+<ns0:text text-anchor="middle" x="536" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Altitude of a Pythagorean Triple Triangle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>F.42-&gt;F.50</ns0:title>
+<ns0:path fill="none" stroke="#888888" d="M481.73,-71.97C449.36,-61.8 408.15,-48.87 374.56,-38.32" />
+<ns0:polygon fill="#888888" stroke="#888888" points="374.92,-35.87 367.51,-36.11 373.46,-40.54 374.92,-35.87" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>
