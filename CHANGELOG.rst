@@ -2,6 +2,11 @@
 Changelog
 =========
 
+0.1.1 (2026-11-13)
+------------------
+
+- **added**: Enabled 353/353 primary-source ``.jpg`` folio scan links across all 55 foundational geometry topics via ``photon-platform-publish`` v0.4.0 scan resolution and Book Codex header badges.
+
 0.1.0 (2026-11-02)
 ------------------
 
