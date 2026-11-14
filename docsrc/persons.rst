@@ -1,28 +1,65 @@
 :navigation: header
-:order: 40
+:order: 5
+:nav_title: People
 
 .. _persons:
 
-=======
-Persons
-=======
+People
+======
 
-Mathematicians, geometers, and researchers referenced in the
-:person:`seelig` archive and synthetic derivations.
+.. rubric:: Geometers, Philosophers & Modern Curators of Constructive Geometry
+
+Authors & Founding Architects
+-----------------------------
 
 .. _person-euclid:
 .. _euclid:
 
 Euclid of Alexandria (fl. 300 BCE)
-----------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Greek mathematician and author of the *Elements*, whose compass-and-straightedge propositions underpin the constructive foundations of every topic in this codex.
+
+.. _person-plato:
+.. _plato:
+
+Plato of Athens (c. 428–c. 348 BCE)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Founder of the Academy in Athens above whose gates stood the inscription *Let no one ignorant of geometry enter here*. Formulated the cosmological role of regular polyhedra in *Timaeus*.
+
+.. _person-pythagoras:
+.. _pythagoras:
+
+Pythagoras of Samos (c. 570–c. 495 BCE)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ionian philosopher and mathematician whose brotherhood established number as the essence of reality and discovered the incommensurability of the diagonal and the foundational theorem of right-angled triangles (*Elements I.47*).
+
+.. _person-phi:
+.. _phi:
+
+phi ARCHITECT
+~~~~~~~~~~~~~
+
+Founder and principal investigator of the **GEOMETOR** Project, standardizing synthetic constructive geometry into executable Python models, interactive theme-adaptive SVG plates, and multi-track Book Codices.
+
+.. _person-seelig:
+.. _seelig:
+
+Fred W. Seelig (20th–21st c.)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Independent geometric researcher and compiler of the 55 notebooks and computational spreadsheets forming the GEOMETOR Fundamentals archive. His investigations bridge classical synthetic geometry, Conway triangle notation, homogeneous barycentric coordinates, and exact algebraic verification.
+
+Cited Geometers, Philosophers & Scholars
+----------------------------------------
 
 .. _person-pappus:
 .. _pappus:
 
 Pappus of Alexandria (c. 290–c. 350 CE)
----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hellenistic mathematician whose *Synagoge* (*Collection*) preserved projective invariants, harmonic cross-ratios, and Stewart's theorem precursors.
 
@@ -186,13 +223,6 @@ Claudius Ptolemy (c. 100–c. 170 CE)
 
 Alexandrian astronomer and mathematician whose *Almagest* established Ptolemy's theorem on the diagonals and sides of a cyclic quadrilateral.
 
-.. _person-seelig:
-.. _seelig:
-
-Fred W. Seelig (20th–21st c.)
------------------------------
-
-Independent geometric researcher and compiler of the 55 notebooks and computational spreadsheets forming the GEOMETOR Fundamentals archive. His investigations bridge classical synthetic geometry, Conway triangle notation, homogeneous barycentric coordinates, and exact algebraic verification.
 
 .. _person-steiner:
 .. _steiner:

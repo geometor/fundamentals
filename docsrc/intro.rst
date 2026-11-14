@@ -1,5 +1,5 @@
 ============
-fundamentals
+Fundamentals
 ============
 
 **Foundational Constructive Geometry Codex & The Fred W. Seelig Archive**

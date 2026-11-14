@@ -1,12 +1,30 @@
-:layout: book
 :navigation: header
-:order: 10
+:order: 1
+:nav_title: Topics
+:layout: book
+:book_title: Fundamentals of Constructive Geometry
+:book_subtitle: 55 Elementary Constructions & Axiomatic Primers (F.1–F.55)
+:author: Paul Seelig & phi ARCHITECT
+:year: 2026
 
 .. _topics:
 
-======
-Topics
-======
+Fundamentals of Constructive Geometry
+=====================================
+
+.. rubric:: 55 Elementary Constructions & Axiomatic Primers (F.1–F.55)
+
+.. container:: title-page
+
+   | **Manuscript Author:** :person:`Paul Seelig <seelig>`
+   | **Formalization & Curation:** :person:`phi ARCHITECT <phi>`
+   | **Archival Scope:** 353 manuscript folios (0001–0353) and 59 computational worksheets (*Triangles and Circles.ods*).
+   | **Digital Edition:** Synchronized 3-track codex (*Synthesis · Folios · Code*) with calibrated interactive SVG figures.
+
+----
+
+Table of Contents
+-----------------
 
 The **GEOMETOR Fundamentals Codex** synthesizes **55 foundational topics**
 (:math:`\text{F.1}` through :math:`\text{F.55}`) across **353 manuscript folios**
@@ -315,3 +333,10 @@ Master Index of Topics (F.1 – F.55)
      - Polygons, Tessellations & Special Triangles
      - ``0349–0353`` (5)
      - ``I.1``, ``IV.4``, ``G.1``, ``G.8``, ``X(1)``, ``X(7)``
+
+----
+
+Scholarly Apparatus
+-------------------
+
+* :ref:`People <persons>` · :ref:`Bibliography <bibliography>` · :ref:`Glossary <glossary>`

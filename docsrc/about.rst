@@ -1,10 +1,10 @@
 :navigation: footer
-:order: 1
+:nav_title: About
 
 .. _about:
 
 
-about
+About
 =====
 
 
