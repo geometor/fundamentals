@@ -1,5 +1,6 @@
 :navigation: header
-:order: 60
+:order: 30
+:nav_title: Log
 
 ===
 Log

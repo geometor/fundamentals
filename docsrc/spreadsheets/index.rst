@@ -1,5 +1,6 @@
 :navigation: header
 :order: 25
+:nav_title: Spreadsheets
 
 .. _spreadsheets:
 

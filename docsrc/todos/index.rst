@@ -1,5 +1,5 @@
 :navigation: footer
-:order: 3
+:nav_title: Todos
 
 =====
 Todos

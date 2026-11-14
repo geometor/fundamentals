@@ -1,4 +1,4 @@
 :navigation: footer
-:order: 4
+:nav_title: Changelog
 
 .. include:: ../CHANGELOG.rst
