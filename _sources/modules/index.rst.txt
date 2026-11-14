@@ -1,5 +1,6 @@
 :navigation: header
-:order: 70
+:order: 40
+:nav_title: Modules
 
 =======
 Modules
