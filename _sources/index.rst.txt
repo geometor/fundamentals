@@ -4,7 +4,7 @@
    :maxdepth: 2
    :hidden:
 
-   mission/index
+   about/index
    topics/index
    spreadsheets/index
    usage/index
@@ -14,6 +14,5 @@
    log/index
    modules/index
    todos/index
-   about
    connect
    changelog

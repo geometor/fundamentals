@@ -6,7 +6,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mission &mdash; GEOMETOR • fundamentals</title>
+  <title>About &mdash; GEOMETOR • fundamentals</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
@@ -46,7 +46,7 @@
           <a href="../bibliography.html"  >Bibliography</a>
         </li>
         <li>
-          <a href="#" class="is-active" aria-selected="true" aria-current="page">Mission</a>
+          <a href="#" class="is-active" aria-selected="true" aria-current="page">About</a>
         </li>
         <li>
           <a href="../usage/index.html"  >Usage</a>
@@ -86,22 +86,44 @@
         </div>
       </header>
       <div class="content body book-content" role="main">
-        <section class="level-1" id="mission">
-        <h1>Mission<a class="headerlink" href="#mission" title="Link to this heading">¶</a></h1>
-        <p><code class="docutils literal notranslate"><span class="pre">geometor.fundamentals</span></code> has a dual mission within the <strong>GEOMETOR</strong> ecosystem:</p>
-        <ol class="arabic simple">
-        <li><p><strong>Preserve the Fred W. Seelig Archive</strong>: Curate, index, and transcribe the
-        <strong>353 handwritten geometry notebook pages</strong> across <strong>55 topics</strong> and the
-        <strong>59 computational worksheets</strong> (<cite>Triangles and Circles.ods</cite>,
-        <cite>circumcircle-circumcenter.ods</cite>, <cite>triangle-basics-draw.ods</cite>) created by
-        <a class="person-ref" id="occ-person-seelig-1" href="../persons.html#person-seelig" data-person="seelig" title="Fred W. Seelig (20th–21st c.)">seelig</a> (<a class="citation-ref" id="occ-cite-seelignotebooks-1" href="../bibliography.html#cite-seelignotebooks" data-cite="seelignotebooks" title="Citation: seelignotebooks">SeeligNotebooks</a>, <a class="citation-ref" id="occ-cite-seeligspreadsheets-1" href="../bibliography.html#cite-seeligspreadsheets" data-cite="seeligspreadsheets" title="Citation: seeligspreadsheets">SeeligSpreadsheets</a>).</p></li>
-        <li><p><strong>Synthesize a Constructive Geometry Book Codex</strong>: Transform every notebook
-        study into an executable, symbolically verified 3-Track Book Codex
-        (<strong>Synthesis</strong>, <strong>Folios</strong>, <strong>Code</strong>) using <code class="docutils literal notranslate"><span class="pre">geometor.model</span></code> and <code class="docutils literal notranslate"><span class="pre">sympy</span></code>,
-        creating a unified bridge between <strong>Euclid’s Elements</strong> (<code class="docutils literal notranslate"><span class="pre">geometor/euclid</span></code>),
-        <strong>GEOMETOR Elements</strong> (<code class="docutils literal notranslate"><span class="pre">geometor/elements</span></code>), and the <strong>Encyclopedia of
-        Triangle Centers</strong> (<code class="docutils literal notranslate"><span class="pre">geometor/etc</span></code>).</p></li>
-        </ol>
+        <section class="level-1" id="about-fundamentals">
+        <span id="about-index"></span><span id="about"></span><span id="id1"></span><h1>About<a class="headerlink" href="#about-fundamentals" title="Link to this heading">¶</a></h1>
+        <p class="rubric">Extracting Historical Semantic Knowledge &amp; Repurposing It for Exact Symbolic Reasoning</p>
+        <section class="level-2" id="about-this-edition">
+        <h2>About This Edition<a class="headerlink" href="#about-this-edition" title="Link to this heading">¶</a></h2>
+        <p><em>GEOMETOR fundamentals</em> establishes the constructive and axiomatic foundation of the GEOMETOR library, synthesizing classical synthetic, projective, harmonic, and compass-and-straightedge geometry through the archival corpus of <a class="person-ref" id="occ-person-seelig-1" href="../persons.html#person-seelig" data-person="seelig" title="Fred W. Seelig (20th–21st c.)">Fred W. Seelig</a>. Spanning 55 comprehensive geometric topics across 353 manuscript folios and 59 computational worksheets (<em>Triangles and Circles.ods</em>, <em>circumcircle-circumcenter.ods</em>, <em>triangle-basics-draw.ods</em>), this work investigates the core architecture of geometric order—from elementary Euclidean constructions and circle pencils to harmonic conjugates, pole-and-polar duality, and triangle center loci.</p>
+        <p>Every topic (<a class="reference internal" href="../topics/f-01/index.html#f-01"><span class="std std-ref">F.1</span></a> through <a class="reference internal" href="../topics/f-55/index.html#f-55"><span class="std std-ref">F.55</span></a>) is systematically extracted into an addressable 3-Track Book Codex. Track 1 (<strong>Synthesis</strong>) presents formal geometric enunciations, interactive SVG constructions with bidirectional hover highlighting, constructive signatures, and symbolic derivations on canonical reference configurations. Track 2 (<strong>Folios</strong>) preserves high-resolution primary archival scans (<code class="docutils literal notranslate"><span class="pre">0001.jpg</span></code>–<code class="docutils literal notranslate"><span class="pre">0353.jpg</span></code>) paired with diplomatic mathematical transcriptions. Track 3 (<strong>Code</strong>) provides standalone, executable Python scripts using <code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.model</span></code> and <a class="reference external" href="https://docs.sympy.org/latest/index.html#module-sympy" title="(in SymPy v1.14.0)"><code class="xref py py-mod docutils literal notranslate"><span class="pre">sympy</span></code></a> to verify all geometric and algebraic invariants to exact symbolic zero.</p>
+        <p>Within the broader GEOMETOR ecosystem, <em>fundamentals</em> serves as the operational bridge uniting classical axiomatic deduction with contemporary symbolic computation. It connects the foundational definitions and postulates of <a class="citation-ref" id="occ-cite-euclid-elements-1" href="../bibliography.html#cite-euclid-elements" data-cite="euclid_elements" title="Citation: euclid_elements">Euclid's Elements</a> (<a class="reference external" href="https://geometor.github.io/elements/modules/index.html#module-geometor.elements" title="(in GEOMETOR • elements v0.4.1)"><code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.elements</span></code></a>) and projective configurations (<code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.pappus</span></code>) to modern triangle center algebra in Kimberling’s Encyclopedia of Triangle Centers (<a class="citation-ref" id="occ-cite-kimberling-etc-1" href="../bibliography.html#cite-kimberling-etc" data-cite="kimberling_etc" title="Citation: kimberling_etc">Kimberling's ETC</a>, <code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.etc</span></code>). Through this synthesis, historical draftsmanship and handwritten mathematical notebooks are transformed into an executable geometric canon.</p>
+        </section>
+        <section class="level-2" id="the-geometor-mission">
+        <h2>The GEOMETOR Mission<a class="headerlink" href="#the-geometor-mission" title="Link to this heading">¶</a></h2>
+        <p>Founded and directed by <strong>phi ARCHITECT</strong>, the GEOMETOR initiative is dedicated to the systematic digitization, symbolic formalization, and multi-medium re-articulation of classical geometric and axiomatic literature across 2,300+ years of mathematical history. GEOMETOR bridges historical philology and modern computational geometry through three structural pillars:</p>
+        <dl class="simple">
+        <dt>Extracting Historical Semantic Knowledge</dt><dd><p>Moving beyond passive page scans and lossy optical character recognition (OCR), GEOMETOR recovers the living deductive architecture of classical, Renaissance, and modern mathematical treatises. Enunciations, geometric constructions, proof steps, axiomatic justifications, marginal citations, primary-source folios (rendered dynamically through <code class="docutils literal notranslate"><span class="pre">publish</span> <span class="pre">folio</span></code>), and calibrated Ink-to-Vector <code class="docutils literal notranslate"><span class="pre">.euclid-graphic</span></code> diagrams are converted into structured, machine-addressable semantic graphs.</p>
+        </dd>
+        <dt>Exact Symbolic Grounding (<code class="docutils literal notranslate"><span class="pre">geometor.model</span></code>)</dt><dd><p>Eliminating floating-point approximation errors entirely, GEOMETOR anchors geometric constructions and center proofs in 100% exact symbolic algebra via <a class="reference external" href="https://docs.sympy.org/latest/index.html#module-sympy" title="(in SymPy v1.14.0)"><code class="xref py py-mod docutils literal notranslate"><span class="pre">sympy</span></code></a> and Rational Trigonometry invariants (quadrance, spread, cross-ratio) evaluated over exact algebraic number fields. Every center, line concurrence, circle intersection, and tangency condition is verified to exact symbolic zero.</p>
+        </dd>
+        <dt>Repurposing Knowledge Across Mediums</dt><dd><p>Extracted semantic and algebraic models are mobilized across synchronized multi-track Book Codices and EPUB 3 editions via <code class="docutils literal notranslate"><span class="pre">photon-platform/publish</span></code>, computable deductive canons (<a class="reference external" href="https://geometor.github.io/elements/modules/index.html#module-geometor.elements" title="(in GEOMETOR • elements v0.4.1)"><code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.elements</span></code></a>, <code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.etc</span></code>, <code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.pappus</span></code>, <code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.divine</span></code>), interactive SVG laboratories (<code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.explorer</span></code>), high-definition visual broadcasts, and neuro-symbolic program synthesis engines (<code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.seer</span></code>) across <a class="reference external" href="https://geometor.com">geometor.com</a>.</p>
+        </dd>
+        </dl>
+        </section>
+        <section class="level-2" id="sources-provenance-methodology">
+        <h2>Sources, Provenance &amp; Methodology<a class="headerlink" href="#sources-provenance-methodology" title="Link to this heading">¶</a></h2>
+        <p>This edition curates and computationally formalizes modern geometrical manuscripts:</p>
+        <dl class="simple">
+        <dt>Primary Sources</dt><dd><ul class="simple">
+        <li><p><strong>Fred W. Seelig Archive</strong>: Handwritten geometrical notebooks spanning 353 pages across 55 topical studies (<a class="citation-ref" id="occ-cite-seelignotebooks-1" href="../bibliography.html#cite-seelignotebooks" data-cite="seelignotebooks" title="Citation: seelignotebooks">SeeligNotebooks</a>), accompanied by 59 computational worksheets in OpenDocument format (<a class="citation-ref" id="occ-cite-seeligspreadsheets-1" href="../bibliography.html#cite-seeligspreadsheets" data-cite="seeligspreadsheets" title="Citation: seeligspreadsheets">SeeligSpreadsheets</a>).</p></li>
+        <li><p><strong>Classical References</strong>: Historical connections to Euclid’s <em>Elements</em> (<a class="citation-ref" id="occ-cite-euclid-elements-2" href="../bibliography.html#cite-euclid-elements" data-cite="euclid_elements" title="Citation: euclid_elements">Euclid</a>), Apollonius’s <em>Conics</em>, Pappus’s <em>Collection</em>, and modern college geometry treatises.</p></li>
+        </ul>
+        </dd>
+        <dt>Digital Scriptorium Methodology</dt><dd><ul class="simple">
+        <li><p><strong>Three-Track Architecture</strong>: Each study integrates formal synthetic exposition (<a class="reference internal" href="../topics/index.html"><span class="doc">Fundamentals of Constructive Geometry</span></a>), high-resolution manuscript scans with folio transcriptions, and executable Python code models.</p></li>
+        <li><p><strong>Symbolic Grounding</strong>: Constructions are evaluated using <code class="xref py py-mod docutils literal notranslate"><span class="pre">geometor.model.Model</span></code> to ensure exact algebraic closure without numeric rounding errors.</p></li>
+        <li><p><strong>Apparatus</strong>: For full bibliographical citations, see <a class="reference internal" href="../bibliography.html"><span class="doc">Bibliography</span></a>; for biographical notes on figures cited throughout the archive, see <a class="reference internal" href="../persons.html"><span class="doc">People</span></a>; and for the spreadsheet catalog, see <a class="reference internal" href="../spreadsheets/index.html"><span class="doc">Spreadsheets</span></a>.</p></li>
+        </ul>
+        </dd>
+        </dl>
+        </section>
         </section>
 
       </div>
@@ -330,7 +352,6 @@
   <footer>
     <div class="footer-nav">
       <ul>
-        <li><a href="../about.html"  >About</a></li>
         <li><a href="../changelog.html"  >Changelog</a></li>
         <li><a href="../connect.html"  >Connect</a></li>
         <li><a href="../glossary.html"  >Glossary</a></li>
@@ -347,7 +368,7 @@
 
   <script src="../_static/jquery.js?v=5d32c60e"></script>
   <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="../_static/documentation_options.js?v=92734c54"></script>
+  <script src="../_static/documentation_options.js?v=360bc84d"></script>
   <script src="../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
