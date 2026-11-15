@@ -31,14 +31,12 @@ repo_name = "fundamentals"
 setup_globals(org, org_name, repo, repo_name)  # noqa: F405
 
 html_theme = "foundation"
-html_static_path: list[str] = []
-html_logo = None
+html_static_path: list[str] = ["_static"]
 suppress_warnings = ["autoapi.python_import_resolution", "toc.not_included"]
 
 _IMG_SVG_RE = re.compile(
     r'<img\b[^>]*?\bsrc="(?P<src>[^"]*?f-\d{2}\.svg)"[^>]*?>'
 )
-
 
 def _inline_fundamentals_svgs(
     app: Any,
@@ -84,7 +82,6 @@ def _inline_fundamentals_svgs(
         return match.group(0)
 
     context["body"] = _IMG_SVG_RE.sub(_repl, body)
-
 
 def setup(app: Any) -> None:
     """Register Sphinx build event hooks for GEOMETOR Fundamentals.

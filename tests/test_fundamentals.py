@@ -24,7 +24,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 
 def test_version_and_registries() -> None:
     """Verify package version and scholarly apparatus registries."""
-    assert __version__ == "0.1.3"
+    assert __version__ == "0.1.4"
     assert len(GLOSSARY_REGISTRY) >= 35
     assert "seelig" in PERSONS_REGISTRY
     assert "SeeligNotebooks" in CITATIONS_REGISTRY
