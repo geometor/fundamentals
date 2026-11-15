@@ -47,4 +47,4 @@ __all__ = [
     "render_svg",
     "run",
 ]
-__version__ = "0.1.4"
+__version__ = "0.1.5"
