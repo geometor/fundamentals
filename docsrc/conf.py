@@ -30,6 +30,10 @@ repo_name = "fundamentals"
 
 setup_globals(org, org_name, repo, repo_name)  # noqa: F405
 
+site_title = "Geometric Fundamentals"
+project = site_title
+html_title = f"{site_title} • {org_name}"
+
 html_theme = "foundation"
 html_static_path: list[str] = ["_static"]
 suppress_warnings = ["autoapi.python_import_resolution", "toc.not_included"]

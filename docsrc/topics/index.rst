@@ -1,11 +1,14 @@
+:type: book
 :navigation: header
 :order: 1
 :nav_title: Topics
+:breadcrumb_title: Topics
 :layout: book
 :book_title: Fundamentals of Constructive Geometry
 :book_subtitle: 55 Elementary Constructions & Axiomatic Primers (F.1–F.55)
 :author: Paul Seelig & phi ARCHITECT
 :year: 2026
+:excerpt: 55 foundational geometric constructions across 353 manuscript folios synthesized into a synchronized 3-track Book Codex.
 
 .. _topics:
 
