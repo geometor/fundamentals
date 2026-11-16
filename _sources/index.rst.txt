@@ -1,8 +1,12 @@
+.. container:: author-overline
+
+   semantic digital archive • mathematical catalog
+
 ======================
 Geometric Fundamentals
 ======================
 
-Foundational constructive geometry codex and the Fred W. Seelig archive bridging Euclidean synthesis and symbolic algebra.
+The mathematical catalog preserves and formalizes the complete constructive geometry archive of Fred W. Seelig, spanning 55 fundamental topics across 353 manuscript folios and 59 computational worksheets. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these studies are liberated into an addressable 3-track Book Codex linking classical Euclidean and projective demonstrations directly to exact SymPy models and primary-source folio provenance speaking one shared geometric language.
 
 .. collection::
    :type: book
