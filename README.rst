@@ -1,23 +1,36 @@
-.. include:: docsrc/intro.rst
+GEOMETOR • fundamentals
+=======================
 
-Installation & CLI Usage
+**Visit the Online Archive:** https://geometor.github.io/fundamentals/
+
+**Fred W. Seelig • Fundamentals of Constructive Geometry (F.1–F.55) • semantic digital archive**
+
+Mission
+-------
+
+``geometor/fundamentals`` is part of the interconnected `GEOMETOR <https://geometor.com>`_ semantic digital archive. It preserves, formalizes, and computationally validates the complete geometric corpus of Fred W. Seelig—comprising 55 fundamental constructions across 353 manuscript folios and 59 computational worksheets. By uniting classical Euclidean synthesis, projective and harmonic geometry, and exact SymPy modeling, the archive liberates handwritten mathematical discoveries into addressable semantic units with calibrated vector graphics and rigorous algebraic proofs across the GEOMETOR corpus.
+
+Catalogs in This Archive
 ------------------------
 
-Within the ``geometor`` ``uv`` workspace:
+- **`Fundamentals of Constructive Geometry <https://geometor.github.io/fundamentals/topics/>`_** — 55 elementary constructions and axiomatic primers (``F.1``–``F.55``) organized into a 3-track Book Codex (*Synthesis*, *Folios*, *Code*).
+
+Repository Contents
+-------------------
+
+- ``docsrc/`` — RST tracks, topic codices, spreadsheets, and guides compiled by `PHOTON publish <https://github.com/photon-platform/publish>`_.
+- ``resources/`` — Archival manuscript scans (353 folios), OpenDocument spreadsheets, and folio registries.
+- ``src/geometor/fundamentals/`` — Topic compilation, spreadsheet verification, and Book Codex generation engine.
+
+Local Build & Verification
+--------------------------
 
 .. code-block:: bash
 
-   # Ingest Fred Seelig's 55 topics (353 folios) and spreadsheets, and compile the Book Codex
-   uv run --offline fundamentals build
+   publish build
+   uv run --no-sync pytest
 
-   # Display summary table of all 55 topics and 353 folios
-   uv run --offline fundamentals status
+Part of the GEOMETOR Knowledge Archive
+--------------------------------------
 
-   # Inspect a specific 4-digit folio transcription
-   uv run --offline fundamentals-review --folio 0001
-
-   # Run test suite
-   uv run --offline pytest
-
-   # Build HTML documentation
-   sphinx-build -b html docsrc docs
+Explore all **74 Book Codices** and **11 Mathematical Catalogs** at https://geometor.com/books/.
