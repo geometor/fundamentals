@@ -46,4 +46,4 @@ Primary Sources
 Digital Scriptorium Methodology
     * **Three-Track Architecture**: Each study integrates formal synthetic exposition (:doc:`/topics/index`), high-resolution manuscript scans with folio transcriptions, and executable Python code models.
     * **Symbolic Grounding**: Constructions are evaluated using :mod:`geometor.model.Model` to ensure exact algebraic closure without numeric rounding errors.
-    * **Apparatus**: For full bibliographical citations, see :doc:`/bibliography`; for biographical notes on figures cited throughout the archive, see :doc:`/persons`; and for the spreadsheet catalog, see :doc:`/spreadsheets/index`.
+    * **Apparatus**: For full bibliographical citations, see :doc:`/bibliography`; for biographical notes on figures cited throughout the archive, see :doc:`/people/index`; and for the spreadsheet catalog, see :doc:`/spreadsheets/index`.
