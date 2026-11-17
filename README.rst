@@ -20,6 +20,25 @@ Catalogs in This Archive
 
 - `Fundamentals of Constructive Geometry <https://geometor.github.io/fundamentals/topics/>`_ — 55 elementary constructions and axiomatic primers (``F.1``–``F.55``) organized into a 3-track Book Codex (*Synthesis*, *Folios*, *Code*).
 
+Python Package & Modules
+------------------------
+
+The ``geometor-fundamentals`` Python package (``import geometor.fundamentals``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``apparatus.py`` — Scholarly apparatus registries and RST generators for GEOMETOR Fundamentals.
+- ``catalog.py`` — Unified catalog of all 55 topics (``F.1``–``F.55``) and 353 folio transcriptions.
+- ``catalog_a.py`` — Catalog data for Topics F.1 through F.28 of GEOMETOR Fundamentals.
+- ``catalog_b.py`` — Catalog data for Topics F.29 through F.55 of GEOMETOR Fundamentals.
+- ``construct.py`` — Symbolic and constructive geometry engine for the 55 topics of GEOMETOR Fundamentals.
+- ``folio_review.py`` — Interactive Folio Review server and CLI inspector for the Fred W. Seelig archive.
+- ``fundamentals.py`` — Core application class for GEOMETOR Fundamentals.
+- ``ingest.py`` — Archival ingestion pipeline for Fred W. Seelig's notebooks and spreadsheets.
+- ``render.py`` — Explorer-styled interactive SVG renderer for GEOMETOR Fundamentals.
+- ``spreadsheets.py`` — OpenDocument Spreadsheet (.ods) parser and RST generator for the Seelig archive.
+- *Plus 2 additional modules under* ``src/geometor/fundamentals/``.
+
+See the `API Reference <https://geometor.github.io/fundamentals/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
