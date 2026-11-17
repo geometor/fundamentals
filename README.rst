@@ -18,7 +18,7 @@ Mission
 Catalogs in This Archive
 ------------------------
 
-- **`Fundamentals of Constructive Geometry <https://geometor.github.io/fundamentals/topics/>`_** — 55 elementary constructions and axiomatic primers (``F.1``–``F.55``) organized into a 3-track Book Codex (*Synthesis*, *Folios*, *Code*).
+- `Fundamentals of Constructive Geometry <https://geometor.github.io/fundamentals/topics/>`_ — 55 elementary constructions and axiomatic primers (``F.1``–``F.55``) organized into a 3-track Book Codex (*Synthesis*, *Folios*, *Code*).
 
 Repository Contents
 -------------------
