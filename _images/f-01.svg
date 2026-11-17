@@ -219,7 +219,8 @@ svg.hide-guides .guide {
     <g class="svg-control-btn" data-action="labels"><rect x="5.1319" y="-7.7003" width="0.8593" height="0.5544" /><text x="5.5615" y="-7.4231" style="font-size:0.2550px">Lbl</text></g>
     <g class="svg-control-btn" data-action="guides"><rect x="6.0910" y="-7.7003" width="0.8593" height="0.5544" /><text x="6.5207" y="-7.4231" style="font-size:0.2550px">Gde</text></g>
   </g>
-  <script>
+  <script>//<![CDATA[
+
 (function() {
   if (window.__fundamentalsSvgInit) return;
   window.__fundamentalsSvgInit = true;
@@ -316,5 +317,6 @@ svg.hide-guides .guide {
     setupHoverSync();
   }
 })();
-</script>
+
+//]]></script>
 </svg>
