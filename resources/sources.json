@@ -1,0 +1,22 @@
+{
+  "repository": "geometor/fundamentals",
+  "rights_category": "original-archive",
+  "sources": [
+    {
+      "id": "seelig-archive-notebooks",
+      "title": "Fred W. Seelig Constructive Geometry Notebooks (353 Scans)",
+      "author": "Fred W. Seelig",
+      "year": "2026",
+      "era": "Primary Archive",
+      "languages": [
+        "English"
+      ],
+      "site_url": "https://geometor.github.io/fundamentals/",
+      "local_path": "resources/",
+      "pages": 353,
+      "publisher": "GEOMETOR / Fred W. Seelig Archive",
+      "rights": "Original primary family holdings",
+      "excerpt": "353 primary notebook JPG scans and construction spreadsheets."
+    }
+  ]
+}
