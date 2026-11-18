@@ -1,13 +1,13 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="424pt" height="116pt" viewBox="0.00 0.00 424.00 116.00">
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="421pt" height="116pt" viewBox="0.00 0.00 421.00 116.00">
 <ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <ns0:title>dependency</ns0:title>
 
 <ns0:g id="node1" class="node">
 <ns0:title>F.55</ns0:title>
 <ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-55/index.html" ns1:title="F.55\nCompass Constructions and Angle-to-Side Triangle Reconstruction">
-<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M302,-36C302,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 302,0 302,0 308,0 314,-6 314,-12 314,-12 314,-24 314,-24 314,-30 308,-36 302,-36" />
-<ns0:text text-anchor="middle" x="157" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.55</ns0:text>
-<ns0:text text-anchor="middle" x="157" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Compass Constructions and Angle-to-Side Triangle Reconstruction</ns0:text>
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M300.6,-36C300.6,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 300.6,0 300.6,0 306.6,0 312.6,-6 312.6,-12 312.6,-12 312.6,-24 312.6,-24 312.6,-30 306.6,-36 300.6,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="156.3" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.55</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="156.3" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Compass Constructions and Angle-to-Side Triangle Reconstruction</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
@@ -15,49 +15,49 @@
 <ns0:g id="node2" class="node">
 <ns0:title>F.14</ns0:title>
 <ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-14/index.html" ns1:title="F.14\nConway Notation">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M98,-108C98,-108 24,-108 24,-108 18,-108 12,-102 12,-96 12,-96 12,-84 12,-84 12,-78 18,-72 24,-72 24,-72 98,-72 98,-72 104,-72 110,-78 110,-84 110,-84 110,-96 110,-96 110,-102 104,-108 98,-108" />
-<ns0:text text-anchor="middle" x="61" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.14</ns0:text>
-<ns0:text text-anchor="middle" x="61" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Conway Notation</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M97.98,-108C97.98,-108 24.63,-108 24.63,-108 18.63,-108 12.63,-102 12.63,-96 12.63,-96 12.63,-84 12.63,-84 12.63,-78 18.63,-72 24.63,-72 24.63,-72 97.98,-72 97.98,-72 103.98,-72 109.98,-78 109.98,-84 109.98,-84 109.98,-96 109.98,-96 109.98,-102 103.98,-108 97.98,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="61.3" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.14</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="61.3" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Conway Notation</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge1" class="edge">
 <ns0:title>F.14-&gt;F.55</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M84.73,-71.7C97.75,-62.2 114,-50.35 127.8,-40.29" />
-<ns0:polygon fill="#888888" stroke="#888888" points="129.33,-42.21 133.54,-36.1 126.44,-38.25 129.33,-42.21" />
+<ns0:path fill="none" stroke="#888888" d="M84.78,-71.7C97.04,-62.66 112.2,-51.5 125.4,-41.77" />
+<ns0:polygon fill="#888888" stroke="#888888" points="126.69,-43.86 130.88,-37.73 123.79,-39.91 126.69,-43.86" />
 </ns0:g>
 
 <ns0:g id="node3" class="node">
 <ns0:title>F.29</ns0:title>
 <ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-29/index.html" ns1:title="F.29\nInradius">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M173.5,-108C173.5,-108 140.5,-108 140.5,-108 134.5,-108 128.5,-102 128.5,-96 128.5,-96 128.5,-84 128.5,-84 128.5,-78 134.5,-72 140.5,-72 140.5,-72 173.5,-72 173.5,-72 179.5,-72 185.5,-78 185.5,-84 185.5,-84 185.5,-96 185.5,-96 185.5,-102 179.5,-108 173.5,-108" />
-<ns0:text text-anchor="middle" x="157" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.29</ns0:text>
-<ns0:text text-anchor="middle" x="157" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Inradius</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M172.35,-108C172.35,-108 140.25,-108 140.25,-108 134.25,-108 128.25,-102 128.25,-96 128.25,-96 128.25,-84 128.25,-84 128.25,-78 134.25,-72 140.25,-72 140.25,-72 172.35,-72 172.35,-72 178.35,-72 184.35,-78 184.35,-84 184.35,-84 184.35,-96 184.35,-96 184.35,-102 178.35,-108 172.35,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="156.3" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.29</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="156.3" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Inradius</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge2" class="edge">
 <ns0:title>F.29-&gt;F.55</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M157,-71.7C157,-63.14 157,-52.66 157,-43.3" />
-<ns0:polygon fill="#888888" stroke="#888888" points="159.45,-43.1 157,-36.1 154.55,-43.1 159.45,-43.1" />
+<ns0:path fill="none" stroke="#888888" d="M156.3,-71.7C156.3,-63.6 156.3,-53.78 156.3,-44.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="158.75,-45.1 156.3,-38.1 153.85,-45.1 158.75,-45.1" />
 </ns0:g>
 
 <ns0:g id="node4" class="node">
 <ns0:title>F.49</ns0:title>
 <ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-49/index.html" ns1:title="F.49\nVesica Piscis and Acute-Obtuse Probability">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M404,-108C404,-108 216,-108 216,-108 210,-108 204,-102 204,-96 204,-96 204,-84 204,-84 204,-78 210,-72 216,-72 216,-72 404,-72 404,-72 410,-72 416,-78 416,-84 416,-84 416,-96 416,-96 416,-102 410,-108 404,-108" />
-<ns0:text text-anchor="middle" x="310" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.49</ns0:text>
-<ns0:text text-anchor="middle" x="310" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Vesica Piscis and Acute-Obtuse Probability</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M400.6,-108C400.6,-108 214,-108 214,-108 208,-108 202,-102 202,-96 202,-96 202,-84 202,-84 202,-78 208,-72 214,-72 214,-72 400.6,-72 400.6,-72 406.6,-72 412.6,-78 412.6,-84 412.6,-84 412.6,-96 412.6,-96 412.6,-102 406.6,-108 400.6,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="307.3" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.49</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="307.3" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Vesica Piscis and Acute-Obtuse Probability</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge3" class="edge">
 <ns0:title>F.49-&gt;F.55</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M272.57,-71.88C250.91,-61.97 223.54,-49.44 200.87,-39.07" />
-<ns0:polygon fill="#888888" stroke="#888888" points="201.69,-36.75 194.31,-36.07 199.65,-41.21 201.69,-36.75" />
+<ns0:path fill="none" stroke="#888888" d="M269.59,-71.52C249.36,-62.14 224.25,-50.5 202.82,-40.57" />
+<ns0:polygon fill="#888888" stroke="#888888" points="203.86,-38.35 196.48,-37.63 201.8,-42.79 203.86,-38.35" />
 </ns0:g>
 </ns0:g>
 </ns0:svg>

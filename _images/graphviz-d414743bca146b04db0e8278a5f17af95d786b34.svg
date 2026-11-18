@@ -1,13 +1,13 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="280pt" height="188pt" viewBox="0.00 0.00 279.50 188.00">
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="276pt" height="188pt" viewBox="0.00 0.00 276.00 188.00">
 <ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <ns0:title>dependency</ns0:title>
 
 <ns0:g id="node1" class="node">
 <ns0:title>F.47</ns0:title>
 <ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-47/index.html" ns1:title="F.47\nThe UVW Coordinate Triangle">
-<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M191.5,-108C191.5,-108 62.5,-108 62.5,-108 56.5,-108 50.5,-102 50.5,-96 50.5,-96 50.5,-84 50.5,-84 50.5,-78 56.5,-72 62.5,-72 62.5,-72 191.5,-72 191.5,-72 197.5,-72 203.5,-78 203.5,-84 203.5,-84 203.5,-96 203.5,-96 203.5,-102 197.5,-108 191.5,-108" />
-<ns0:text text-anchor="middle" x="127" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.47</ns0:text>
-<ns0:text text-anchor="middle" x="127" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">The UVW Coordinate Triangle</ns0:text>
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M189.35,-108C189.35,-108 61.25,-108 61.25,-108 55.25,-108 49.25,-102 49.25,-96 49.25,-96 49.25,-84 49.25,-84 49.25,-78 55.25,-72 61.25,-72 61.25,-72 189.35,-72 189.35,-72 195.35,-72 201.35,-78 201.35,-84 201.35,-84 201.35,-96 201.35,-96 201.35,-102 195.35,-108 189.35,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="125.3" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.47</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="125.3" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">The UVW Coordinate Triangle</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
@@ -15,49 +15,49 @@
 <ns0:g id="node4" class="node">
 <ns0:title>F.54</ns0:title>
 <ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-54/index.html" ns1:title="F.54\nHP-35s Triangle Program and Coordinate Scripts">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M232.5,-36C232.5,-36 21.5,-36 21.5,-36 15.5,-36 9.5,-30 9.5,-24 9.5,-24 9.5,-12 9.5,-12 9.5,-6 15.5,0 21.5,0 21.5,0 232.5,0 232.5,0 238.5,0 244.5,-6 244.5,-12 244.5,-12 244.5,-24 244.5,-24 244.5,-30 238.5,-36 232.5,-36" />
-<ns0:text text-anchor="middle" x="127" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.54</ns0:text>
-<ns0:text text-anchor="middle" x="127" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">HP-35s Triangle Program and Coordinate Scripts</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M230.22,-36C230.22,-36 20.38,-36 20.38,-36 14.38,-36 8.38,-30 8.38,-24 8.38,-24 8.38,-12 8.38,-12 8.38,-6 14.38,0 20.38,0 20.38,0 230.22,0 230.22,0 236.22,0 242.22,-6 242.22,-12 242.22,-12 242.22,-24 242.22,-24 242.22,-30 236.22,-36 230.22,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="125.3" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.54</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="125.3" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">HP-35s Triangle Program and Coordinate Scripts</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge3" class="edge">
 <ns0:title>F.47-&gt;F.54</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M127,-71.7C127,-63.14 127,-52.66 127,-43.3" />
-<ns0:polygon fill="#888888" stroke="#888888" points="129.45,-43.1 127,-36.1 124.55,-43.1 129.45,-43.1" />
+<ns0:path fill="none" stroke="#888888" d="M125.3,-71.34C125.3,-63.32 125.3,-53.67 125.3,-44.86" />
+<ns0:polygon fill="#888888" stroke="#888888" points="127.75,-44.93 125.3,-37.93 122.85,-44.93 127.75,-44.93" />
 </ns0:g>
 
 <ns0:g id="node2" class="node">
 <ns0:title>F.7</ns0:title>
 <ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-07/index.html" ns1:title="F.7\nCeva and Menelaus">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M98,-180C98,-180 12,-180 12,-180 6,-180 0,-174 0,-168 0,-168 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 98,-144 98,-144 104,-144 110,-150 110,-156 110,-156 110,-168 110,-168 110,-174 104,-180 98,-180" />
-<ns0:text text-anchor="middle" x="55" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.7</ns0:text>
-<ns0:text text-anchor="middle" x="55" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ceva and Menelaus</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M96.6,-180C96.6,-180 12,-180 12,-180 6,-180 0,-174 0,-168 0,-168 0,-156 0,-156 0,-150 6,-144 12,-144 12,-144 96.6,-144 96.6,-144 102.6,-144 108.6,-150 108.6,-156 108.6,-156 108.6,-168 108.6,-168 108.6,-174 102.6,-180 96.6,-180" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="54.3" y="-164.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.7</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="54.3" y="-152.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ceva and Menelaus</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge1" class="edge">
 <ns0:title>F.7-&gt;F.47</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M72.8,-143.7C82.3,-134.46 94.1,-122.98 104.26,-113.11" />
-<ns0:polygon fill="#888888" stroke="#888888" points="106.1,-114.74 109.41,-108.1 102.68,-111.23 106.1,-114.74" />
+<ns0:path fill="none" stroke="#888888" d="M71.85,-143.7C80.83,-134.85 91.88,-123.94 101.61,-114.36" />
+<ns0:polygon fill="#888888" stroke="#888888" points="103.12,-116.31 106.38,-109.65 99.68,-112.82 103.12,-116.31" />
 </ns0:g>
 
 <ns0:g id="node3" class="node">
 <ns0:title>F.35</ns0:title>
 <ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-35/index.html" ns1:title="F.35\nObtuse and Acute Triangles">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M259.5,-180C259.5,-180 140.5,-180 140.5,-180 134.5,-180 128.5,-174 128.5,-168 128.5,-168 128.5,-156 128.5,-156 128.5,-150 134.5,-144 140.5,-144 140.5,-144 259.5,-144 259.5,-144 265.5,-144 271.5,-150 271.5,-156 271.5,-156 271.5,-168 271.5,-168 271.5,-174 265.5,-180 259.5,-180" />
-<ns0:text text-anchor="middle" x="200" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.35</ns0:text>
-<ns0:text text-anchor="middle" x="200" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Obtuse and Acute Triangles</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M256.1,-180C256.1,-180 138.5,-180 138.5,-180 132.5,-180 126.5,-174 126.5,-168 126.5,-168 126.5,-156 126.5,-156 126.5,-150 132.5,-144 138.5,-144 138.5,-144 256.1,-144 256.1,-144 262.1,-144 268.1,-150 268.1,-156 268.1,-156 268.1,-168 268.1,-168 268.1,-174 262.1,-180 256.1,-180" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="197.3" y="-164.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.35</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="197.3" y="-152.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Obtuse and Acute Triangles</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge2" class="edge">
 <ns0:title>F.35-&gt;F.47</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M181.96,-143.7C172.32,-134.46 160.35,-122.98 150.05,-113.11" />
-<ns0:polygon fill="#888888" stroke="#888888" points="151.59,-111.18 144.84,-108.1 148.19,-114.72 151.59,-111.18" />
+<ns0:path fill="none" stroke="#888888" d="M179.5,-143.7C170.47,-134.91 159.36,-124.11 149.55,-114.58" />
+<ns0:polygon fill="#888888" stroke="#888888" points="151.46,-113.01 144.73,-109.89 148.04,-116.53 151.46,-113.01" />
 </ns0:g>
 </ns0:g>
 </ns0:svg>

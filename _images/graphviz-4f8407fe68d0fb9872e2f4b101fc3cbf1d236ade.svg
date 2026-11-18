@@ -1,13 +1,13 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="924pt" height="188pt" viewBox="0.00 0.00 924.00 188.00">
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="918pt" height="188pt" viewBox="0.00 0.00 918.00 188.00">
 <ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <ns0:title>dependency</ns0:title>
 
 <ns0:g id="node1" class="node">
 <ns0:title>F.10</ns0:title>
 <ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-10/index.html" ns1:title="F.10\nCircles and Geometric Mean">
-<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M352.5,-108C352.5,-108 229.5,-108 229.5,-108 223.5,-108 217.5,-102 217.5,-96 217.5,-96 217.5,-84 217.5,-84 217.5,-78 223.5,-72 229.5,-72 229.5,-72 352.5,-72 352.5,-72 358.5,-72 364.5,-78 364.5,-84 364.5,-84 364.5,-96 364.5,-96 364.5,-102 358.5,-108 352.5,-108" />
-<ns0:text text-anchor="middle" x="291" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.10</ns0:text>
-<ns0:text text-anchor="middle" x="291" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circles and Geometric Mean</ns0:text>
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M349.05,-108C349.05,-108 226.95,-108 226.95,-108 220.95,-108 214.95,-102 214.95,-96 214.95,-96 214.95,-84 214.95,-84 214.95,-78 220.95,-72 226.95,-72 226.95,-72 349.05,-72 349.05,-72 355.05,-72 361.05,-78 361.05,-84 361.05,-84 361.05,-96 361.05,-96 361.05,-102 355.05,-108 349.05,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="288" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.10</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="288" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circles and Geometric Mean</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
@@ -16,128 +16,128 @@
 <ns0:title>F.17</ns0:title>
 <ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-17/index.html" ns1:title="F.17\nEllipse">
 <ns0:path fill="#e0e0e0" stroke="#777777" d="M42,-36C42,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 42,0 42,0 48,0 54,-6 54,-12 54,-12 54,-24 54,-24 54,-30 48,-36 42,-36" />
-<ns0:text text-anchor="middle" x="27" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.17</ns0:text>
-<ns0:text text-anchor="middle" x="27" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ellipse</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="27" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.17</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="27" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Ellipse</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge3" class="edge">
 <ns0:title>F.10-&gt;F.17</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M217.49,-76.05C172.25,-67.06 113.47,-53.56 63,-36 62.28,-35.75 61.56,-35.49 60.83,-35.22" />
-<ns0:polygon fill="#888888" stroke="#888888" points="61.68,-32.92 54.27,-32.61 59.86,-37.47 61.68,-32.92" />
+<ns0:path fill="none" stroke="#888888" d="M214.18,-75.68C169.72,-66.66 112.34,-53.25 63,-36 62.73,-35.91 62.46,-35.81 62.19,-35.71" />
+<ns0:polygon fill="#888888" stroke="#888888" points="63.09,-33.43 55.68,-33.15 61.3,-37.99 63.09,-33.43" />
 </ns0:g>
 
 <ns0:g id="node5" class="node">
 <ns0:title>F.24</ns0:title>
 <ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-24/index.html" ns1:title="F.24\nGothic Arch">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M134,-36C134,-36 84,-36 84,-36 78,-36 72,-30 72,-24 72,-24 72,-12 72,-12 72,-6 78,0 84,0 84,0 134,0 134,0 140,0 146,-6 146,-12 146,-12 146,-24 146,-24 146,-30 140,-36 134,-36" />
-<ns0:text text-anchor="middle" x="109" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.24</ns0:text>
-<ns0:text text-anchor="middle" x="109" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Gothic Arch</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M132.3,-36C132.3,-36 83.7,-36 83.7,-36 77.7,-36 71.7,-30 71.7,-24 71.7,-24 71.7,-12 71.7,-12 71.7,-6 77.7,0 83.7,0 83.7,0 132.3,0 132.3,0 138.3,0 144.3,-6 144.3,-12 144.3,-12 144.3,-24 144.3,-24 144.3,-30 138.3,-36 132.3,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="108" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.24</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="108" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Gothic Arch</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge4" class="edge">
 <ns0:title>F.10-&gt;F.24</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M246.48,-71.88C217.93,-60.9 181.05,-46.71 152.67,-35.8" />
-<ns0:polygon fill="#888888" stroke="#888888" points="153.43,-33.46 146.02,-33.24 151.67,-38.04 153.43,-33.46" />
+<ns0:path fill="none" stroke="#888888" d="M242.11,-71.15C214.62,-60.46 179.83,-46.93 152.58,-36.34" />
+<ns0:polygon fill="#888888" stroke="#888888" points="153.56,-34.09 146.15,-33.84 151.79,-38.66 153.56,-34.09" />
 </ns0:g>
 
 <ns0:g id="node6" class="node">
 <ns0:title>F.27</ns0:title>
 <ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-27/index.html" ns1:title="F.27\nHarmonic Mean">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M244,-36C244,-36 176,-36 176,-36 170,-36 164,-30 164,-24 164,-24 164,-12 164,-12 164,-6 170,0 176,0 176,0 244,0 244,0 250,0 256,-6 256,-12 256,-12 256,-24 256,-24 256,-30 250,-36 244,-36" />
-<ns0:text text-anchor="middle" x="210" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.27</ns0:text>
-<ns0:text text-anchor="middle" x="210" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Mean</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M241.3,-36C241.3,-36 174.7,-36 174.7,-36 168.7,-36 162.7,-30 162.7,-24 162.7,-24 162.7,-12 162.7,-12 162.7,-6 168.7,0 174.7,0 174.7,0 241.3,0 241.3,0 247.3,0 253.3,-6 253.3,-12 253.3,-12 253.3,-24 253.3,-24 253.3,-30 247.3,-36 241.3,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="208" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.27</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="208" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Harmonic Mean</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge5" class="edge">
 <ns0:title>F.10-&gt;F.27</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M270.98,-71.7C260.19,-62.37 246.77,-50.77 235.26,-40.83" />
-<ns0:polygon fill="#888888" stroke="#888888" points="236.69,-38.83 229.79,-36.1 233.49,-42.54 236.69,-38.83" />
+<ns0:path fill="none" stroke="#888888" d="M267.81,-71.34C257.6,-62.4 245.08,-51.44 234.13,-41.87" />
+<ns0:polygon fill="#888888" stroke="#888888" points="235.92,-40.18 229.04,-37.41 232.7,-43.87 235.92,-40.18" />
 </ns0:g>
 
 <ns0:g id="node7" class="node">
 <ns0:title>F.42</ns0:title>
 <ns0:g id="a_node7"><ns0:a ns1:href="../topics/f-42/index.html" ns1:title="F.42\nAltitude of a Pythagorean Triple Triangle">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M458,-36C458,-36 286,-36 286,-36 280,-36 274,-30 274,-24 274,-24 274,-12 274,-12 274,-6 280,0 286,0 286,0 458,0 458,0 464,0 470,-6 470,-12 470,-12 470,-24 470,-24 470,-30 464,-36 458,-36" />
-<ns0:text text-anchor="middle" x="372" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.42</ns0:text>
-<ns0:text text-anchor="middle" x="372" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Altitude of a Pythagorean Triple Triangle</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M454.43,-36C454.43,-36 283.57,-36 283.57,-36 277.57,-36 271.57,-30 271.57,-24 271.57,-24 271.57,-12 271.57,-12 271.57,-6 277.57,0 283.57,0 283.57,0 454.43,0 454.43,0 460.43,0 466.43,-6 466.43,-12 466.43,-12 466.43,-24 466.43,-24 466.43,-30 460.43,-36 454.43,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="369" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.42</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="369" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Altitude of a Pythagorean Triple Triangle</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge6" class="edge">
 <ns0:title>F.10-&gt;F.42</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M311.02,-71.7C321.81,-62.37 335.23,-50.77 346.74,-40.83" />
-<ns0:polygon fill="#888888" stroke="#888888" points="348.51,-42.54 352.21,-36.1 345.31,-38.83 348.51,-42.54" />
+<ns0:path fill="none" stroke="#888888" d="M308.44,-71.34C318.78,-62.4 331.46,-51.44 342.54,-41.87" />
+<ns0:polygon fill="#888888" stroke="#888888" points="344.01,-43.84 347.7,-37.41 340.8,-40.13 344.01,-43.84" />
 </ns0:g>
 
 <ns0:g id="node8" class="node">
 <ns0:title>F.51</ns0:title>
 <ns0:g id="a_node8"><ns0:a ns1:href="../topics/f-51/index.html" ns1:title="F.51\nApollonian Circles and the Problem of Apollonius">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M710,-36C710,-36 500,-36 500,-36 494,-36 488,-30 488,-24 488,-24 488,-12 488,-12 488,-6 494,0 500,0 500,0 710,0 710,0 716,0 722,-6 722,-12 722,-12 722,-24 722,-24 722,-30 716,-36 710,-36" />
-<ns0:text text-anchor="middle" x="605" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.51</ns0:text>
-<ns0:text text-anchor="middle" x="605" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Apollonian Circles and the Problem of Apollonius</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M705.55,-36C705.55,-36 496.45,-36 496.45,-36 490.45,-36 484.45,-30 484.45,-24 484.45,-24 484.45,-12 484.45,-12 484.45,-6 490.45,0 496.45,0 496.45,0 705.55,0 705.55,0 711.55,0 717.55,-6 717.55,-12 717.55,-12 717.55,-24 717.55,-24 717.55,-30 711.55,-36 705.55,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="601" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.51</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="601" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Apollonian Circles and the Problem of Apollonius</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge7" class="edge">
 <ns0:title>F.10-&gt;F.51</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M364.62,-72.59C411.61,-62.11 472.65,-48.51 521.45,-37.62" />
-<ns0:polygon fill="#888888" stroke="#888888" points="522.26,-39.95 528.56,-36.04 521.2,-35.17 522.26,-39.95" />
+<ns0:path fill="none" stroke="#888888" d="M361.78,-72.5C407.57,-62.26 466.61,-49.05 514.59,-38.33" />
+<ns0:polygon fill="#888888" stroke="#888888" points="515.02,-40.74 521.32,-36.82 513.95,-35.96 515.02,-40.74" />
 </ns0:g>
 
 <ns0:g id="node9" class="node">
 <ns0:title>F.53</ns0:title>
 <ns0:g id="a_node9"><ns0:a ns1:href="../topics/f-53/index.html" ns1:title="F.53\nGeometric Half-Angle Trigonometry">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M904,-36C904,-36 752,-36 752,-36 746,-36 740,-30 740,-24 740,-24 740,-12 740,-12 740,-6 746,0 752,0 752,0 904,0 904,0 910,0 916,-6 916,-12 916,-12 916,-24 916,-24 916,-30 910,-36 904,-36" />
-<ns0:text text-anchor="middle" x="828" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.53</ns0:text>
-<ns0:text text-anchor="middle" x="828" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Geometric Half-Angle Trigonometry</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M898.3,-36C898.3,-36 747.7,-36 747.7,-36 741.7,-36 735.7,-30 735.7,-24 735.7,-24 735.7,-12 735.7,-12 735.7,-6 741.7,0 747.7,0 747.7,0 898.3,0 898.3,0 904.3,0 910.3,-6 910.3,-12 910.3,-12 910.3,-24 910.3,-24 910.3,-30 904.3,-36 898.3,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="823" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.53</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="823" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Geometric Half-Angle Trigonometry</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge8" class="edge">
 <ns0:title>F.10-&gt;F.53</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M364.73,-81.34C452.26,-71.97 602.56,-54.98 731,-36 731.54,-35.92 732.08,-35.84 732.62,-35.76" />
-<ns0:polygon fill="#888888" stroke="#888888" points="733.19,-38.15 739.74,-34.67 732.46,-33.31 733.19,-38.15" />
+<ns0:path fill="none" stroke="#888888" d="M361.96,-81.33C447.56,-72.17 592.94,-55.73 726.99,-35.96" />
+<ns0:polygon fill="#888888" stroke="#888888" points="727.34,-38.39 733.9,-34.94 726.62,-33.54 727.34,-38.39" />
 </ns0:g>
 
 <ns0:g id="node2" class="node">
 <ns0:title>F.8</ns0:title>
 <ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-08/index.html" ns1:title="F.8\nChord Intersection">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M272.5,-180C272.5,-180 193.5,-180 193.5,-180 187.5,-180 181.5,-174 181.5,-168 181.5,-168 181.5,-156 181.5,-156 181.5,-150 187.5,-144 193.5,-144 193.5,-144 272.5,-144 272.5,-144 278.5,-144 284.5,-150 284.5,-156 284.5,-156 284.5,-168 284.5,-168 284.5,-174 278.5,-180 272.5,-180" />
-<ns0:text text-anchor="middle" x="233" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.8</ns0:text>
-<ns0:text text-anchor="middle" x="233" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Chord Intersection</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M268.93,-180C268.93,-180 191.07,-180 191.07,-180 185.07,-180 179.07,-174 179.07,-168 179.07,-168 179.07,-156 179.07,-156 179.07,-150 185.07,-144 191.07,-144 191.07,-144 268.93,-144 268.93,-144 274.93,-144 280.93,-150 280.93,-156 280.93,-156 280.93,-168 280.93,-168 280.93,-174 274.93,-180 268.93,-180" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="230" y="-164.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.8</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="230" y="-152.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Chord Intersection</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge1" class="edge">
 <ns0:title>F.8-&gt;F.10</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M247.34,-143.7C254.85,-134.63 264.15,-123.4 272.23,-113.65" />
-<ns0:polygon fill="#888888" stroke="#888888" points="274.25,-115.06 276.83,-108.1 270.48,-111.93 274.25,-115.06" />
+<ns0:path fill="none" stroke="#888888" d="M244.34,-143.7C251.53,-135.01 260.36,-124.36 268.19,-114.9" />
+<ns0:polygon fill="#888888" stroke="#888888" points="269.88,-116.71 272.46,-109.76 266.11,-113.58 269.88,-116.71" />
 </ns0:g>
 
 <ns0:g id="node3" class="node">
 <ns0:title>F.9</ns0:title>
 <ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-09/index.html" ns1:title="F.9\nCircle Equations">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M385.5,-180C385.5,-180 314.5,-180 314.5,-180 308.5,-180 302.5,-174 302.5,-168 302.5,-168 302.5,-156 302.5,-156 302.5,-150 308.5,-144 314.5,-144 314.5,-144 385.5,-144 385.5,-144 391.5,-144 397.5,-150 397.5,-156 397.5,-156 397.5,-168 397.5,-168 397.5,-174 391.5,-180 385.5,-180" />
-<ns0:text text-anchor="middle" x="350" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.9</ns0:text>
-<ns0:text text-anchor="middle" x="350" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circle Equations</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M380.8,-180C380.8,-180 311.2,-180 311.2,-180 305.2,-180 299.2,-174 299.2,-168 299.2,-168 299.2,-156 299.2,-156 299.2,-150 305.2,-144 311.2,-144 311.2,-144 380.8,-144 380.8,-144 386.8,-144 392.8,-150 392.8,-156 392.8,-156 392.8,-168 392.8,-168 392.8,-174 386.8,-180 380.8,-180" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="346" y="-164.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.9</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="346" y="-152.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Circle Equations</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge2" class="edge">
 <ns0:title>F.9-&gt;F.10</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M335.42,-143.7C327.77,-134.63 318.31,-123.4 310.09,-113.65" />
-<ns0:polygon fill="#888888" stroke="#888888" points="311.8,-111.88 305.42,-108.1 308.05,-115.04 311.8,-111.88" />
+<ns0:path fill="none" stroke="#888888" d="M331.66,-143.7C324.47,-135.01 315.64,-124.36 307.81,-114.9" />
+<ns0:polygon fill="#888888" stroke="#888888" points="309.89,-113.58 303.54,-109.76 306.12,-116.71 309.89,-113.58" />
 </ns0:g>
 </ns0:g>
 </ns0:svg>

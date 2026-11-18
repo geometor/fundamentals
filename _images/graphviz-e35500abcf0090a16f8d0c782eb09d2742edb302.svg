@@ -1,13 +1,13 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="740pt" height="188pt" viewBox="0.00 0.00 739.50 188.00">
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="734pt" height="188pt" viewBox="0.00 0.00 734.00 188.00">
 <ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <ns0:title>dependency</ns0:title>
 
 <ns0:g id="node1" class="node">
 <ns0:title>F.5</ns0:title>
 <ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-05/index.html" ns1:title="F.5\nCenters of Similitude">
-<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M291.5,-108C291.5,-108 201.5,-108 201.5,-108 195.5,-108 189.5,-102 189.5,-96 189.5,-96 189.5,-84 189.5,-84 189.5,-78 195.5,-72 201.5,-72 201.5,-72 291.5,-72 291.5,-72 297.5,-72 303.5,-78 303.5,-84 303.5,-84 303.5,-96 303.5,-96 303.5,-102 297.5,-108 291.5,-108" />
-<ns0:text text-anchor="middle" x="246.5" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.5</ns0:text>
-<ns0:text text-anchor="middle" x="246.5" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Centers of Similitude</ns0:text>
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M288.6,-108C288.6,-108 199.5,-108 199.5,-108 193.5,-108 187.5,-102 187.5,-96 187.5,-96 187.5,-84 187.5,-84 187.5,-78 193.5,-72 199.5,-72 199.5,-72 288.6,-72 288.6,-72 294.6,-72 300.6,-78 300.6,-84 300.6,-84 300.6,-96 300.6,-96 300.6,-102 294.6,-108 288.6,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="244.05" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.5</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="244.05" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Centers of Similitude</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
@@ -15,81 +15,81 @@
 <ns0:g id="node3" class="node">
 <ns0:title>F.16</ns0:title>
 <ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-16/index.html" ns1:title="F.16\nd'Alembert's Theorem">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M105,-36C105,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 105,0 105,0 111,0 117,-6 117,-12 117,-12 117,-24 117,-24 117,-30 111,-36 105,-36" />
-<ns0:text text-anchor="middle" x="58.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.16</ns0:text>
-<ns0:text text-anchor="middle" x="58.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">d'Alembert's Theorem</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M104.1,-36C104.1,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 104.1,0 104.1,0 110.1,0 116.1,-6 116.1,-12 116.1,-12 116.1,-24 116.1,-24 116.1,-30 110.1,-36 104.1,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="58.05" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.16</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="58.05" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">d'Alembert's Theorem</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge2" class="edge">
 <ns0:title>F.5-&gt;F.16</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M200.51,-71.88C173.44,-61.8 139.11,-49.01 110.98,-38.54" />
-<ns0:polygon fill="#888888" stroke="#888888" points="111.76,-36.21 104.34,-36.07 110.05,-40.81 111.76,-36.21" />
+<ns0:path fill="none" stroke="#888888" d="M196.63,-71.15C170.87,-61.46 138.9,-49.43 112.17,-39.37" />
+<ns0:polygon fill="#888888" stroke="#888888" points="113.25,-37.16 105.83,-36.98 111.52,-41.74 113.25,-37.16" />
 </ns0:g>
 
 <ns0:g id="node4" class="node">
 <ns0:title>F.20</ns0:title>
 <ns0:g id="a_node4"><ns0:a ns1:href="../topics/f-20/index.html" ns1:title="F.20\nExtangent">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M190,-36C190,-36 147,-36 147,-36 141,-36 135,-30 135,-24 135,-24 135,-12 135,-12 135,-6 141,0 147,0 147,0 190,0 190,0 196,0 202,-6 202,-12 202,-12 202,-24 202,-24 202,-30 196,-36 190,-36" />
-<ns0:text text-anchor="middle" x="168.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.20</ns0:text>
-<ns0:text text-anchor="middle" x="168.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Extangent</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M187.98,-36C187.98,-36 146.12,-36 146.12,-36 140.12,-36 134.12,-30 134.12,-24 134.12,-24 134.12,-12 134.12,-12 134.12,-6 140.12,0 146.12,0 146.12,0 187.98,0 187.98,0 193.98,0 199.98,-6 199.98,-12 199.98,-12 199.98,-24 199.98,-24 199.98,-30 193.98,-36 187.98,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="167.05" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.20</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="167.05" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Extangent</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge3" class="edge">
 <ns0:title>F.5-&gt;F.20</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M227.22,-71.7C216.83,-62.37 203.9,-50.77 192.83,-40.83" />
-<ns0:polygon fill="#888888" stroke="#888888" points="194.41,-38.96 187.56,-36.1 191.13,-42.6 194.41,-38.96" />
+<ns0:path fill="none" stroke="#888888" d="M224.62,-71.34C214.88,-62.48 202.96,-51.65 192.5,-42.14" />
+<ns0:polygon fill="#888888" stroke="#888888" points="194.15,-40.33 187.33,-37.43 190.86,-43.96 194.15,-40.33" />
 </ns0:g>
 
 <ns0:g id="node5" class="node">
 <ns0:title>F.44</ns0:title>
 <ns0:g id="a_node5"><ns0:a ns1:href="../topics/f-44/index.html" ns1:title="F.44\nHomothetic Ratios and Crossed Diagonals">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M417,-36C417,-36 232,-36 232,-36 226,-36 220,-30 220,-24 220,-24 220,-12 220,-12 220,-6 226,0 232,0 232,0 417,0 417,0 423,0 429,-6 429,-12 429,-12 429,-24 429,-24 429,-30 423,-36 417,-36" />
-<ns0:text text-anchor="middle" x="324.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.44</ns0:text>
-<ns0:text text-anchor="middle" x="324.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Homothetic Ratios and Crossed Diagonals</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M414.23,-36C414.23,-36 229.88,-36 229.88,-36 223.88,-36 217.88,-30 217.88,-24 217.88,-24 217.88,-12 217.88,-12 217.88,-6 223.88,0 229.88,0 229.88,0 414.23,0 414.23,0 420.23,0 426.23,-6 426.23,-12 426.23,-12 426.23,-24 426.23,-24 426.23,-30 420.23,-36 414.23,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="322.05" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.44</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="322.05" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Homothetic Ratios and Crossed Diagonals</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge4" class="edge">
 <ns0:title>F.5-&gt;F.44</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M265.78,-71.7C276.17,-62.37 289.1,-50.77 300.17,-40.83" />
-<ns0:polygon fill="#888888" stroke="#888888" points="301.87,-42.6 305.44,-36.1 298.59,-38.96 301.87,-42.6" />
+<ns0:path fill="none" stroke="#888888" d="M263.73,-71.34C273.69,-62.4 285.9,-51.44 296.57,-41.87" />
+<ns0:polygon fill="#888888" stroke="#888888" points="297.94,-43.93 301.52,-37.43 294.67,-40.28 297.94,-43.93" />
 </ns0:g>
 
 <ns0:g id="node6" class="node">
 <ns0:title>F.48</ns0:title>
 <ns0:g id="a_node6"><ns0:a ns1:href="../topics/f-48/index.html" ns1:title="F.48\nVerisimilitude, Corner Subtriangles, and Excircle Homothety">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M719.5,-36C719.5,-36 459.5,-36 459.5,-36 453.5,-36 447.5,-30 447.5,-24 447.5,-24 447.5,-12 447.5,-12 447.5,-6 453.5,0 459.5,0 459.5,0 719.5,0 719.5,0 725.5,0 731.5,-6 731.5,-12 731.5,-12 731.5,-24 731.5,-24 731.5,-30 725.5,-36 719.5,-36" />
-<ns0:text text-anchor="middle" x="589.5" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.48</ns0:text>
-<ns0:text text-anchor="middle" x="589.5" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Verisimilitude, Corner Subtriangles, and Excircle Homothety</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M714.35,-36C714.35,-36 455.75,-36 455.75,-36 449.75,-36 443.75,-30 443.75,-24 443.75,-24 443.75,-12 443.75,-12 443.75,-6 449.75,0 455.75,0 455.75,0 714.35,0 714.35,0 720.35,0 726.35,-6 726.35,-12 726.35,-12 726.35,-24 726.35,-24 726.35,-30 720.35,-36 714.35,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="585.05" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.48</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="585.05" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Verisimilitude, Corner Subtriangles, and Excircle Homothety</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge5" class="edge">
 <ns0:title>F.5-&gt;F.48</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M303.52,-77.36C356.72,-66.51 436.95,-50.13 498.91,-37.49" />
-<ns0:polygon fill="#888888" stroke="#888888" points="499.62,-39.84 505.99,-36.04 498.64,-35.04 499.62,-39.84" />
+<ns0:path fill="none" stroke="#888888" d="M301.51,-77.2C353.46,-66.54 430.9,-50.64 491.73,-38.16" />
+<ns0:polygon fill="#888888" stroke="#888888" points="491.97,-40.61 498.33,-36.8 490.99,-35.81 491.97,-40.61" />
 </ns0:g>
 
 <ns0:g id="node2" class="node">
 <ns0:title>F.2</ns0:title>
 <ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-02/index.html" ns1:title="F.2\nBilinear Transformations">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M298.5,-180C298.5,-180 194.5,-180 194.5,-180 188.5,-180 182.5,-174 182.5,-168 182.5,-168 182.5,-156 182.5,-156 182.5,-150 188.5,-144 194.5,-144 194.5,-144 298.5,-144 298.5,-144 304.5,-144 310.5,-150 310.5,-156 310.5,-156 310.5,-168 310.5,-168 310.5,-174 304.5,-180 298.5,-180" />
-<ns0:text text-anchor="middle" x="246.5" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.2</ns0:text>
-<ns0:text text-anchor="middle" x="246.5" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Bilinear Transformations</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M295.35,-180C295.35,-180 192.75,-180 192.75,-180 186.75,-180 180.75,-174 180.75,-168 180.75,-168 180.75,-156 180.75,-156 180.75,-150 186.75,-144 192.75,-144 192.75,-144 295.35,-144 295.35,-144 301.35,-144 307.35,-150 307.35,-156 307.35,-156 307.35,-168 307.35,-168 307.35,-174 301.35,-180 295.35,-180" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="244.05" y="-164.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.2</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="244.05" y="-152.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Bilinear Transformations</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge1" class="edge">
 <ns0:title>F.2-&gt;F.5</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M246.5,-143.7C246.5,-135.14 246.5,-124.66 246.5,-115.3" />
-<ns0:polygon fill="#888888" stroke="#888888" points="248.95,-115.1 246.5,-108.1 244.05,-115.1 248.95,-115.1" />
+<ns0:path fill="none" stroke="#888888" d="M244.05,-143.7C244.05,-135.6 244.05,-125.78 244.05,-116.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="246.5,-117.1 244.05,-110.1 241.6,-117.1 246.5,-117.1" />
 </ns0:g>
 </ns0:g>
 </ns0:svg>

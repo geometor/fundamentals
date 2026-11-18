@@ -1,13 +1,13 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="204pt" height="188pt" viewBox="0.00 0.00 204.00 188.00">
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="203pt" height="188pt" viewBox="0.00 0.00 203.00 188.00">
 <ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 184)">
 <ns0:title>dependency</ns0:title>
 
 <ns0:g id="node1" class="node">
 <ns0:title>F.33</ns0:title>
 <ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-33/index.html" ns1:title="F.33\nEuclidean (m, n) Generators">
-<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M158.5,-108C158.5,-108 37.5,-108 37.5,-108 31.5,-108 25.5,-102 25.5,-96 25.5,-96 25.5,-84 25.5,-84 25.5,-78 31.5,-72 37.5,-72 37.5,-72 158.5,-72 158.5,-72 164.5,-72 170.5,-78 170.5,-84 170.5,-84 170.5,-96 170.5,-96 170.5,-102 164.5,-108 158.5,-108" />
-<ns0:text text-anchor="middle" x="98" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.33</ns0:text>
-<ns0:text text-anchor="middle" x="98" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Euclidean (m, n) Generators</ns0:text>
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M157.35,-108C157.35,-108 37.5,-108 37.5,-108 31.5,-108 25.5,-102 25.5,-96 25.5,-96 25.5,-84 25.5,-84 25.5,-78 31.5,-72 37.5,-72 37.5,-72 157.35,-72 157.35,-72 163.35,-72 169.35,-78 169.35,-84 169.35,-84 169.35,-96 169.35,-96 169.35,-102 163.35,-108 157.35,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="97.42" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.33</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="97.42" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Euclidean (m, n) Generators</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
@@ -15,33 +15,33 @@
 <ns0:g id="node3" class="node">
 <ns0:title>F.42</ns0:title>
 <ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-42/index.html" ns1:title="F.42\nAltitude of a Pythagorean Triple Triangle">
-<ns0:path fill="#e0e0e0" stroke="#777777" d="M184,-36C184,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 184,0 184,0 190,0 196,-6 196,-12 196,-12 196,-24 196,-24 196,-30 190,-36 184,-36" />
-<ns0:text text-anchor="middle" x="98" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.42</ns0:text>
-<ns0:text text-anchor="middle" x="98" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Altitude of a Pythagorean Triple Triangle</ns0:text>
+<ns0:path fill="#e0e0e0" stroke="#777777" d="M182.85,-36C182.85,-36 12,-36 12,-36 6,-36 0,-30 0,-24 0,-24 0,-12 0,-12 0,-6 6,0 12,0 12,0 182.85,0 182.85,0 188.85,0 194.85,-6 194.85,-12 194.85,-12 194.85,-24 194.85,-24 194.85,-30 188.85,-36 182.85,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="97.42" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.42</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="97.42" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Altitude of a Pythagorean Triple Triangle</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge2" class="edge">
 <ns0:title>F.33-&gt;F.42</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M98,-71.7C98,-63.14 98,-52.66 98,-43.3" />
-<ns0:polygon fill="#888888" stroke="#888888" points="100.45,-43.1 98,-36.1 95.55,-43.1 100.45,-43.1" />
+<ns0:path fill="none" stroke="#888888" d="M97.42,-71.34C97.42,-63.32 97.42,-53.67 97.42,-44.86" />
+<ns0:polygon fill="#888888" stroke="#888888" points="99.88,-44.93 97.43,-37.93 94.98,-44.93 99.88,-44.93" />
 </ns0:g>
 
 <ns0:g id="node2" class="node">
 <ns0:title>F.29</ns0:title>
 <ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-29/index.html" ns1:title="F.29\nInradius">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M114.5,-180C114.5,-180 81.5,-180 81.5,-180 75.5,-180 69.5,-174 69.5,-168 69.5,-168 69.5,-156 69.5,-156 69.5,-150 75.5,-144 81.5,-144 81.5,-144 114.5,-144 114.5,-144 120.5,-144 126.5,-150 126.5,-156 126.5,-156 126.5,-168 126.5,-168 126.5,-174 120.5,-180 114.5,-180" />
-<ns0:text text-anchor="middle" x="98" y="-165" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.29</ns0:text>
-<ns0:text text-anchor="middle" x="98" y="-154" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Inradius</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M113.47,-180C113.47,-180 81.38,-180 81.38,-180 75.38,-180 69.38,-174 69.38,-168 69.38,-168 69.38,-156 69.38,-156 69.38,-150 75.38,-144 81.38,-144 81.38,-144 113.47,-144 113.47,-144 119.47,-144 125.47,-150 125.47,-156 125.47,-156 125.47,-168 125.47,-168 125.47,-174 119.47,-180 113.47,-180" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="97.42" y="-164.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.29</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="97.42" y="-152.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Inradius</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge1" class="edge">
 <ns0:title>F.29-&gt;F.33</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M98,-143.7C98,-135.14 98,-124.66 98,-115.3" />
-<ns0:polygon fill="#888888" stroke="#888888" points="100.45,-115.1 98,-108.1 95.55,-115.1 100.45,-115.1" />
+<ns0:path fill="none" stroke="#888888" d="M97.42,-143.7C97.42,-135.6 97.42,-125.78 97.42,-116.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="99.88,-117.1 97.43,-110.1 94.98,-117.1 99.88,-117.1" />
 </ns0:g>
 </ns0:g>
 </ns0:svg>

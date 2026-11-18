@@ -1,13 +1,13 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="196pt" height="116pt" viewBox="0.00 0.00 196.00 116.00">
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="195pt" height="116pt" viewBox="0.00 0.00 195.00 116.00">
 <ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <ns0:title>dependency</ns0:title>
 
 <ns0:g id="node1" class="node">
 <ns0:title>F.30</ns0:title>
 <ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-30/index.html" ns1:title="F.30\nIsosceles Triangles">
-<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M135.5,-36C135.5,-36 52.5,-36 52.5,-36 46.5,-36 40.5,-30 40.5,-24 40.5,-24 40.5,-12 40.5,-12 40.5,-6 46.5,0 52.5,0 52.5,0 135.5,0 135.5,0 141.5,0 147.5,-6 147.5,-12 147.5,-12 147.5,-24 147.5,-24 147.5,-30 141.5,-36 135.5,-36" />
-<ns0:text text-anchor="middle" x="94" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.30</ns0:text>
-<ns0:text text-anchor="middle" x="94" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Isosceles Triangles</ns0:text>
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M134.1,-36C134.1,-36 52.5,-36 52.5,-36 46.5,-36 40.5,-30 40.5,-24 40.5,-24 40.5,-12 40.5,-12 40.5,-6 46.5,0 52.5,0 52.5,0 134.1,0 134.1,0 140.1,0 146.1,-6 146.1,-12 146.1,-12 146.1,-24 146.1,-24 146.1,-30 140.1,-36 134.1,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="93.3" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.30</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="93.3" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Isosceles Triangles</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
@@ -15,17 +15,17 @@
 <ns0:g id="node2" class="node">
 <ns0:title>F.3</ns0:title>
 <ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-03/index.html" ns1:title="F.3\nBiquadratic Forms in Heron's Formula">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M176,-108C176,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 176,-72 176,-72 182,-72 188,-78 188,-84 188,-84 188,-96 188,-96 188,-102 182,-108 176,-108" />
-<ns0:text text-anchor="middle" x="94" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.3</ns0:text>
-<ns0:text text-anchor="middle" x="94" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Biquadratic Forms in Heron's Formula</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M174.6,-108C174.6,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 174.6,-72 174.6,-72 180.6,-72 186.6,-78 186.6,-84 186.6,-84 186.6,-96 186.6,-96 186.6,-102 180.6,-108 174.6,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="93.3" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.3</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="93.3" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Biquadratic Forms in Heron's Formula</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge1" class="edge">
 <ns0:title>F.3-&gt;F.30</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M94,-71.7C94,-63.14 94,-52.66 94,-43.3" />
-<ns0:polygon fill="#888888" stroke="#888888" points="96.45,-43.1 94,-36.1 91.55,-43.1 96.45,-43.1" />
+<ns0:path fill="none" stroke="#888888" d="M93.3,-71.7C93.3,-63.6 93.3,-53.78 93.3,-44.83" />
+<ns0:polygon fill="#888888" stroke="#888888" points="95.75,-45.1 93.3,-38.1 90.85,-45.1 95.75,-45.1" />
 </ns0:g>
 </ns0:g>
 </ns0:svg>

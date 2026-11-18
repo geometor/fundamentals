@@ -1,13 +1,13 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="230pt" height="116pt" viewBox="0.00 0.00 229.50 116.00">
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="228pt" height="116pt" viewBox="0.00 0.00 228.00 116.00">
 <ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 112)">
 <ns0:title>dependency</ns0:title>
 
 <ns0:g id="node1" class="node">
 <ns0:title>F.21</ns0:title>
 <ns0:g id="a_node1"><ns0:a ns1:href="../topics/f-21/index.html" ns1:title="F.21\nFermat Point">
-<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M136.5,-36C136.5,-36 81.5,-36 81.5,-36 75.5,-36 69.5,-30 69.5,-24 69.5,-24 69.5,-12 69.5,-12 69.5,-6 75.5,0 81.5,0 81.5,0 136.5,0 136.5,0 142.5,0 148.5,-6 148.5,-12 148.5,-12 148.5,-24 148.5,-24 148.5,-30 142.5,-36 136.5,-36" />
-<ns0:text text-anchor="middle" x="109" y="-21" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.21</ns0:text>
-<ns0:text text-anchor="middle" x="109" y="-10" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Fermat Point</ns0:text>
+<ns0:path fill="#ffff99" stroke="#d4a017" stroke-width="2" d="M134.6,-36C134.6,-36 80.75,-36 80.75,-36 74.75,-36 68.75,-30 68.75,-24 68.75,-24 68.75,-12 68.75,-12 68.75,-6 74.75,0 80.75,0 80.75,0 134.6,0 134.6,0 140.6,0 146.6,-6 146.6,-12 146.6,-12 146.6,-24 146.6,-24 146.6,-30 140.6,-36 134.6,-36" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="107.67" y="-20.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.21</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="107.67" y="-8.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Fermat Point</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
@@ -15,33 +15,33 @@
 <ns0:g id="node2" class="node">
 <ns0:title>F.14</ns0:title>
 <ns0:g id="a_node2"><ns0:a ns1:href="../topics/f-14/index.html" ns1:title="F.14\nConway Notation">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M86,-108C86,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 86,-72 86,-72 92,-72 98,-78 98,-84 98,-84 98,-96 98,-96 98,-102 92,-108 86,-108" />
-<ns0:text text-anchor="middle" x="49" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.14</ns0:text>
-<ns0:text text-anchor="middle" x="49" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Conway Notation</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M85.35,-108C85.35,-108 12,-108 12,-108 6,-108 0,-102 0,-96 0,-96 0,-84 0,-84 0,-78 6,-72 12,-72 12,-72 85.35,-72 85.35,-72 91.35,-72 97.35,-78 97.35,-84 97.35,-84 97.35,-96 97.35,-96 97.35,-102 91.35,-108 85.35,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="48.67" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.14</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="48.67" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Conway Notation</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge1" class="edge">
 <ns0:title>F.14-&gt;F.21</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M63.83,-71.7C71.61,-62.63 81.22,-51.4 89.59,-41.65" />
-<ns0:polygon fill="#888888" stroke="#888888" points="91.64,-43.01 94.34,-36.1 87.92,-39.82 91.64,-43.01" />
+<ns0:path fill="none" stroke="#888888" d="M63.26,-71.7C70.58,-63.01 79.56,-52.36 87.53,-42.9" />
+<ns0:polygon fill="#888888" stroke="#888888" points="89.24,-44.68 91.87,-37.75 85.49,-41.52 89.24,-44.68" />
 </ns0:g>
 
 <ns0:g id="node3" class="node">
 <ns0:title>F.18</ns0:title>
 <ns0:g id="a_node3"><ns0:a ns1:href="../topics/f-18/index.html" ns1:title="F.18\nEquilateral Triangle">
-<ns0:path fill="#90ee90" stroke="#2e8b57" d="M209.5,-108C209.5,-108 128.5,-108 128.5,-108 122.5,-108 116.5,-102 116.5,-96 116.5,-96 116.5,-84 116.5,-84 116.5,-78 122.5,-72 128.5,-72 128.5,-72 209.5,-72 209.5,-72 215.5,-72 221.5,-78 221.5,-84 221.5,-84 221.5,-96 221.5,-96 221.5,-102 215.5,-108 209.5,-108" />
-<ns0:text text-anchor="middle" x="169" y="-93" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.18</ns0:text>
-<ns0:text text-anchor="middle" x="169" y="-82" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Equilateral Triangle</ns0:text>
+<ns0:path fill="#90ee90" stroke="#2e8b57" d="M207.73,-108C207.73,-108 127.63,-108 127.63,-108 121.63,-108 115.63,-102 115.63,-96 115.63,-96 115.63,-84 115.63,-84 115.63,-78 121.63,-72 127.63,-72 127.63,-72 207.73,-72 207.73,-72 213.73,-72 219.73,-78 219.73,-84 219.73,-84 219.73,-96 219.73,-96 219.73,-102 213.73,-108 207.73,-108" />
+<ns0:text xml:space="preserve" text-anchor="middle" x="167.68" y="-92.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">F.18</ns0:text>
+<ns0:text xml:space="preserve" text-anchor="middle" x="167.68" y="-80.5" font-family="Helvetica,Arial,sans-serif" font-size="10.00">Equilateral Triangle</ns0:text>
 </ns0:a>
 </ns0:g>
 </ns0:g>
 
 <ns0:g id="edge2" class="edge">
 <ns0:title>F.18-&gt;F.21</ns0:title>
-<ns0:path fill="none" stroke="#888888" d="M154.17,-71.7C146.39,-62.63 136.78,-51.4 128.41,-41.65" />
-<ns0:polygon fill="#888888" stroke="#888888" points="130.08,-39.82 123.66,-36.1 126.36,-43.01 130.08,-39.82" />
+<ns0:path fill="none" stroke="#888888" d="M152.84,-71.7C145.4,-63.01 136.27,-52.36 128.16,-42.9" />
+<ns0:polygon fill="#888888" stroke="#888888" points="130.15,-41.46 123.74,-37.74 126.43,-44.65 130.15,-41.46" />
 </ns0:g>
 </ns0:g>
 </ns0:svg>
