@@ -3,6 +3,12 @@ GEOMETOR • fundamentals
 
 **Visit the Online Archive:** https://geometor.github.io/fundamentals/
 
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • fundamentals Medallion
+   :target: https://geometor.github.io/fundamentals/
+   :width: 180px
+   :align: center
+
 .. image:: docsrc/topics/f-01/f-01.svg
    :alt: GEOMETOR • fundamentals featured geometric construction
    :target: https://geometor.github.io/fundamentals/
