@@ -1,3 +1,5 @@
+:site_title: Geometric Fundamentals
+
 .. container:: author-overline
 
    semantic digital archive • mathematical catalog
@@ -10,23 +12,86 @@ Geometric Fundamentals
    :alt: Geometric Fundamentals Medallion
    :class: repo-medallion-hero
 
-The mathematical catalog preserves and formalizes the complete constructive geometry archive of Fred W. Seelig, spanning 55 fundamental topics across 353 manuscript folios and 59 computational worksheets. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, these studies are liberated into an addressable 3-track Book Codex linking classical Euclidean and projective demonstrations directly to exact SymPy models and primary-source folio provenance speaking one shared geometric language.
+**Geometric Fundamentals** preserves and formalizes the constructive geometry archive of **Fred W. Seelig**, spanning 55 axiomatic and projective studies across 353 handwritten manuscript folios and 59 computational worksheets. From elementary compass-and-straightedge constructions and circle pencils to harmonic conjugates, pole-and-polar duality, and barycentric triangle loci, every topic pairs Seelig's original notebook pages with exact SymPy derivations and interactive vector diagrams.
 
-.. reference-directory::
-   :sort: order
+Codex & Computational Workbooks
+-------------------------------
 
-----
+.. container:: home-book-hero
 
-Sections
---------
+   .. container:: home-book-thumb
 
-* :doc:`Topics (F.1–F.55) <topics/index>` — 55 elementary constructions and axiomatic primers synthesized across 353 manuscript folios in a 3-track Book Codex (*Synthesis*, *Folios*, *Code*)
-* :doc:`Spreadsheets <spreadsheets/index>` — 59 computational worksheets in *Triangles and Circles.ods* verifying barycentric coordinates and geometric identities
-* :doc:`Using This Edition <usage/index>` — Reader guide to interactive vector controls, folio viewer, and Python API
-* :doc:`Glossary <glossary>` — Classical and projective geometry definitions and invariants
-* :doc:`People <people/index>` — Biographical register of classical geometers and modern contributors
-* :doc:`Bibliography <bibliography>` — Primary treatises, notebooks, and cited editions
-* :doc:`About <about/index>` — Archival scope, provenance, and computational methodology
+      .. image:: topics/f-01/f-01.svg
+         :alt: F.1 Albert's Parabola Interactive Construction Diagram
+         :target: topics/index.html
+
+   .. container:: home-book-body
+
+      .. rubric:: 3-Track Book Codex · F.1–F.55 · 353 Manuscript Folios
+
+      **Fundamentals of Constructive Geometry** — Explore all 55 foundational topics organized across three synchronized tracks: *Synthesis* (formal enunciations, constructive signatures, and calibrated SVG diagrams), *Folios* (high-resolution scans ``0001.jpg``–``0353.jpg`` with diplomatic transcriptions), and *Code* (executable ``geometor.model`` scripts).
+
+      .. container:: home-actions
+
+         * :doc:`Browse Topics F.1–F.55 → <topics/index>`
+         * :doc:`Start at F.1 (Albert's Parabola) → <topics/f-01/index>`
+         * :doc:`Using This Edition → <usage/index>`
+
+.. container:: home-book-hero no-thumb
+
+   .. container:: home-book-body
+
+      .. rubric:: OpenDocument Workbooks · 59 Worksheets · Canonical (5, 6, 7) Triangle
+
+      **Computational Spreadsheets & Barycentric Workbooks** — Inspect Fred Seelig's *Triangles and Circles.ods* and companion workbooks verifying homogeneous barycentric coordinates, Conway triangle notation, coaxial circles, and harmonic divisions on the canonical $(a, b, c) = (5, 6, 7)$ reference triangle.
+
+      .. container:: home-actions
+
+         * :doc:`Explore All 59 Worksheets → <spreadsheets/index>`
+
+Key Features
+------------
+
+.. container:: home-feature-grid
+
+   .. container:: home-feature-card
+
+      **Synchronized Synthesis, Folios & Code**
+
+      Read every topic in modern formal synthesis, view the original handwritten manuscript scan side-by-side, or inspect the standalone SymPy ``model.py`` script.
+
+   .. container:: home-feature-card
+
+      **353 Archival Manuscript Pages**
+
+      Monotonic folio provenance across ``0001.jpg``–``0353.jpg`` preserves Seelig's pencil-and-ink drawings, marginal derivations, and notebook sequence.
+
+   .. container:: home-feature-card
+
+      **Verified Triangle & Projective Loci**
+
+      Every topic ties classical synthetic proofs to exact algebraic invariants over the canonical $(5, 6, 7)$ triangle and Graphviz dependency graphs.
+
+Reference & Project
+-------------------
+
+.. container:: home-columns
+
+   .. container:: home-col
+
+      .. rubric:: Scholarly Apparatus
+
+      * :doc:`People <people/index>` — Profiles of Fred W. Seelig, John Horton Conway, Clark Kimberling, Nathan Altshiller-Court, Paul Yiu, and C. Stanley Ogilvy
+      * :doc:`Bibliography <bibliography>` — Archival notebooks, OpenDocument workbooks, and classical geometry references
+      * :doc:`Glossary <glossary>` — Definitions of barycentric coordinates, harmonic conjugates, coaxial pencils, and invariants
+
+   .. container:: home-col
+
+      .. rubric:: About This Project
+
+      * :doc:`About This Edition <about/index>` — Archival scope, provenance, and exact symbolic methodology
+      * :doc:`Using This Edition <usage/index>` — Reader guide to interactive vector plates, folio viewer, and Python API
+      * :doc:`Research Log <log/index>` & :doc:`Python Modules <modules/index>` — Compilation notes, :doc:`Changelog <changelog>`, and :doc:`Connect <connect>`
 
 .. toctree::
    :maxdepth: 2
@@ -44,12 +109,3 @@ Sections
    todos/index
    connect
    changelog
-
-----
-
-Indices
--------
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
