@@ -37,7 +37,7 @@ F.41 Geometric Problems and Extremal Loci
 Mathematical Synthesis
 ----------------------
 
-This 10-folio collection (:cite:`SeeligNotebooks`) combines two analytic geometry sheets (Folios 1–2), a dated calculus and Monte Carlo investigation *Find an acute triangle that maximizes :math:`d_{IO}`* (`FWS 2015/04/24`, Folios 3–4), and a 25-problem compendium (*Problem Set*, Folios 5–10) that served as the blueprint for Seelig's notebook archive.
+This 10-folio collection (:cite:`SeeligNotebooks`) combines two analytic geometry sheets (Folios 1–2), a dated calculus and Monte Carlo investigation *Find an acute triangle that maximizes* :math:`d_{IO}` (`FWS 2015/04/24`, Folios 3–4), and a 25-problem compendium (*Problem Set*, Folios 5–10) that served as the blueprint for Seelig's notebook archive.
 
 In his April 24, 2015 study, Seelig fixes base :math:`c = 2` and constrains vertex :g:`C` to the region where :math:`c` is the longest side (inside the :term:`vesica piscis` of radii 2 centered at :g:`A` and :g:`B`) while :math:`\triangle ABC` remains acute (outside the semicircle :g:`c_semi` of radius 1 and between the vertical lines at :g:`A` and :g:`B`). Integrating :math:`A = \int_0^{\sqrt{3}}(\sqrt{4-x^2}-1)\,dx - \frac{\pi}{4} = \frac{5\pi - 6\sqrt{3}}{12} \approx 0.44297`, he explains why his spreadsheet Monte Carlo sampler on :math:`[0,\sqrt{3}]\times[0,1]` has an acceptance rate of :math:`0.44297/\sqrt{3} \approx 25.6\%`, and finds that :math:`d_{IO}` increases monotonically toward the right-triangle boundary :math:`C \to (0, 1)`.
 
