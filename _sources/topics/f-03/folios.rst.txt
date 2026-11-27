@@ -220,7 +220,7 @@ Folio 0019 (Page 9 of 9): Numerical Evaluation & Means of z_1*, z_2*, z_3*
 
 **Diplomatic Transcription — Folio 0019** (``0019.jpg``, Sheet 9 of 9):
 
-Computes :math:`z_1^* = \sqrt{91/4} \approx 4.77, z_2^* = \sqrt{57/4} \approx 3.775, z_3^* = \sqrt{21} \approx 4.583` and compares their harmonic ($4.330$), geometric ($4.353$), and arithmetic ($4.376$) means.
+Computes :math:`z_1^* = \sqrt{91/4} \approx 4.77, z_2^* = \sqrt{57/4} \approx 3.775, z_3^* = \sqrt{21} \approx 4.583` and compares their harmonic (:math:`4.330`), geometric (:math:`4.353`), and arithmetic (:math:`4.376`) means.
 
 .. math::
 

@@ -43,7 +43,7 @@ Codex & Computational Workbooks
 
       .. rubric:: OpenDocument Workbooks · 59 Worksheets · Canonical (5, 6, 7) Triangle
 
-      **Computational Spreadsheets & Barycentric Workbooks** — Inspect Fred Seelig's *Triangles and Circles.ods* and companion workbooks verifying homogeneous barycentric coordinates, Conway triangle notation, coaxial circles, and harmonic divisions on the canonical $(a, b, c) = (5, 6, 7)$ reference triangle.
+      **Computational Spreadsheets & Barycentric Workbooks** — Inspect Fred Seelig's *Triangles and Circles.ods* and companion workbooks verifying homogeneous barycentric coordinates, Conway triangle notation, coaxial circles, and harmonic divisions on the canonical :math:`(a, b, c) = (5, 6, 7)` reference triangle.
 
       .. container:: home-actions
 
@@ -70,7 +70,7 @@ Key Features
 
       **Verified Triangle & Projective Loci**
 
-      Every topic ties classical synthetic proofs to exact algebraic invariants over the canonical $(5, 6, 7)$ triangle and Graphviz dependency graphs.
+      Every topic ties classical synthetic proofs to exact algebraic invariants over the canonical :math:`(5, 6, 7)` triangle and Graphviz dependency graphs.
 
 Reference & Project
 -------------------
