@@ -1,0 +1,3961 @@
+{
+  "schema": "photon.card.v1",
+  "site": {
+    "org": "geometor",
+    "org_name": "GEOMETOR",
+    "repo": "fundamentals",
+    "repo_name": "fundamentals",
+    "title": "Geometric Fundamentals",
+    "base_url": "https://geometor.github.io/fundamentals",
+    "github_url": "https://github.com/geometor/fundamentals",
+    "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg"
+  },
+  "cards": {
+    "about/index": {
+      "id": "about/index",
+      "docname": "about/index",
+      "type": "article",
+      "title": "About",
+      "url": "https://geometor.github.io/fundamentals/about/",
+      "description": "GEOMETOR fundamentals establishes the constructive and axiomatic foundation of the GEOMETOR library, synthesizing classical synthetic, projective, harmonic, and compass-and-straightedge geometry through the archival corpus of Fred W.…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "About",
+      "labels": [
+        "about",
+        "about-index",
+        "about-fundamentals"
+      ]
+    },
+    "bibliography": {
+      "id": "bibliography",
+      "docname": "bibliography",
+      "type": "article",
+      "title": "Bibliography",
+      "url": "https://geometor.github.io/fundamentals/bibliography.html",
+      "description": "Primary sources, classical treatises, and modern triangle geometry monographs cited across the Fundamentals codex.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Bibliography",
+      "labels": [
+        "bibliography",
+        "cite-abramowitzstegun1964",
+        "abramowitzstegun1964",
+        "cite-altshillercourt2007",
+        "altshillercourt2007",
+        "cite-baloglouhelfgott2008",
+        "baloglouhelfgott2008",
+        "cite-coxetergreitzer1967",
+        "coxetergreitzer1967",
+        "cite-dorrie1965",
+        "dorrie1965",
+        "cite-euclidelements",
+        "euclidelements",
+        "cite-johnson1929",
+        "johnson1929",
+        "cite-kimberling1998",
+        "kimberling1998",
+        "cite-mitchell2005",
+        "mitchell2005",
+        "cite-ogilvy1969",
+        "ogilvy1969",
+        "cite-posamentier2002",
+        "posamentier2002",
+        "cite-seelignotebooks",
+        "seelignotebooks",
+        "cite-seeligspreadsheets",
+        "seeligspreadsheets",
+        "cite-wells1991",
+        "wells1991",
+        "cite-yiu2001",
+        "yiu2001"
+      ]
+    },
+    "changelog": {
+      "id": "changelog",
+      "docname": "changelog",
+      "type": "article",
+      "title": "Changelog",
+      "url": "https://geometor.github.io/fundamentals/changelog.html",
+      "description": "Rebuilt codex documentation with photon-platform/publish v0.4.6 so every inline .euclid-graphic SVG carries explicit viewBox pixel dimensions, per-diagram scoped <style> rules, and Nocturnal Codex dark/light theme parity.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Changelog"
+    },
+    "connect": {
+      "id": "connect",
+      "docname": "connect",
+      "type": "section",
+      "title": "Connect",
+      "url": "https://geometor.github.io/fundamentals/connect.html",
+      "description": "GEOMETOR is an open-source research and publishing initiative by phi ARCHITECT exploring constructive geometry, the divine proportion, and historical mathematical treatises.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Connect",
+      "labels": [
+        "connect"
+      ]
+    },
+    "glossary": {
+      "id": "glossary",
+      "docname": "glossary",
+      "type": "article",
+      "title": "Glossary",
+      "url": "https://geometor.github.io/fundamentals/glossary.html",
+      "description": "Canonical geometric definitions and concepts referenced across the 55 topics of the Fundamentals codex.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Glossary",
+      "labels": [
+        "glossary",
+        "x(1)",
+        "x(2)",
+        "x(3)",
+        "x(4)",
+        "x(5)",
+        "x(6)",
+        "x(7)",
+        "x(8)",
+        "x(9)",
+        "x(11)",
+        "x(13)",
+        "x(14)",
+        "x(15)",
+        "x(16)",
+        "x(20)",
+        "x(26)",
+        "x(40)",
+        "x(55)",
+        "x(56)"
+      ]
+    },
+    "index": {
+      "id": "index",
+      "docname": "index",
+      "type": "project",
+      "title": "Geometric Fundamentals",
+      "url": "https://geometor.github.io/fundamentals/",
+      "description": "Geometric Fundamentals preserves and formalizes the constructive geometry archive of Fred W. Seelig, spanning 55 axiomatic and projective studies across 353 handwritten manuscript folios and 59 computational worksheets. From elementary…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Geometric Fundamentals Medallion"
+    },
+    "intro": {
+      "id": "intro",
+      "docname": "intro",
+      "type": "article",
+      "title": "Fundamentals",
+      "url": "https://geometor.github.io/fundamentals/intro.html",
+      "description": "Foundational Constructive Geometry Codex & The Fred W. Seelig Archive",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Fundamentals"
+    },
+    "log/26.306-book-codex-pipeline/index": {
+      "id": "log/26.306-book-codex-pipeline/index",
+      "docname": "log/26.306-book-codex-pipeline/index",
+      "type": "log",
+      "title": "3-Track Book Codex & Fred W. Seelig Archive Serialization",
+      "url": "https://geometor.github.io/fundamentals/log/26.306-book-codex-pipeline/",
+      "description": "Upgraded geometor.fundamentals to match the architectural, symbolic, and visual standard of geometor/euclid, geometor/elements, and geometor/etc:",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "3-Track Book Codex & Fred W. Seelig Archive Serialization",
+      "facets": {
+        "date": "2026-11-02",
+        "tags": [
+          "codex",
+          "seelig",
+          "model",
+          "spreadsheets"
+        ]
+      }
+    },
+    "log/index": {
+      "id": "log/index",
+      "docname": "log/index",
+      "type": "article",
+      "title": "Log",
+      "url": "https://geometor.github.io/fundamentals/log/",
+      "description": "Chronological engineering and archival log for geometor.fundamentals.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Log"
+    },
+    "modules/api/geometor/fundamentals/__main__/index": {
+      "id": "modules/api/geometor/fundamentals/__main__/index",
+      "docname": "modules/api/geometor/fundamentals/__main__/index",
+      "type": "article",
+      "title": "geometor.fundamentals.__main__",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/__main__/",
+      "description": "The package entry point into the GEOMETOR Fundamentals application.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.__main__"
+    },
+    "modules/api/geometor/fundamentals/app/index": {
+      "id": "modules/api/geometor/fundamentals/app/index",
+      "docname": "modules/api/geometor/fundamentals/app/index",
+      "type": "article",
+      "title": "geometor.fundamentals.app",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/app/",
+      "description": "Command-line interface and pipeline runner for GEOMETOR Fundamentals.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.app"
+    },
+    "modules/api/geometor/fundamentals/apparatus/index": {
+      "id": "modules/api/geometor/fundamentals/apparatus/index",
+      "docname": "modules/api/geometor/fundamentals/apparatus/index",
+      "type": "article",
+      "title": "geometor.fundamentals.apparatus",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/apparatus/",
+      "description": "Scholarly apparatus registries and RST generators for GEOMETOR Fundamentals.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.apparatus"
+    },
+    "modules/api/geometor/fundamentals/catalog/index": {
+      "id": "modules/api/geometor/fundamentals/catalog/index",
+      "docname": "modules/api/geometor/fundamentals/catalog/index",
+      "type": "article",
+      "title": "geometor.fundamentals.catalog",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/catalog/",
+      "description": "Unified catalog of all 55 topics (F.1–F.55) and 353 folio transcriptions.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.catalog"
+    },
+    "modules/api/geometor/fundamentals/catalog_a/index": {
+      "id": "modules/api/geometor/fundamentals/catalog_a/index",
+      "docname": "modules/api/geometor/fundamentals/catalog_a/index",
+      "type": "article",
+      "title": "geometor.fundamentals.catalog_a",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/catalog_a/",
+      "description": "Catalog data for Topics F.1 through F.28 of GEOMETOR Fundamentals.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.catalog_a"
+    },
+    "modules/api/geometor/fundamentals/catalog_b/index": {
+      "id": "modules/api/geometor/fundamentals/catalog_b/index",
+      "docname": "modules/api/geometor/fundamentals/catalog_b/index",
+      "type": "article",
+      "title": "geometor.fundamentals.catalog_b",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/catalog_b/",
+      "description": "Catalog data for Topics F.29 through F.55 of GEOMETOR Fundamentals.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.catalog_b"
+    },
+    "modules/api/geometor/fundamentals/construct/index": {
+      "id": "modules/api/geometor/fundamentals/construct/index",
+      "docname": "modules/api/geometor/fundamentals/construct/index",
+      "type": "article",
+      "title": "geometor.fundamentals.construct",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/construct/",
+      "description": "Symbolic and constructive geometry engine for the 55 topics of GEOMETOR Fundamentals.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.construct"
+    },
+    "modules/api/geometor/fundamentals/folio_review/index": {
+      "id": "modules/api/geometor/fundamentals/folio_review/index",
+      "docname": "modules/api/geometor/fundamentals/folio_review/index",
+      "type": "article",
+      "title": "geometor.fundamentals.folio_review",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/folio_review/",
+      "description": "Interactive Folio Review server and CLI inspector for the Fred W. Seelig archive.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.folio_review"
+    },
+    "modules/api/geometor/fundamentals/fundamentals/index": {
+      "id": "modules/api/geometor/fundamentals/fundamentals/index",
+      "docname": "modules/api/geometor/fundamentals/fundamentals/index",
+      "type": "article",
+      "title": "geometor.fundamentals.fundamentals",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/fundamentals/",
+      "description": "Core application class for GEOMETOR Fundamentals.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.fundamentals"
+    },
+    "modules/api/geometor/fundamentals/ingest/index": {
+      "id": "modules/api/geometor/fundamentals/ingest/index",
+      "docname": "modules/api/geometor/fundamentals/ingest/index",
+      "type": "article",
+      "title": "geometor.fundamentals.ingest",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/ingest/",
+      "description": "Archival ingestion pipeline for Fred W. Seelig’s notebooks and spreadsheets.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.ingest"
+    },
+    "modules/api/geometor/fundamentals/render/index": {
+      "id": "modules/api/geometor/fundamentals/render/index",
+      "docname": "modules/api/geometor/fundamentals/render/index",
+      "type": "article",
+      "title": "geometor.fundamentals.render",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/render/",
+      "description": "Explorer-styled interactive SVG renderer for GEOMETOR Fundamentals.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.render"
+    },
+    "modules/api/geometor/fundamentals/spreadsheets/index": {
+      "id": "modules/api/geometor/fundamentals/spreadsheets/index",
+      "docname": "modules/api/geometor/fundamentals/spreadsheets/index",
+      "type": "article",
+      "title": "geometor.fundamentals.spreadsheets",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/spreadsheets/",
+      "description": "OpenDocument Spreadsheet (.ods) parser and RST generator for the Seelig archive.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.spreadsheets"
+    },
+    "modules/api/geometor/fundamentals/transform/index": {
+      "id": "modules/api/geometor/fundamentals/transform/index",
+      "docname": "modules/api/geometor/fundamentals/transform/index",
+      "type": "article",
+      "title": "geometor.fundamentals.transform",
+      "url": "https://geometor.github.io/fundamentals/modules/api/geometor/fundamentals/transform/",
+      "description": "3-Track Book Codex compiler for GEOMETOR Fundamentals (docsrc/topics/).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "geometor.fundamentals.transform"
+    },
+    "modules/api/index": {
+      "id": "modules/api/index",
+      "docname": "modules/api/index",
+      "type": "article",
+      "title": "API Reference",
+      "url": "https://geometor.github.io/fundamentals/modules/api/",
+      "description": "This page contains auto-generated API reference documentation 1.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "API Reference"
+    },
+    "modules/index": {
+      "id": "modules/index",
+      "docname": "modules/index",
+      "type": "article",
+      "title": "Modules",
+      "url": "https://geometor.github.io/fundamentals/modules/",
+      "description": "geometor.fundamentals is structured into modular subpackages for archival ingestion, OpenDocument spreadsheet parsing, scholarly apparatus management, symbolic construction, interactive SVG rendering, and Book Codex compilation:",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Modules"
+    },
+    "people/altshiller-court": {
+      "id": "people/altshiller-court",
+      "docname": "people/altshiller-court",
+      "type": "person",
+      "title": "Nathan Altshiller-Court",
+      "url": "https://geometor.github.io/fundamentals/people/altshiller-court.html",
+      "description": "Author of College Geometry: An Introduction to the Modern Geometry of the Triangle and the Circle, heavily referenced in Seelig’s harmonic and similitude derivations.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Nathan Altshiller-Court",
+      "facets": {
+        "death_year": "1968",
+        "death_year_sort": 1968,
+        "death_label": "1968",
+        "lifespan": "1881–1968"
+      },
+      "labels": [
+        "person-altshiller-court",
+        "person-altshiller_court",
+        "altshiller_court"
+      ]
+    },
+    "people/apollonius": {
+      "id": "people/apollonius",
+      "docname": "people/apollonius",
+      "type": "person",
+      "title": "Apollonius",
+      "url": "https://geometor.github.io/fundamentals/people/apollonius.html",
+      "description": "Greek geometer known as ‘The Great Geometer’, author of Conics and discoverer of the Apollonian circles of constant distance ratio.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Apollonius",
+      "facets": {
+        "site_url": "https://geometor.github.io/apollonius/",
+        "github_url": "https://github.com/geometor/apollonius"
+      },
+      "labels": [
+        "person-apollonius",
+        "apollonius"
+      ]
+    },
+    "people/carnot": {
+      "id": "people/carnot",
+      "docname": "people/carnot",
+      "type": "person",
+      "title": "Carnot",
+      "url": "https://geometor.github.io/fundamentals/people/carnot.html",
+      "description": "French mathematician and engineer whose Géométrie de position (1803) introduced signed geometric quantities and Carnot’s theorem.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Carnot",
+      "labels": [
+        "person-carnot",
+        "carnot"
+      ]
+    },
+    "people/ceva": {
+      "id": "people/ceva",
+      "docname": "people/ceva",
+      "type": "person",
+      "title": "Ceva",
+      "url": "https://geometor.github.io/fundamentals/people/ceva.html",
+      "description": "Italian mathematician who published De lineis rectis (1678), establishing Ceva’s theorem for concurrent cevians in a triangle.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Ceva",
+      "facets": {
+        "site_url": "https://geometor.github.io/ceva/",
+        "github_url": "https://github.com/geometor/ceva"
+      },
+      "labels": [
+        "person-ceva",
+        "ceva"
+      ]
+    },
+    "people/conway": {
+      "id": "people/conway",
+      "docname": "people/conway",
+      "type": "person",
+      "title": "Conway",
+      "url": "https://geometor.github.io/fundamentals/people/conway.html",
+      "description": "English mathematician who introduced Conway triangle notation (S, S_A, S_B, S_C, S_omega), extensively adopted by Fred Seelig throughout his notebooks.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Conway",
+      "labels": [
+        "person-conway",
+        "conway"
+      ]
+    },
+    "people/coxeter": {
+      "id": "people/coxeter",
+      "docname": "people/coxeter",
+      "type": "person",
+      "title": "Coxeter",
+      "url": "https://geometor.github.io/fundamentals/people/coxeter.html",
+      "description": "Geometer and co-author of Geometry Revisited, frequently cited in the notebooks for coaxial circles, inversion, and projective geometry.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Coxeter",
+      "labels": [
+        "person-coxeter",
+        "coxeter"
+      ]
+    },
+    "people/dalembert": {
+      "id": "people/dalembert",
+      "docname": "people/dalembert",
+      "type": "person",
+      "title": "Dalembert",
+      "url": "https://geometor.github.io/fundamentals/people/dalembert.html",
+      "description": "French mathematician and physicist associated with d’Alembert’s theorem on the collinearity of external and internal centers of similitude of three circles (Monge–d’Alembert theorem).",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Dalembert",
+      "labels": [
+        "person-dalembert",
+        "dalembert"
+      ]
+    },
+    "people/dorrie": {
+      "id": "people/dorrie",
+      "docname": "people/dorrie",
+      "type": "person",
+      "title": "Dorrie",
+      "url": "https://geometor.github.io/fundamentals/people/dorrie.html",
+      "description": "German mathematician and author of 100 Great Problems of Elementary Mathematics, cited by Seelig in his study of the Problem of Apollonius.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Dorrie",
+      "labels": [
+        "person-dorrie",
+        "dorrie"
+      ]
+    },
+    "people/euclid": {
+      "id": "people/euclid",
+      "docname": "people/euclid",
+      "type": "person",
+      "title": "Euclid",
+      "url": "https://geometor.github.io/fundamentals/people/euclid.html",
+      "description": "Greek mathematician and author of the Elements, whose compass-and-straightedge propositions underpin the constructive foundations of every topic in this codex.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Euclid",
+      "facets": {
+        "site_url": "https://geometor.github.io/euclid/",
+        "github_url": "https://github.com/geometor/euclid"
+      },
+      "labels": [
+        "person-euclid",
+        "euclid"
+      ]
+    },
+    "people/euler": {
+      "id": "people/euler",
+      "docname": "people/euler",
+      "type": "person",
+      "title": "Euler",
+      "url": "https://geometor.github.io/fundamentals/people/euler.html",
+      "description": "Swiss mathematician who proved the collinearity of the orthocenter, centroid, nine-point center, and circumcenter (the Euler line) and the distance formula d^2 = R(R - 2r) between incenter and circumc",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Euler",
+      "facets": {
+        "site_url": "https://geometor.github.io/euler/",
+        "github_url": "https://github.com/geometor/euler"
+      },
+      "labels": [
+        "person-euler",
+        "euler"
+      ]
+    },
+    "people/fagnano": {
+      "id": "people/fagnano",
+      "docname": "people/fagnano",
+      "type": "person",
+      "title": "Fagnano",
+      "url": "https://geometor.github.io/fundamentals/people/fagnano.html",
+      "description": "Italian mathematician who proved in 1775 that the orthic triangle minimizes perimeter among all triangles inscribed in an acute triangle.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Fagnano",
+      "labels": [
+        "person-fagnano",
+        "fagnano"
+      ]
+    },
+    "people/fermat": {
+      "id": "people/fermat",
+      "docname": "people/fermat",
+      "type": "person",
+      "title": "Fermat",
+      "url": "https://geometor.github.io/fundamentals/people/fermat.html",
+      "description": "French mathematician who posed the problem of finding the point minimizing the sum of distances to the three vertices of a triangle.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Fermat",
+      "labels": [
+        "person-fermat",
+        "fermat"
+      ]
+    },
+    "people/feuerbach": {
+      "id": "people/feuerbach",
+      "docname": "people/feuerbach",
+      "type": "person",
+      "title": "Feuerbach",
+      "url": "https://geometor.github.io/fundamentals/people/feuerbach.html",
+      "description": "German geometer who proved in 1822 that the nine-point circle is internally tangent to the incircle and externally tangent to the three excircles.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Feuerbach",
+      "facets": {
+        "site_url": "https://geometor.github.io/feuerbach/",
+        "github_url": "https://github.com/geometor/feuerbach"
+      },
+      "labels": [
+        "person-feuerbach",
+        "feuerbach"
+      ]
+    },
+    "people/heron": {
+      "id": "people/heron",
+      "docname": "people/heron",
+      "type": "person",
+      "title": "Heron",
+      "url": "https://geometor.github.io/fundamentals/people/heron.html",
+      "description": "Greek mathematician and engineer who gave the classical proof of Heron’s formula for the area of a triangle in terms of its side lengths.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Heron",
+      "facets": {
+        "site_url": "https://geometor.github.io/heron/",
+        "github_url": "https://github.com/geometor/heron"
+      },
+      "labels": [
+        "person-heron",
+        "heron"
+      ]
+    },
+    "people/index": {
+      "id": "people/index",
+      "docname": "people/index",
+      "type": "article",
+      "title": "People",
+      "url": "https://geometor.github.io/fundamentals/people/",
+      "description_source": "empty",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "People",
+      "labels": [
+        "persons"
+      ]
+    },
+    "people/kimberling": {
+      "id": "people/kimberling",
+      "docname": "people/kimberling",
+      "type": "person",
+      "title": "Kimberling",
+      "url": "https://geometor.github.io/fundamentals/people/kimberling.html",
+      "description": "American mathematician and creator of the Encyclopedia of Triangle Centers (ETC), whose X(n) indexing links directly to Seelig’s triangle studies.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Kimberling",
+      "labels": [
+        "person-kimberling",
+        "kimberling"
+      ]
+    },
+    "people/markowski": {
+      "id": "people/markowski",
+      "docname": "people/markowski",
+      "type": "person",
+      "title": "Markowski",
+      "url": "https://geometor.github.io/fundamentals/people/markowski.html",
+      "description": "Mathematician examined in Seelig’s Topic 32 notebook for the circumcircle midpoint-sagitta theorem JKL = (1/2)r^2R = (R^2 - d_IO^2)^2 / (8R).",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Markowski",
+      "labels": [
+        "person-markowski",
+        "markowski"
+      ]
+    },
+    "people/menelaus": {
+      "id": "people/menelaus",
+      "docname": "people/menelaus",
+      "type": "person",
+      "title": "Menelaus",
+      "url": "https://geometor.github.io/fundamentals/people/menelaus.html",
+      "description": "Greek mathematician and astronomer who formulated Menelaus’s theorem for collinearity on a triangle’s sidelines.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Menelaus",
+      "facets": {
+        "site_url": "https://geometor.github.io/menelaus/",
+        "github_url": "https://github.com/geometor/menelaus"
+      },
+      "labels": [
+        "person-menelaus",
+        "menelaus"
+      ]
+    },
+    "people/newton": {
+      "id": "people/newton",
+      "docname": "people/newton",
+      "type": "person",
+      "title": "Newton",
+      "url": "https://geometor.github.io/fundamentals/people/newton.html",
+      "description": "English mathematician and physicist whose Universal Arithmetick established algebraic triangle relations such as c = s - K/s for right triangles.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Newton",
+      "labels": [
+        "person-newton",
+        "newton"
+      ]
+    },
+    "people/ogilvy": {
+      "id": "people/ogilvy",
+      "docname": "people/ogilvy",
+      "type": "person",
+      "title": "Ogilvy",
+      "url": "https://geometor.github.io/fundamentals/people/ogilvy.html",
+      "description": "American mathematician and author of Excursions in Geometry (1969), frequently cited by Fred Seelig for coaxial circles, harmonic division, and orthogonal circle inversion.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Ogilvy",
+      "labels": [
+        "person-ogilvy",
+        "ogilvy"
+      ]
+    },
+    "people/pappus": {
+      "id": "people/pappus",
+      "docname": "people/pappus",
+      "type": "person",
+      "title": "Pappus",
+      "url": "https://geometor.github.io/fundamentals/people/pappus.html",
+      "description": "Hellenistic mathematician whose Synagoge (Collection) preserved projective invariants, harmonic cross-ratios, and Stewart’s theorem precursors.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Pappus",
+      "facets": {
+        "site_url": "https://geometor.github.io/pappus/",
+        "github_url": "https://github.com/geometor/pappus"
+      },
+      "labels": [
+        "person-pappus",
+        "pappus"
+      ]
+    },
+    "people/phi": {
+      "id": "people/phi",
+      "docname": "people/phi",
+      "type": "person",
+      "title": "Phi",
+      "url": "https://geometor.github.io/fundamentals/people/phi.html",
+      "description": "Founder and principal investigator of the GEOMETOR Project, standardizing synthetic constructive geometry into executable Python models, interactive theme-adaptive SVG plates, and multi-track Book Cod",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Phi",
+      "labels": [
+        "person-phi",
+        "phi"
+      ]
+    },
+    "people/plato": {
+      "id": "people/plato",
+      "docname": "people/plato",
+      "type": "person",
+      "title": "Plato",
+      "url": "https://geometor.github.io/fundamentals/people/plato.html",
+      "description": "Founder of the Academy in Athens above whose gates stood the inscription Let no one ignorant of geometry enter here. Formulated the cosmological role of regular polyhedra in Timaeus.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Plato",
+      "facets": {
+        "site_url": "https://geometor.github.io/plato/",
+        "github_url": "https://github.com/geometor/plato"
+      },
+      "labels": [
+        "person-plato",
+        "plato"
+      ]
+    },
+    "people/poncelet": {
+      "id": "people/poncelet",
+      "docname": "people/poncelet",
+      "type": "person",
+      "title": "Poncelet",
+      "url": "https://geometor.github.io/fundamentals/people/poncelet.html",
+      "description": "French mathematician and founder of modern projective geometry, developing pole-polar duality, harmonic ranges, and coaxial pencils.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Poncelet",
+      "labels": [
+        "person-poncelet",
+        "poncelet"
+      ]
+    },
+    "people/ptolemy": {
+      "id": "people/ptolemy",
+      "docname": "people/ptolemy",
+      "type": "person",
+      "title": "Ptolemy",
+      "url": "https://geometor.github.io/fundamentals/people/ptolemy.html",
+      "description": "Alexandrian astronomer and mathematician whose Almagest established Ptolemy’s theorem on the diagonals and sides of a cyclic quadrilateral.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Ptolemy",
+      "facets": {
+        "site_url": "https://geometor.github.io/ptolemy/",
+        "github_url": "https://github.com/geometor/ptolemy"
+      },
+      "labels": [
+        "person-ptolemy",
+        "ptolemy"
+      ]
+    },
+    "people/pythagoras": {
+      "id": "people/pythagoras",
+      "docname": "people/pythagoras",
+      "type": "person",
+      "title": "Pythagoras",
+      "url": "https://geometor.github.io/fundamentals/people/pythagoras.html",
+      "description": "Ionian philosopher and mathematician whose brotherhood established number as the essence of reality and discovered the incommensurability of the diagonal and the foundational theorem of right-angled t",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Pythagoras",
+      "labels": [
+        "person-pythagoras",
+        "pythagoras"
+      ]
+    },
+    "people/seelig": {
+      "id": "people/seelig",
+      "docname": "people/seelig",
+      "type": "person",
+      "title": "Seelig",
+      "url": "https://geometor.github.io/fundamentals/people/seelig.html",
+      "description": "Independent geometric researcher and compiler of the 55 notebooks and computational spreadsheets forming the GEOMETOR Fundamentals archive. His investigations bridge classical synthetic geometry, Conw",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Seelig",
+      "labels": [
+        "person-seelig",
+        "seelig"
+      ]
+    },
+    "people/steiner": {
+      "id": "people/steiner",
+      "docname": "people/steiner",
+      "type": "person",
+      "title": "Steiner",
+      "url": "https://geometor.github.io/fundamentals/people/steiner.html",
+      "description": "Swiss geometer who systematized the power of a point, radical axes, and synthetic projective constructions.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Steiner",
+      "facets": {
+        "site_url": "https://geometor.github.io/steiner/",
+        "github_url": "https://github.com/geometor/steiner"
+      },
+      "labels": [
+        "person-steiner",
+        "steiner"
+      ]
+    },
+    "people/stewart": {
+      "id": "people/stewart",
+      "docname": "people/stewart",
+      "type": "person",
+      "title": "Stewart",
+      "url": "https://geometor.github.io/fundamentals/people/stewart.html",
+      "description": "Scottish mathematician who published Stewart’s theorem in Some General Theorems of Considerable Use in the Higher Parts of Mathematics (1746).",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Stewart",
+      "labels": [
+        "person-stewart",
+        "stewart"
+      ]
+    },
+    "people/torricelli": {
+      "id": "people/torricelli",
+      "docname": "people/torricelli",
+      "type": "person",
+      "title": "Torricelli",
+      "url": "https://geometor.github.io/fundamentals/people/torricelli.html",
+      "description": "Italian physicist and mathematician who gave the classical equilateral-triangle circumcircle construction for the Fermat–Torricelli point X(13).",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Torricelli",
+      "labels": [
+        "person-torricelli",
+        "torricelli"
+      ]
+    },
+    "people/yiu": {
+      "id": "people/yiu",
+      "docname": "people/yiu",
+      "type": "person",
+      "title": "Yiu",
+      "url": "https://geometor.github.io/fundamentals/people/yiu.html",
+      "description": "Mathematician and author of Introduction to the Geometry of the Triangle, a primary reference in Fred Seelig’s notes on homogeneous barycentric coordinates.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Yiu",
+      "labels": [
+        "person-yiu",
+        "yiu"
+      ]
+    },
+    "sources/index": {
+      "id": "sources/index",
+      "docname": "sources/index",
+      "type": "article",
+      "title": "Sources",
+      "url": "https://geometor.github.io/fundamentals/sources/",
+      "description_source": "empty",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Sources",
+      "labels": [
+        "sources"
+      ]
+    },
+    "sources/seelig-archive-notebooks": {
+      "id": "sources/seelig-archive-notebooks",
+      "docname": "sources/seelig-archive-notebooks",
+      "type": "source_record",
+      "title": "Fred W. Seelig Constructive Geometry Notebooks (353 Scans)",
+      "url": "https://geometor.github.io/fundamentals/sources/seelig-archive-notebooks.html",
+      "description": "353 primary notebook JPG scans and construction spreadsheets.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Fred W. Seelig Constructive Geometry Notebooks (353 Scans)",
+      "facets": {
+        "author": "Fred W. Seelig",
+        "year": "2026",
+        "year_sort": 2026,
+        "year_display": "2026",
+        "era": "Primary Archive",
+        "site_url": "https://geometor.github.io/fundamentals/",
+        "languages": [
+          "English"
+        ]
+      },
+      "labels": [
+        "source-seelig-archive-notebooks"
+      ]
+    },
+    "spreadsheets/index": {
+      "id": "spreadsheets/index",
+      "docname": "spreadsheets/index",
+      "type": "article",
+      "title": "Spreadsheets",
+      "url": "https://geometor.github.io/fundamentals/spreadsheets/",
+      "description": "Alongside his 353 handwritten notebook pages, seelig constructed an extensive suite of computational geometry workbooks in OpenDocument Spreadsheet (.ods) format. These sheets test algebraic identities, verify homogeneous barycentric…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Spreadsheets",
+      "labels": [
+        "spreadsheets"
+      ]
+    },
+    "todos/index": {
+      "id": "todos/index",
+      "docname": "todos/index",
+      "type": "article",
+      "title": "Todos",
+      "url": "https://geometor.github.io/fundamentals/todos/",
+      "description_source": "empty",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Todos"
+    },
+    "topics/f-01/code": {
+      "id": "topics/f-01/code",
+      "docname": "topics/f-01/code",
+      "type": "article",
+      "title": "F.1 Albert’s Parabola — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-01/code.html",
+      "description": "Given a parabola y = x^2 and a point P = (P_x, P_y) on it, the tangent line T and normal line N at P satisfy y = 2 P_x x - P_x^2 and y = -x/(2 P_x) + P_x^2 + 1/2; requiring N to pass through (M, 0) yields the depressed cubic P_x^3 + (1/2)…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-01.svg",
+      "image_alt": "F.1 Albert’s Parabola — Code"
+    },
+    "topics/f-01/folios": {
+      "id": "topics/f-01/folios",
+      "docname": "topics/f-01/folios",
+      "type": "article",
+      "title": "F.1 Albert’s Parabola — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-01/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.1 (Albert’s Parabola) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0001.jpg",
+      "image_alt": "F.1 Albert’s Parabola — Folios"
+    },
+    "topics/f-01/index": {
+      "id": "topics/f-01/index",
+      "docname": "topics/f-01/index",
+      "type": "topic",
+      "title": "F.1 Albert’s Parabola",
+      "url": "https://geometor.github.io/fundamentals/topics/f-01/",
+      "description": "Tangent, Normal, and Depressed Cubic for Minimum Distance to a Parabola",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-01.svg",
+      "image_alt": "F.1 Albert’s Parabola",
+      "facets": {
+        "tags": [
+          "parabola",
+          "conics",
+          "normal",
+          "tangent",
+          "cubic"
+        ],
+        "categories": [
+          "Conics & Analytic Loci"
+        ]
+      },
+      "labels": [
+        "f-01"
+      ]
+    },
+    "topics/f-02/code": {
+      "id": "topics/f-02/code",
+      "docname": "topics/f-02/code",
+      "type": "article",
+      "title": "F.2 Bilinear Transformations — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-02/code.html",
+      "description": "The canonical bilinear transformation B(x) = (1 + x)/(1 - x) and its inverse B^{-1}(y) = (y - 1)/(y + 1) link the internal division ratio kappa = x/r of a segment AB to the Apollonian distance ratio k = (1 + kappa)/(1 - kappa).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-02.svg",
+      "image_alt": "F.2 Bilinear Transformations — Code"
+    },
+    "topics/f-02/folios": {
+      "id": "topics/f-02/folios",
+      "docname": "topics/f-02/folios",
+      "type": "article",
+      "title": "F.2 Bilinear Transformations — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-02/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.2 (Bilinear Transformations) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0003.jpg",
+      "image_alt": "F.2 Bilinear Transformations — Folios"
+    },
+    "topics/f-02/index": {
+      "id": "topics/f-02/index",
+      "docname": "topics/f-02/index",
+      "type": "topic",
+      "title": "F.2 Bilinear Transformations",
+      "url": "https://geometor.github.io/fundamentals/topics/f-02/",
+      "description": "Projective Involutions, Derivative Identities, and the Apollonian Proportion",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-02.svg",
+      "image_alt": "F.2 Bilinear Transformations",
+      "facets": {
+        "tags": [
+          "projective",
+          "bilinear",
+          "harmonic",
+          "apollonius",
+          "cross-ratio"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-02"
+      ]
+    },
+    "topics/f-03/code": {
+      "id": "topics/f-03/code",
+      "docname": "topics/f-03/code",
+      "type": "article",
+      "title": "F.3 Biquadratic Forms in Heron’s Formula — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-03/code.html",
+      "description": "Under the linear substitution X = a/2, W = (b + c)/2, and Y = (c - b)/2, Heron’s area formula reduces to the biquadratic product K = sqrt((W^2 - X^2)(X^2 - Y^2)).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-03.svg",
+      "image_alt": "F.3 Biquadratic Forms in Heron’s Formula — Code"
+    },
+    "topics/f-03/folios": {
+      "id": "topics/f-03/folios",
+      "docname": "topics/f-03/folios",
+      "type": "article",
+      "title": "F.3 Biquadratic Forms in Heron’s Formula — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-03/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.3 (Biquadratic Forms in Heron’s Formula) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0011.jpg",
+      "image_alt": "F.3 Biquadratic Forms in Heron’s Formula — Folios"
+    },
+    "topics/f-03/index": {
+      "id": "topics/f-03/index",
+      "docname": "topics/f-03/index",
+      "type": "topic",
+      "title": "F.3 Biquadratic Forms in Heron’s Formula",
+      "url": "https://geometor.github.io/fundamentals/topics/f-03/",
+      "description": "Symmetric Quadratic Substitutions, Circumcircle Families, and Extremal Side Lengths",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-03.svg",
+      "image_alt": "F.3 Biquadratic Forms in Heron’s Formula",
+      "facets": {
+        "tags": [
+          "heron",
+          "area",
+          "biquadratic",
+          "circumradius",
+          "sympy"
+        ],
+        "categories": [
+          "Algebraic & Coordinate Systems"
+        ]
+      },
+      "labels": [
+        "f-03"
+      ]
+    },
+    "topics/f-04/code": {
+      "id": "topics/f-04/code",
+      "docname": "topics/f-04/code",
+      "type": "article",
+      "title": "F.4 Carnot’s Theorem — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-04/code.html",
+      "description": "In any triangle ABC, the sum of the signed perpendicular distances from the circumcenter O to the three sides BC, CA, AB equals the sum of the circumradius R and the inradius r: d_a + d_b + d_c = R + r.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-04.svg",
+      "image_alt": "F.4 Carnot’s Theorem — Code"
+    },
+    "topics/f-04/folios": {
+      "id": "topics/f-04/folios",
+      "docname": "topics/f-04/folios",
+      "type": "article",
+      "title": "F.4 Carnot’s Theorem — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-04/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.4 (Carnot’s Theorem) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0020.jpg",
+      "image_alt": "F.4 Carnot’s Theorem — Folios"
+    },
+    "topics/f-04/index": {
+      "id": "topics/f-04/index",
+      "docname": "topics/f-04/index",
+      "type": "topic",
+      "title": "F.4 Carnot’s Theorem",
+      "url": "https://geometor.github.io/fundamentals/topics/f-04/",
+      "description": "Signed Distances from the Circumcenter to the Sides and the Japanese Theorem",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-04.svg",
+      "image_alt": "F.4 Carnot’s Theorem",
+      "facets": {
+        "tags": [
+          "carnot",
+          "circumcenter",
+          "incenter",
+          "inradius",
+          "circumradius"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Lines"
+        ]
+      },
+      "labels": [
+        "f-04"
+      ]
+    },
+    "topics/f-05/code": {
+      "id": "topics/f-05/code",
+      "docname": "topics/f-05/code",
+      "type": "article",
+      "title": "F.5 Centers of Similitude — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-05/code.html",
+      "description": "Given two circles (O_1, r_1) and (O_2, r_2) separated by center distance d = |O_1 O_2| with r_2 > r_1, their common internal and external tangents concur at the internal and external centers of similitude S_IN and S_EX, which divide O_1…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-05.svg",
+      "image_alt": "F.5 Centers of Similitude — Code"
+    },
+    "topics/f-05/folios": {
+      "id": "topics/f-05/folios",
+      "docname": "topics/f-05/folios",
+      "type": "article",
+      "title": "F.5 Centers of Similitude — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-05/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.5 (Centers of Similitude) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0021.jpg",
+      "image_alt": "F.5 Centers of Similitude — Folios"
+    },
+    "topics/f-05/index": {
+      "id": "topics/f-05/index",
+      "docname": "topics/f-05/index",
+      "type": "topic",
+      "title": "F.5 Centers of Similitude",
+      "url": "https://geometor.github.io/fundamentals/topics/f-05/",
+      "description": "Internal and External Homothetic Centers Dividing the Line of Centers Harmonically",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-05.svg",
+      "image_alt": "F.5 Centers of Similitude",
+      "facets": {
+        "tags": [
+          "similitude",
+          "homothety",
+          "harmonic",
+          "circles",
+          "tangents"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-05"
+      ]
+    },
+    "topics/f-06/code": {
+      "id": "topics/f-06/code",
+      "docname": "topics/f-06/code",
+      "type": "article",
+      "title": "F.6 Centroid — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-06/code.html",
+      "description": "The three medians AM_A, BM_B, CM_C joining the vertices of triangle ABC to the midpoints of the opposite sides concur at the centroid G = X(2), which divides each median in a 2 : 1 ratio and has homogeneous barycentric coordinates 1 : 1…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-06.svg",
+      "image_alt": "F.6 Centroid — Code"
+    },
+    "topics/f-06/folios": {
+      "id": "topics/f-06/folios",
+      "docname": "topics/f-06/folios",
+      "type": "article",
+      "title": "F.6 Centroid — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-06/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.6 (Centroid) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0022.jpg",
+      "image_alt": "F.6 Centroid — Folios"
+    },
+    "topics/f-06/index": {
+      "id": "topics/f-06/index",
+      "docname": "topics/f-06/index",
+      "type": "topic",
+      "title": "F.6 Centroid",
+      "url": "https://geometor.github.io/fundamentals/topics/f-06/",
+      "description": "Concurrency of the Medians, Vector Average, and the Medial Triangle",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-06.svg",
+      "image_alt": "F.6 Centroid",
+      "facets": {
+        "tags": [
+          "centroid",
+          "medians",
+          "medial-triangle",
+          "barycentric"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Lines"
+        ]
+      },
+      "labels": [
+        "f-06"
+      ]
+    },
+    "topics/f-07/code": {
+      "id": "topics/f-07/code",
+      "docname": "topics/f-07/code",
+      "type": "article",
+      "title": "F.7 Ceva and Menelaus — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-07/code.html",
+      "description": "Three cevians AD, BE, CF of triangle ABC concur at a point P if and only if (AF/FB)(BD/DC)(CE/EA) = +1 (Ceva’s Theorem), whereas points D, E, F’ on the sidelines are collinear if and only if (AF’/F’B)(BD/DC)(CE/EA) = -1 (Menelaus’s…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-07.svg",
+      "image_alt": "F.7 Ceva and Menelaus — Code"
+    },
+    "topics/f-07/folios": {
+      "id": "topics/f-07/folios",
+      "docname": "topics/f-07/folios",
+      "type": "article",
+      "title": "F.7 Ceva and Menelaus — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-07/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.7 (Ceva and Menelaus) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0024.jpg",
+      "image_alt": "F.7 Ceva and Menelaus — Folios"
+    },
+    "topics/f-07/index": {
+      "id": "topics/f-07/index",
+      "docname": "topics/f-07/index",
+      "type": "topic",
+      "title": "F.7 Ceva and Menelaus",
+      "url": "https://geometor.github.io/fundamentals/topics/f-07/",
+      "description": "Concurrent Cevians, Collinear Transversals, the MNIJ Lattice Framework, and Cevian Programs",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-07.svg",
+      "image_alt": "F.7 Ceva and Menelaus",
+      "facets": {
+        "tags": [
+          "ceva",
+          "menelaus",
+          "cevians",
+          "harmonic",
+          "gergonne",
+          "stewart"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-07"
+      ]
+    },
+    "topics/f-08/code": {
+      "id": "topics/f-08/code",
+      "docname": "topics/f-08/code",
+      "type": "article",
+      "title": "F.8 Chord Intersection — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-08/code.html",
+      "description": "If two chords AB and CD of a circle (O, R) intersect at a point X at distance r = |OX| from the center, then the product of their segments is constant and equals the power of X with respect to the circle: |AX||BX| = |CX||DX| = R^2 - |OX|^2.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-08.svg",
+      "image_alt": "F.8 Chord Intersection — Code"
+    },
+    "topics/f-08/folios": {
+      "id": "topics/f-08/folios",
+      "docname": "topics/f-08/folios",
+      "type": "article",
+      "title": "F.8 Chord Intersection — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-08/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.8 (Chord Intersection) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0050.jpg",
+      "image_alt": "F.8 Chord Intersection — Folios"
+    },
+    "topics/f-08/index": {
+      "id": "topics/f-08/index",
+      "docname": "topics/f-08/index",
+      "type": "topic",
+      "title": "F.8 Chord Intersection",
+      "url": "https://geometor.github.io/fundamentals/topics/f-08/",
+      "description": "Intersecting Chords Theorem, Sagitta Formula, Power of a Point, and Ptolemy’s Bound",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-08.svg",
+      "image_alt": "F.8 Chord Intersection",
+      "facets": {
+        "tags": [
+          "chords",
+          "power-of-a-point",
+          "sagitta",
+          "ptolemy",
+          "circles"
+        ],
+        "categories": [
+          "Circle Geometry & Pencils"
+        ]
+      },
+      "labels": [
+        "f-08"
+      ]
+    },
+    "topics/f-09/code": {
+      "id": "topics/f-09/code",
+      "docname": "topics/f-09/code",
+      "type": "article",
+      "title": "F.9 Circle Equations — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-09/code.html",
+      "description": "Pairwise subtraction of Cartesian circle equations (x - u_i)^2 + (y - v_i)^2 = r_i^2 eliminates the quadratic terms x^2 + y^2 to yield linear radical-axis relations, determining both the side Z of a square from three corner distances and…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-09.svg",
+      "image_alt": "F.9 Circle Equations — Code"
+    },
+    "topics/f-09/folios": {
+      "id": "topics/f-09/folios",
+      "docname": "topics/f-09/folios",
+      "type": "article",
+      "title": "F.9 Circle Equations — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-09/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.9 (Circle Equations) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0054.jpg",
+      "image_alt": "F.9 Circle Equations — Folios"
+    },
+    "topics/f-09/index": {
+      "id": "topics/f-09/index",
+      "docname": "topics/f-09/index",
+      "type": "topic",
+      "title": "F.9 Circle Equations",
+      "url": "https://geometor.github.io/fundamentals/topics/f-09/",
+      "description": "Three-Circle Distance Systems in a Square and a Sangaku Tangent Circle Problem",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-09.svg",
+      "image_alt": "F.9 Circle Equations",
+      "facets": {
+        "tags": [
+          "circles",
+          "analytic-geometry",
+          "sangaku",
+          "square",
+          "radical-axis"
+        ],
+        "categories": [
+          "Circle Geometry & Pencils"
+        ]
+      },
+      "labels": [
+        "f-09"
+      ]
+    },
+    "topics/f-10/code": {
+      "id": "topics/f-10/code",
+      "docname": "topics/f-10/code",
+      "type": "article",
+      "title": "F.10 Circles and Geometric Mean — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-10/code.html",
+      "description": "In a semicircle on diameter AB = m + n, the perpendicular altitude h = CH from a point C on the circumference to AB is the geometric mean sqrt(mn) of the segments AH = m and HB = n, while the radius OC = (m + n)/2 is their arithmetic mean.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-10.svg",
+      "image_alt": "F.10 Circles and Geometric Mean — Code"
+    },
+    "topics/f-10/folios": {
+      "id": "topics/f-10/folios",
+      "docname": "topics/f-10/folios",
+      "type": "article",
+      "title": "F.10 Circles and Geometric Mean — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-10/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.10 (Circles and Geometric Mean) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0062.jpg",
+      "image_alt": "F.10 Circles and Geometric Mean — Folios"
+    },
+    "topics/f-10/index": {
+      "id": "topics/f-10/index",
+      "docname": "topics/f-10/index",
+      "type": "topic",
+      "title": "F.10 Circles and Geometric Mean",
+      "url": "https://geometor.github.io/fundamentals/topics/f-10/",
+      "description": "Right-Triangle Altitude Mean Proportional, Square Partitions, and Barycentric Center Table",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-10.svg",
+      "image_alt": "F.10 Circles and Geometric Mean",
+      "facets": {
+        "tags": [
+          "geometric-mean",
+          "semicircle",
+          "thales",
+          "barycentric",
+          "circles"
+        ],
+        "categories": [
+          "Circle Geometry & Pencils"
+        ]
+      },
+      "labels": [
+        "f-10"
+      ]
+    },
+    "topics/f-11/code": {
+      "id": "topics/f-11/code",
+      "docname": "topics/f-11/code",
+      "type": "article",
+      "title": "F.11 Circumcenter — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-11/code.html",
+      "description": "The perpendicular bisectors of the three sides of triangle ABC concur at the circumcenter O = X(3), equidistant from A, B, C by the circumradius R = abc/(4K), with homogeneous barycentric coordinates a^2 S_A : b^2 S_B : c^2 S_C.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-11.svg",
+      "image_alt": "F.11 Circumcenter — Code"
+    },
+    "topics/f-11/folios": {
+      "id": "topics/f-11/folios",
+      "docname": "topics/f-11/folios",
+      "type": "article",
+      "title": "F.11 Circumcenter — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-11/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.11 (Circumcenter) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0066.jpg",
+      "image_alt": "F.11 Circumcenter — Folios"
+    },
+    "topics/f-11/index": {
+      "id": "topics/f-11/index",
+      "docname": "topics/f-11/index",
+      "type": "topic",
+      "title": "F.11 Circumcenter",
+      "url": "https://geometor.github.io/fundamentals/topics/f-11/",
+      "description": "Perpendicular Bisectors, Cartesian Determinant Formulas, Circumcircle Subtriangles, and the Tangential Triangle",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-11.svg",
+      "image_alt": "F.11 Circumcenter",
+      "facets": {
+        "tags": [
+          "circumcenter",
+          "circumcircle",
+          "tangential-triangle",
+          "barycentric"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Lines"
+        ]
+      },
+      "labels": [
+        "f-11"
+      ]
+    },
+    "topics/f-12/code": {
+      "id": "topics/f-12/code",
+      "docname": "topics/f-12/code",
+      "type": "article",
+      "title": "F.12 Coaxial Circles — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-12/code.html",
+      "description": "A hyperbolic pencil of coaxial circles with limiting points L_1 = (-r, 0) and L_2 = (+r, 0) coincides with the Apollonian equipotential circles d_1 / d_2 = k around two point charges Q_1, Q_2, sharing the y-axis as their common radical…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-12.svg",
+      "image_alt": "F.12 Coaxial Circles — Code"
+    },
+    "topics/f-12/folios": {
+      "id": "topics/f-12/folios",
+      "docname": "topics/f-12/folios",
+      "type": "article",
+      "title": "F.12 Coaxial Circles — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-12/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.12 (Coaxial Circles) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0072.jpg",
+      "image_alt": "F.12 Coaxial Circles — Folios"
+    },
+    "topics/f-12/index": {
+      "id": "topics/f-12/index",
+      "docname": "topics/f-12/index",
+      "type": "topic",
+      "title": "F.12 Coaxial Circles",
+      "url": "https://geometor.github.io/fundamentals/topics/f-12/",
+      "description": "Equipotential Pencils Around Point Charges, Limiting Points, and Orthogonal Families",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-12.svg",
+      "image_alt": "F.12 Coaxial Circles",
+      "facets": {
+        "tags": [
+          "coaxial-circles",
+          "radical-axis",
+          "apollonius",
+          "electromagnetics",
+          "ogilvy"
+        ],
+        "categories": [
+          "Circle Geometry & Pencils"
+        ]
+      },
+      "labels": [
+        "f-12"
+      ]
+    },
+    "topics/f-13/code": {
+      "id": "topics/f-13/code",
+      "docname": "topics/f-13/code",
+      "type": "article",
+      "title": "F.13 Compare Triangles in Circles — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-13/code.html",
+      "description": "For a family of triangles ABC inscribed in a fixed circle of radius R sharing a fixed chord AB = c (with central angle 2phi where sin(phi) = c/(2R)), the area K decomposes into the signed sum of three central isosceles triangles: K =…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-13.svg",
+      "image_alt": "F.13 Compare Triangles in Circles — Code"
+    },
+    "topics/f-13/folios": {
+      "id": "topics/f-13/folios",
+      "docname": "topics/f-13/folios",
+      "type": "article",
+      "title": "F.13 Compare Triangles in Circles — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-13/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.13 (Compare Triangles in Circles) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0084.jpg",
+      "image_alt": "F.13 Compare Triangles in Circles — Folios"
+    },
+    "topics/f-13/index": {
+      "id": "topics/f-13/index",
+      "docname": "topics/f-13/index",
+      "type": "topic",
+      "title": "F.13 Compare Triangles in Circles",
+      "url": "https://geometor.github.io/fundamentals/topics/f-13/",
+      "description": "Inscribed Triangle Area with Fixed Chord and Circumradius, Nested Radical Chords, and Isosceles Decomposition",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-13.svg",
+      "image_alt": "F.13 Compare Triangles in Circles",
+      "facets": {
+        "tags": [
+          "circumcircle",
+          "chords",
+          "area",
+          "nested-radicals",
+          "medians"
+        ],
+        "categories": [
+          "Circle Geometry & Pencils"
+        ]
+      },
+      "labels": [
+        "f-13"
+      ]
+    },
+    "topics/f-14/code": {
+      "id": "topics/f-14/code",
+      "docname": "topics/f-14/code",
+      "type": "article",
+      "title": "F.14 Conway Notation — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-14/code.html",
+      "description": "In John H. Conway’s triangle notation, setting S = 2K (twice the area of triangle ABC), S_omega = (a^2 + b^2 + c^2)/2, and S_A = (b^2 + c^2 - a^2)/2, S_B = (c^2 + a^2 - b^2)/2, S_C = (a^2 + b^2 - c^2)/2 reduces trigonometric and…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-14.svg",
+      "image_alt": "F.14 Conway Notation — Code"
+    },
+    "topics/f-14/folios": {
+      "id": "topics/f-14/folios",
+      "docname": "topics/f-14/folios",
+      "type": "article",
+      "title": "F.14 Conway Notation — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-14/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.14 (Conway Notation) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0092.jpg",
+      "image_alt": "F.14 Conway Notation — Folios"
+    },
+    "topics/f-14/index": {
+      "id": "topics/f-14/index",
+      "docname": "topics/f-14/index",
+      "type": "topic",
+      "title": "F.14 Conway Notation",
+      "url": "https://geometor.github.io/fundamentals/topics/f-14/",
+      "description": "John H. Conway’s Algebraic Triangle Symbols, Brocard Angle, and Altitude Partitions",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-14.svg",
+      "image_alt": "F.14 Conway Notation",
+      "facets": {
+        "tags": [
+          "conway",
+          "barycentric",
+          "brocard",
+          "altitudes",
+          "stewart"
+        ],
+        "categories": [
+          "Algebraic & Coordinate Systems"
+        ]
+      },
+      "labels": [
+        "f-14"
+      ]
+    },
+    "topics/f-15/code": {
+      "id": "topics/f-15/code",
+      "docname": "topics/f-15/code",
+      "type": "article",
+      "title": "F.15 Cyclic Quadrilateral — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-15/code.html",
+      "description": "A cyclic quadrilateral WXYZ whose interior angles form the arithmetic progression theta, 2theta, 3theta, 4theta has theta = 36 degrees (W = 36, X = 72, Y = 144, Z = 108) and golden-ratio diagonals |XZ| = 2 sin(36) = sqrt(3 - phi) and |WY|…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-15.svg",
+      "image_alt": "F.15 Cyclic Quadrilateral — Code"
+    },
+    "topics/f-15/folios": {
+      "id": "topics/f-15/folios",
+      "docname": "topics/f-15/folios",
+      "type": "article",
+      "title": "F.15 Cyclic Quadrilateral — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-15/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.15 (Cyclic Quadrilateral) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0098.jpg",
+      "image_alt": "F.15 Cyclic Quadrilateral — Folios"
+    },
+    "topics/f-15/index": {
+      "id": "topics/f-15/index",
+      "docname": "topics/f-15/index",
+      "type": "topic",
+      "title": "F.15 Cyclic Quadrilateral",
+      "url": "https://geometor.github.io/fundamentals/topics/f-15/",
+      "description": "Golden-Ratio Chords for Angles theta, 2theta, 3theta, 4theta, Ptolemy’s Theorem, and Geometric Progression Impossibility",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-15.svg",
+      "image_alt": "F.15 Cyclic Quadrilateral",
+      "facets": {
+        "tags": [
+          "cyclic-quadrilateral",
+          "ptolemy",
+          "golden-ratio",
+          "chords",
+          "polygons"
+        ],
+        "categories": [
+          "Circle Geometry & Pencils"
+        ]
+      },
+      "labels": [
+        "f-15"
+      ]
+    },
+    "topics/f-16/code": {
+      "id": "topics/f-16/code",
+      "docname": "topics/f-16/code",
+      "type": "article",
+      "title": "F.16 d’Alembert’s Theorem — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-16/code.html",
+      "description": "Given three circles of distinct radii in the plane, their six pairwise internal and external centers of similitude lie by threes on four projective lines L_{+++}, L_{–+}, L_{-+-}, and L_{+–} (the Monge–d’Alembert similitude axes).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-16.svg",
+      "image_alt": "F.16 d’Alembert’s Theorem — Code"
+    },
+    "topics/f-16/folios": {
+      "id": "topics/f-16/folios",
+      "docname": "topics/f-16/folios",
+      "type": "article",
+      "title": "F.16 d’Alembert’s Theorem — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-16/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.16 (d’Alembert’s Theorem) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0114.jpg",
+      "image_alt": "F.16 d’Alembert’s Theorem — Folios"
+    },
+    "topics/f-16/index": {
+      "id": "topics/f-16/index",
+      "docname": "topics/f-16/index",
+      "type": "topic",
+      "title": "F.16 d’Alembert’s Theorem",
+      "url": "https://geometor.github.io/fundamentals/topics/f-16/",
+      "description": "Monge–d’Alembert Collinearity of the Six Centers of Similitude of Three Circles",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-16.svg",
+      "image_alt": "F.16 d’Alembert’s Theorem",
+      "facets": {
+        "tags": [
+          "dalembert",
+          "monge",
+          "similitude",
+          "projective",
+          "apollonius"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-16"
+      ]
+    },
+    "topics/f-17/code": {
+      "id": "topics/f-17/code",
+      "docname": "topics/f-17/code",
+      "type": "article",
+      "title": "F.17 Ellipse — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-17/code.html",
+      "description": "Given semi-major axis a and semi-minor axis b, a four-center circular-arc oval approximating the ellipse x^2/a^2 + y^2/b^2 = 1 is constructed by a 7-step five-circle compass procedure, while the exact conic satisfies F = ae, d = a/e, and…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-17.svg",
+      "image_alt": "F.17 Ellipse — Code"
+    },
+    "topics/f-17/folios": {
+      "id": "topics/f-17/folios",
+      "docname": "topics/f-17/folios",
+      "type": "article",
+      "title": "F.17 Ellipse — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-17/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.17 (Ellipse) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0118.jpg",
+      "image_alt": "F.17 Ellipse — Folios"
+    },
+    "topics/f-17/index": {
+      "id": "topics/f-17/index",
+      "docname": "topics/f-17/index",
+      "type": "topic",
+      "title": "F.17 Ellipse",
+      "url": "https://geometor.github.io/fundamentals/topics/f-17/",
+      "description": "Seven-Step Five-Circle Compass Oval Construction and Focus-Directrix Conic Relations",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-17.svg",
+      "image_alt": "F.17 Ellipse",
+      "facets": {
+        "tags": [
+          "ellipse",
+          "conics",
+          "compass-construction",
+          "eccentricity",
+          "latus-rectum"
+        ],
+        "categories": [
+          "Conics & Analytic Loci"
+        ]
+      },
+      "labels": [
+        "f-17"
+      ]
+    },
+    "topics/f-18/code": {
+      "id": "topics/f-18/code",
+      "docname": "topics/f-18/code",
+      "type": "article",
+      "title": "F.18 Equilateral Triangle — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-18/code.html",
+      "description": "In an equilateral triangle of side a, the incenter, centroid, circumcenter, and orthocenter coincide, with altitude h_A = (sqrt(3)/2)a = 3r and R = 2r; moreover, points A’, B’, C’ placed along the angle bisectors AI, BI, CI of any…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-18.svg",
+      "image_alt": "F.18 Equilateral Triangle — Code"
+    },
+    "topics/f-18/folios": {
+      "id": "topics/f-18/folios",
+      "docname": "topics/f-18/folios",
+      "type": "article",
+      "title": "F.18 Equilateral Triangle — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-18/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.18 (Equilateral Triangle) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0122.jpg",
+      "image_alt": "F.18 Equilateral Triangle — Folios"
+    },
+    "topics/f-18/index": {
+      "id": "topics/f-18/index",
+      "docname": "topics/f-18/index",
+      "type": "topic",
+      "title": "F.18 Equilateral Triangle",
+      "url": "https://geometor.github.io/fundamentals/topics/f-18/",
+      "description": "Coincidence of Centers, h_A = 3r, and Complex Cube-Root Proof of an Incenter-Bisector Equilateral Triangle",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-18.svg",
+      "image_alt": "F.18 Equilateral Triangle",
+      "facets": {
+        "tags": [
+          "equilateral",
+          "euclid-i-1",
+          "incenter",
+          "roots-of-unity",
+          "vesica"
+        ],
+        "categories": [
+          "Special Triangles & Sacred Proportions"
+        ]
+      },
+      "labels": [
+        "f-18"
+      ]
+    },
+    "topics/f-19/code": {
+      "id": "topics/f-19/code",
+      "docname": "topics/f-19/code",
+      "type": "article",
+      "title": "F.19 Equal Incircles Theorem — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-19/code.html",
+      "description": "If a fan of rays from apex P to a baseline cuts triangle ABC into consecutive subtriangles whose incircles have equal radii r_1 = r_2 = … = r_n = r, then the ray angles gamma_n with the altitude PR (of height h) follow the hyperbolic…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-19.svg",
+      "image_alt": "F.19 Equal Incircles Theorem — Code"
+    },
+    "topics/f-19/folios": {
+      "id": "topics/f-19/folios",
+      "docname": "topics/f-19/folios",
+      "type": "article",
+      "title": "F.19 Equal Incircles Theorem — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-19/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.19 (Equal Incircles Theorem) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0125.jpg",
+      "image_alt": "F.19 Equal Incircles Theorem — Folios"
+    },
+    "topics/f-19/index": {
+      "id": "topics/f-19/index",
+      "docname": "topics/f-19/index",
+      "type": "topic",
+      "title": "F.19 Equal Incircles Theorem",
+      "url": "https://geometor.github.io/fundamentals/topics/f-19/",
+      "description": "Japanese Sangaku Ray-Fan Theorem Proved via Hyperbolic Tangents",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-19.svg",
+      "image_alt": "F.19 Equal Incircles Theorem",
+      "facets": {
+        "tags": [
+          "incircle",
+          "inradius",
+          "sangaku",
+          "hyperbolic-functions"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Lines"
+        ]
+      },
+      "labels": [
+        "f-19"
+      ]
+    },
+    "topics/f-20/code": {
+      "id": "topics/f-20/code",
+      "docname": "topics/f-20/code",
+      "type": "article",
+      "title": "F.20 Extangent — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-20/code.html",
+      "description": "The external common tangents to the incircle and circumcircle (or excircles) bound the extangents triangle, while Euler’s relation d_{IO}^2 = R^2 - 2rR has derivative d(d_{IO})/dR = (R - r)/sqrt(R^2 - 2rR).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-20.svg",
+      "image_alt": "F.20 Extangent — Code"
+    },
+    "topics/f-20/folios": {
+      "id": "topics/f-20/folios",
+      "docname": "topics/f-20/folios",
+      "type": "article",
+      "title": "F.20 Extangent — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-20/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.20 (Extangent) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0127.jpg",
+      "image_alt": "F.20 Extangent — Folios"
+    },
+    "topics/f-20/index": {
+      "id": "topics/f-20/index",
+      "docname": "topics/f-20/index",
+      "type": "topic",
+      "title": "F.20 Extangent",
+      "url": "https://geometor.github.io/fundamentals/topics/f-20/",
+      "description": "The Extangents Triangle, Excircles, and Differentiation of Euler’s Incenter-Circumcenter Formula",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-20.svg",
+      "image_alt": "F.20 Extangent",
+      "facets": {
+        "tags": [
+          "excircle",
+          "extangent",
+          "euler-formula",
+          "incircle",
+          "circumcircle"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Lines"
+        ]
+      },
+      "labels": [
+        "f-20"
+      ]
+    },
+    "topics/f-21/code": {
+      "id": "topics/f-21/code",
+      "docname": "topics/f-21/code",
+      "type": "article",
+      "title": "F.21 Fermat Point — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-21/code.html",
+      "description": "For any triangle ABC whose largest interior angle is less than 120 degrees, erecting external equilateral triangles BCX_A, CAY_B, ABZ_C on its sides yields concurrent segments AX_A, BY_B, CZ_C that intersect at the Fermat-Torricelli point…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-21.svg",
+      "image_alt": "F.21 Fermat Point — Code"
+    },
+    "topics/f-21/folios": {
+      "id": "topics/f-21/folios",
+      "docname": "topics/f-21/folios",
+      "type": "article",
+      "title": "F.21 Fermat Point — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-21/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.21 (Fermat Point) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0128.jpg",
+      "image_alt": "F.21 Fermat Point — Folios"
+    },
+    "topics/f-21/index": {
+      "id": "topics/f-21/index",
+      "docname": "topics/f-21/index",
+      "type": "topic",
+      "title": "F.21 Fermat Point",
+      "url": "https://geometor.github.io/fundamentals/topics/f-21/",
+      "description": "Torricelli’s Equilateral Construction for X(13), 120-Degree Equiangularity, and the Obtuse Threshold",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-21.svg",
+      "image_alt": "F.21 Fermat Point",
+      "facets": {
+        "tags": [
+          "fermat-point",
+          "torricelli",
+          "steiner",
+          "optimization",
+          "equilateral"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Lines"
+        ]
+      },
+      "labels": [
+        "f-21"
+      ]
+    },
+    "topics/f-22/code": {
+      "id": "topics/f-22/code",
+      "docname": "topics/f-22/code",
+      "type": "article",
+      "title": "F.22 Functions — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-22/code.html",
+      "description": "The standard normal cumulative distribution Phi(x) and error function erf(x) satisfy Phi(x) = 1/2 + (1/2) erf(x/sqrt(2)), where erf(x) is approximated to 1.5e-7 accuracy by Abramowitz and Stegun’s 5-term rational-exponential formula.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-22.svg",
+      "image_alt": "F.22 Functions — Code"
+    },
+    "topics/f-22/folios": {
+      "id": "topics/f-22/folios",
+      "docname": "topics/f-22/folios",
+      "type": "article",
+      "title": "F.22 Functions — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-22/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.22 (Functions) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0130.jpg",
+      "image_alt": "F.22 Functions — Folios"
+    },
+    "topics/f-22/index": {
+      "id": "topics/f-22/index",
+      "docname": "topics/f-22/index",
+      "type": "topic",
+      "title": "F.22 Functions",
+      "url": "https://geometor.github.io/fundamentals/topics/f-22/",
+      "description": "Gaussian Error Function Approximations (Abramowitz & Stegun) and Probability Distributions",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-22.svg",
+      "image_alt": "F.22 Functions",
+      "facets": {
+        "tags": [
+          "functions",
+          "gaussian",
+          "error-function",
+          "probability",
+          "approximation"
+        ],
+        "categories": [
+          "Conics & Analytic Loci"
+        ]
+      },
+      "labels": [
+        "f-22"
+      ]
+    },
+    "topics/f-23/code": {
+      "id": "topics/f-23/code",
+      "docname": "topics/f-23/code",
+      "type": "article",
+      "title": "F.23 Golden Triangles — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-23/code.html",
+      "description": "In the acute golden isosceles triangle ABC with base AB = 1, legs AC = BC = phi, and angles 72-72-36 degrees, bisecting base angle B meets AC at D such that CD = 1, DA = phi - 1 = 1/phi, and BD = AB = 1, partitioning ABC into a smaller…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-23.svg",
+      "image_alt": "F.23 Golden Triangles — Code"
+    },
+    "topics/f-23/folios": {
+      "id": "topics/f-23/folios",
+      "docname": "topics/f-23/folios",
+      "type": "article",
+      "title": "F.23 Golden Triangles — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-23/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.23 (Golden Triangles) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0132.jpg",
+      "image_alt": "F.23 Golden Triangles — Folios"
+    },
+    "topics/f-23/index": {
+      "id": "topics/f-23/index",
+      "docname": "topics/f-23/index",
+      "type": "topic",
+      "title": "F.23 Golden Triangles",
+      "url": "https://geometor.github.io/fundamentals/topics/f-23/",
+      "description": "The 72-72-36 Sublime Triangle, 5th Roots of Unity, and Normalized Stewart’s Theorem",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-23.svg",
+      "image_alt": "F.23 Golden Triangles",
+      "facets": {
+        "tags": [
+          "golden-ratio",
+          "golden-triangle",
+          "pentagon",
+          "stewart",
+          "euclid-iv-10"
+        ],
+        "categories": [
+          "Special Triangles & Sacred Proportions"
+        ]
+      },
+      "labels": [
+        "f-23"
+      ]
+    },
+    "topics/f-24/code": {
+      "id": "topics/f-24/code",
+      "docname": "topics/f-24/code",
+      "type": "article",
+      "title": "F.24 Gothic Arch — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-24/code.html",
+      "description": "In a square ABCD of side s with pointed Gothic arch arcs of radius s centered at A(0, 0) and B(s, 0) meeting at apex E(s/2, (sqrt(3)/2)s), an inscribed tracery circle centered at P(s/2, Q) of radius r = s - p satisfies ps = P_x H_x + P_y…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-24.svg",
+      "image_alt": "F.24 Gothic Arch — Code"
+    },
+    "topics/f-24/folios": {
+      "id": "topics/f-24/folios",
+      "docname": "topics/f-24/folios",
+      "type": "article",
+      "title": "F.24 Gothic Arch — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-24/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.24 (Gothic Arch) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0135.jpg",
+      "image_alt": "F.24 Gothic Arch — Folios"
+    },
+    "topics/f-24/index": {
+      "id": "topics/f-24/index",
+      "docname": "topics/f-24/index",
+      "type": "topic",
+      "title": "F.24 Gothic Arch",
+      "url": "https://geometor.github.io/fundamentals/topics/f-24/",
+      "description": "Pointed Vesica Arch in a Square and Tangency Equations for the Inscribed Oculus Circle",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-24.svg",
+      "image_alt": "F.24 Gothic Arch",
+      "facets": {
+        "tags": [
+          "gothic",
+          "vesica",
+          "equilateral",
+          "circles",
+          "architecture"
+        ],
+        "categories": [
+          "Special Triangles & Sacred Proportions"
+        ]
+      },
+      "labels": [
+        "f-24"
+      ]
+    },
+    "topics/f-25/code": {
+      "id": "topics/f-25/code",
+      "docname": "topics/f-25/code",
+      "type": "article",
+      "title": "F.25 Harmonic Conjugates — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-25/code.html",
+      "description": "Collinear points C and D divide segment AB (of midpoint M and half-length r) internally and externally in the same ratio k = |AC|/|BC| = |AD|/|BD| if and only if |MC||MD| = r^2, which occurs if and only if the circle on diameter AB and…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-25.svg",
+      "image_alt": "F.25 Harmonic Conjugates — Code"
+    },
+    "topics/f-25/folios": {
+      "id": "topics/f-25/folios",
+      "docname": "topics/f-25/folios",
+      "type": "article",
+      "title": "F.25 Harmonic Conjugates — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-25/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.25 (Harmonic Conjugates) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0140.jpg",
+      "image_alt": "F.25 Harmonic Conjugates — Folios"
+    },
+    "topics/f-25/index": {
+      "id": "topics/f-25/index",
+      "docname": "topics/f-25/index",
+      "type": "topic",
+      "title": "F.25 Harmonic Conjugates",
+      "url": "https://geometor.github.io/fundamentals/topics/f-25/",
+      "description": "Orthogonal Circles, Ogilvy’s Theorem, Dual Relations, and the Pi_+/Pi_- Symmetry Master Diagram",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-25.svg",
+      "image_alt": "F.25 Harmonic Conjugates",
+      "facets": {
+        "tags": [
+          "harmonic-conjugates",
+          "orthogonal-circles",
+          "apollonius",
+          "duality",
+          "ogilvy"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-25"
+      ]
+    },
+    "topics/f-26/code": {
+      "id": "topics/f-26/code",
+      "docname": "topics/f-26/code",
+      "type": "article",
+      "title": "F.26 Harmonic Conjugate Inversion — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-26/code.html",
+      "description": "For a circle Gamma of center M and radius r on diameter AB, internal point C at x = |MC| and its harmonic conjugate D at y = |MD| are inverses satisfying xy = r^2, while the tangent DT = T forms a parallelogram M D M_T T whose long…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-26.svg",
+      "image_alt": "F.26 Harmonic Conjugate Inversion — Code"
+    },
+    "topics/f-26/folios": {
+      "id": "topics/f-26/folios",
+      "docname": "topics/f-26/folios",
+      "type": "article",
+      "title": "F.26 Harmonic Conjugate Inversion — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-26/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.26 (Harmonic Conjugate Inversion) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0168.jpg",
+      "image_alt": "F.26 Harmonic Conjugate Inversion — Folios"
+    },
+    "topics/f-26/index": {
+      "id": "topics/f-26/index",
+      "docname": "topics/f-26/index",
+      "type": "topic",
+      "title": "F.26 Harmonic Conjugate Inversion",
+      "url": "https://geometor.github.io/fundamentals/topics/f-26/",
+      "description": "Inversion xy = r^2, Steiner’s Power of a Point, the Important Parallelogram MDM_TT, and Diophantine Triples",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-26.svg",
+      "image_alt": "F.26 Harmonic Conjugate Inversion",
+      "facets": {
+        "tags": [
+          "inversion",
+          "harmonic-conjugates",
+          "power-of-a-point",
+          "steiner",
+          "diophantine"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-26"
+      ]
+    },
+    "topics/f-27/code": {
+      "id": "topics/f-27/code",
+      "docname": "topics/f-27/code",
+      "type": "article",
+      "title": "F.27 Harmonic Mean — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-27/code.html",
+      "description": "If C and D are harmonic conjugates with respect to segment AB (so |AC|/|CB| = |AD|/|BD|), then the length |CD| is the harmonic mean of |BD| and |AD|: |CD| = 2 |BD| |AD| / (|BD| + |AD|) = r (gamma + 1/gamma).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-27.svg",
+      "image_alt": "F.27 Harmonic Mean — Code"
+    },
+    "topics/f-27/folios": {
+      "id": "topics/f-27/folios",
+      "docname": "topics/f-27/folios",
+      "type": "article",
+      "title": "F.27 Harmonic Mean — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-27/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.27 (Harmonic Mean) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0183.jpg",
+      "image_alt": "F.27 Harmonic Mean — Folios"
+    },
+    "topics/f-27/index": {
+      "id": "topics/f-27/index",
+      "docname": "topics/f-27/index",
+      "type": "topic",
+      "title": "F.27 Harmonic Mean",
+      "url": "https://geometor.github.io/fundamentals/topics/f-27/",
+      "description": "Compass Construction of the Harmonic Mean, Prime-Number Harmonic Ranges, and the Bilinear Lens",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-27.svg",
+      "image_alt": "F.27 Harmonic Mean",
+      "facets": {
+        "tags": [
+          "harmonic-mean",
+          "geometric-mean",
+          "euclid-vi-3",
+          "primes",
+          "bilinear"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-27"
+      ]
+    },
+    "topics/f-28/code": {
+      "id": "topics/f-28/code",
+      "docname": "topics/f-28/code",
+      "type": "article",
+      "title": "F.28 Incenter — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-28/code.html",
+      "description": "The three interior angle bisectors of triangle ABC concur at the incenter I = X(1) with homogeneous barycentric coordinates a : b : c, inradius r = K/s satisfying 1/r = 1/h_a + 1/h_b + 1/h_c, and Euler’s distance d_{IO}^2 = R(R - 2r).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-28.svg",
+      "image_alt": "F.28 Incenter — Code"
+    },
+    "topics/f-28/folios": {
+      "id": "topics/f-28/folios",
+      "docname": "topics/f-28/folios",
+      "type": "article",
+      "title": "F.28 Incenter — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-28/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.28 (Incenter) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0202.jpg",
+      "image_alt": "F.28 Incenter — Folios"
+    },
+    "topics/f-28/index": {
+      "id": "topics/f-28/index",
+      "docname": "topics/f-28/index",
+      "type": "topic",
+      "title": "F.28 Incenter",
+      "url": "https://geometor.github.io/fundamentals/topics/f-28/",
+      "description": "Concurrency of Angle Bisectors, Barycentric Coordinates a:b:c, Contact Vectors, and Incenter-Origin Shift",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-28.svg",
+      "image_alt": "F.28 Incenter",
+      "facets": {
+        "tags": [
+          "incenter",
+          "incircle",
+          "inradius",
+          "euler-formula",
+          "barycentric"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Lines"
+        ]
+      },
+      "labels": [
+        "f-28"
+      ]
+    },
+    "topics/f-29/code": {
+      "id": "topics/f-29/code",
+      "docname": "topics/f-29/code",
+      "type": "article",
+      "title": "F.29 Inradius — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-29/code.html",
+      "description": "The inradius r = K / s = (1/2) sqrt(((b+c-a)(c+a-b)(a+b-c))/(a+b+c)) = 4 R sin(alpha/2) sin(beta/2) sin(gamma/2) takes integer values on primitive Pythagorean triples and partitions the perimeter into Conway segments x, y, z whose…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-29.svg",
+      "image_alt": "F.29 Inradius — Code"
+    },
+    "topics/f-29/folios": {
+      "id": "topics/f-29/folios",
+      "docname": "topics/f-29/folios",
+      "type": "article",
+      "title": "F.29 Inradius — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-29/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.29 (Inradius) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0207.jpg",
+      "image_alt": "F.29 Inradius — Folios"
+    },
+    "topics/f-29/index": {
+      "id": "topics/f-29/index",
+      "docname": "topics/f-29/index",
+      "type": "topic",
+      "title": "F.29 Inradius",
+      "url": "https://geometor.github.io/fundamentals/topics/f-29/",
+      "description": "Special Inradius Values, Conway Intouch Segments, and the Gergonne Point",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-29.svg",
+      "image_alt": "F.29 Inradius",
+      "facets": {
+        "tags": [
+          "inradius",
+          "incircle",
+          "conway",
+          "gergonne",
+          "heron"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Circles"
+        ]
+      },
+      "labels": [
+        "f-29"
+      ]
+    },
+    "topics/f-30/code": {
+      "id": "topics/f-30/code",
+      "docname": "topics/f-30/code",
+      "type": "article",
+      "title": "F.30 Isosceles Triangles — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-30/code.html",
+      "description": "An isosceles triangle of given semiperimeter s and area K has half-base x = c/2 governed by the cubic 2 s x^3 - s^2 x^2 + K^2 = 0, which under x = y + s/6 reduces to Cardano’s depressed cubic y^3 - (s^2/12) y - (s^3/54 - K^2/(2s)) = 0.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-30.svg",
+      "image_alt": "F.30 Isosceles Triangles — Code"
+    },
+    "topics/f-30/folios": {
+      "id": "topics/f-30/folios",
+      "docname": "topics/f-30/folios",
+      "type": "article",
+      "title": "F.30 Isosceles Triangles — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-30/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.30 (Isosceles Triangles) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0210.jpg",
+      "image_alt": "F.30 Isosceles Triangles — Folios"
+    },
+    "topics/f-30/index": {
+      "id": "topics/f-30/index",
+      "docname": "topics/f-30/index",
+      "type": "topic",
+      "title": "F.30 Isosceles Triangles",
+      "url": "https://geometor.github.io/fundamentals/topics/f-30/",
+      "description": "Perimeter-Area Cubic, Cardano’s Depressed Cubic, and Newton’s Right-Triangle Formula",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-30.svg",
+      "image_alt": "F.30 Isosceles Triangles",
+      "facets": {
+        "tags": [
+          "isosceles",
+          "cubic",
+          "cardano",
+          "newton",
+          "heron"
+        ],
+        "categories": [
+          "Polygons",
+          "Tessellations & Special Triangles"
+        ]
+      },
+      "labels": [
+        "f-30"
+      ]
+    },
+    "topics/f-31/code": {
+      "id": "topics/f-31/code",
+      "docname": "topics/f-31/code",
+      "type": "article",
+      "title": "F.31 Logic Tests — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-31/code.html",
+      "description": "Given collinear points A, B, C, the three Boolean inequality tests T_1 = (|CA| < |AB|), T_2 = (|CB| < |AB|), and T_3 = (|CA| < |CB|) uniquely partition the line AB into Region A (-1 < k < 0), interior segment AB (0 < k < infty), and…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-31.svg",
+      "image_alt": "F.31 Logic Tests — Code"
+    },
+    "topics/f-31/folios": {
+      "id": "topics/f-31/folios",
+      "docname": "topics/f-31/folios",
+      "type": "article",
+      "title": "F.31 Logic Tests — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-31/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.31 (Logic Tests) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0215.jpg",
+      "image_alt": "F.31 Logic Tests — Folios"
+    },
+    "topics/f-31/index": {
+      "id": "topics/f-31/index",
+      "docname": "topics/f-31/index",
+      "type": "topic",
+      "title": "F.31 Logic Tests",
+      "url": "https://geometor.github.io/fundamentals/topics/f-31/",
+      "description": "Boolean Distance Inequality Triples and Signed Collinear Division Ratios",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-31.svg",
+      "image_alt": "F.31 Logic Tests",
+      "facets": {
+        "tags": [
+          "boolean",
+          "logic",
+          "collinear",
+          "harmonic",
+          "spreadsheet"
+        ],
+        "categories": [
+          "Algebraic & Coordinate Systems"
+        ]
+      },
+      "labels": [
+        "f-31"
+      ]
+    },
+    "topics/f-32/code": {
+      "id": "topics/f-32/code",
+      "docname": "topics/f-32/code",
+      "type": "article",
+      "title": "F.32 Markowski’s Theorem — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-32/code.html",
+      "description": "If J, K, L denote the perpendicular sagittas from the side midpoints of triangle ABC to the circumcircle, Markowski’s Theorem states J K L = (1/2) r^2 R = (R^2 - d_IO^2)^2 / (8 R).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-32.svg",
+      "image_alt": "F.32 Markowski’s Theorem — Code"
+    },
+    "topics/f-32/folios": {
+      "id": "topics/f-32/folios",
+      "docname": "topics/f-32/folios",
+      "type": "article",
+      "title": "F.32 Markowski’s Theorem — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-32/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.32 (Markowski’s Theorem) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0221.jpg",
+      "image_alt": "F.32 Markowski’s Theorem — Folios"
+    },
+    "topics/f-32/index": {
+      "id": "topics/f-32/index",
+      "docname": "topics/f-32/index",
+      "type": "topic",
+      "title": "F.32 Markowski’s Theorem",
+      "url": "https://geometor.github.io/fundamentals/topics/f-32/",
+      "description": "Circumcircle Midpoint Sagitta Product, Euler’s Inequality, and Midpoint Inversion",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-32.svg",
+      "image_alt": "F.32 Markowski’s Theorem",
+      "facets": {
+        "tags": [
+          "markowski",
+          "sagitta",
+          "circumcircle",
+          "incircle",
+          "euler"
+        ],
+        "categories": [
+          "Circle Inversion",
+          "Coaxial & Radical Systems"
+        ]
+      },
+      "labels": [
+        "f-32"
+      ]
+    },
+    "topics/f-33/code": {
+      "id": "topics/f-33/code",
+      "docname": "topics/f-33/code",
+      "type": "article",
+      "title": "F.33 Euclidean (m, n) Generators — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-33/code.html",
+      "description": "For integers m > n >= 1, Euclid’s quadratic generators a = m^2 - n^2, b = 2 m n, and c = m^2 + n^2 satisfy a^2 + b^2 = c^2 and inradius r = n(m - n).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-33.svg",
+      "image_alt": "F.33 Euclidean (m, n) Generators — Code"
+    },
+    "topics/f-33/folios": {
+      "id": "topics/f-33/folios",
+      "docname": "topics/f-33/folios",
+      "type": "article",
+      "title": "F.33 Euclidean (m, n) Generators — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-33/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.33 (Euclidean (m, n) Generators) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0223.jpg",
+      "image_alt": "F.33 Euclidean (m, n) Generators — Folios"
+    },
+    "topics/f-33/index": {
+      "id": "topics/f-33/index",
+      "docname": "topics/f-33/index",
+      "type": "topic",
+      "title": "F.33 Euclidean (m, n) Generators",
+      "url": "https://geometor.github.io/fundamentals/topics/f-33/",
+      "description": "Parametric Pythagorean Triple Table for 2 <= m <= 7",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-33.svg",
+      "image_alt": "F.33 Euclidean (m, n) Generators",
+      "facets": {
+        "tags": [
+          "pythagorean-triples",
+          "euclid",
+          "number-theory",
+          "right-triangle"
+        ],
+        "categories": [
+          "Polygons",
+          "Tessellations & Special Triangles"
+        ]
+      },
+      "labels": [
+        "f-33"
+      ]
+    },
+    "topics/f-34/code": {
+      "id": "topics/f-34/code",
+      "docname": "topics/f-34/code",
+      "type": "article",
+      "title": "F.34 Nine-Point Circle — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-34/code.html",
+      "description": "The circle Gamma_N passing through the three altitude feet H_A, H_B, H_C also passes through the three side midpoints M_A, M_B, M_C and the three Euler midpoints; its radius is r_N = R/2 and its center N = X(5) bisects segment OH on the…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-34.svg",
+      "image_alt": "F.34 Nine-Point Circle — Code"
+    },
+    "topics/f-34/folios": {
+      "id": "topics/f-34/folios",
+      "docname": "topics/f-34/folios",
+      "type": "article",
+      "title": "F.34 Nine-Point Circle — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-34/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.34 (Nine-Point Circle) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0224.jpg",
+      "image_alt": "F.34 Nine-Point Circle — Folios"
+    },
+    "topics/f-34/index": {
+      "id": "topics/f-34/index",
+      "docname": "topics/f-34/index",
+      "type": "topic",
+      "title": "F.34 Nine-Point Circle",
+      "url": "https://geometor.github.io/fundamentals/topics/f-34/",
+      "description": "Feuerbach’s Nine-Point Circle, Euler Line Collinearity, and Orthocenter Distance Identities",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-34.svg",
+      "image_alt": "F.34 Nine-Point Circle",
+      "facets": {
+        "tags": [
+          "nine-point-circle",
+          "euler-line",
+          "orthocenter",
+          "circumcenter",
+          "feuerbach"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Circles"
+        ]
+      },
+      "labels": [
+        "f-34"
+      ]
+    },
+    "topics/f-35/code": {
+      "id": "topics/f-35/code",
+      "docname": "topics/f-35/code",
+      "type": "article",
+      "title": "F.35 Obtuse and Acute Triangles — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-35/code.html",
+      "description": "By Euclid’s Elements II.12 (excess) and II.13 (deficit), the square on side a opposite an obtuse or acute angle satisfies a^2 = b^2 + c^2 +/- 2 c x, where x = |a^2 - (b^2 + c^2)| / (2 c) is the projection of side b onto line c and h =…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-35.svg",
+      "image_alt": "F.35 Obtuse and Acute Triangles — Code"
+    },
+    "topics/f-35/folios": {
+      "id": "topics/f-35/folios",
+      "docname": "topics/f-35/folios",
+      "type": "article",
+      "title": "F.35 Obtuse and Acute Triangles — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-35/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.35 (Obtuse and Acute Triangles) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0225.jpg",
+      "image_alt": "F.35 Obtuse and Acute Triangles — Folios"
+    },
+    "topics/f-35/index": {
+      "id": "topics/f-35/index",
+      "docname": "topics/f-35/index",
+      "type": "topic",
+      "title": "F.35 Obtuse and Acute Triangles",
+      "url": "https://geometor.github.io/fundamentals/topics/f-35/",
+      "description": "Euclid’s Excess and Deficit (II.12 & II.13), Altitude-Median Offsets, and Apollonius’s Theorem",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-35.svg",
+      "image_alt": "F.35 Obtuse and Acute Triangles",
+      "facets": {
+        "tags": [
+          "euclid",
+          "obtuse",
+          "acute",
+          "altitude",
+          "median",
+          "cosine-law"
+        ],
+        "categories": [
+          "Polygons",
+          "Tessellations & Special Triangles"
+        ]
+      },
+      "labels": [
+        "f-35"
+      ]
+    },
+    "topics/f-36/code": {
+      "id": "topics/f-36/code",
+      "docname": "topics/f-36/code",
+      "type": "article",
+      "title": "F.36 Orthic Triangle — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-36/code.html",
+      "description": "The orthic triangle H_A H_B H_C formed by the altitude feet of an acute triangle ABC is the pedal triangle of the orthocenter H = X(4), is homothetic to the tangential triangle, has H as its incenter, and solves Fagnano’s 1775 problem by…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-36.svg",
+      "image_alt": "F.36 Orthic Triangle — Code"
+    },
+    "topics/f-36/folios": {
+      "id": "topics/f-36/folios",
+      "docname": "topics/f-36/folios",
+      "type": "article",
+      "title": "F.36 Orthic Triangle — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-36/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.36 (Orthic Triangle) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0232.jpg",
+      "image_alt": "F.36 Orthic Triangle — Folios"
+    },
+    "topics/f-36/index": {
+      "id": "topics/f-36/index",
+      "docname": "topics/f-36/index",
+      "type": "topic",
+      "title": "F.36 Orthic Triangle",
+      "url": "https://geometor.github.io/fundamentals/topics/f-36/",
+      "description": "Pedal Triangle of the Orthocenter, Tangential Homothety, and Fagnano’s Minimum-Perimeter Problem",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-36.svg",
+      "image_alt": "F.36 Orthic Triangle",
+      "facets": {
+        "tags": [
+          "orthic-triangle",
+          "orthocenter",
+          "fagnano",
+          "pedal-triangle",
+          "tangential"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Circles"
+        ]
+      },
+      "labels": [
+        "f-36"
+      ]
+    },
+    "topics/f-37/code": {
+      "id": "topics/f-37/code",
+      "docname": "topics/f-37/code",
+      "type": "article",
+      "title": "F.37 Euler’s Inradius Parabola — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-37/code.html",
+      "description": "For a fixed circumradius R, Euler’s relation d^2 = R^2 - 2 r R defines a downward-opening parabola r(d) = R/2 - d^2/(2R) = (R - d)(R + d)/(2R) with vertex (0, R/2) at the equilateral triangle and roots at the degenerate limits d = +/- R.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-37.svg",
+      "image_alt": "F.37 Euler’s Inradius Parabola — Code"
+    },
+    "topics/f-37/folios": {
+      "id": "topics/f-37/folios",
+      "docname": "topics/f-37/folios",
+      "type": "article",
+      "title": "F.37 Euler’s Inradius Parabola — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-37/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.37 (Euler’s Inradius Parabola) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0233.jpg",
+      "image_alt": "F.37 Euler’s Inradius Parabola — Folios"
+    },
+    "topics/f-37/index": {
+      "id": "topics/f-37/index",
+      "docname": "topics/f-37/index",
+      "type": "topic",
+      "title": "F.37 Euler’s Inradius Parabola",
+      "url": "https://geometor.github.io/fundamentals/topics/f-37/",
+      "description": "Parabolic Locus r(d) = (R^2 - d^2)/(2R) and Harmonic Factorization of Euler’s Identity",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-37.svg",
+      "image_alt": "F.37 Euler’s Inradius Parabola",
+      "facets": {
+        "tags": [
+          "parabola",
+          "euler",
+          "inradius",
+          "circumradius",
+          "harmonic"
+        ],
+        "categories": [
+          "Conics & Analytic Loci"
+        ]
+      },
+      "labels": [
+        "f-37"
+      ]
+    },
+    "topics/f-38/code": {
+      "id": "topics/f-38/code",
+      "docname": "topics/f-38/code",
+      "type": "article",
+      "title": "F.38 Pedal Triangles — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-38/code.html",
+      "description": "The pedal triangle A’B’C’ of a point P(tau_A : tau_B : tau_C) has area Delta(P) = ((R^2 - OP^2)/(4 R^2)) Delta, and its six side-projection segments satisfy Carnot’s alternating square identity AC’^2 + BA’^2 + CB’^2 = C’B^2 + A’C^2 + B’A^2.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-38.svg",
+      "image_alt": "F.38 Pedal Triangles — Code"
+    },
+    "topics/f-38/folios": {
+      "id": "topics/f-38/folios",
+      "docname": "topics/f-38/folios",
+      "type": "article",
+      "title": "F.38 Pedal Triangles — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-38/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.38 (Pedal Triangles) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0236.jpg",
+      "image_alt": "F.38 Pedal Triangles — Folios"
+    },
+    "topics/f-38/index": {
+      "id": "topics/f-38/index",
+      "docname": "topics/f-38/index",
+      "type": "topic",
+      "title": "F.38 Pedal Triangles",
+      "url": "https://geometor.github.io/fundamentals/topics/f-38/",
+      "description": "Trilinear Pedal Side Lengths, Euler’s Pedal Area Theorem, and Carnot’s Perpendicularity Law",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-38.svg",
+      "image_alt": "F.38 Pedal Triangles",
+      "facets": {
+        "tags": [
+          "pedal-triangle",
+          "trilinear",
+          "carnot",
+          "circumcircle",
+          "area"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Circles"
+        ]
+      },
+      "labels": [
+        "f-38"
+      ]
+    },
+    "topics/f-39/code": {
+      "id": "topics/f-39/code",
+      "docname": "topics/f-39/code",
+      "type": "article",
+      "title": "F.39 Pole and Polar with Respect to a Triangle — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-39/code.html",
+      "description": "Given a triangle ABC and a point P with cevian traces A’, B’, C’, the intersections X = BC cap B’C’, Y = CA cap C’A’, and Z = AB cap A’B’ are collinear on the trilinear polar L of the pole P.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-39.svg",
+      "image_alt": "F.39 Pole and Polar with Respect to a Triangle — Code"
+    },
+    "topics/f-39/folios": {
+      "id": "topics/f-39/folios",
+      "docname": "topics/f-39/folios",
+      "type": "article",
+      "title": "F.39 Pole and Polar with Respect to a Triangle — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-39/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.39 (Pole and Polar with Respect to a Triangle) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0238.jpg",
+      "image_alt": "F.39 Pole and Polar with Respect to a Triangle — Folios"
+    },
+    "topics/f-39/index": {
+      "id": "topics/f-39/index",
+      "docname": "topics/f-39/index",
+      "type": "topic",
+      "title": "F.39 Pole and Polar with Respect to a Triangle",
+      "url": "https://geometor.github.io/fundamentals/topics/f-39/",
+      "description": "Trilinear Polar Line, Desargues Perspectivity, and Metric Distance Questions",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-39.svg",
+      "image_alt": "F.39 Pole and Polar with Respect to a Triangle",
+      "facets": {
+        "tags": [
+          "pole-polar",
+          "projective",
+          "trilinear-polar",
+          "desargues",
+          "harmonic"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-39"
+      ]
+    },
+    "topics/f-40/code": {
+      "id": "topics/f-40/code",
+      "docname": "topics/f-40/code",
+      "type": "article",
+      "title": "F.40 Regular Polygons and Nested Radicals — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-40/code.html",
+      "description": "For a regular N-gon inscribed in a unit circle (R = 1), doubling the number of sides maps edge length E_{N/2} to E_N = sqrt(2 - sqrt(4 - E_{N/2}^2)), generating closed-form nested quadratic radicals for the 2^k, 32^k, 52^k, and 152^k…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-40.svg",
+      "image_alt": "F.40 Regular Polygons and Nested Radicals — Code"
+    },
+    "topics/f-40/folios": {
+      "id": "topics/f-40/folios",
+      "docname": "topics/f-40/folios",
+      "type": "article",
+      "title": "F.40 Regular Polygons and Nested Radicals — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-40/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.40 (Regular Polygons and Nested Radicals) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0239.jpg",
+      "image_alt": "F.40 Regular Polygons and Nested Radicals — Folios"
+    },
+    "topics/f-40/index": {
+      "id": "topics/f-40/index",
+      "docname": "topics/f-40/index",
+      "type": "topic",
+      "title": "F.40 Regular Polygons and Nested Radicals",
+      "url": "https://geometor.github.io/fundamentals/topics/f-40/",
+      "description": "Archimedean Edge-Doubling Recursion, Golden Decagon/Pentagon Radicals, and the Pentadecagon",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-40.svg",
+      "image_alt": "F.40 Regular Polygons and Nested Radicals",
+      "facets": {
+        "tags": [
+          "polygons",
+          "pentagon",
+          "decagon",
+          "pentadecagon",
+          "golden-ratio",
+          "radicals"
+        ],
+        "categories": [
+          "Polygons",
+          "Tessellations & Special Triangles"
+        ]
+      },
+      "labels": [
+        "f-40"
+      ]
+    },
+    "topics/f-41/code": {
+      "id": "topics/f-41/code",
+      "docname": "topics/f-41/code",
+      "type": "article",
+      "title": "F.41 Geometric Problems and Extremal Loci — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-41/code.html",
+      "description": "Among all triangles with longest side c = |AB| = 1, the acute locus inside the vesica piscis above the semicircle on AB has area A = int_0^{sqrt(3)} (sqrt(4 - x^2) - 1) dx - pi/4 = (5 pi - 6 sqrt(3))/12 approx 0.44297 (for c = 2), and…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-41.svg",
+      "image_alt": "F.41 Geometric Problems and Extremal Loci — Code"
+    },
+    "topics/f-41/folios": {
+      "id": "topics/f-41/folios",
+      "docname": "topics/f-41/folios",
+      "type": "article",
+      "title": "F.41 Geometric Problems and Extremal Loci — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-41/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.41 (Geometric Problems and Extremal Loci) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0257.jpg",
+      "image_alt": "F.41 Geometric Problems and Extremal Loci — Folios"
+    },
+    "topics/f-41/index": {
+      "id": "topics/f-41/index",
+      "docname": "topics/f-41/index",
+      "type": "topic",
+      "title": "F.41 Geometric Problems and Extremal Loci",
+      "url": "https://geometor.github.io/fundamentals/topics/f-41/",
+      "description": "Maximizing Euler Distance d_IO for Acute Triangles, Monte Carlo Vesica Integration, and 25-Problem Compendium",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-41.svg",
+      "image_alt": "F.41 Geometric Problems and Extremal Loci",
+      "facets": {
+        "tags": [
+          "problems",
+          "monte-carlo",
+          "vesica-piscis",
+          "euler",
+          "acute"
+        ],
+        "categories": [
+          "Polygons",
+          "Tessellations & Special Triangles"
+        ]
+      },
+      "labels": [
+        "f-41"
+      ]
+    },
+    "topics/f-42/code": {
+      "id": "topics/f-42/code",
+      "docname": "topics/f-42/code",
+      "type": "article",
+      "title": "F.42 Altitude of a Pythagorean Triple Triangle — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-42/code.html",
+      "description": "In a right triangle with legs a, b and hypotenuse c, the altitude h_c = a b / c satisfies the Inverse Pythagorean Theorem 1/h_c^2 = 1/a^2 + 1/b^2 and divides the hypotenuse into projections u = b^2/c and y = a^2/c with h_c^2 = u y.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-42.svg",
+      "image_alt": "F.42 Altitude of a Pythagorean Triple Triangle — Code"
+    },
+    "topics/f-42/folios": {
+      "id": "topics/f-42/folios",
+      "docname": "topics/f-42/folios",
+      "type": "article",
+      "title": "F.42 Altitude of a Pythagorean Triple Triangle — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-42/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.42 (Altitude of a Pythagorean Triple Triangle) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0267.jpg",
+      "image_alt": "F.42 Altitude of a Pythagorean Triple Triangle — Folios"
+    },
+    "topics/f-42/index": {
+      "id": "topics/f-42/index",
+      "docname": "topics/f-42/index",
+      "type": "topic",
+      "title": "F.42 Altitude of a Pythagorean Triple Triangle",
+      "url": "https://geometor.github.io/fundamentals/topics/f-42/",
+      "description": "Inverse Pythagorean Theorem, Hypotenuse Projections, and Incircle Touchpoint Distinction",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-42.svg",
+      "image_alt": "F.42 Altitude of a Pythagorean Triple Triangle",
+      "facets": {
+        "tags": [
+          "pythagorean-triples",
+          "altitude",
+          "right-triangle",
+          "euclid",
+          "harmonic"
+        ],
+        "categories": [
+          "Polygons",
+          "Tessellations & Special Triangles"
+        ]
+      },
+      "labels": [
+        "f-42"
+      ]
+    },
+    "topics/f-43/code": {
+      "id": "topics/f-43/code",
+      "docname": "topics/f-43/code",
+      "type": "article",
+      "title": "F.43 Radical Axes and Radical Center — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-43/code.html",
+      "description": "The radical axis of two circles of radii r_1, r_2 with center separation d cuts the line of centers at x = d/2 + (r_1^2 - r_2^2)/(2 d) from O_1, and the three radical axes of the vertex-altitude circles Gamma_A(h_A), Gamma_B(h_B)…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-43.svg",
+      "image_alt": "F.43 Radical Axes and Radical Center — Code"
+    },
+    "topics/f-43/folios": {
+      "id": "topics/f-43/folios",
+      "docname": "topics/f-43/folios",
+      "type": "article",
+      "title": "F.43 Radical Axes and Radical Center — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-43/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.43 (Radical Axes and Radical Center) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0271.jpg",
+      "image_alt": "F.43 Radical Axes and Radical Center — Folios"
+    },
+    "topics/f-43/index": {
+      "id": "topics/f-43/index",
+      "docname": "topics/f-43/index",
+      "type": "topic",
+      "title": "F.43 Radical Axes and Radical Center",
+      "url": "https://geometor.github.io/fundamentals/topics/f-43/",
+      "description": "Two-Circle Radical Division, Vertex-Altitude Circle Radical Center, and Circular Lens Regimes",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-43.svg",
+      "image_alt": "F.43 Radical Axes and Radical Center",
+      "facets": {
+        "tags": [
+          "radical-axis",
+          "radical-center",
+          "coaxial",
+          "altitude",
+          "circles"
+        ],
+        "categories": [
+          "Circle Inversion",
+          "Coaxial & Radical Systems"
+        ]
+      },
+      "labels": [
+        "f-43"
+      ]
+    },
+    "topics/f-44/code": {
+      "id": "topics/f-44/code",
+      "docname": "topics/f-44/code",
+      "type": "article",
+      "title": "F.44 Homothetic Ratios and Crossed Diagonals — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-44/code.html",
+      "description": "Given two parallel uprights of heights h_1 < h_2 separated by horizontal distance d and viewed from their external center of similitude O, the crossed diagonals meet at horizontal distance x = d h_1 / (h_1 + h_2) from the first upright…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-44.svg",
+      "image_alt": "F.44 Homothetic Ratios and Crossed Diagonals — Code"
+    },
+    "topics/f-44/folios": {
+      "id": "topics/f-44/folios",
+      "docname": "topics/f-44/folios",
+      "type": "article",
+      "title": "F.44 Homothetic Ratios and Crossed Diagonals — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-44/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.44 (Homothetic Ratios and Crossed Diagonals) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0282.jpg",
+      "image_alt": "F.44 Homothetic Ratios and Crossed Diagonals — Folios"
+    },
+    "topics/f-44/index": {
+      "id": "topics/f-44/index",
+      "docname": "topics/f-44/index",
+      "type": "topic",
+      "title": "F.44 Homothetic Ratios and Crossed Diagonals",
+      "url": "https://geometor.github.io/fundamentals/topics/f-44/",
+      "description": "Internal and External Division of Parallel Uprights from a Center of Similitude",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-44.svg",
+      "image_alt": "F.44 Homothetic Ratios and Crossed Diagonals",
+      "facets": {
+        "tags": [
+          "ratios",
+          "similitude",
+          "homothety",
+          "harmonic",
+          "crossed-ladders"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-44"
+      ]
+    },
+    "topics/f-45/code": {
+      "id": "topics/f-45/code",
+      "docname": "topics/f-45/code",
+      "type": "article",
+      "title": "F.45 Squares, Subdivided Lattices, and the Japanese Theorem — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-45/code.html",
+      "description": "A square inscribed in a circle of radius R has side s = sqrt(2) R; inside a square of side s, intersecting cevians divide the interior in exact rational proportions, and by Carnot’s Theorem the sum of inradii in any triangulation of a…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-45.svg",
+      "image_alt": "F.45 Squares, Subdivided Lattices, and the Japanese Theorem — Code"
+    },
+    "topics/f-45/folios": {
+      "id": "topics/f-45/folios",
+      "docname": "topics/f-45/folios",
+      "type": "article",
+      "title": "F.45 Squares, Subdivided Lattices, and the Japanese Theorem — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-45/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.45 (Squares, Subdivided Lattices, and the Japanese Theorem) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0287.jpg",
+      "image_alt": "F.45 Squares, Subdivided Lattices, and the Japanese Theorem — Folios"
+    },
+    "topics/f-45/index": {
+      "id": "topics/f-45/index",
+      "docname": "topics/f-45/index",
+      "type": "topic",
+      "title": "F.45 Squares, Subdivided Lattices, and the Japanese Theorem",
+      "url": "https://geometor.github.io/fundamentals/topics/f-45/",
+      "description": "Inscribed Squares, Cevians Inside a Square, Equilateral Subdivisions, and Carnot’s Theorem",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-45.svg",
+      "image_alt": "F.45 Squares, Subdivided Lattices, and the Japanese Theorem",
+      "facets": {
+        "tags": [
+          "squares",
+          "polygons",
+          "carnot",
+          "japanese-theorem",
+          "equilateral"
+        ],
+        "categories": [
+          "Polygons",
+          "Tessellations & Special Triangles"
+        ]
+      },
+      "labels": [
+        "f-45"
+      ]
+    },
+    "topics/f-46/code": {
+      "id": "topics/f-46/code",
+      "docname": "topics/f-46/code",
+      "type": "article",
+      "title": "F.46 Stewart’s Theorem — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-46/code.html",
+      "description": "If a cevian of length f from C divides base c = AB into segments k’ c and k c (with k + k’ = 1), Stewart’s Theorem states f^2 = k a^2 + k’ b^2 - k k’ c^2; at the midpoint k = k’ = 1/2, this yields Apollonius’s median formula f^2 =…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-46.svg",
+      "image_alt": "F.46 Stewart’s Theorem — Code"
+    },
+    "topics/f-46/folios": {
+      "id": "topics/f-46/folios",
+      "docname": "topics/f-46/folios",
+      "type": "article",
+      "title": "F.46 Stewart’s Theorem — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-46/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.46 (Stewart’s Theorem) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0293.jpg",
+      "image_alt": "F.46 Stewart’s Theorem — Folios"
+    },
+    "topics/f-46/index": {
+      "id": "topics/f-46/index",
+      "docname": "topics/f-46/index",
+      "type": "topic",
+      "title": "F.46 Stewart’s Theorem",
+      "url": "https://geometor.github.io/fundamentals/topics/f-46/",
+      "description": "Cevian Length Identity f^2 = k a^2 + k’ b^2 - k k’ c^2 and Apollonius’s Median Formula",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-46.svg",
+      "image_alt": "F.46 Stewart’s Theorem",
+      "facets": {
+        "tags": [
+          "stewart",
+          "apollonius",
+          "cevian",
+          "median",
+          "cosine-law"
+        ],
+        "categories": [
+          "Projective & Harmonic Geometry"
+        ]
+      },
+      "labels": [
+        "f-46"
+      ]
+    },
+    "topics/f-47/code": {
+      "id": "topics/f-47/code",
+      "docname": "topics/f-47/code",
+      "type": "article",
+      "title": "F.47 The UVW Coordinate Triangle — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-47/code.html",
+      "description": "Placing the altitude foot H_C at the origin (0, 0) with A = (-U, 0), B = (W, 0), and C = (0, V) parameterizes any triangle by three numbers (U, V, W) with a = sqrt(V^2 + W^2), b = sqrt(U^2 + V^2), c = U + W, and reduces the cevian traces…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-47.svg",
+      "image_alt": "F.47 The UVW Coordinate Triangle — Code"
+    },
+    "topics/f-47/folios": {
+      "id": "topics/f-47/folios",
+      "docname": "topics/f-47/folios",
+      "type": "article",
+      "title": "F.47 The UVW Coordinate Triangle — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-47/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.47 (The UVW Coordinate Triangle) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0295.jpg",
+      "image_alt": "F.47 The UVW Coordinate Triangle — Folios"
+    },
+    "topics/f-47/index": {
+      "id": "topics/f-47/index",
+      "docname": "topics/f-47/index",
+      "type": "topic",
+      "title": "F.47 The UVW Coordinate Triangle",
+      "url": "https://geometor.github.io/fundamentals/topics/f-47/",
+      "description": "Altitude-Origin Cartesian Frame A(-U,0), B(W,0), C(0,V) and 2x2 Cevian Trace Matrices",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-47.svg",
+      "image_alt": "F.47 The UVW Coordinate Triangle",
+      "facets": {
+        "tags": [
+          "coordinates",
+          "cevian",
+          "heronian",
+          "matrices",
+          "ceva"
+        ],
+        "categories": [
+          "Algebraic & Coordinate Systems"
+        ]
+      },
+      "labels": [
+        "f-47"
+      ]
+    },
+    "topics/f-48/code": {
+      "id": "topics/f-48/code",
+      "docname": "topics/f-48/code",
+      "type": "article",
+      "title": "F.48 Verisimilitude, Corner Subtriangles, and Excircle Homothety — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-48/code.html",
+      "description": "If lines parallel to the sides of triangle ABC are drawn tangent to the incircle, the three corner subtriangles are homothetic to ABC with scale factors x/s, y/s, z/s (where x = s - a, y = s - b, z = s - c), so their inradii satisfy r_A +…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-48.svg",
+      "image_alt": "F.48 Verisimilitude, Corner Subtriangles, and Excircle Homothety — Code"
+    },
+    "topics/f-48/folios": {
+      "id": "topics/f-48/folios",
+      "docname": "topics/f-48/folios",
+      "type": "article",
+      "title": "F.48 Verisimilitude, Corner Subtriangles, and Excircle Homothety — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-48/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.48 (Verisimilitude, Corner Subtriangles, and Excircle Homothety) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0306.jpg",
+      "image_alt": "F.48 Verisimilitude, Corner Subtriangles, and Excircle Homothety — Folios"
+    },
+    "topics/f-48/index": {
+      "id": "topics/f-48/index",
+      "docname": "topics/f-48/index",
+      "type": "topic",
+      "title": "F.48 Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+      "url": "https://geometor.github.io/fundamentals/topics/f-48/",
+      "description": "Incircle Tangent Subtriangles (r_A + r_B + r_C = r), Excircle Similitude, and Cevian Bounds",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-48.svg",
+      "image_alt": "F.48 Verisimilitude, Corner Subtriangles, and Excircle Homothety",
+      "facets": {
+        "tags": [
+          "similitude",
+          "incircle",
+          "excircle",
+          "homothety",
+          "stewart"
+        ],
+        "categories": [
+          "Circle Inversion",
+          "Coaxial & Radical Systems"
+        ]
+      },
+      "labels": [
+        "f-48"
+      ]
+    },
+    "topics/f-49/code": {
+      "id": "topics/f-49/code",
+      "docname": "topics/f-49/code",
+      "type": "article",
+      "title": "F.49 Vesica Piscis and Acute-Obtuse Probability — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-49/code.html",
+      "description": "When segment AB of length c is the longest side of triangle ABC, vertex C lies inside the vesica piscis of area c^2 (4 pi - 3 sqrt(3))/6; the semicircle of diameter AB partitions each quadrant of area c^2 (4 pi - 3 sqrt(3))/24 into an…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-49.svg",
+      "image_alt": "F.49 Vesica Piscis and Acute-Obtuse Probability — Code"
+    },
+    "topics/f-49/folios": {
+      "id": "topics/f-49/folios",
+      "docname": "topics/f-49/folios",
+      "type": "article",
+      "title": "F.49 Vesica Piscis and Acute-Obtuse Probability — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-49/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.49 (Vesica Piscis and Acute-Obtuse Probability) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0315.jpg",
+      "image_alt": "F.49 Vesica Piscis and Acute-Obtuse Probability — Folios"
+    },
+    "topics/f-49/index": {
+      "id": "topics/f-49/index",
+      "docname": "topics/f-49/index",
+      "type": "topic",
+      "title": "F.49 Vesica Piscis and Acute-Obtuse Probability",
+      "url": "https://geometor.github.io/fundamentals/topics/f-49/",
+      "description": "Locus of Longest-Side Triangles, Semicircle Partition, and Exact Area Ratio 3 pi / (5 pi - 6 sqrt(3))",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-49.svg",
+      "image_alt": "F.49 Vesica Piscis and Acute-Obtuse Probability",
+      "facets": {
+        "tags": [
+          "vesica-piscis",
+          "euclid",
+          "acute",
+          "obtuse",
+          "monte-carlo",
+          "probability"
+        ],
+        "categories": [
+          "Polygons",
+          "Tessellations & Special Triangles"
+        ]
+      },
+      "labels": [
+        "f-49"
+      ]
+    },
+    "topics/f-50/code": {
+      "id": "topics/f-50/code",
+      "docname": "topics/f-50/code",
+      "type": "article",
+      "title": "F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-50/code.html",
+      "description": "Given the three altitudes h_A, h_B, h_C of triangle ABC with reciprocal semiperimeter H = (h_A^{-1} + h_B^{-1} + h_C^{-1})/2, Mitchell’s reciprocal Heron formula states K^{-1} = 4 sqrt(H (H - h_A^{-1})(H - h_B^{-1})(H - h_C^{-1})), and a…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-50.svg",
+      "image_alt": "F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem — Code"
+    },
+    "topics/f-50/folios": {
+      "id": "topics/f-50/folios",
+      "docname": "topics/f-50/folios",
+      "type": "article",
+      "title": "F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-50/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.50 (Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0318.jpg",
+      "image_alt": "F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem — Folios"
+    },
+    "topics/f-50/index": {
+      "id": "topics/f-50/index",
+      "docname": "topics/f-50/index",
+      "type": "topic",
+      "title": "F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem",
+      "url": "https://geometor.github.io/fundamentals/topics/f-50/",
+      "description": "The Sweet Theorem (h = ab/c), Reciprocal Altitude Area Formula, and Six Orthocenter Identities",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-50.svg",
+      "image_alt": "F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem",
+      "facets": {
+        "tags": [
+          "altitude",
+          "orthocenter",
+          "heron",
+          "symphonic",
+          "conway"
+        ],
+        "categories": [
+          "Triangle Centers & Classical Circles"
+        ]
+      },
+      "labels": [
+        "f-50"
+      ]
+    },
+    "topics/f-51/code": {
+      "id": "topics/f-51/code",
+      "docname": "topics/f-51/code",
+      "type": "article",
+      "title": "F.51 Apollonian Circles and the Problem of Apollonius — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-51/code.html",
+      "description": "The locus of points P with distance ratio |PA| / |PB| = k > 1 (where |AB| = d) is the Apollonian circle of radius R = d k / (k^2 - 1) centered at distance M’ = d / (k^2 - 1) beyond B, cutting line AB at the internal and external harmonic…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-51.svg",
+      "image_alt": "F.51 Apollonian Circles and the Problem of Apollonius — Code"
+    },
+    "topics/f-51/folios": {
+      "id": "topics/f-51/folios",
+      "docname": "topics/f-51/folios",
+      "type": "article",
+      "title": "F.51 Apollonian Circles and the Problem of Apollonius — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-51/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.51 (Apollonian Circles and the Problem of Apollonius) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0322.jpg",
+      "image_alt": "F.51 Apollonian Circles and the Problem of Apollonius — Folios"
+    },
+    "topics/f-51/index": {
+      "id": "topics/f-51/index",
+      "docname": "topics/f-51/index",
+      "type": "topic",
+      "title": "F.51 Apollonian Circles and the Problem of Apollonius",
+      "url": "https://geometor.github.io/fundamentals/topics/f-51/",
+      "description": "Locus |PA|/|PB| = k, Integer Mean Triples, Power of a Point, and Dörrie’s 8-Circle Tangency Table",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-51.svg",
+      "image_alt": "F.51 Apollonian Circles and the Problem of Apollonius",
+      "facets": {
+        "tags": [
+          "apollonius",
+          "apollonian-circles",
+          "harmonic",
+          "inversion",
+          "coaxial"
+        ],
+        "categories": [
+          "Circle Inversion",
+          "Coaxial & Radical Systems"
+        ]
+      },
+      "labels": [
+        "f-51"
+      ]
+    },
+    "topics/f-52/code": {
+      "id": "topics/f-52/code",
+      "docname": "topics/f-52/code",
+      "type": "article",
+      "title": "F.52 Homogeneous Barycentric Coordinates — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-52/code.html",
+      "description": "Every triangle center X(n) has homogeneous barycentric coordinates (u : v : w) normalizable to absolute weights lambda_A + lambda_B + lambda_C = 1 such that X = lambda_A A + lambda_B B + lambda_C C; for the nine-point center N = X(5)…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-52.svg",
+      "image_alt": "F.52 Homogeneous Barycentric Coordinates — Code"
+    },
+    "topics/f-52/folios": {
+      "id": "topics/f-52/folios",
+      "docname": "topics/f-52/folios",
+      "type": "article",
+      "title": "F.52 Homogeneous Barycentric Coordinates — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-52/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.52 (Homogeneous Barycentric Coordinates) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0331.jpg",
+      "image_alt": "F.52 Homogeneous Barycentric Coordinates — Folios"
+    },
+    "topics/f-52/index": {
+      "id": "topics/f-52/index",
+      "docname": "topics/f-52/index",
+      "type": "topic",
+      "title": "F.52 Homogeneous Barycentric Coordinates",
+      "url": "https://geometor.github.io/fundamentals/topics/f-52/",
+      "description": "Classical Center Catalog X(1)–X(8), Sidelength Polynomials for X(5), and 5-6-7 Evaluations",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-52.svg",
+      "image_alt": "F.52 Homogeneous Barycentric Coordinates",
+      "facets": {
+        "tags": [
+          "barycentric",
+          "triangle-centers",
+          "etc",
+          "nine-point-circle",
+          "conway"
+        ],
+        "categories": [
+          "Algebraic & Coordinate Systems"
+        ]
+      },
+      "labels": [
+        "f-52"
+      ]
+    },
+    "topics/f-53/code": {
+      "id": "topics/f-53/code",
+      "docname": "topics/f-53/code",
+      "type": "article",
+      "title": "F.53 Geometric Half-Angle Trigonometry — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-53/code.html",
+      "description": "In a unit semicircle of radius R = 1 and diameter AB = 2, a point P at central angle theta has altitude sin(theta), base projections 1 + cos(theta) and 1 - cos(theta), and chord |AP| = 2 cos(theta/2) = sqrt(2 + 2 cos(theta)), giving…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-53.svg",
+      "image_alt": "F.53 Geometric Half-Angle Trigonometry — Code"
+    },
+    "topics/f-53/folios": {
+      "id": "topics/f-53/folios",
+      "docname": "topics/f-53/folios",
+      "type": "article",
+      "title": "F.53 Geometric Half-Angle Trigonometry — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-53/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.53 (Geometric Half-Angle Trigonometry) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0346.jpg",
+      "image_alt": "F.53 Geometric Half-Angle Trigonometry — Folios"
+    },
+    "topics/f-53/index": {
+      "id": "topics/f-53/index",
+      "docname": "topics/f-53/index",
+      "type": "topic",
+      "title": "F.53 Geometric Half-Angle Trigonometry",
+      "url": "https://geometor.github.io/fundamentals/topics/f-53/",
+      "description": "Unit Semicircle Chord Proof of cos^2(theta/2) and sin^2(theta/2)",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-53.svg",
+      "image_alt": "F.53 Geometric Half-Angle Trigonometry",
+      "facets": {
+        "tags": [
+          "trigonometry",
+          "half-angle",
+          "semicircle",
+          "thales",
+          "pythagoras"
+        ],
+        "categories": [
+          "Algebraic & Coordinate Systems"
+        ]
+      },
+      "labels": [
+        "f-53"
+      ]
+    },
+    "topics/f-54/code": {
+      "id": "topics/f-54/code",
+      "docname": "topics/f-54/code",
+      "type": "article",
+      "title": "F.54 HP-35s Triangle Program and Coordinate Scripts — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-54/code.html",
+      "description": "In the canonical frame A = (0, 0), B = (M, 0), C = (I, J), the forward and inverse barycentric-Cartesian transformations BARY 2 CAR and CAR 2 BARY are given by P = M U + I V, Q = J V and V = Q / J, U = (P - I V) / M, T = 1 - (U + V).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-54.svg",
+      "image_alt": "F.54 HP-35s Triangle Program and Coordinate Scripts — Code"
+    },
+    "topics/f-54/folios": {
+      "id": "topics/f-54/folios",
+      "docname": "topics/f-54/folios",
+      "type": "article",
+      "title": "F.54 HP-35s Triangle Program and Coordinate Scripts — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-54/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.54 (HP-35s Triangle Program and Coordinate Scripts) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0347.jpg",
+      "image_alt": "F.54 HP-35s Triangle Program and Coordinate Scripts — Folios"
+    },
+    "topics/f-54/index": {
+      "id": "topics/f-54/index",
+      "docname": "topics/f-54/index",
+      "type": "topic",
+      "title": "F.54 HP-35s Triangle Program and Coordinate Scripts",
+      "url": "https://geometor.github.io/fundamentals/topics/f-54/",
+      "description": "BARY 2 CAR and CAR 2 BARY Matrix Routines, Register Map A–Z, and 5-6-7 Verification",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-54.svg",
+      "image_alt": "F.54 HP-35s Triangle Program and Coordinate Scripts",
+      "facets": {
+        "tags": [
+          "scripts",
+          "hp-35s",
+          "barycentric",
+          "coordinates",
+          "matrices"
+        ],
+        "categories": [
+          "Algebraic & Coordinate Systems"
+        ]
+      },
+      "labels": [
+        "f-54"
+      ]
+    },
+    "topics/f-55/code": {
+      "id": "topics/f-55/code",
+      "docname": "topics/f-55/code",
+      "type": "article",
+      "title": "F.55 Compass Constructions and Angle-to-Side Triangle Reconstruction — Code",
+      "url": "https://geometor.github.io/fundamentals/topics/f-55/code.html",
+      "description": "Given the three interior angles (alpha, beta, gamma) of a triangle normalized to unit area K = 1 (so s = 1/r), the Conway intouch segments x = s - a = r cot(alpha/2), y = s - b = r cot(beta/2), and z = s - c = r cot(gamma/2) determine the…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-55.svg",
+      "image_alt": "F.55 Compass Constructions and Angle-to-Side Triangle Reconstruction — Code"
+    },
+    "topics/f-55/folios": {
+      "id": "topics/f-55/folios",
+      "docname": "topics/f-55/folios",
+      "type": "article",
+      "title": "F.55 Compass Constructions and Angle-to-Side Triangle Reconstruction — Folios",
+      "url": "https://geometor.github.io/fundamentals/topics/f-55/folios.html",
+      "description": "Archival manuscript scans and diplomatic transcriptions from seelig’s notebooks for F.55 (Compass Constructions and Angle-to-Side Triangle Reconstruction) (SeeligNotebooks).",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/0349.jpg",
+      "image_alt": "F.55 Compass Constructions and Angle-to-Side Triangle Reconstruction — Folios"
+    },
+    "topics/f-55/index": {
+      "id": "topics/f-55/index",
+      "docname": "topics/f-55/index",
+      "type": "topic",
+      "title": "F.55 Compass Constructions and Angle-to-Side Triangle Reconstruction",
+      "url": "https://geometor.github.io/fundamentals/topics/f-55/",
+      "description": "Vesica-Square Drawings and Reconstructing (a, b, c) from Interior Angles Under Scale Normalization",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-55.svg",
+      "image_alt": "F.55 Compass Constructions and Angle-to-Side Triangle Reconstruction",
+      "facets": {
+        "tags": [
+          "constructions",
+          "vesica-piscis",
+          "inradius",
+          "conway",
+          "trigonometry"
+        ],
+        "categories": [
+          "Polygons",
+          "Tessellations & Special Triangles"
+        ]
+      },
+      "labels": [
+        "f-55"
+      ]
+    },
+    "topics/index": {
+      "id": "topics/index",
+      "docname": "topics/index",
+      "type": "book",
+      "title": "Fundamentals of Constructive Geometry",
+      "url": "https://geometor.github.io/fundamentals/topics/",
+      "subtitle": "55 Elementary Constructions & Axiomatic Primers (F.1–F.55)",
+      "description": "55 foundational geometric constructions across 353 manuscript folios synthesized into a synchronized 3-track Book Codex.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image": "https://geometor.github.io/fundamentals/_images/f-01.svg",
+      "image_alt": "Fundamentals of Constructive Geometry",
+      "facets": {
+        "author": "Paul Seelig & phi ARCHITECT",
+        "year": "2026",
+        "year_sort": 2026,
+        "year_display": "2026"
+      },
+      "labels": [
+        "topics"
+      ]
+    },
+    "usage/index": {
+      "id": "usage/index",
+      "docname": "usage/index",
+      "type": "section",
+      "title": "Usage",
+      "url": "https://geometor.github.io/fundamentals/usage/",
+      "description": "This archive is built with PHOTON Publish as an interconnected semantic book codex.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/fundamentals/_static/medallion.svg",
+      "image_alt": "Usage",
+      "labels": [
+        "usage"
+      ]
+    }
+  },
+  "labels": {
+    "about": "about/index",
+    "about-index": "about/index",
+    "about-fundamentals": "about/index",
+    "bibliography": "bibliography",
+    "cite-abramowitzstegun1964": "bibliography",
+    "abramowitzstegun1964": "bibliography",
+    "cite-altshillercourt2007": "bibliography",
+    "altshillercourt2007": "bibliography",
+    "cite-baloglouhelfgott2008": "bibliography",
+    "baloglouhelfgott2008": "bibliography",
+    "cite-coxetergreitzer1967": "bibliography",
+    "coxetergreitzer1967": "bibliography",
+    "cite-dorrie1965": "bibliography",
+    "dorrie1965": "bibliography",
+    "cite-euclidelements": "bibliography",
+    "euclidelements": "bibliography",
+    "cite-johnson1929": "bibliography",
+    "johnson1929": "bibliography",
+    "cite-kimberling1998": "bibliography",
+    "kimberling1998": "bibliography",
+    "cite-mitchell2005": "bibliography",
+    "mitchell2005": "bibliography",
+    "cite-ogilvy1969": "bibliography",
+    "ogilvy1969": "bibliography",
+    "cite-posamentier2002": "bibliography",
+    "posamentier2002": "bibliography",
+    "cite-seelignotebooks": "bibliography",
+    "seelignotebooks": "bibliography",
+    "cite-seeligspreadsheets": "bibliography",
+    "seeligspreadsheets": "bibliography",
+    "cite-wells1991": "bibliography",
+    "wells1991": "bibliography",
+    "cite-yiu2001": "bibliography",
+    "yiu2001": "bibliography",
+    "connect": "connect",
+    "glossary": "glossary",
+    "x(1)": "glossary",
+    "x(2)": "glossary",
+    "x(3)": "glossary",
+    "x(4)": "glossary",
+    "x(5)": "glossary",
+    "x(6)": "glossary",
+    "x(7)": "glossary",
+    "x(8)": "glossary",
+    "x(9)": "glossary",
+    "x(11)": "glossary",
+    "x(13)": "glossary",
+    "x(14)": "glossary",
+    "x(15)": "glossary",
+    "x(16)": "glossary",
+    "x(20)": "glossary",
+    "x(26)": "glossary",
+    "x(40)": "glossary",
+    "x(55)": "glossary",
+    "x(56)": "glossary",
+    "person-altshiller-court": "people/altshiller-court",
+    "person-altshiller_court": "people/altshiller-court",
+    "altshiller_court": "people/altshiller-court",
+    "person-apollonius": "people/apollonius",
+    "apollonius": "people/apollonius",
+    "person-carnot": "people/carnot",
+    "carnot": "people/carnot",
+    "person-ceva": "people/ceva",
+    "ceva": "people/ceva",
+    "person-conway": "people/conway",
+    "conway": "people/conway",
+    "person-coxeter": "people/coxeter",
+    "coxeter": "people/coxeter",
+    "person-dalembert": "people/dalembert",
+    "dalembert": "people/dalembert",
+    "person-dorrie": "people/dorrie",
+    "dorrie": "people/dorrie",
+    "person-euclid": "people/euclid",
+    "euclid": "people/euclid",
+    "person-euler": "people/euler",
+    "euler": "people/euler",
+    "person-fagnano": "people/fagnano",
+    "fagnano": "people/fagnano",
+    "person-fermat": "people/fermat",
+    "fermat": "people/fermat",
+    "person-feuerbach": "people/feuerbach",
+    "feuerbach": "people/feuerbach",
+    "person-heron": "people/heron",
+    "heron": "people/heron",
+    "persons": "people/index",
+    "person-kimberling": "people/kimberling",
+    "kimberling": "people/kimberling",
+    "person-markowski": "people/markowski",
+    "markowski": "people/markowski",
+    "person-menelaus": "people/menelaus",
+    "menelaus": "people/menelaus",
+    "person-newton": "people/newton",
+    "newton": "people/newton",
+    "person-ogilvy": "people/ogilvy",
+    "ogilvy": "people/ogilvy",
+    "person-pappus": "people/pappus",
+    "pappus": "people/pappus",
+    "person-phi": "people/phi",
+    "phi": "people/phi",
+    "person-plato": "people/plato",
+    "plato": "people/plato",
+    "person-poncelet": "people/poncelet",
+    "poncelet": "people/poncelet",
+    "person-ptolemy": "people/ptolemy",
+    "ptolemy": "people/ptolemy",
+    "person-pythagoras": "people/pythagoras",
+    "pythagoras": "people/pythagoras",
+    "person-seelig": "people/seelig",
+    "seelig": "people/seelig",
+    "person-steiner": "people/steiner",
+    "steiner": "people/steiner",
+    "person-stewart": "people/stewart",
+    "stewart": "people/stewart",
+    "person-torricelli": "people/torricelli",
+    "torricelli": "people/torricelli",
+    "person-yiu": "people/yiu",
+    "yiu": "people/yiu",
+    "sources": "sources/index",
+    "source-seelig-archive-notebooks": "sources/seelig-archive-notebooks",
+    "spreadsheets": "spreadsheets/index",
+    "f-01": "topics/f-01/index",
+    "f-02": "topics/f-02/index",
+    "f-03": "topics/f-03/index",
+    "f-04": "topics/f-04/index",
+    "f-05": "topics/f-05/index",
+    "f-06": "topics/f-06/index",
+    "f-07": "topics/f-07/index",
+    "f-08": "topics/f-08/index",
+    "f-09": "topics/f-09/index",
+    "f-10": "topics/f-10/index",
+    "f-11": "topics/f-11/index",
+    "f-12": "topics/f-12/index",
+    "f-13": "topics/f-13/index",
+    "f-14": "topics/f-14/index",
+    "f-15": "topics/f-15/index",
+    "f-16": "topics/f-16/index",
+    "f-17": "topics/f-17/index",
+    "f-18": "topics/f-18/index",
+    "f-19": "topics/f-19/index",
+    "f-20": "topics/f-20/index",
+    "f-21": "topics/f-21/index",
+    "f-22": "topics/f-22/index",
+    "f-23": "topics/f-23/index",
+    "f-24": "topics/f-24/index",
+    "f-25": "topics/f-25/index",
+    "f-26": "topics/f-26/index",
+    "f-27": "topics/f-27/index",
+    "f-28": "topics/f-28/index",
+    "f-29": "topics/f-29/index",
+    "f-30": "topics/f-30/index",
+    "f-31": "topics/f-31/index",
+    "f-32": "topics/f-32/index",
+    "f-33": "topics/f-33/index",
+    "f-34": "topics/f-34/index",
+    "f-35": "topics/f-35/index",
+    "f-36": "topics/f-36/index",
+    "f-37": "topics/f-37/index",
+    "f-38": "topics/f-38/index",
+    "f-39": "topics/f-39/index",
+    "f-40": "topics/f-40/index",
+    "f-41": "topics/f-41/index",
+    "f-42": "topics/f-42/index",
+    "f-43": "topics/f-43/index",
+    "f-44": "topics/f-44/index",
+    "f-45": "topics/f-45/index",
+    "f-46": "topics/f-46/index",
+    "f-47": "topics/f-47/index",
+    "f-48": "topics/f-48/index",
+    "f-49": "topics/f-49/index",
+    "f-50": "topics/f-50/index",
+    "f-51": "topics/f-51/index",
+    "f-52": "topics/f-52/index",
+    "f-53": "topics/f-53/index",
+    "f-54": "topics/f-54/index",
+    "f-55": "topics/f-55/index",
+    "topics": "topics/index",
+    "usage": "usage/index"
+  }
+}

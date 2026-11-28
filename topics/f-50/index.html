@@ -11,11 +11,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <link rel="canonical" href="https://geometor.github.io/fundamentals/topics/f-50/" />
-  <meta name="description" content="Given the three altitudes h_A, h_B, h_C of triangle ABC with reciprocal semiperimeter H = (h_A^{-1} + h_B^{-1} + h_C^{-1})/2, Mitchell&#39;s reciprocal Heron formula states K^{-1} = 4 sqrt(H (H …" />
+  <meta name="description" content="The Sweet Theorem (h = ab/c), Reciprocal Altitude Area Formula, and Six Orthocenter Identities" />
   <meta property="og:site_name" content="GEOMETOR" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem — Fundamentals of Constructive Geometry • GEOMETOR" />
-  <meta property="og:description" content="Given the three altitudes h_A, h_B, h_C of triangle ABC with reciprocal semiperimeter H = (h_A^{-1} + h_B^{-1} + h_C^{-1})/2, Mitchell&#39;s reciprocal Heron formula states K^{-1} = 4 sqrt(H (H …" />
+  <meta property="og:description" content="The Sweet Theorem (h = ab/c), Reciprocal Altitude Area Formula, and Six Orthocenter Identities" />
   <meta property="og:url" content="https://geometor.github.io/fundamentals/topics/f-50/" />
   <meta property="og:image" content="https://geometor.github.io/fundamentals/_static/social/topics.png" />
   <meta property="og:image:type" content="image/png" />
@@ -24,14 +24,14 @@
   <meta property="og:image:alt" content="Geometric Fundamentals — GEOMETOR" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem — Fundamentals of Constructive Geometry • GEOMETOR" />
-  <meta name="twitter:description" content="Given the three altitudes h_A, h_B, h_C of triangle ABC with reciprocal semiperimeter H = (h_A^{-1} + h_B^{-1} + h_C^{-1})/2, Mitchell&#39;s reciprocal Heron formula states K^{-1} = 4 sqrt(H (H …" />
+  <meta name="twitter:description" content="The Sweet Theorem (h = ab/c), Reciprocal Altitude Area Formula, and Six Orthocenter Identities" />
   <meta name="twitter:image" content="https://geometor.github.io/fundamentals/_static/social/topics.png" />
   <meta name="twitter:image:alt" content="Geometric Fundamentals — GEOMETOR" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../../_static/css/styles.css?v=6f74f1da" />
+  <link rel="stylesheet" type="text/css" href="../../_static/css/styles.css?v=74ac3328" />
   <link rel="stylesheet" type="text/css" href="../../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="../../_static/css/print.css" type="text/css" media="print" />
   <link rel="icon" href="../../_static/favicon.ico" />
@@ -82,7 +82,7 @@
     <div class="motto"></div>
   </header>
   <main class="book-main">
-    <article class="book-layout book-reading-pane">
+    <article class="book-layout book-reading-pane" data-pagename="topics/f-50/index" data-outline-src="../outline-data.js" data-outline-url="../outline.html">
       <header class="book-header">
         <div class="book-header-bar">
           <nav class="book-breadcrumbs" aria-label="Breadcrumb">
@@ -96,11 +96,15 @@
             <a class="book-nav-btn" href="../f-49/folios.html" title="F.49 Vesica Piscis and Acute-Obtuse Probability — Folios">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
-            <nav class="book-tracks-nav" aria-label="Document Tracks">
-              <strong class="book-track-item is-active" aria-current="page">Overview</strong>
-              <span class="book-track-sep">&middot;</span>
-              <a class="book-track-item" href="code.html">Code</a>
-            </nav>
+            <div class="book-nav-center-row">
+              <nav class="book-tracks-nav" aria-label="Document Tracks">
+                <strong class="book-track-item is-active" aria-current="page">Overview</strong>
+                <span class="book-track-sep">&middot;</span>
+                <a class="book-track-item" href="code.html">Code</a>
+              </nav>
+              <span class="book-track-divider" aria-hidden="true">|</span>
+              <a class="book-outline-trigger" href="../outline.html" data-outline-toggle aria-expanded="false" aria-controls="book-outline-drawer" title="View full book outline">Outline</a>
+            </div>
           </div>
           <div class="book-nav-next">
             <a class="book-nav-btn" href="folios.html" title="F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem — Folios"><span class="nav-label">Next</span> &rarr;</a>
@@ -461,8 +465,8 @@
         </div>
         <section class="level-2" id="mathematical-synthesis">
         <h2>Mathematical Synthesis<a class="headerlink" href="#mathematical-synthesis" title="Link to this heading">¶</a></h2>
-        <p>Across four folios (<a class="citation-ref" id="occ-cite-seelignotebooks-1" href="../../bibliography.html#cite-seelignotebooks" data-cite="seelignotebooks" title="Citation: seelignotebooks">SeeligNotebooks</a>), Seelig synthesizes the metric laws of the three <a class="term-ref glossary-term" id="occ-term-altitude-1" href="../../glossary.html#term-altitude" data-term="altitude" title="Term: altitude">altitude</a> segments <span class="geom-ref" data-ref="h_a" title="h_a">ha</span>, <span class="geom-ref" data-ref="h_b" title="h_b">hb</span>, <span class="geom-ref" data-ref="h_c" title="h_c">hc</span>. Folio 1 (<em>Altitude of a Right Triangle (the sweet theorem)</em>) derives <span class="math notranslate nohighlight">\(h = ab/c\)</span> and the Inverse Pythagorean Theorem <span class="math notranslate nohighlight">\(h^{-2} = a^{-2} + b^{-2}\)</span>. Folios 2–3 record <span class="person-ref" data-person="mitchell" title="Person: mitchell">Mitchell</span>’s (2005) reciprocal <a class="term-ref glossary-term" id="occ-term-heron-s-formula-1" href="../../glossary.html#term-heron-s-formula" data-term="heron-s-formula" title="Term: heron-s-formula">Heron's formula</a> (<a class="citation-ref" id="occ-cite-mitchell2005-1" href="../../bibliography.html#cite-mitchell2005" data-cite="mitchell2005" title="Citation: mitchell2005">Mitchell2005</a>): defining <span class="math notranslate nohighlight">\(H = \frac{1}{2}(h_A^{-1}+h_B^{-1}+h_C^{-1})\)</span>, the reciprocal area is <span class="math notranslate nohighlight">\(K^{-1} = 4\sqrt{H(H-h_A^{-1})(H-h_B^{-1})(H-h_C^{-1})}\)</span>, which immediately recovers each side via <span class="math notranslate nohighlight">\(a = 2K/h_A\)</span>. Seelig also names the <em>Symphonic Theorem</em>: since <span class="math notranslate nohighlight">\(h_A = b, h_B = a, h_C = ab/c\)</span> in a right triangle, the three <a class="term-ref glossary-term" id="occ-term-orthocenter-1" href="../../glossary.html#term-orthocenter" data-term="orthocenter" title="orthocenter: The concurrency H = X(4) of the three altitudes of a triangle, with barycentric coordinates tan A : tan B : tan C = 1/S_A : 1/S_B : 1/S_C.">altitudes</a> satisfy <span class="math notranslate nohighlight">\(h_A^{-2} + h_B^{-2} = h_C^{-2}\)</span>.</p>
-        <p>Folio 4 compiles six classical <a class="term-ref glossary-term" id="occ-term-orthocenter-2" href="../../glossary.html#term-orthocenter" data-term="orthocenter" title="orthocenter: The concurrency H = X(4) of the three altitudes of a triangle, with barycentric coordinates tan A : tan B : tan C = 1/S_A : 1/S_B : 1/S_C.">orthocenter</a> identities in <a class="term-ref glossary-term" id="occ-term-conway-triangle-notation-1" href="../../glossary.html#term-conway-triangle-notation" data-term="conway-triangle-notation" title="Term: conway-triangle-notation">Conway triangle notation</a>, including the sum of upper altitude segments <span class="math notranslate nohighlight">\(t_A + t_B + t_C = |AH| + |BH| + |CH| = 2(r + R)\)</span> and the altitude-chord product <span class="math notranslate nohighlight">\(|AH|\cdot|HH_A| = |BH|\cdot|HH_B| = |CH|\cdot|HH_C|\)</span>.</p>
+        <p>Across four folios (<a class="citation-ref" id="occ-cite-seelignotebooks-1" href="../../bibliography.html#cite-seelignotebooks" data-cite="seelignotebooks" title="Bibliography: Primary sources, classical treatises, and modern triangle geometry monographs cited across the Fundamentals codex.">SeeligNotebooks</a>), Seelig synthesizes the metric laws of the three <a class="term-ref glossary-term" id="occ-term-altitude-1" href="../../glossary.html#term-altitude" data-term="altitude" title="Glossary: Canonical geometric definitions and concepts referenced across the 55 topics of the Fundamentals codex.">altitude</a> segments <span class="geom-ref" data-ref="h_a" title="h_a">ha</span>, <span class="geom-ref" data-ref="h_b" title="h_b">hb</span>, <span class="geom-ref" data-ref="h_c" title="h_c">hc</span>. Folio 1 (<em>Altitude of a Right Triangle (the sweet theorem)</em>) derives <span class="math notranslate nohighlight">\(h = ab/c\)</span> and the Inverse Pythagorean Theorem <span class="math notranslate nohighlight">\(h^{-2} = a^{-2} + b^{-2}\)</span>. Folios 2–3 record <span class="person-ref" data-person="mitchell" title="Person: mitchell">Mitchell</span>’s (2005) reciprocal <a class="term-ref glossary-term" id="occ-term-heron-s-formula-1" href="../../glossary.html#term-heron-s-formula" data-term="heron-s-formula" title="Glossary: Canonical geometric definitions and concepts referenced across the 55 topics of the Fundamentals codex.">Heron's formula</a> (<a class="citation-ref" id="occ-cite-mitchell2005-1" href="../../bibliography.html#cite-mitchell2005" data-cite="mitchell2005" title="Bibliography: Primary sources, classical treatises, and modern triangle geometry monographs cited across the Fundamentals codex.">Mitchell2005</a>): defining <span class="math notranslate nohighlight">\(H = \frac{1}{2}(h_A^{-1}+h_B^{-1}+h_C^{-1})\)</span>, the reciprocal area is <span class="math notranslate nohighlight">\(K^{-1} = 4\sqrt{H(H-h_A^{-1})(H-h_B^{-1})(H-h_C^{-1})}\)</span>, which immediately recovers each side via <span class="math notranslate nohighlight">\(a = 2K/h_A\)</span>. Seelig also names the <em>Symphonic Theorem</em>: since <span class="math notranslate nohighlight">\(h_A = b, h_B = a, h_C = ab/c\)</span> in a right triangle, the three <a class="term-ref glossary-term" id="occ-term-orthocenter-1" href="../../glossary.html#term-orthocenter" data-term="orthocenter" title="Glossary: Canonical geometric definitions and concepts referenced across the 55 topics of the Fundamentals codex.">altitudes</a> satisfy <span class="math notranslate nohighlight">\(h_A^{-2} + h_B^{-2} = h_C^{-2}\)</span>.</p>
+        <p>Folio 4 compiles six classical <a class="term-ref glossary-term" id="occ-term-orthocenter-2" href="../../glossary.html#term-orthocenter" data-term="orthocenter" title="Glossary: Canonical geometric definitions and concepts referenced across the 55 topics of the Fundamentals codex.">orthocenter</a> identities in <a class="term-ref glossary-term" id="occ-term-conway-triangle-notation-1" href="../../glossary.html#term-conway-triangle-notation" data-term="conway-triangle-notation" title="Glossary: Canonical geometric definitions and concepts referenced across the 55 topics of the Fundamentals codex.">Conway triangle notation</a>, including the sum of upper altitude segments <span class="math notranslate nohighlight">\(t_A + t_B + t_C = |AH| + |BH| + |CH| = 2(r + R)\)</span> and the altitude-chord product <span class="math notranslate nohighlight">\(|AH|\cdot|HH_A| = |BH|\cdot|HH_B| = |CH|\cdot|HH_C|\)</span>.</p>
         </section>
         <section class="level-2" id="key-algebraic-identities">
         <h2>Key Algebraic Identities<a class="headerlink" href="#key-algebraic-identities" title="Link to this heading">¶</a></h2>
@@ -483,13 +487,13 @@
         <td><p><a class="reference internal" href="folios.html"><span class="doc">F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem — Folios</span></a> (Folios <code class="docutils literal notranslate"><span class="pre">0318–0321</span></code>, 4 scanned manuscript pages in <code class="docutils literal notranslate"><span class="pre">resources/seelig/50_altitudes</span></code>)</p></td>
         </tr>
         <tr class="row-even"><td><p><strong>Euclid’s Elements</strong></p></td>
-        <td><p><a class="reference external" href="https://geometor.github.io/euclid/heath/volume_I/book_i/propositions/12/index.html#i-12" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">I.12</span></a>, <a class="reference external" href="https://geometor.github.io/euclid/heath/volume_I/book_i/propositions/47/index.html#i-47" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">I.47</span></a>, <a class="reference external" href="https://geometor.github.io/euclid/heath/volume_II/book_vi/propositions/08/index.html#vi-8" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">VI.8</span></a> (<a class="citation-ref" id="occ-cite-euclidelements-1" href="../../bibliography.html#cite-euclidelements" data-cite="euclidelements" title="Citation: euclidelements">EuclidElements</a>)</p></td>
+        <td><p><a class="reference external" href="https://geometor.github.io/euclid/heath/volume_I/book_i/propositions/12/index.html#i-12" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">I.12</span></a>, <a class="reference external" href="https://geometor.github.io/euclid/heath/volume_I/book_i/propositions/47/index.html#i-47" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">I.47</span></a>, <a class="reference external" href="https://geometor.github.io/euclid/heath/volume_II/book_vi/propositions/08/index.html#vi-8" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">VI.8</span></a> (<a class="citation-ref" id="occ-cite-euclidelements-1" href="../../bibliography.html#cite-euclidelements" data-cite="euclidelements" title="Bibliography: Primary sources, classical treatises, and modern triangle geometry monographs cited across the Fundamentals codex.">EuclidElements</a>)</p></td>
         </tr>
         <tr class="row-odd"><td><p><strong>GEOMETOR Elements (G-Index)</strong></p></td>
         <td><p><a class="reference external" href="https://geometor.github.io/elements/elements2/G.4/index.html#g-4" title="(in Constructive Elements v0.4.3)"><span>G.4 segment</span></a>, <a class="reference external" href="https://geometor.github.io/elements/elements2/G.11/index.html#g-11" title="(in Constructive Elements v0.4.3)"><span>G.11 center of a circle</span></a></p></td>
         </tr>
         <tr class="row-even"><td><p><strong>Encyclopedia of Triangle Centers</strong></p></td>
-        <td><p><a class="reference internal" href="../../glossary.html#x-1"><span class="std std-ref">X(1) — Incenter</span></a>, <a class="reference internal" href="../../glossary.html#x-3"><span class="std std-ref">X(3) — Circumcenter</span></a>, <a class="reference internal" href="../../glossary.html#x-4"><span class="std std-ref">X(4) — Orthocenter</span></a> (<a class="citation-ref" id="occ-cite-kimberling1998-1" href="../../bibliography.html#cite-kimberling1998" data-cite="kimberling1998" title="Citation: kimberling1998">Kimberling1998</a>)</p></td>
+        <td><p><a class="reference internal" href="../../glossary.html#x-1"><span class="std std-ref">X(1) — Incenter</span></a>, <a class="reference internal" href="../../glossary.html#x-3"><span class="std std-ref">X(3) — Circumcenter</span></a>, <a class="reference internal" href="../../glossary.html#x-4"><span class="std std-ref">X(4) — Orthocenter</span></a> (<a class="citation-ref" id="occ-cite-kimberling1998-1" href="../../bibliography.html#cite-kimberling1998" data-cite="kimberling1998" title="Bibliography: Primary sources, classical treatises, and modern triangle geometry monographs cited across the Fundamentals codex.">Kimberling1998</a>)</p></td>
         </tr>
         <tr class="row-odd"><td><p><strong>Seelig Spreadsheets</strong></p></td>
         <td><p><code class="docutils literal notranslate"><span class="pre">Altitudes</span></code>, <code class="docutils literal notranslate"><span class="pre">Orthocenter</span></code>, <code class="docutils literal notranslate"><span class="pre">Right</span> <span class="pre">Triangle</span></code> (<a class="reference internal" href="../../spreadsheets/index.html#spreadsheets"><span class="std std-ref">Spreadsheets</span></a>)</p></td>
@@ -499,7 +503,7 @@
         </section>
         <section class="level-2" id="computational-workbook-verification">
         <h2>Computational Workbook Verification<a class="headerlink" href="#computational-workbook-verification" title="Link to this heading">¶</a></h2>
-        <p>The following worksheets from <a class="person-ref" id="occ-person-seelig-1" href="../../people/seelig.html#person-seelig" data-person="seelig" title="Fred W. Seelig (20th–21st c.)">seelig</a>’s <code class="docutils literal notranslate"><span class="pre">Triangles</span> <span class="pre">and</span> <span class="pre">Circles.ods</span></code>
+        <p>The following worksheets from <a class="person-ref" id="occ-person-seelig-1" href="../../people/seelig.html" data-person="seelig" title="Seelig: Independent geometric researcher and compiler of the 55 notebooks and computational spreadsheets forming the GEOMETOR Fundamentals…">seelig</a>’s <code class="docutils literal notranslate"><span class="pre">Triangles</span> <span class="pre">and</span> <span class="pre">Circles.ods</span></code>
         workbook verify the numerical and symbolic formulas for this topic on
         the canonical <span class="math notranslate nohighlight">\((a, b, c) = (5, 6, 7)\)</span> triangle:</p>
         <div class="admonition-worksheet-orthocenter-triangles-and-circles-ods admonition">
@@ -656,13 +660,38 @@
             <a class="book-nav-btn" href="../f-49/folios.html" title="F.49 Vesica Piscis and Acute-Obtuse Probability — Folios">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
-            <a class="book-toc-link" href="../index.html">Topics</a>
+            <div class="book-nav-center-row">
+              <a class="book-toc-link" href="../index.html">Topics</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-toc-link book-outline-footer-link" href="../outline.html" data-outline-toggle>Outline</a>
+            </div>
           </div>
           <div class="book-nav-next">
             <a class="book-nav-btn" href="folios.html" title="F.50 Altitudes, Mitchell’s Reciprocal Heron Formula, and the Symphonic Theorem — Folios"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </footer>
+      <div class="book-outline-backdrop" data-outline-close hidden></div>
+      <aside id="book-outline-drawer" class="book-outline-drawer" aria-label="Full Book Outline" hidden>
+        <div class="book-outline-drawer-header">
+          <div class="book-outline-drawer-heading">
+            <span class="book-outline-drawer-kicker">Book Outline</span>
+            <strong class="book-outline-drawer-title">Topics</strong>
+          </div>
+          <div class="book-outline-drawer-actions">
+            <a class="book-outline-fullpage-link" href="../outline.html" title="Open full-page outline">Full Page &nearr;</a>
+            <button type="button" class="book-outline-close-btn" data-outline-close aria-label="Close outline">&times;</button>
+          </div>
+        </div>
+        <div class="book-outline-controls">
+          <input type="search" class="book-outline-search" placeholder="Filter sections, chapters, propositions..." aria-label="Filter book outline" />
+          <div class="book-outline-btn-group">
+            <button type="button" class="book-outline-ctrl-btn" data-outline-expand>Expand all</button>
+            <button type="button" class="book-outline-ctrl-btn" data-outline-collapse>Collapse all</button>
+          </div>
+        </div>
+        <nav class="book-outline-drawer-body" aria-label="Complete Book Hierarchy"></nav>
+      </aside>
     </article>
   </main>
   <div class="asides">
@@ -898,9 +927,10 @@
   <script src="../../_static/documentation_options.js?v=59fadc99"></script>
   <script src="../../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../../_static/sphinx_highlight.js?v=6ffebe34"></script>
-  <script src="../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../_static/js/collection_controls.js?v=35d67a15"></script>
   <script src="../../_static/js/collection_directory.js?v=0928c9d3"></script>
   <script src="../../_static/js/geometor_interactive.js?v=219c1955"></script>
+  <script src="../../_static/js/book_outline.js?v=aca1ae7c"></script>
   <script>window.MathJax = {"options": {"ignoreHtmlClass": ".*|etc-lazy-math", "processHtmlClass": "math|arithmatex", "enableComplexity": true, "makeCollapsible": true, "menuOptions": {"settings": {"zoom": "Click", "zscale": "200%", "collapsible": true, "enrich": true, "speech": false, "braille": false, "assistiveMml": false}}}, "output": {"displayOverflow": "linebreak", "linebreaks": {"inline": true}}}</script>
   <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
   <script src="../../_static/js/search_highlight.js"></script>

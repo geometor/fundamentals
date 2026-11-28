@@ -11,11 +11,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <link rel="canonical" href="https://geometor.github.io/fundamentals/topics/f-41/" />
-  <meta name="description" content="Among all triangles with longest side c = |AB| = 1, the acute locus inside the vesica piscis above the semicircle on AB has area A = int_0^{sqrt(3)} (sqrt(4 - x^2) - 1) dx - pi/4 = (5 pi - 6…" />
+  <meta name="description" content="Maximizing Euler Distance d_IO for Acute Triangles, Monte Carlo Vesica Integration, and 25-Problem Compendium" />
   <meta property="og:site_name" content="GEOMETOR" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="F.41 Geometric Problems and Extremal Loci — Fundamentals of Constructive Geometry • GEOMETOR" />
-  <meta property="og:description" content="Among all triangles with longest side c = |AB| = 1, the acute locus inside the vesica piscis above the semicircle on AB has area A = int_0^{sqrt(3)} (sqrt(4 - x^2) - 1) dx - pi/4 = (5 pi - 6…" />
+  <meta property="og:description" content="Maximizing Euler Distance d_IO for Acute Triangles, Monte Carlo Vesica Integration, and 25-Problem Compendium" />
   <meta property="og:url" content="https://geometor.github.io/fundamentals/topics/f-41/" />
   <meta property="og:image" content="https://geometor.github.io/fundamentals/_static/social/topics.png" />
   <meta property="og:image:type" content="image/png" />
@@ -24,14 +24,14 @@
   <meta property="og:image:alt" content="Geometric Fundamentals — GEOMETOR" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="F.41 Geometric Problems and Extremal Loci — Fundamentals of Constructive Geometry • GEOMETOR" />
-  <meta name="twitter:description" content="Among all triangles with longest side c = |AB| = 1, the acute locus inside the vesica piscis above the semicircle on AB has area A = int_0^{sqrt(3)} (sqrt(4 - x^2) - 1) dx - pi/4 = (5 pi - 6…" />
+  <meta name="twitter:description" content="Maximizing Euler Distance d_IO for Acute Triangles, Monte Carlo Vesica Integration, and 25-Problem Compendium" />
   <meta name="twitter:image" content="https://geometor.github.io/fundamentals/_static/social/topics.png" />
   <meta name="twitter:image:alt" content="Geometric Fundamentals — GEOMETOR" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../../_static/css/styles.css?v=6f74f1da" />
+  <link rel="stylesheet" type="text/css" href="../../_static/css/styles.css?v=74ac3328" />
   <link rel="stylesheet" type="text/css" href="../../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="../../_static/css/print.css" type="text/css" media="print" />
   <link rel="icon" href="../../_static/favicon.ico" />
@@ -82,7 +82,7 @@
     <div class="motto"></div>
   </header>
   <main class="book-main">
-    <article class="book-layout book-reading-pane">
+    <article class="book-layout book-reading-pane" data-pagename="topics/f-41/index" data-outline-src="../outline-data.js" data-outline-url="../outline.html">
       <header class="book-header">
         <div class="book-header-bar">
           <nav class="book-breadcrumbs" aria-label="Breadcrumb">
@@ -96,11 +96,15 @@
             <a class="book-nav-btn" href="../f-40/folios.html" title="F.40 Regular Polygons and Nested Radicals — Folios">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
-            <nav class="book-tracks-nav" aria-label="Document Tracks">
-              <strong class="book-track-item is-active" aria-current="page">Overview</strong>
-              <span class="book-track-sep">&middot;</span>
-              <a class="book-track-item" href="code.html">Code</a>
-            </nav>
+            <div class="book-nav-center-row">
+              <nav class="book-tracks-nav" aria-label="Document Tracks">
+                <strong class="book-track-item is-active" aria-current="page">Overview</strong>
+                <span class="book-track-sep">&middot;</span>
+                <a class="book-track-item" href="code.html">Code</a>
+              </nav>
+              <span class="book-track-divider" aria-hidden="true">|</span>
+              <a class="book-outline-trigger" href="../outline.html" data-outline-toggle aria-expanded="false" aria-controls="book-outline-drawer" title="View full book outline">Outline</a>
+            </div>
           </div>
           <div class="book-nav-next">
             <a class="book-nav-btn" href="folios.html" title="F.41 Geometric Problems and Extremal Loci — Folios"><span class="nav-label">Next</span> &rarr;</a>
@@ -454,8 +458,8 @@
         </div>
         <section class="level-2" id="mathematical-synthesis">
         <h2>Mathematical Synthesis<a class="headerlink" href="#mathematical-synthesis" title="Link to this heading">¶</a></h2>
-        <p>This 10-folio collection (<a class="citation-ref" id="occ-cite-seelignotebooks-1" href="../../bibliography.html#cite-seelignotebooks" data-cite="seelignotebooks" title="Citation: seelignotebooks">SeeligNotebooks</a>) combines two analytic geometry sheets (Folios 1–2), a dated calculus and Monte Carlo investigation <em>Find an acute triangle that maximizes</em> <span class="math notranslate nohighlight">\(d_{IO}\)</span> (<cite>FWS 2015/04/24</cite>, Folios 3–4), and a 25-problem compendium (<em>Problem Set</em>, Folios 5–10) that served as the blueprint for Seelig’s notebook archive.</p>
-        <p>In his April 24, 2015 study, Seelig fixes base <span class="math notranslate nohighlight">\(c = 2\)</span> and constrains vertex <span class="geom-ref" data-ref="C" title="C">C</span> to the region where <span class="math notranslate nohighlight">\(c\)</span> is the longest side (inside the <a class="term-ref glossary-term" id="occ-term-vesica-piscis-1" href="../../glossary.html#term-vesica-piscis" data-term="vesica-piscis" title="Term: vesica-piscis">vesica piscis</a> of radii 2 centered at <span class="geom-ref" data-ref="A" title="A">A</span> and <span class="geom-ref" data-ref="B" title="B">B</span>) while <span class="math notranslate nohighlight">\(\triangle ABC\)</span> remains acute (outside the semicircle <span class="geom-ref" data-ref="c_semi" title="c_semi">csemi</span> of radius 1 and between the vertical lines at <span class="geom-ref" data-ref="A" title="A">A</span> and <span class="geom-ref" data-ref="B" title="B">B</span>). Integrating <span class="math notranslate nohighlight">\(A = \int_0^{\sqrt{3}}(\sqrt{4-x^2}-1)\,dx - \frac{\pi}{4} = \frac{5\pi - 6\sqrt{3}}{12} \approx 0.44297\)</span>, he explains why his spreadsheet Monte Carlo sampler on <span class="math notranslate nohighlight">\([0,\sqrt{3}]\times[0,1]\)</span> has an acceptance rate of <span class="math notranslate nohighlight">\(0.44297/\sqrt{3} \approx 25.6\%\)</span>, and finds that <span class="math notranslate nohighlight">\(d_{IO}\)</span> increases monotonically toward the right-triangle boundary <span class="math notranslate nohighlight">\(C \to (0, 1)\)</span>.</p>
+        <p>This 10-folio collection (<a class="citation-ref" id="occ-cite-seelignotebooks-1" href="../../bibliography.html#cite-seelignotebooks" data-cite="seelignotebooks" title="Bibliography: Primary sources, classical treatises, and modern triangle geometry monographs cited across the Fundamentals codex.">SeeligNotebooks</a>) combines two analytic geometry sheets (Folios 1–2), a dated calculus and Monte Carlo investigation <em>Find an acute triangle that maximizes</em> <span class="math notranslate nohighlight">\(d_{IO}\)</span> (<cite>FWS 2015/04/24</cite>, Folios 3–4), and a 25-problem compendium (<em>Problem Set</em>, Folios 5–10) that served as the blueprint for Seelig’s notebook archive.</p>
+        <p>In his April 24, 2015 study, Seelig fixes base <span class="math notranslate nohighlight">\(c = 2\)</span> and constrains vertex <span class="geom-ref" data-ref="C" title="C">C</span> to the region where <span class="math notranslate nohighlight">\(c\)</span> is the longest side (inside the <a class="term-ref glossary-term" id="occ-term-vesica-piscis-1" href="../../glossary.html#term-vesica-piscis" data-term="vesica-piscis" title="Glossary: Canonical geometric definitions and concepts referenced across the 55 topics of the Fundamentals codex.">vesica piscis</a> of radii 2 centered at <span class="geom-ref" data-ref="A" title="A">A</span> and <span class="geom-ref" data-ref="B" title="B">B</span>) while <span class="math notranslate nohighlight">\(\triangle ABC\)</span> remains acute (outside the semicircle <span class="geom-ref" data-ref="c_semi" title="c_semi">csemi</span> of radius 1 and between the vertical lines at <span class="geom-ref" data-ref="A" title="A">A</span> and <span class="geom-ref" data-ref="B" title="B">B</span>). Integrating <span class="math notranslate nohighlight">\(A = \int_0^{\sqrt{3}}(\sqrt{4-x^2}-1)\,dx - \frac{\pi}{4} = \frac{5\pi - 6\sqrt{3}}{12} \approx 0.44297\)</span>, he explains why his spreadsheet Monte Carlo sampler on <span class="math notranslate nohighlight">\([0,\sqrt{3}]\times[0,1]\)</span> has an acceptance rate of <span class="math notranslate nohighlight">\(0.44297/\sqrt{3} \approx 25.6\%\)</span>, and finds that <span class="math notranslate nohighlight">\(d_{IO}\)</span> increases monotonically toward the right-triangle boundary <span class="math notranslate nohighlight">\(C \to (0, 1)\)</span>.</p>
         </section>
         <section class="level-2" id="key-algebraic-identities">
         <h2>Key Algebraic Identities<a class="headerlink" href="#key-algebraic-identities" title="Link to this heading">¶</a></h2>
@@ -476,13 +480,13 @@
         <td><p><a class="reference internal" href="folios.html"><span class="doc">F.41 Geometric Problems and Extremal Loci — Folios</span></a> (Folios <code class="docutils literal notranslate"><span class="pre">0257–0266</span></code>, 10 scanned manuscript pages in <code class="docutils literal notranslate"><span class="pre">resources/seelig/41_problems</span></code>)</p></td>
         </tr>
         <tr class="row-even"><td><p><strong>Euclid’s Elements</strong></p></td>
-        <td><p><a class="reference external" href="https://geometor.github.io/euclid/heath/volume_I/book_i/propositions/01/index.html#i-1" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">I.1</span></a>, <a class="reference external" href="https://geometor.github.io/euclid/heath/volume_II/book_iii/propositions/31/index.html#iii-31" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">III.31</span></a> (<a class="citation-ref" id="occ-cite-euclidelements-1" href="../../bibliography.html#cite-euclidelements" data-cite="euclidelements" title="Citation: euclidelements">EuclidElements</a>)</p></td>
+        <td><p><a class="reference external" href="https://geometor.github.io/euclid/heath/volume_I/book_i/propositions/01/index.html#i-1" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">I.1</span></a>, <a class="reference external" href="https://geometor.github.io/euclid/heath/volume_II/book_iii/propositions/31/index.html#iii-31" title="(in GEOMETOR • euclid v0.4.4)"><span class="xref std std-ref">III.31</span></a> (<a class="citation-ref" id="occ-cite-euclidelements-1" href="../../bibliography.html#cite-euclidelements" data-cite="euclidelements" title="Bibliography: Primary sources, classical treatises, and modern triangle geometry monographs cited across the Fundamentals codex.">EuclidElements</a>)</p></td>
         </tr>
         <tr class="row-odd"><td><p><strong>GEOMETOR Elements (G-Index)</strong></p></td>
         <td><p><a class="reference external" href="https://geometor.github.io/elements/elements2/G.1/index.html#g-1" title="(in Constructive Elements v0.4.3)"><span>G.1 point</span></a>, <a class="reference external" href="https://geometor.github.io/elements/elements2/G.7/index.html#g-7" title="(in Constructive Elements v0.4.3)"><span>G.7 plane surface</span></a></p></td>
         </tr>
         <tr class="row-even"><td><p><strong>Encyclopedia of Triangle Centers</strong></p></td>
-        <td><p><a class="reference internal" href="../../glossary.html#x-1"><span class="std std-ref">X(1) — Incenter</span></a>, <a class="reference internal" href="../../glossary.html#x-3"><span class="std std-ref">X(3) — Circumcenter</span></a> (<a class="citation-ref" id="occ-cite-kimberling1998-1" href="../../bibliography.html#cite-kimberling1998" data-cite="kimberling1998" title="Citation: kimberling1998">Kimberling1998</a>)</p></td>
+        <td><p><a class="reference internal" href="../../glossary.html#x-1"><span class="std std-ref">X(1) — Incenter</span></a>, <a class="reference internal" href="../../glossary.html#x-3"><span class="std std-ref">X(3) — Circumcenter</span></a> (<a class="citation-ref" id="occ-cite-kimberling1998-1" href="../../bibliography.html#cite-kimberling1998" data-cite="kimberling1998" title="Bibliography: Primary sources, classical treatises, and modern triangle geometry monographs cited across the Fundamentals codex.">Kimberling1998</a>)</p></td>
         </tr>
         <tr class="row-odd"><td><p><strong>Seelig Spreadsheets</strong></p></td>
         <td><p><code class="docutils literal notranslate"><span class="pre">Monte</span> <span class="pre">Carlo</span></code>, <code class="docutils literal notranslate"><span class="pre">General</span> <span class="pre">Reference</span></code> (<a class="reference internal" href="../../spreadsheets/index.html#spreadsheets"><span class="std std-ref">Spreadsheets</span></a>)</p></td>
@@ -537,13 +541,38 @@
             <a class="book-nav-btn" href="../f-40/folios.html" title="F.40 Regular Polygons and Nested Radicals — Folios">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
-            <a class="book-toc-link" href="../index.html">Topics</a>
+            <div class="book-nav-center-row">
+              <a class="book-toc-link" href="../index.html">Topics</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-toc-link book-outline-footer-link" href="../outline.html" data-outline-toggle>Outline</a>
+            </div>
           </div>
           <div class="book-nav-next">
             <a class="book-nav-btn" href="folios.html" title="F.41 Geometric Problems and Extremal Loci — Folios"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </footer>
+      <div class="book-outline-backdrop" data-outline-close hidden></div>
+      <aside id="book-outline-drawer" class="book-outline-drawer" aria-label="Full Book Outline" hidden>
+        <div class="book-outline-drawer-header">
+          <div class="book-outline-drawer-heading">
+            <span class="book-outline-drawer-kicker">Book Outline</span>
+            <strong class="book-outline-drawer-title">Topics</strong>
+          </div>
+          <div class="book-outline-drawer-actions">
+            <a class="book-outline-fullpage-link" href="../outline.html" title="Open full-page outline">Full Page &nearr;</a>
+            <button type="button" class="book-outline-close-btn" data-outline-close aria-label="Close outline">&times;</button>
+          </div>
+        </div>
+        <div class="book-outline-controls">
+          <input type="search" class="book-outline-search" placeholder="Filter sections, chapters, propositions..." aria-label="Filter book outline" />
+          <div class="book-outline-btn-group">
+            <button type="button" class="book-outline-ctrl-btn" data-outline-expand>Expand all</button>
+            <button type="button" class="book-outline-ctrl-btn" data-outline-collapse>Collapse all</button>
+          </div>
+        </div>
+        <nav class="book-outline-drawer-body" aria-label="Complete Book Hierarchy"></nav>
+      </aside>
     </article>
   </main>
   <div class="asides">
@@ -779,9 +808,10 @@
   <script src="../../_static/documentation_options.js?v=59fadc99"></script>
   <script src="../../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../../_static/sphinx_highlight.js?v=6ffebe34"></script>
-  <script src="../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../_static/js/collection_controls.js?v=35d67a15"></script>
   <script src="../../_static/js/collection_directory.js?v=0928c9d3"></script>
   <script src="../../_static/js/geometor_interactive.js?v=219c1955"></script>
+  <script src="../../_static/js/book_outline.js?v=aca1ae7c"></script>
   <script>window.MathJax = {"options": {"ignoreHtmlClass": ".*|etc-lazy-math", "processHtmlClass": "math|arithmatex", "enableComplexity": true, "makeCollapsible": true, "menuOptions": {"settings": {"zoom": "Click", "zscale": "200%", "collapsible": true, "enrich": true, "speech": false, "braille": false, "assistiveMml": false}}}, "output": {"displayOverflow": "linebreak", "linebreaks": {"inline": true}}}</script>
   <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
   <script src="../../_static/js/search_highlight.js"></script>
